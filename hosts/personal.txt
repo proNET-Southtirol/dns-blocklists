@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 19 Apr 2023 09:24 UTC
-# Version: 2023.0419.0924.17
+# Last modified: 19 Apr 2023 22:31 UTC
+# Version: 2023.0419.2231.48
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 113962
+# Number of entries: 113985
 #
 0.0.0.0 000space.com
 0.0.0.0 www.000space.com
@@ -8038,6 +8038,7 @@
 0.0.0.0 29dddc2119.7e1e8f3eba.com
 0.0.0.0 7fc0966988.com
 0.0.0.0 7ff83b4a34.com
+0.0.0.0 efaeb1c157.7ff83b4a34.com
 0.0.0.0 www.7ff83b4a34.com
 0.0.0.0 7host.com
 0.0.0.0 www.7host.com
@@ -8211,6 +8212,7 @@
 0.0.0.0 95xiu.com
 0.0.0.0 www.95xiu.com
 0.0.0.0 9738624519.com
+0.0.0.0 4437d54a58.9738624519.com
 0.0.0.0 www.9738624519.com
 0.0.0.0 97bike.com
 0.0.0.0 api.97bike.com
@@ -8696,6 +8698,8 @@
 0.0.0.0 www.absolutelytowns.com
 0.0.0.0 absoluteroute.com
 0.0.0.0 www.absoluteroute.com
+0.0.0.0 absolutionexpert.com
+0.0.0.0 www.absolutionexpert.com
 0.0.0.0 absorbingband.com
 0.0.0.0 absors.com
 0.0.0.0 www.absors.com
@@ -12795,7 +12799,6 @@
 0.0.0.0 app.adtrace.io
 0.0.0.0 www.adtrace.io
 0.0.0.0 zoover.adtrackers.net
-0.0.0.0 secure.adtraction.com
 0.0.0.0 adtrade.net
 0.0.0.0 api.adtrade.com
 0.0.0.0 www.adtrade.net
@@ -13625,6 +13628,8 @@
 0.0.0.0 affiz.net
 0.0.0.0 cpm1.affiz.net
 0.0.0.0 www.affiz.net
+0.0.0.0 affjumbo.com
+0.0.0.0 www.affjumbo.com
 0.0.0.0 afflat3a1.com
 0.0.0.0 www.afflat3a1.com
 0.0.0.0 static.affluent.io
@@ -22346,6 +22351,8 @@
 0.0.0.0 bigwww.com
 0.0.0.0 www.bigwww.com
 0.0.0.0 bijitsoa.com
+0.0.0.0 bikanertahlka.com
+0.0.0.0 www.bikanertahlka.com
 0.0.0.0 metrics.bikbok.com
 0.0.0.0 bikehotsale.com
 0.0.0.0 www.bikehotsale.com
@@ -22505,8 +22512,6 @@
 0.0.0.0 dii1.bitiba.de
 0.0.0.0 dii2.bitiba.de
 0.0.0.0 dii2.bitiba.fr
-0.0.0.0 bitli.pro
-0.0.0.0 www.bitli.pro
 0.0.0.0 bitlishpro.com
 0.0.0.0 www.bitlishpro.com
 0.0.0.0 bitmakerz.biz
@@ -24403,6 +24408,8 @@
 0.0.0.0 www.budvawshes.ru
 0.0.0.0 buenosearch.com
 0.0.0.0 www.buenosearch.com
+0.0.0.0 bueromoebelservice.com
+0.0.0.0 www.bueromoebelservice.com
 0.0.0.0 smetrics.buffalotracedistillery.com
 0.0.0.0 api.bugfender.com
 0.0.0.0 app.bugfender.com
@@ -24457,6 +24464,8 @@
 0.0.0.0 www.bulgae.com
 0.0.0.0 bulky-battle.com
 0.0.0.0 www.bulky-battle.com
+0.0.0.0 bulkyfriend.com
+0.0.0.0 www.bulkyfriend.com
 0.0.0.0 bulldogcpi.com
 0.0.0.0 ads.bulldogcpi.com
 0.0.0.0 www.bulldogcpi.com
@@ -24641,6 +24650,8 @@
 0.0.0.0 bwqdhue.com
 0.0.0.0 www.bwqdhue.com
 0.0.0.0 bws0wvqt3k.ru
+0.0.0.0 bx-cloud.com
+0.0.0.0 www.bx-cloud.com
 0.0.0.0 bxacmsvmxb.com
 0.0.0.0 bxsnews.com
 0.0.0.0 creative.bxsnews.com
@@ -24830,6 +24841,8 @@
 0.0.0.0 js.cabnnr.com
 0.0.0.0 cabotinbesnare.com
 0.0.0.0 wo.cabotinbesnare.com
+0.0.0.0 cabotsmuskit.com
+0.0.0.0 www.cabotsmuskit.com
 0.0.0.0 cabura.loan
 0.0.0.0 www.cabura.loan
 0.0.0.0 cacafly.net
@@ -33102,6 +33115,8 @@
 0.0.0.0 www.cnbnews.com
 0.0.0.0 stat.cncenter.cz
 0.0.0.0 tracker.cncenter.cz
+0.0.0.0 cnchax.com
+0.0.0.0 www.cnchax.com
 0.0.0.0 analytics.cnd-motionmedia.de
 0.0.0.0 cndfdcu.net
 0.0.0.0 www.cndfdcu.net
@@ -34038,7 +34053,6 @@
 0.0.0.0 v1.telemetry.coder.com
 0.0.0.0 coderformylife.info
 0.0.0.0 www.coderformylife.info
-0.0.0.0 uploads.codesandbox.io
 0.0.0.0 codesbro.com
 0.0.0.0 analytics.codesigned.com
 0.0.0.0 analytics.codeskulptor.org
@@ -34558,6 +34572,7 @@
 0.0.0.0 leonardoconcon.com.br
 0.0.0.0 info.lexisnexis.com.my
 0.0.0.0 zqwofo.liverpool.com.mx
+0.0.0.0 lojamagazines.com.br
 0.0.0.0 smetrics.los40.com.co
 0.0.0.0 smetrics.los40.com.mx
 0.0.0.0 pv.ltn.com.tw
@@ -35167,7 +35182,6 @@
 0.0.0.0 connatedresspint.com
 0.0.0.0 www.connatedresspint.com
 0.0.0.0 assets.connatix.com
-0.0.0.0 cdn.connatix.com
 0.0.0.0 ck.connatix.com
 0.0.0.0 cks.connatix.com
 0.0.0.0 ins.connatix.com
@@ -52281,6 +52295,8 @@
 0.0.0.0 fbkzqnyyga.com
 0.0.0.0 fbmedia-ckl.com
 0.0.0.0 www.fbmedia-ckl.com
+0.0.0.0 fbmedia-dhs.com
+0.0.0.0 www.fbmedia-dhs.com
 0.0.0.0 fbteyne.net
 0.0.0.0 www.fbteyne.net
 0.0.0.0 fbthirdpartypixel.com
@@ -57339,6 +57355,7 @@
 0.0.0.0 gouzaich.com
 0.0.0.0 www.gouzaich.com
 0.0.0.0 analytics.gov.in
+0.0.0.0 cbc.gov.bd
 0.0.0.0 analytics.cgg.gov.in
 0.0.0.0 counsellor.gov.cn
 0.0.0.0 covid19.gov.gd
@@ -59778,7 +59795,6 @@
 0.0.0.0 www.hostcontent.live
 0.0.0.0 tracking.hostdirectory.in
 0.0.0.0 partners.hostgator.com
-0.0.0.0 ama.hostiko.link
 0.0.0.0 hostileconductive.com
 0.0.0.0 www.hostileconductive.com
 0.0.0.0 hostingcloud.racing
@@ -62260,6 +62276,7 @@
 0.0.0.0 indianpornvideos.com
 0.0.0.0 www.indianpornvideos.com
 0.0.0.0 adscontent2.indiatimes.com
+0.0.0.0 brandequity.economictimes.indiatimes.com
 0.0.0.0 etx.indiatimes.com
 0.0.0.0 ibeat.indiatimes.com
 0.0.0.0 mobileads.indiatimes.com
@@ -63806,6 +63823,7 @@
 0.0.0.0 www.ipfingerprint.com
 0.0.0.0 ipfrom.com
 0.0.0.0 www.ipfrom.com
+0.0.0.0 gateway.ipfs.io
 0.0.0.0 ipgold.ru
 0.0.0.0 www.ipgold.ru
 0.0.0.0 iphisslurbow.com
@@ -70774,6 +70792,8 @@
 0.0.0.0 memunjcvfv.xyz
 0.0.0.0 www.memunjcvfv.xyz
 0.0.0.0 men-finder.life
+0.0.0.0 menan-lhn.com
+0.0.0.0 www.menan-lhn.com
 0.0.0.0 menelaus-col.com
 0.0.0.0 www.menelaus-col.com
 0.0.0.0 mengzhan24.com
@@ -72739,6 +72759,8 @@
 0.0.0.0 mlmfsxrhbsnjccd.xyz
 0.0.0.0 www.mlmfsxrhbsnjccd.xyz
 0.0.0.0 tracking.mlsat02.de
+0.0.0.0 mlvgxzenoiz.com
+0.0.0.0 www.mlvgxzenoiz.com
 0.0.0.0 mlvirtual.org
 0.0.0.0 www.mlvirtual.org
 0.0.0.0 beacon.mlytics.com
@@ -73831,13 +73853,9 @@
 0.0.0.0 www.mos.com
 0.0.0.0 mosaefr.cc
 0.0.0.0 www.mosaefr.cc
-0.0.0.0 moshimo.com
 0.0.0.0 af.moshimo.com
 0.0.0.0 i.moshimo.com
 0.0.0.0 image.moshimo.com
-0.0.0.0 r.moshimo.com
-0.0.0.0 secure.moshimo.com
-0.0.0.0 www.moshimo.com
 0.0.0.0 most-dnepr.info
 0.0.0.0 www.most-dnepr.info
 0.0.0.0 mother-sku.jp
@@ -74199,7 +74217,6 @@
 0.0.0.0 alumnialliances.msnd20.com
 0.0.0.0 msnjizy.com
 0.0.0.0 www.msnjizy.com
-0.0.0.0 controlpanel.msoutlookonline.net
 0.0.0.0 blog.msslafteburner.link
 0.0.0.0 shop.msslafteburner.link
 0.0.0.0 msstorageazure.com
@@ -74830,6 +74847,8 @@
 0.0.0.0 apilog.mytvnet.vn
 0.0.0.0 apilogduration.mytvnet.vn
 0.0.0.0 tracking.myunidays.com
+0.0.0.0 myurls.bio
+0.0.0.0 www.myurls.bio
 0.0.0.0 smetrics.myvi.in
 0.0.0.0 myvisitors.se
 0.0.0.0 t.myvisitors.se
@@ -76661,7 +76680,9 @@
 0.0.0.0 nortue.com
 0.0.0.0 www.nortue.com
 0.0.0.0 metrics.norvir.com
+0.0.0.0 norymo.com
 0.0.0.0 cdn.norymo.com
+0.0.0.0 www.norymo.com
 0.0.0.0 cookies.nos.nl
 0.0.0.0 nosaul.com
 0.0.0.0 www.nosaul.com
@@ -78042,6 +78063,8 @@
 0.0.0.0 www.onlinehome.us
 0.0.0.0 onlinekohler.com
 0.0.0.0 www.onlinekohler.com
+0.0.0.0 onlinemediahits.com
+0.0.0.0 www.onlinemediahits.com
 0.0.0.0 onlinepharmacywithoutaprescription.ru
 0.0.0.0 www.onlinepharmacywithoutaprescription.ru
 0.0.0.0 onlineplus.click
@@ -79313,6 +79336,8 @@
 0.0.0.0 oriori.com
 0.0.0.0 www.oriori.com
 0.0.0.0 orkoedthroug.xyz
+0.0.0.0 ormobi.xyz
+0.0.0.0 www.ormobi.xyz
 0.0.0.0 oronwg.xyz
 0.0.0.0 www.oronwg.xyz
 0.0.0.0 nmo1.orpi.com
@@ -80275,6 +80300,8 @@
 0.0.0.0 hrkonnect.patanjaliayurved.org
 0.0.0.0 soreports.patanjaliayurved.org
 0.0.0.0 www.patanjaliayurved.org
+0.0.0.0 patariatoolman.com
+0.0.0.0 www.patariatoolman.com
 0.0.0.0 wzyjup.patch.com
 0.0.0.0 patchlinks.com
 0.0.0.0 www.patchlinks.com
@@ -82534,6 +82561,7 @@
 0.0.0.0 porncrash.com
 0.0.0.0 www.porncrash.com
 0.0.0.0 plx.porndig.com
+0.0.0.0 plx.pornes.xxx
 0.0.0.0 hubt.pornhub.com
 0.0.0.0 pornjustx.com
 0.0.0.0 est.pornleech.ch
@@ -98289,8 +98317,6 @@
 0.0.0.0 www.spaceleadster.com
 0.0.0.0 spacermedia.com
 0.0.0.0 www.spacermedia.com
-0.0.0.0 spacexprize.com
-0.0.0.0 www.spacexprize.com
 0.0.0.0 spama.com
 0.0.0.0 www.spama.com
 0.0.0.0 spamanalyst.com
@@ -99480,7 +99506,6 @@
 0.0.0.0 analytics.stuffyoucanuse.org
 0.0.0.0 api.analytics.stuffyoucanuse.org
 0.0.0.0 stugsoda.com
-0.0.0.0 stuiop.com
 0.0.0.0 stunninglover.com
 0.0.0.0 www.stunninglover.com
 0.0.0.0 stunsbarbola.website
@@ -99505,6 +99530,7 @@
 0.0.0.0 stage-id.swmhdata.stuttgarter-zeitung.de
 0.0.0.0 api.stage-id.swmhdata.stuttgarter-zeitung.de
 0.0.0.0 sumologic.stv.tv
+0.0.0.0 stvkr.com
 0.0.0.0 as.stylebook.de
 0.0.0.0 data-e723f0d7d1.stylebook.de
 0.0.0.0 stats-bq.stylight.net
@@ -102417,6 +102443,8 @@
 0.0.0.0 ssa.tlc.com
 0.0.0.0 tldrbox.top
 0.0.0.0 www.tldrbox.top
+0.0.0.0 tldrlegal.com
+0.0.0.0 www.tldrlegal.com
 0.0.0.0 tldrnet.top
 0.0.0.0 www.tldrnet.top
 0.0.0.0 counter.tldw.me
@@ -103071,6 +103099,8 @@
 0.0.0.0 rmnwax.track4ref.com
 0.0.0.0 ropnv.track4ref.com
 0.0.0.0 www.track4ref.com
+0.0.0.0 track718.us
+0.0.0.0 www.track718.us
 0.0.0.0 trackad.cz
 0.0.0.0 www.trackad.cz
 0.0.0.0 trackalyzer.com
@@ -103738,6 +103768,8 @@
 0.0.0.0 www.trellian.com
 0.0.0.0 smetrics.trellix.com
 0.0.0.0 erb.tremblant.ca
+0.0.0.0 tremendous-tour.pro
+0.0.0.0 www.tremendous-tour.pro
 0.0.0.0 tremendousplastic.com
 0.0.0.0 tremorhub.com
 0.0.0.0 adelphic-partners.tremorhub.com
@@ -105350,8 +105382,6 @@
 0.0.0.0 www.twinstanglebroken.com
 0.0.0.0 twistconcept.com
 0.0.0.0 www.twistconcept.com
-0.0.0.0 twiste.com
-0.0.0.0 www.twiste.com
 0.0.0.0 twistneedylever.com
 0.0.0.0 www.twistneedylever.com
 0.0.0.0 twitch-nude.com
@@ -107658,8 +107688,6 @@
 0.0.0.0 vceilinichego.ru
 0.0.0.0 www.vceilinichego.ru
 0.0.0.0 metric.vcentertainment.com
-0.0.0.0 vcfdg.com
-0.0.0.0 www.vcfdg.com
 0.0.0.0 core.vchat.vn
 0.0.0.0 smetrics.vcm.com
 0.0.0.0 vcmedia.vn
@@ -109033,8 +109061,6 @@
 0.0.0.0 swa.vodafone.pt
 0.0.0.0 vfd2dyn.vodafone.de
 0.0.0.0 was.vodafone.de
-0.0.0.0 vodafone-internet.it
-0.0.0.0 www.vodafone-internet.it
 0.0.0.0 data-84bc7eaa45.vodafonemail.de
 0.0.0.0 analytics.vodgc.net
 0.0.0.0 vodone.com
@@ -109996,6 +110022,7 @@
 0.0.0.0 ssl.widgets.webengage.com
 0.0.0.0 wsdk-files.webengage.com
 0.0.0.0 www.webengage.com
+0.0.0.0 webep1.com
 0.0.0.0 analytics.hal.weber.edu
 0.0.0.0 telemetry.qa.webex.com
 0.0.0.0 smetrics.webex.com
@@ -112371,6 +112398,7 @@
 0.0.0.0 bs-meta.yandex.ru
 0.0.0.0 bs-metadsp.yandex.ru
 0.0.0.0 extmaps-api.yandex.net
+0.0.0.0 forms.yandex.com
 0.0.0.0 grade.market.yandex.ru
 0.0.0.0 mc.yandex.com
 0.0.0.0 mc.yandex.ru
@@ -113966,4 +113994,3 @@
 0.0.0.0 trk94.zzzperform.com
 0.0.0.0 trk97.zzzperform.com
 0.0.0.0 metric.zzzquil.com
-0.0.0.0 onlinemediahits.com

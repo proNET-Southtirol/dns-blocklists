@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 19 Apr 2023 09:24 UTC
-# Version: 2023.0419.0924.17
+# Last modified: 19 Apr 2023 22:31 UTC
+# Version: 2023.0419.2231.48
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 113962
+# Number of entries: 113985
 #
 000space.com
 www.000space.com
@@ -8038,6 +8038,7 @@ www.7cnq.net
 29dddc2119.7e1e8f3eba.com
 7fc0966988.com
 7ff83b4a34.com
+efaeb1c157.7ff83b4a34.com
 www.7ff83b4a34.com
 7host.com
 www.7host.com
@@ -8211,6 +8212,7 @@ www.95ppq87g.de
 95xiu.com
 www.95xiu.com
 9738624519.com
+4437d54a58.9738624519.com
 www.9738624519.com
 97bike.com
 api.97bike.com
@@ -8696,6 +8698,8 @@ absolutelytowns.com
 www.absolutelytowns.com
 absoluteroute.com
 www.absoluteroute.com
+absolutionexpert.com
+www.absolutionexpert.com
 absorbingband.com
 absors.com
 www.absors.com
@@ -12795,7 +12799,6 @@ adtrace.io
 app.adtrace.io
 www.adtrace.io
 zoover.adtrackers.net
-secure.adtraction.com
 adtrade.net
 api.adtrade.com
 www.adtrade.net
@@ -13625,6 +13628,8 @@ www.affise.com
 affiz.net
 cpm1.affiz.net
 www.affiz.net
+affjumbo.com
+www.affjumbo.com
 afflat3a1.com
 www.afflat3a1.com
 static.affluent.io
@@ -22346,6 +22351,8 @@ www.bigspyglass.com
 bigwww.com
 www.bigwww.com
 bijitsoa.com
+bikanertahlka.com
+www.bikanertahlka.com
 metrics.bikbok.com
 bikehotsale.com
 www.bikehotsale.com
@@ -22505,8 +22512,6 @@ www.bitgeekex.co
 dii1.bitiba.de
 dii2.bitiba.de
 dii2.bitiba.fr
-bitli.pro
-www.bitli.pro
 bitlishpro.com
 www.bitlishpro.com
 bitmakerz.biz
@@ -24403,6 +24408,8 @@ budvawshes.ru
 www.budvawshes.ru
 buenosearch.com
 www.buenosearch.com
+bueromoebelservice.com
+www.bueromoebelservice.com
 smetrics.buffalotracedistillery.com
 api.bugfender.com
 app.bugfender.com
@@ -24457,6 +24464,8 @@ bulgae.com
 www.bulgae.com
 bulky-battle.com
 www.bulky-battle.com
+bulkyfriend.com
+www.bulkyfriend.com
 bulldogcpi.com
 ads.bulldogcpi.com
 www.bulldogcpi.com
@@ -24641,6 +24650,8 @@ www.bwinpartypartners.com
 bwqdhue.com
 www.bwqdhue.com
 bws0wvqt3k.ru
+bx-cloud.com
+www.bx-cloud.com
 bxacmsvmxb.com
 bxsnews.com
 creative.bxsnews.com
@@ -24830,6 +24841,8 @@ cabnnr.com
 js.cabnnr.com
 cabotinbesnare.com
 wo.cabotinbesnare.com
+cabotsmuskit.com
+www.cabotsmuskit.com
 cabura.loan
 www.cabura.loan
 cacafly.net
@@ -33102,6 +33115,8 @@ cnbnews.com
 www.cnbnews.com
 stat.cncenter.cz
 tracker.cncenter.cz
+cnchax.com
+www.cnchax.com
 analytics.cnd-motionmedia.de
 cndfdcu.net
 www.cndfdcu.net
@@ -34038,7 +34053,6 @@ telemetry.coder.com
 v1.telemetry.coder.com
 coderformylife.info
 www.coderformylife.info
-uploads.codesandbox.io
 codesbro.com
 analytics.codesigned.com
 analytics.codeskulptor.org
@@ -34558,6 +34572,7 @@ ldimnveryldgittl.com.ua
 leonardoconcon.com.br
 info.lexisnexis.com.my
 zqwofo.liverpool.com.mx
+lojamagazines.com.br
 smetrics.los40.com.co
 smetrics.los40.com.mx
 pv.ltn.com.tw
@@ -35167,7 +35182,6 @@ www.conjectureprecedingslippers.com
 connatedresspint.com
 www.connatedresspint.com
 assets.connatix.com
-cdn.connatix.com
 ck.connatix.com
 cks.connatix.com
 ins.connatix.com
@@ -52281,6 +52295,8 @@ akamai.analytics.fbgcdn.com
 fbkzqnyyga.com
 fbmedia-ckl.com
 www.fbmedia-ckl.com
+fbmedia-dhs.com
+www.fbmedia-dhs.com
 fbteyne.net
 www.fbteyne.net
 fbthirdpartypixel.com
@@ -57339,6 +57355,7 @@ www.goutee.top
 gouzaich.com
 www.gouzaich.com
 analytics.gov.in
+cbc.gov.bd
 analytics.cgg.gov.in
 counsellor.gov.cn
 covid19.gov.gd
@@ -59778,7 +59795,6 @@ s12.hostcontent.live
 www.hostcontent.live
 tracking.hostdirectory.in
 partners.hostgator.com
-ama.hostiko.link
 hostileconductive.com
 www.hostileconductive.com
 hostingcloud.racing
@@ -62260,6 +62276,7 @@ ua.indianexpress.com
 indianpornvideos.com
 www.indianpornvideos.com
 adscontent2.indiatimes.com
+brandequity.economictimes.indiatimes.com
 etx.indiatimes.com
 ibeat.indiatimes.com
 mobileads.indiatimes.com
@@ -63806,6 +63823,7 @@ dust.ipfingerprint.com
 www.ipfingerprint.com
 ipfrom.com
 www.ipfrom.com
+gateway.ipfs.io
 ipgold.ru
 www.ipgold.ru
 iphisslurbow.com
@@ -70774,6 +70792,8 @@ evs.analytics.memrise.com
 memunjcvfv.xyz
 www.memunjcvfv.xyz
 men-finder.life
+menan-lhn.com
+www.menan-lhn.com
 menelaus-col.com
 www.menelaus-col.com
 mengzhan24.com
@@ -72739,6 +72759,8 @@ analytics.agma-mmc.mllrsohnapps.com
 mlmfsxrhbsnjccd.xyz
 www.mlmfsxrhbsnjccd.xyz
 tracking.mlsat02.de
+mlvgxzenoiz.com
+www.mlvgxzenoiz.com
 mlvirtual.org
 www.mlvirtual.org
 beacon.mlytics.com
@@ -73831,13 +73853,9 @@ stats.mos.ru
 www.mos.com
 mosaefr.cc
 www.mosaefr.cc
-moshimo.com
 af.moshimo.com
 i.moshimo.com
 image.moshimo.com
-r.moshimo.com
-secure.moshimo.com
-www.moshimo.com
 most-dnepr.info
 www.most-dnepr.info
 mother-sku.jp
@@ -74199,7 +74217,6 @@ aamt.msnbc.com
 alumnialliances.msnd20.com
 msnjizy.com
 www.msnjizy.com
-controlpanel.msoutlookonline.net
 blog.msslafteburner.link
 shop.msslafteburner.link
 msstorageazure.com
@@ -74830,6 +74847,8 @@ web.mytoys.de
 apilog.mytvnet.vn
 apilogduration.mytvnet.vn
 tracking.myunidays.com
+myurls.bio
+www.myurls.bio
 smetrics.myvi.in
 myvisitors.se
 t.myvisitors.se
@@ -76661,7 +76680,9 @@ trustsealinfo.websecurity.norton.com
 nortue.com
 www.nortue.com
 metrics.norvir.com
+norymo.com
 cdn.norymo.com
+www.norymo.com
 cookies.nos.nl
 nosaul.com
 www.nosaul.com
@@ -78042,6 +78063,8 @@ onlinehome.us
 www.onlinehome.us
 onlinekohler.com
 www.onlinekohler.com
+onlinemediahits.com
+www.onlinemediahits.com
 onlinepharmacywithoutaprescription.ru
 www.onlinepharmacywithoutaprescription.ru
 onlineplus.click
@@ -79313,6 +79336,8 @@ metric.orionlabs.io
 oriori.com
 www.oriori.com
 orkoedthroug.xyz
+ormobi.xyz
+www.ormobi.xyz
 oronwg.xyz
 www.oronwg.xyz
 nmo1.orpi.com
@@ -80275,6 +80300,8 @@ patanjaliayurved.org
 hrkonnect.patanjaliayurved.org
 soreports.patanjaliayurved.org
 www.patanjaliayurved.org
+patariatoolman.com
+www.patariatoolman.com
 wzyjup.patch.com
 patchlinks.com
 www.patchlinks.com
@@ -82534,6 +82561,7 @@ www.pornboard.us
 porncrash.com
 www.porncrash.com
 plx.porndig.com
+plx.pornes.xxx
 hubt.pornhub.com
 pornjustx.com
 est.pornleech.ch
@@ -98289,8 +98317,6 @@ spaceleadster.com
 www.spaceleadster.com
 spacermedia.com
 www.spacermedia.com
-spacexprize.com
-www.spacexprize.com
 spama.com
 www.spama.com
 spamanalyst.com
@@ -99480,7 +99506,6 @@ s.stuffserve.com
 analytics.stuffyoucanuse.org
 api.analytics.stuffyoucanuse.org
 stugsoda.com
-stuiop.com
 stunninglover.com
 www.stunninglover.com
 stunsbarbola.website
@@ -99505,6 +99530,7 @@ swmhdata.stuttgarter-zeitung.de
 stage-id.swmhdata.stuttgarter-zeitung.de
 api.stage-id.swmhdata.stuttgarter-zeitung.de
 sumologic.stv.tv
+stvkr.com
 as.stylebook.de
 data-e723f0d7d1.stylebook.de
 stats-bq.stylight.net
@@ -102417,6 +102443,8 @@ www.tlabak.com
 ssa.tlc.com
 tldrbox.top
 www.tldrbox.top
+tldrlegal.com
+www.tldrlegal.com
 tldrnet.top
 www.tldrnet.top
 counter.tldw.me
@@ -103071,6 +103099,8 @@ ppnybk.track4ref.com
 rmnwax.track4ref.com
 ropnv.track4ref.com
 www.track4ref.com
+track718.us
+www.track718.us
 trackad.cz
 www.trackad.cz
 trackalyzer.com
@@ -103738,6 +103768,8 @@ rank.trellian.com
 www.trellian.com
 smetrics.trellix.com
 erb.tremblant.ca
+tremendous-tour.pro
+www.tremendous-tour.pro
 tremendousplastic.com
 tremorhub.com
 adelphic-partners.tremorhub.com
@@ -105350,8 +105382,6 @@ twinstanglebroken.com
 www.twinstanglebroken.com
 twistconcept.com
 www.twistconcept.com
-twiste.com
-www.twiste.com
 twistneedylever.com
 www.twistneedylever.com
 twitch-nude.com
@@ -107658,8 +107688,6 @@ www.vcdc.com
 vceilinichego.ru
 www.vceilinichego.ru
 metric.vcentertainment.com
-vcfdg.com
-www.vcfdg.com
 core.vchat.vn
 smetrics.vcm.com
 vcmedia.vn
@@ -109033,8 +109061,6 @@ smetrics.vodafone.ro
 swa.vodafone.pt
 vfd2dyn.vodafone.de
 was.vodafone.de
-vodafone-internet.it
-www.vodafone-internet.it
 data-84bc7eaa45.vodafonemail.de
 analytics.vodgc.net
 vodone.com
@@ -109996,6 +110022,7 @@ widgets.webengage.com
 ssl.widgets.webengage.com
 wsdk-files.webengage.com
 www.webengage.com
+webep1.com
 analytics.hal.weber.edu
 telemetry.qa.webex.com
 smetrics.webex.com
@@ -112371,6 +112398,7 @@ bs.yandex.ru
 bs-meta.yandex.ru
 bs-metadsp.yandex.ru
 extmaps-api.yandex.net
+forms.yandex.com
 grade.market.yandex.ru
 mc.yandex.com
 mc.yandex.ru
@@ -113966,4 +113994,3 @@ trk91.zzzperform.com
 trk94.zzzperform.com
 trk97.zzzperform.com
 metric.zzzquil.com
-onlinemediahits.com

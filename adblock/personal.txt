@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 19 Apr 2023 09:24 UTC
-! Version: 2023.0419.0924.17
+! Last modified: 19 Apr 2023 22:31 UTC
+! Version: 2023.0419.2231.48
 ! Syntax: AdBlock
-! Number of entries: 41224
+! Number of entries: 41239
 !
 ||000space.com^
 ||000webhost.com^
@@ -1194,6 +1194,7 @@
 ||abseydeveled.com^
 ||absolutelytowns.com^
 ||absoluteroute.com^
+||absolutionexpert.com^
 ||absorbingband.com^
 ||absors.com^
 ||abstractedamount.com^
@@ -2447,6 +2448,7 @@
 ||url1445.affirm.com^
 ||affise.com^
 ||affiz.net^
+||affjumbo.com^
 ||afflat3a1.com^
 ||static.affluent.io^
 ||affluentshinymulticultural.com^
@@ -5950,6 +5952,7 @@
 ||bigspyglass.com^
 ||bigwww.com^
 ||bijitsoa.com^
+||bikanertahlka.com^
 ||metrics.bikbok.com^
 ||bikehotsale.com^
 ||bikzandylogistics.com^
@@ -6049,7 +6052,6 @@
 ||dii1.bitiba.de^
 ||dii2.bitiba.de^
 ||dii2.bitiba.fr^
-||bitli.pro^
 ||bitlishpro.com^
 ||bitmakerz.biz^
 ||api.bitmango.com^
@@ -6757,6 +6759,7 @@
 ||budm.shop^
 ||budvawshes.ru^
 ||buenosearch.com^
+||bueromoebelservice.com^
 ||smetrics.buffalotracedistillery.com^
 ||api.bugfender.com^
 ||app.bugfender.com^
@@ -6789,6 +6792,7 @@
 ||bulbbait.com^
 ||bulgae.com^
 ||bulky-battle.com^
+||bulkyfriend.com^
 ||bulldogcpi.com^
 ||bulletprofitads.com^
 ||bulletproof-analytics.com^
@@ -6890,6 +6894,7 @@
 ||bwinpartypartners.com^
 ||bwqdhue.com^
 ||bws0wvqt3k.ru^
+||bx-cloud.com^
 ||bxacmsvmxb.com^
 ||bxsnews.com^
 ||by-emmamuller.de^
@@ -6980,6 +6985,7 @@
 ||cabinet-office-go.com^
 ||cabnnr.com^
 ||cabotinbesnare.com^
+||cabotsmuskit.com^
 ||cabura.loan^
 ||cacafly.net^
 ||cdn2.cache.vn^
@@ -9319,6 +9325,7 @@
 ||cnbnews.com^
 ||stat.cncenter.cz^
 ||tracker.cncenter.cz^
+||cnchax.com^
 ||analytics.cnd-motionmedia.de^
 ||cndfdcu.net^
 ||ad.download.cnet.com^
@@ -9898,7 +9905,6 @@
 ||codeonclick.com^
 ||telemetry.coder.com^
 ||coderformylife.info^
-||uploads.codesandbox.io^
 ||codesbro.com^
 ||analytics.codesigned.com^
 ||analytics.codeskulptor.org^
@@ -10224,6 +10230,7 @@
 ||leonardoconcon.com.br^
 ||info.lexisnexis.com.my^
 ||zqwofo.liverpool.com.mx^
+||lojamagazines.com.br^
 ||smetrics.los40.com.co^
 ||smetrics.los40.com.mx^
 ||pv.ltn.com.tw^
@@ -10659,7 +10666,6 @@
 ||conjectureprecedingslippers.com^
 ||connatedresspint.com^
 ||assets.connatix.com^
-||cdn.connatix.com^
 ||ck.connatix.com^
 ||cks.connatix.com^
 ||ins.connatix.com^
@@ -15755,6 +15761,7 @@
 ||analytics.fbgcdn.com^
 ||fbkzqnyyga.com^
 ||fbmedia-ckl.com^
+||fbmedia-dhs.com^
 ||fbteyne.net^
 ||fbthirdpartypixel.com^
 ||analysis.fc2.com^
@@ -17780,6 +17787,7 @@
 ||goutee.top^
 ||gouzaich.com^
 ||analytics.gov.in^
+||cbc.gov.bd^
 ||analytics.cgg.gov.in^
 ||counsellor.gov.cn^
 ||covid19.gov.gd^
@@ -18921,7 +18929,6 @@
 ||hostcontent.live^
 ||tracking.hostdirectory.in^
 ||partners.hostgator.com^
-||ama.hostiko.link^
 ||hostileconductive.com^
 ||hostingcloud.racing^
 ||hostwindsdns.com^
@@ -20253,6 +20260,7 @@
 ||ua.indianexpress.com^
 ||indianpornvideos.com^
 ||adscontent2.indiatimes.com^
+||brandequity.economictimes.indiatimes.com^
 ||etx.indiatimes.com^
 ||ibeat.indiatimes.com^
 ||mobileads.indiatimes.com^
@@ -20971,6 +20979,7 @@
 ||ipfind.com^
 ||ipfingerprint.com^
 ||ipfrom.com^
+||gateway.ipfs.io^
 ||ipgold.ru^
 ||iphisslurbow.com^
 ||iphumiki.com^
@@ -24230,6 +24239,7 @@
 ||analytics.memrise.com^
 ||memunjcvfv.xyz^
 ||men-finder.life^
+||menan-lhn.com^
 ||menelaus-col.com^
 ||mengzhan24.com^
 ||menowlehayim.com^
@@ -24652,6 +24662,7 @@
 ||analytics.agma-mmc.mllrsohnapps.com^
 ||mlmfsxrhbsnjccd.xyz^
 ||tracking.mlsat02.de^
+||mlvgxzenoiz.com^
 ||mlvirtual.org^
 ||beacon.mlytics.com^
 ||mm-api.agency^
@@ -24949,7 +24960,9 @@
 ||mos.com^
 ||stats.mos.ru^
 ||mosaefr.cc^
-||moshimo.com^
+||af.moshimo.com^
+||i.moshimo.com^
+||image.moshimo.com^
 ||most-dnepr.info^
 ||mother-sku.jp^
 ||motherhoodlimiteddetest.com^
@@ -25130,7 +25143,6 @@
 ||aamt.msnbc.com^
 ||alumnialliances.msnd20.com^
 ||msnjizy.com^
-||controlpanel.msoutlookonline.net^
 ||blog.msslafteburner.link^
 ||shop.msslafteburner.link^
 ||msstorageazure.com^
@@ -25450,6 +25462,7 @@
 ||apilog.mytvnet.vn^
 ||apilogduration.mytvnet.vn^
 ||tracking.myunidays.com^
+||myurls.bio^
 ||smetrics.myvi.in^
 ||myvisitors.se^
 ||vt.myvisualiq.net^
@@ -26325,7 +26338,7 @@
 ||websecurity.norton.com^
 ||nortue.com^
 ||metrics.norvir.com^
-||cdn.norymo.com^
+||norymo.com^
 ||cookies.nos.nl^
 ||nosaul.com^
 ||nosebleedlonerdays.com^
@@ -26942,6 +26955,7 @@
 ||onlinecinema.eu^
 ||onlinehome.us^
 ||onlinekohler.com^
+||onlinemediahits.com^
 ||onlinepharmacywithoutaprescription.ru^
 ||onlineplus.click^
 ||onlinepromotionsusa.com^
@@ -27232,6 +27246,7 @@
 ||metric.orionlabs.io^
 ||oriori.com^
 ||orkoedthroug.xyz^
+||ormobi.xyz^
 ||oronwg.xyz^
 ||nmo1.orpi.com^
 ||orquideassp.com^
@@ -27706,6 +27721,7 @@
 ||pasteio.com^
 ||patalogs.com^
 ||patanjaliayurved.org^
+||patariatoolman.com^
 ||wzyjup.patch.com^
 ||patchlinks.com^
 ||pateim.com^
@@ -28579,6 +28595,7 @@
 ||pornboard.us^
 ||porncrash.com^
 ||plx.porndig.com^
+||plx.pornes.xxx^
 ||hubt.pornhub.com^
 ||pornjustx.com^
 ||est.pornleech.ch^
@@ -34447,7 +34464,6 @@
 ||spaceeditors.com^
 ||spaceleadster.com^
 ||spacermedia.com^
-||spacexprize.com^
 ||spama.com^
 ||spamanalyst.com^
 ||spannercopyright.com^
@@ -35059,7 +35075,6 @@
 ||s.stuffserve.com^
 ||analytics.stuffyoucanuse.org^
 ||stugsoda.com^
-||stuiop.com^
 ||stunninglover.com^
 ||stunsbarbola.website^
 ||stupendoussleet.com^
@@ -35076,6 +35091,7 @@
 ||sp-consent.stuttgarter-zeitung.de^
 ||swmhdata.stuttgarter-zeitung.de^
 ||sumologic.stv.tv^
+||stvkr.com^
 ||as.stylebook.de^
 ||data-e723f0d7d1.stylebook.de^
 ||stats-bq.stylight.net^
@@ -36474,6 +36490,7 @@
 ||tlabak.com^
 ||ssa.tlc.com^
 ||tldrbox.top^
+||tldrlegal.com^
 ||tldrnet.top^
 ||counter.tldw.me^
 ||api.tllms.com^
@@ -36762,6 +36779,7 @@
 ||track-secretdate.com^
 ||track-victoriadates.com^
 ||track4ref.com^
+||track718.us^
 ||trackad.cz^
 ||trackalyzer.com^
 ||trackboxx.info^
@@ -37037,6 +37055,7 @@
 ||trellian.com^
 ||smetrics.trellix.com^
 ||erb.tremblant.ca^
+||tremendous-tour.pro^
 ||tremendousplastic.com^
 ||tremorhub.com^
 ||tremormedia.com^
@@ -37392,7 +37411,6 @@
 ||twinrdsyn.com^
 ||twinstanglebroken.com^
 ||twistconcept.com^
-||twiste.com^
 ||twistneedylever.com^
 ||twitch-nude.com^
 ||twiter.com^
@@ -38225,7 +38243,6 @@
 ||vcdc.com^
 ||vceilinichego.ru^
 ||metric.vcentertainment.com^
-||vcfdg.com^
 ||core.vchat.vn^
 ||smetrics.vcm.com^
 ||vcmedia.vn^
@@ -38774,7 +38791,6 @@
 ||swa.vodafone.pt^
 ||vfd2dyn.vodafone.de^
 ||was.vodafone.de^
-||vodafone-internet.it^
 ||data-84bc7eaa45.vodafonemail.de^
 ||analytics.vodgc.net^
 ||vodone.com^
@@ -39215,6 +39231,7 @@
 ||webcompanion.com^
 ||webcontentassessor.com^
 ||webengage.com^
+||webep1.com^
 ||analytics.hal.weber.edu^
 ||telemetry.qa.webex.com^
 ||smetrics.webex.com^
@@ -40429,6 +40446,7 @@
 ||bs-meta.yandex.ru^
 ||bs-metadsp.yandex.ru^
 ||extmaps-api.yandex.net^
+||forms.yandex.com^
 ||grade.market.yandex.ru^
 ||mc.yandex.com^
 ||mc.yandex.ru^
@@ -41230,4 +41248,3 @@
 ||zzxmcp.com^
 ||zzzperform.com^
 ||metric.zzzquil.com^
-||onlinemediahits.com^
