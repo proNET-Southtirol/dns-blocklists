@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 19 Apr 2023 08:25 UTC
-# Version: 2023.0419.0825.13
+# Last modified: 19 Apr 2023 21:31 UTC
+# Version: 2023.0419.2131.45
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 18928
+# Number of entries: 18955
 #
 1-proof.cyou
 www.1-proof.cyou
@@ -401,6 +401,8 @@ airycloth.com
 www.airycloth.com
 airyclub.com
 www.airyclub.com
+aiyinsitby.com
+www.aiyinsitby.com
 aizen.cz
 www.aizen.cz
 aizhongzhou.com
@@ -1525,6 +1527,8 @@ bellababy.life
 www.bellababy.life
 bellacup.net
 www.bellacup.net
+bellaist.com
+www.bellaist.com
 bellestyling.shop
 www.bellestyling.shop
 bellissimo-grooming.de
@@ -3042,6 +3046,8 @@ ckl-bau.de
 www.ckl-bau.de
 ckonlinesale.store
 www.ckonlinesale.store
+ckpromotions.store
+www.ckpromotions.store
 claimcoderz.live
 www.claimcoderz.live
 clara-holz.com
@@ -3282,6 +3288,7 @@ columbiatopdeals.com
 www.columbiatopdeals.com
 columbiawears.com
 www.columbiawears.com
+azuki.com.vn
 bamboocraft.com.au
 bamboocrafts.com.au
 bamboofinds.com.au
@@ -3761,6 +3768,8 @@ dangotech.de
 www.dangotech.de
 danielsconto.shop
 www.danielsconto.shop
+danner-us.shop
+www.danner-us.shop
 dannerboty.cz
 www.dannerboty.cz
 dannercz.cz
@@ -8261,6 +8270,8 @@ irishteddy.de
 www.irishteddy.de
 irlongsecure.top
 www.irlongsecure.top
+irongoing.com
+www.irongoing.com
 irotoped.cz
 www.irotoped.cz
 iruthok.com
@@ -9477,6 +9488,8 @@ lekarnanaproudu.cz
 www.lekarnanaproudu.cz
 lekarskereporteri24.com
 www.lekarskereporteri24.com
+lemaxchristmas.com
+www.lemaxchristmas.com
 lemelejudogym.fr
 www.lemelejudogym.fr
 lemiteshop.shop
@@ -9967,6 +9980,8 @@ luxusmarken24.com
 www.luxusmarken24.com
 luxusuhren.to
 www.luxusuhren.to
+luyergeour.com
+www.luyergeour.com
 lydeyw.online
 www.lydeyw.online
 lydiapet.space
@@ -10534,6 +10549,8 @@ www.merchstagram.com
 mercimunich.de
 www.mercimunich.de
 knblnun.merismoscenter.com
+meritoflife.com
+www.meritoflife.com
 merkiv.cz
 www.merkiv.cz
 meronia.de
@@ -10564,6 +10581,8 @@ messtechnikfull.com
 www.messtechnikfull.com
 messwerkzeugra.de
 www.messwerkzeugra.de
+metalcraft.vn
+www.metalcraft.vn
 metallartcinti.it
 www.metallartcinti.it
 mevents24.com
@@ -12610,6 +12629,8 @@ pellets-bei-wolf.com
 www.pellets-bei-wolf.com
 pellets-holz.com
 www.pellets-holz.com
+pemnits.com
+www.pemnits.com
 pemuimstore.com
 www.pemuimstore.com
 penederbasis.com
@@ -12924,6 +12945,8 @@ poiradar.at
 www.poiradar.at
 poisoil.shop
 www.poisoil.shop
+pokamicompany.com
+www.pokamicompany.com
 pokestores.com
 www.pokestores.com
 polar-northwest.com
@@ -17254,6 +17277,8 @@ ucrochepate.com
 www.ucrochepate.com
 udeziny.com
 www.udeziny.com
+ueeeuer.com
+www.ueeeuer.com
 uesthermaina.shop
 www.uesthermaina.shop
 ueximious.com
@@ -18113,14 +18138,14 @@ wayhillca.com
 www.wayhillca.com
 wayhou.shop
 www.wayhou.shop
-waynet.shop
-www.waynet.shop
 waynewrite.com
 www.waynewrite.com
 wayplay.de
 www.wayplay.de
 wayps.shop
 www.wayps.shop
+wbeseae.com
+www.wbeseae.com
 wbotian.com
 www.wbotian.com
 wbr-freizeitwelt.de
@@ -18307,6 +18332,8 @@ whentotowork.com
 www.whentotowork.com
 whiskysbilliger.de
 www.whiskysbilliger.de
+whiteheartdevelopers.com
+www.whiteheartdevelopers.com
 whitetigersclan.at
 www.whitetigersclan.at
 wholemarkets.top

@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 19 Apr 2023 08:25 UTC
-# Version: 2023.0419.0825.13
+# Last modified: 19 Apr 2023 21:31 UTC
+# Version: 2023.0419.2131.45
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 18928
+# Number of entries: 18955
 #
 0.0.0.0 1-proof.cyou
 0.0.0.0 www.1-proof.cyou
@@ -401,6 +401,8 @@
 0.0.0.0 www.airycloth.com
 0.0.0.0 airyclub.com
 0.0.0.0 www.airyclub.com
+0.0.0.0 aiyinsitby.com
+0.0.0.0 www.aiyinsitby.com
 0.0.0.0 aizen.cz
 0.0.0.0 www.aizen.cz
 0.0.0.0 aizhongzhou.com
@@ -1525,6 +1527,8 @@
 0.0.0.0 www.bellababy.life
 0.0.0.0 bellacup.net
 0.0.0.0 www.bellacup.net
+0.0.0.0 bellaist.com
+0.0.0.0 www.bellaist.com
 0.0.0.0 bellestyling.shop
 0.0.0.0 www.bellestyling.shop
 0.0.0.0 bellissimo-grooming.de
@@ -3042,6 +3046,8 @@
 0.0.0.0 www.ckl-bau.de
 0.0.0.0 ckonlinesale.store
 0.0.0.0 www.ckonlinesale.store
+0.0.0.0 ckpromotions.store
+0.0.0.0 www.ckpromotions.store
 0.0.0.0 claimcoderz.live
 0.0.0.0 www.claimcoderz.live
 0.0.0.0 clara-holz.com
@@ -3282,6 +3288,7 @@
 0.0.0.0 www.columbiatopdeals.com
 0.0.0.0 columbiawears.com
 0.0.0.0 www.columbiawears.com
+0.0.0.0 azuki.com.vn
 0.0.0.0 bamboocraft.com.au
 0.0.0.0 bamboocrafts.com.au
 0.0.0.0 bamboofinds.com.au
@@ -3761,6 +3768,8 @@
 0.0.0.0 www.dangotech.de
 0.0.0.0 danielsconto.shop
 0.0.0.0 www.danielsconto.shop
+0.0.0.0 danner-us.shop
+0.0.0.0 www.danner-us.shop
 0.0.0.0 dannerboty.cz
 0.0.0.0 www.dannerboty.cz
 0.0.0.0 dannercz.cz
@@ -8261,6 +8270,8 @@
 0.0.0.0 www.irishteddy.de
 0.0.0.0 irlongsecure.top
 0.0.0.0 www.irlongsecure.top
+0.0.0.0 irongoing.com
+0.0.0.0 www.irongoing.com
 0.0.0.0 irotoped.cz
 0.0.0.0 www.irotoped.cz
 0.0.0.0 iruthok.com
@@ -9477,6 +9488,8 @@
 0.0.0.0 www.lekarnanaproudu.cz
 0.0.0.0 lekarskereporteri24.com
 0.0.0.0 www.lekarskereporteri24.com
+0.0.0.0 lemaxchristmas.com
+0.0.0.0 www.lemaxchristmas.com
 0.0.0.0 lemelejudogym.fr
 0.0.0.0 www.lemelejudogym.fr
 0.0.0.0 lemiteshop.shop
@@ -9967,6 +9980,8 @@
 0.0.0.0 www.luxusmarken24.com
 0.0.0.0 luxusuhren.to
 0.0.0.0 www.luxusuhren.to
+0.0.0.0 luyergeour.com
+0.0.0.0 www.luyergeour.com
 0.0.0.0 lydeyw.online
 0.0.0.0 www.lydeyw.online
 0.0.0.0 lydiapet.space
@@ -10534,6 +10549,8 @@
 0.0.0.0 mercimunich.de
 0.0.0.0 www.mercimunich.de
 0.0.0.0 knblnun.merismoscenter.com
+0.0.0.0 meritoflife.com
+0.0.0.0 www.meritoflife.com
 0.0.0.0 merkiv.cz
 0.0.0.0 www.merkiv.cz
 0.0.0.0 meronia.de
@@ -10564,6 +10581,8 @@
 0.0.0.0 www.messtechnikfull.com
 0.0.0.0 messwerkzeugra.de
 0.0.0.0 www.messwerkzeugra.de
+0.0.0.0 metalcraft.vn
+0.0.0.0 www.metalcraft.vn
 0.0.0.0 metallartcinti.it
 0.0.0.0 www.metallartcinti.it
 0.0.0.0 mevents24.com
@@ -12610,6 +12629,8 @@
 0.0.0.0 www.pellets-bei-wolf.com
 0.0.0.0 pellets-holz.com
 0.0.0.0 www.pellets-holz.com
+0.0.0.0 pemnits.com
+0.0.0.0 www.pemnits.com
 0.0.0.0 pemuimstore.com
 0.0.0.0 www.pemuimstore.com
 0.0.0.0 penederbasis.com
@@ -12924,6 +12945,8 @@
 0.0.0.0 www.poiradar.at
 0.0.0.0 poisoil.shop
 0.0.0.0 www.poisoil.shop
+0.0.0.0 pokamicompany.com
+0.0.0.0 www.pokamicompany.com
 0.0.0.0 pokestores.com
 0.0.0.0 www.pokestores.com
 0.0.0.0 polar-northwest.com
@@ -17254,6 +17277,8 @@
 0.0.0.0 www.ucrochepate.com
 0.0.0.0 udeziny.com
 0.0.0.0 www.udeziny.com
+0.0.0.0 ueeeuer.com
+0.0.0.0 www.ueeeuer.com
 0.0.0.0 uesthermaina.shop
 0.0.0.0 www.uesthermaina.shop
 0.0.0.0 ueximious.com
@@ -18113,14 +18138,14 @@
 0.0.0.0 www.wayhillca.com
 0.0.0.0 wayhou.shop
 0.0.0.0 www.wayhou.shop
-0.0.0.0 waynet.shop
-0.0.0.0 www.waynet.shop
 0.0.0.0 waynewrite.com
 0.0.0.0 www.waynewrite.com
 0.0.0.0 wayplay.de
 0.0.0.0 www.wayplay.de
 0.0.0.0 wayps.shop
 0.0.0.0 www.wayps.shop
+0.0.0.0 wbeseae.com
+0.0.0.0 www.wbeseae.com
 0.0.0.0 wbotian.com
 0.0.0.0 www.wbotian.com
 0.0.0.0 wbr-freizeitwelt.de
@@ -18307,6 +18332,8 @@
 0.0.0.0 www.whentotowork.com
 0.0.0.0 whiskysbilliger.de
 0.0.0.0 www.whiskysbilliger.de
+0.0.0.0 whiteheartdevelopers.com
+0.0.0.0 www.whiteheartdevelopers.com
 0.0.0.0 whitetigersclan.at
 0.0.0.0 www.whitetigersclan.at
 0.0.0.0 wholemarkets.top

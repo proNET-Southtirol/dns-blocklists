@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 19 Apr 2023 08:25 UTC
-# Version: 2023.0419.0825.13
+# Last modified: 19 Apr 2023 21:31 UTC
+# Version: 2023.0419.2131.45
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 9611
+# Number of entries: 9625
 #
 *.1-proof.cyou
 *.100-solarni-lampa-cz.com
@@ -209,6 +209,7 @@
 *.airselfiecamera.com
 *.airycloth.com
 *.airyclub.com
+*.aiyinsitby.com
 *.aizen.cz
 *.aizhongzhou.com
 *.ajar.shop
@@ -779,6 +780,7 @@
 *.beljunqueira.com
 *.bellababy.life
 *.bellacup.net
+*.bellaist.com
 *.bellestyling.shop
 *.bellissimo-grooming.de
 *.bellow5.com
@@ -1542,6 +1544,7 @@
 *.ckitabwalah.shop
 *.ckl-bau.de
 *.ckonlinesale.store
+*.ckpromotions.store
 *.claimcoderz.live
 *.clara-holz.com
 *.clarkosale.shop
@@ -1675,6 +1678,7 @@
 *.columbiaslovensko.sk
 *.columbiatopdeals.com
 *.columbiawears.com
+*.azuki.com.vn
 *.bamboocraft.com.au
 *.bamboocrafts.com.au
 *.bamboofinds.com.au
@@ -1922,6 +1926,7 @@
 *.danewells.com
 *.dangotech.de
 *.danielsconto.shop
+*.danner-us.shop
 *.dannerboty.cz
 *.dannercz.cz
 *.dannerdeutschland.de
@@ -4214,6 +4219,7 @@
 *.iris-perschmann.de
 *.irishteddy.de
 *.irlongsecure.top
+*.irongoing.com
 *.irotoped.cz
 *.iruthok.com
 *.irwinpoint.com
@@ -4825,6 +4831,7 @@
 *.lekarna-protebe.cz
 *.lekarnanaproudu.cz
 *.lekarskereporteri24.com
+*.lemaxchristmas.com
 *.lemelejudogym.fr
 *.lemiteshop.shop
 *.lemonbrandco.com
@@ -5069,6 +5076,7 @@
 *.luxuryys.com
 *.luxusmarken24.com
 *.luxusuhren.to
+*.luyergeour.com
 *.lydeyw.online
 *.lydiapet.space
 *.lyndafowler.space
@@ -5358,6 +5366,7 @@
 *.merchstagram.com
 *.mercimunich.de
 *.knblnun.merismoscenter.com
+*.meritoflife.com
 *.merkiv.cz
 *.meronia.de
 *.meroycollection.store
@@ -5373,6 +5382,7 @@
 *.messer-onsaleshop.com
 *.messtechnikfull.com
 *.messwerkzeugra.de
+*.metalcraft.vn
 *.metallartcinti.it
 *.mevents24.com
 *.mexflix.com
@@ -6413,6 +6423,7 @@
 *.pelletitaliano.it
 *.pellets-bei-wolf.com
 *.pellets-holz.com
+*.pemnits.com
 *.pemuimstore.com
 *.penederbasis.com
 *.penguinnow.com
@@ -6569,6 +6580,7 @@
 *.point-x.shop
 *.poiradar.at
 *.poisoil.shop
+*.pokamicompany.com
 *.pokestores.com
 *.polar-northwest.com
 *.polarlyset.de
@@ -8765,6 +8777,7 @@
 *.ucasing.com
 *.ucrochepate.com
 *.udeziny.com
+*.ueeeuer.com
 *.uesthermaina.shop
 *.ueximious.com
 *.ufd-lindenau.de
@@ -9204,10 +9217,10 @@
 *.waxx.me
 *.wayhillca.com
 *.wayhou.shop
-*.waynet.shop
 *.waynewrite.com
 *.wayplay.de
 *.wayps.shop
+*.wbeseae.com
 *.wbotian.com
 *.wbr-freizeitwelt.de
 *.wbrandplus.shop
@@ -9302,6 +9315,7 @@
 *.wheelskit.com
 *.whentotowork.com
 *.whiskysbilliger.de
+*.whiteheartdevelopers.com
 *.whitetigersclan.at
 *.wholemarkets.top
 *.wholesalepettoys.store

@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1681892700 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1681939860 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 19 Apr 2023 08:25 UTC
-; Version: 2023.0419.0825.13
+; Last modified: 19 Apr 2023 21:31 UTC
+; Version: 2023.0419.2131.45
 ; Syntax: RPZ
-; Number of entries: 19222
+; Number of entries: 19250
 ;
 bitcoin360.ai CNAME .
 *.bitcoin360.ai CNAME .
@@ -1907,6 +1907,8 @@ airycloth.com CNAME .
 *.airycloth.com CNAME .
 airyclub.com CNAME .
 *.airyclub.com CNAME .
+aiyinsitby.com CNAME .
+*.aiyinsitby.com CNAME .
 aizhongzhou.com CNAME .
 *.aizhongzhou.com CNAME .
 ajaxanywhere.com CNAME .
@@ -2427,6 +2429,8 @@ belacova.com CNAME .
 *.belacova.com CNAME .
 beljunqueira.com CNAME .
 *.beljunqueira.com CNAME .
+bellaist.com CNAME .
+*.bellaist.com CNAME .
 bellow5.com CNAME .
 *.bellow5.com CNAME .
 benecharm.com CNAME .
@@ -5607,6 +5611,8 @@ irecommendz.com CNAME .
 *.irecommendz.com CNAME .
 irene-karin.com CNAME .
 *.irene-karin.com CNAME .
+irongoing.com CNAME .
+*.irongoing.com CNAME .
 iruthok.com CNAME .
 *.iruthok.com CNAME .
 irwinpoint.com CNAME .
@@ -6159,6 +6165,8 @@ lekarna-eshop.com CNAME .
 *.lekarna-eshop.com CNAME .
 lekarskereporteri24.com CNAME .
 *.lekarskereporteri24.com CNAME .
+lemaxchristmas.com CNAME .
+*.lemaxchristmas.com CNAME .
 lemonbrandco.com CNAME .
 *.lemonbrandco.com CNAME .
 lemstore.com CNAME .
@@ -6409,6 +6417,8 @@ luxuryys.com CNAME .
 *.luxuryys.com CNAME .
 luxusmarken24.com CNAME .
 *.luxusmarken24.com CNAME .
+luyergeour.com CNAME .
+*.luyergeour.com CNAME .
 m-heizungs.com CNAME .
 *.m-heizungs.com CNAME .
 mac-properties.com CNAME .
@@ -6631,6 +6641,8 @@ merchstagram.com CNAME .
 *.merchstagram.com CNAME .
 knblnun.merismoscenter.com CNAME .
 *.knblnun.merismoscenter.com CNAME .
+meritoflife.com CNAME .
+*.meritoflife.com CNAME .
 merrylco.com CNAME .
 *.merrylco.com CNAME .
 messer-onsaleshop.com CNAME .
@@ -7761,6 +7773,8 @@ pellets-bei-wolf.com CNAME .
 *.pellets-bei-wolf.com CNAME .
 pellets-holz.com CNAME .
 *.pellets-holz.com CNAME .
+pemnits.com CNAME .
+*.pemnits.com CNAME .
 pemuimstore.com CNAME .
 *.pemuimstore.com CNAME .
 penederbasis.com CNAME .
@@ -7901,6 +7915,8 @@ pocoutdooor.com CNAME .
 *.pocoutdooor.com CNAME .
 podlozka-na-grilovanicz.com CNAME .
 *.podlozka-na-grilovanicz.com CNAME .
+pokamicompany.com CNAME .
+*.pokamicompany.com CNAME .
 pokestores.com CNAME .
 *.pokestores.com CNAME .
 polar-northwest.com CNAME .
@@ -10185,6 +10201,8 @@ ucrochepate.com CNAME .
 *.ucrochepate.com CNAME .
 udeziny.com CNAME .
 *.udeziny.com CNAME .
+ueeeuer.com CNAME .
+*.ueeeuer.com CNAME .
 ueximious.com CNAME .
 *.ueximious.com CNAME .
 uggcp.com CNAME .
@@ -10655,6 +10673,8 @@ wayhillca.com CNAME .
 *.wayhillca.com CNAME .
 waynewrite.com CNAME .
 *.waynewrite.com CNAME .
+wbeseae.com CNAME .
+*.wbeseae.com CNAME .
 wbotian.com CNAME .
 *.wbotian.com CNAME .
 wbysocket.com CNAME .
@@ -10737,6 +10757,8 @@ wheelskit.com CNAME .
 *.wheelskit.com CNAME .
 whentotowork.com CNAME .
 *.whentotowork.com CNAME .
+whiteheartdevelopers.com CNAME .
+*.whiteheartdevelopers.com CNAME .
 wibois.com CNAME .
 *.wibois.com CNAME .
 wideranging-protector.com CNAME .
@@ -16987,6 +17009,8 @@ cuteearring.shop CNAME .
 *.cuteearring.shop CNAME .
 danielsconto.shop CNAME .
 *.danielsconto.shop CNAME .
+danner-us.shop CNAME .
+*.danner-us.shop CNAME .
 daringregory.shop CNAME .
 *.daringregory.shop CNAME .
 dawnbaby.shop CNAME .
@@ -17759,8 +17783,6 @@ watersdresses.shop CNAME .
 *.watersdresses.shop CNAME .
 wayhou.shop CNAME .
 *.wayhou.shop CNAME .
-waynet.shop CNAME .
-*.waynet.shop CNAME .
 wayps.shop CNAME .
 *.wayps.shop CNAME .
 wbrandplus.shop CNAME .
@@ -18115,6 +18137,8 @@ childrenonesie.store CNAME .
 *.childrenonesie.store CNAME .
 ckonlinesale.store CNAME .
 *.ckonlinesale.store CNAME .
+ckpromotions.store CNAME .
+*.ckpromotions.store CNAME .
 cleancarpet.store CNAME .
 *.cleancarpet.store CNAME .
 clickfish.store CNAME .
@@ -19011,8 +19035,12 @@ tdgrop168.vip CNAME .
 *.tdgrop168.vip CNAME .
 zulole25.vip CNAME .
 *.zulole25.vip CNAME .
+azuki.com.vn CNAME .
+*.azuki.com.vn CNAME .
 khoinguyenhanoi.vn CNAME .
 *.khoinguyenhanoi.vn CNAME .
+metalcraft.vn CNAME .
+*.metalcraft.vn CNAME .
 austriaco.website CNAME .
 *.austriaco.website CNAME .
 autotools.website CNAME .
