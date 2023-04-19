@@ -3440,3 +3440,8 @@
 ! https://github.com/hagezi/dns-blocklists/issues/955
 @@||attraqt.com^
 
+! https://github.com/hagezi/dns-blocklists/issues/957
+@@|data.g2crowd.com^
+@@|images.g2crowd.com^
+@@|learn.g2crowd.com^
+
