@@ -289,3 +289,7 @@
 @@||redirect.appmetrica.yandex.*^
 @@||click.zoom.us^
 @@||ad.admitad.com^
+@@||stvkr.com^
+@@||webep1.com^
+@@||marketing.tr.netsalesmedia.pl^
+@@||track.adtraction.com^

@@ -3144,3 +3144,6 @@ a.delivery.consentmanager.net
 # https://github.com/hagezi/dns-blocklists/issues/952
 api.sbz.vn
 
+# https://github.com/hagezi/dns-blocklists/issues/955
+*.attraqt.com
+

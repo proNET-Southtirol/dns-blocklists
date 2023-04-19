@@ -12795,10 +12795,7 @@ adtrace.io
 app.adtrace.io
 www.adtrace.io
 zoover.adtrackers.net
-adtraction.com
 secure.adtraction.com
-track.adtraction.com
-www.adtraction.com
 adtrade.net
 api.adtrade.com
 www.adtrade.net
@@ -99508,7 +99505,6 @@ swmhdata.stuttgarter-zeitung.de
 stage-id.swmhdata.stuttgarter-zeitung.de
 api.stage-id.swmhdata.stuttgarter-zeitung.de
 sumologic.stv.tv
-stvkr.com
 as.stylebook.de
 data-e723f0d7d1.stylebook.de
 stats-bq.stylight.net
@@ -110000,7 +109996,6 @@ widgets.webengage.com
 ssl.widgets.webengage.com
 wsdk-files.webengage.com
 www.webengage.com
-webep1.com
 analytics.hal.weber.edu
 telemetry.qa.webex.com
 smetrics.webex.com

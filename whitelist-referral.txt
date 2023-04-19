@@ -25,6 +25,7 @@ campaign.adobe.com
 tags.adsafety.net
 online.adservicemedia.dk
 email-*.adtidy.*
+track.adtraction.com
 guce.advertising.com
 affiliatefuture.com
 a1.adformnet.akadns.net
@@ -496,6 +497,7 @@ api.narrativ.com
 events.release.narrativ.com
 app.link.nba.com
 app.adjust.net.in
+marketing.tr.netsalesmedia.pl
 click.email.newegg.com
 go.nextiva.com
 a.nonstoppartner.net
@@ -573,6 +575,7 @@ wl.spotify.com
 link.springer.com
 r.srvtrck.com
 partners*.stacksocial.com
+stvkr.com
 link.swa.info
 link.sylikes.com
 t.co
@@ -598,6 +601,7 @@ syndication.twitter.com
 email.uber.com
 redirect.viglink.com
 cdn.webclicks24.com
+webep1.com
 track.webgains.com
 solution.weborama.fr
 click.engage.windows.com

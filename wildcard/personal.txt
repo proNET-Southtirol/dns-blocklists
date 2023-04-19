@@ -2193,7 +2193,6 @@
 *.adtr.io
 *.adtrace.io
 *.zoover.adtrackers.net
-*.adtraction.com
 *.adtrade.net
 *.api.adtrade.com
 *.adtrader.com
@@ -35077,7 +35076,6 @@
 *.sp-consent.stuttgarter-zeitung.de
 *.swmhdata.stuttgarter-zeitung.de
 *.sumologic.stv.tv
-*.stvkr.com
 *.as.stylebook.de
 *.data-e723f0d7d1.stylebook.de
 *.stats-bq.stylight.net
@@ -39217,7 +39215,6 @@
 *.webcompanion.com
 *.webcontentassessor.com
 *.webengage.com
-*.webep1.com
 *.analytics.hal.weber.edu
 *.telemetry.qa.webex.com
 *.smetrics.webex.com

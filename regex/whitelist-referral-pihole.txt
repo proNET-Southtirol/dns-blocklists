@@ -185,6 +185,7 @@
 (\.|^)list\-manage\.com$
 (\.|^)lt45\.net$
 (\.|^)mandrillapp\.com$
+(\.|^)marketing\.tr\.netsalesmedia\.pl$
 (\.|^)media01\.eu$
 (\.|^)m\.exactag\.com$
 (\.|^)micpn\.com$
@@ -240,6 +241,7 @@
 (\.|^)sites\.hscoscdn.*\.net$
 (\.|^)solutions\.tradedoubler\.com$
 (\.|^)solution\.weborama\.fr$
+(\.|^)stvkr\.com$
 (\.|^)suite15\.emarsys\.net$
 (\.|^)syndication\.exosrv\.com$
 (\.|^)syndication\.realsrv\.com$
@@ -263,6 +265,7 @@
 (\.|^)t\.lt02\.net$
 (\.|^)t\.myvisualiq\.net$
 (\.|^)tp\-emea\.exactag\.com$
+(\.|^)track\.adtraction\.com$
 (\.|^)track\.cj\.akadns\.net$
 (\.|^)trackcmp\.net$
 (\.|^)track\.customer\.io$
@@ -282,6 +285,7 @@
 (\.|^)ulink\.adjust\.com$
 (\.|^)view\.email\.nzz\.ch$
 (\.|^)view\.virt\.s.*\.exacttarget\.com$
+(\.|^)webep1\.com$
 (\.|^)webto\.salesforce\.com$
 (\.|^)wl\.spotify\.com$
 (\.|^)www\.awin1\.com$

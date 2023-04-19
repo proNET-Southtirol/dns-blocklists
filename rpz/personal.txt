@@ -6427,8 +6427,6 @@ adtonos.com CNAME .
 *.adtonos.com CNAME .
 adtpix.com CNAME .
 *.adtpix.com CNAME .
-adtraction.com CNAME .
-*.adtraction.com CNAME .
 api.adtrade.com CNAME .
 *.api.adtrade.com CNAME .
 adtrader.com CNAME .
@@ -45919,8 +45917,6 @@ stupidscene.com CNAME .
 *.stupidscene.com CNAME .
 stuted.com CNAME .
 *.stuted.com CNAME .
-stvkr.com CNAME .
-*.stvkr.com CNAME .
 styria-digital.com CNAME .
 *.styria-digital.com CNAME .
 styrianauf.com CNAME .
@@ -51641,8 +51637,6 @@ webcontentassessor.com CNAME .
 *.webcontentassessor.com CNAME .
 webengage.com CNAME .
 *.webengage.com CNAME .
-webep1.com CNAME .
-*.webep1.com CNAME .
 telemetry.qa.webex.com CNAME .
 *.telemetry.qa.webex.com CNAME .
 smetrics.webex.com CNAME .
