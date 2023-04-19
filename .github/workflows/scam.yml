@@ -10,14 +10,8 @@ jobs:
     permissions:
       issues: write
     steps:
-      - name: Add comment
-        uses: peter-evans/create-or-update-comment@v3
-        with:
-          issue-number: ${{ github.event.issue.number }}
-          body: |
-            Thanks, ping @durablenapkin and @jarelllama for adding to the scamlist.
       - name: Close Issue
         uses: peter-evans/close-issue@v3
         with:
           issue-number: ${{ github.event.issue.number }}
-          comment: Auto-closing
+          comment: Thanks, will be added to an upstream scam list. Ping @durablenapkin and @jarelllama for adding to the scam list.

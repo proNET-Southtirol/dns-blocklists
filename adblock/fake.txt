@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 18 Apr 2023 21:32 UTC
-! Version: 2023.0418.2132.19
+! Last modified: 19 Apr 2023 08:25 UTC
+! Version: 2023.0419.0825.13
 ! Syntax: AdBlock
-! Number of entries: 9593
+! Number of entries: 9611
 !
 ||1-proof.cyou^
 ||100-solarni-lampa-cz.com^
@@ -913,6 +913,7 @@
 ||bikemaintenanceshop.com^
 ||bikeondo.com^
 ||biker-kids.de^
+||bikernow.store^
 ||bikesbigbazar.com^
 ||bikesecke.de^
 ||bikesly.uk^
@@ -1014,7 +1015,6 @@
 ||bleubirdfr.com^
 ||blghip.ru^
 ||blickpunkt24.at^
-||blingyy.com^
 ||blix24.com^
 ||blizzak.de^
 ||blobel-elektromarkt.com^
@@ -2655,7 +2655,6 @@
 ||escalanteoutlet.de^
 ||esdxsa.com^
 ||eshopie.cz^
-||esl-gaming.com^
 ||esoftn.shop^
 ||espace-cluny.com^
 ||especialchristmas.com^
@@ -2841,6 +2840,7 @@
 ||fash-brand.shop^
 ||fashglamorous.com^
 ||fashincs.com^
+||fashioli.com^
 ||fashion-mode.cz^
 ||fashion4vip.net^
 ||fashionaarmy.com^
@@ -3395,6 +3395,7 @@
 ||girlsruby.com^
 ||giscapital.co^
 ||instant-e-app-for-campaign.github.io^
+||givenstar.com^
 ||givenstyle.com^
 ||giveproducts.top^
 ||gizmopage.com^
@@ -3447,6 +3448,9 @@
 ||gobuybest.de^
 ||gocosmeticsurgery.com^
 ||affordableforyouusa5.godaddysites.com^
+||pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com^
+||universityofqatarrectorate.godaddysites.com^
+||goddeal.cz^
 ||godeskonettbutikk.com^
 ||goetzwache.de^
 ||goexpressparcel.com^
@@ -4124,6 +4128,7 @@
 ||industriousgemi.com^
 ||inedito.fr^
 ||ineedthisorder.com^
+||inerlaya.com^
 ||inetchip.de^
 ||infantwestern.com^
 ||infinite-electronic.de^
@@ -4147,6 +4152,7 @@
 ||injustice.site^
 ||inkjet.de^
 ||inmode.at^
+||inmw.shop^
 ||innerbailey.com^
 ||innewstyle.com^
 ||innox.at^
@@ -4985,6 +4991,8 @@
 ||louiseperez.space^
 ||louisepet.shop^
 ||loungeflybags.com^
+||loungeflyoutlets.shop^
+||loungeflyuk.shop^
 ||love-outdoor.com^
 ||love-ralphlauren.com^
 ||lovegoldsale.com^
@@ -5033,7 +5041,6 @@
 ||lujtf.shop^
 ||lukaschleeh.de^
 ||lukaslerchner.at^
-||lukasvalis.cz^
 ||luluestore.com^
 ||lululemonoutlet.cz^
 ||lumaluca.com^
@@ -5627,8 +5634,7 @@
 ||jne-express.my.id^
 ||www.pinjamnow.my.id^
 ||yoli.my.id^
-||store.uschse04.my03.com^
-||www.uschse04.my03.com^
+||uschse04.my03.com^
 ||myautofficina.it^
 ||mybell-refund.me^
 ||myberlinshop.com^
@@ -5645,6 +5651,7 @@
 ||mydealz24.net^
 ||mydiabeticsolutions.com^
 ||myfaifo.com^
+||myfunfarm.com^
 ||myhealthyblog.com^
 ||myhomica.com^
 ||g1z0.myinstructus.com^
@@ -5826,6 +5833,7 @@
 ||newcraghoppers.com^
 ||newcyclingshop.com^
 ||newdailygoals-on.com^
+||newdigitals.club^
 ||newdompet.com^
 ||newduluthpack.com^
 ||newenergysaver.pro^
@@ -6797,6 +6805,7 @@
 ||r.de^
 ||ra-ganske.de^
 ||ra-gleissner.de^
+||rabamnetee.com^
 ||rabar.net^
 ||rabatt-disney.de^
 ||rabattarkk.de^
@@ -6857,6 +6866,7 @@
 ||raucherbein.at^
 ||ravensburger-krippenland.de^
 ||raverti.com^
+||rawchanger.com^
 ||razesale.com^
 ||rbarrowdenpc.shop^
 ||rbrei.com^
@@ -6887,6 +6897,7 @@
 ||reanimando.org^
 ||rebategeneral.com^
 ||rebatelady.com^
+||rebeccatees.com^
 ||rebeckabohlin.com^
 ||reber-handel.de^
 ||backpack.recallstore.com^
@@ -7063,7 +7074,6 @@
 ||roadbox.store^
 ||roastmarket.shop^
 ||robertadamek.cz^
-||chsoop.robinhoodproz.com^
 ||robinmooreband.com^
 ||robinslater.shop^
 ||robjewelry.shop^
@@ -7300,6 +7310,7 @@
 ||sarvamits.com^
 ||sashop.xyz^
 ||satansdesign.com^
+||satedeal.com^
 ||saturn-elektronik.de^
 ||saturn-markt.com^
 ||saturn-s.de^
@@ -7779,6 +7790,7 @@
 ||soulofnippes.de^
 ||soulwhoppers.de^
 ||soundiata.fr^
+||soundofheart.co^
 ||source84.com^
 ||sourcesphyto.com^
 ||southeastern.site^
@@ -8164,6 +8176,7 @@
 ||tapsung.com^
 ||taptapmath.com^
 ||target-solar.de^
+||tartose.com^
 ||taschen-sales.com^
 ||tashacamping.space^
 ||tatjana-beauty.de^
@@ -8610,6 +8623,7 @@
 ||trade-comp.com^
 ||trade-skins.net^
 ||tradeinvestigate.uno^
+||tradesailorshop.com^
 ||tradewomenshoe.com^
 ||tradingfxunipremier.com^
 ||traeerly.com^
@@ -8737,6 +8751,7 @@
 ||tylda.cz^
 ||tyreschwalbe.com^
 ||tyu-trade.com^
+||tyujh.online^
 ||u-shipexpress.com^
 ||uaccuve.com^
 ||uangmu.top^
@@ -8767,6 +8782,7 @@
 ||trainerstorunshoes.uk.com^
 ||uk-wemakewebsites.com^
 ||ukchristmasdecor.com^
+||ukonlineclothes.com^
 ||ukoutdoordeal.com^
 ||ulifted.com^
 ||ulissesmello.com^
@@ -9216,6 +9232,7 @@
 ||webmarker.de^
 ||webseite-gratis.com^
 ||webshoppingnets.com^
+||whliksrvlj.webtool.sk^
 ||webtule.shop^
 ||webyeh.de^
 ||weconti.com^
@@ -9253,6 +9270,7 @@
 ||weltex.co^
 ||weltweit-akkus.de^
 ||wenaviety.com^
+||wenked.com^
 ||wenoreshop.com^
 ||wenpowertools.com^
 ||wenta-elektro.com^
