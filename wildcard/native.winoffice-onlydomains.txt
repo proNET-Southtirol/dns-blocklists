@@ -1,0 +1,84 @@
+# Title: HaGeZi's Windows/Office Tracker DNS Blocklist
+# Description: Blocks Windows/Office native broadband tracker that track your activity.
+# Homepage: https://github.com/hagezi/dns-blocklists
+# Issues: https://github.com/hagezi/dns-blocklists/issues
+# License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
+# Expires: Updated regularly
+# Last modified: 04 Apr 2023 17:08 UTC
+# Version: 2023.0404.1708.07
+# Syntax: Domains (without subdomains)
+# Number of entries: 73
+#
+nexusrules.live.com
+euc-excel-telemetry.officeapps.live.com
+euc-powerpoint-telemetry.officeapps.live.com
+euc-visio-telemetry.officeapps.live.com
+euc-word-telemetry.officeapps.live.com
+excel-telemetry.officeapps.live.com
+nexus.officeapps.live.com
+nexusrules.officeapps.live.com
+powerpoint-telemetry.officeapps.live.com
+ppc-excel-telemetry.officeapps.live.com
+ppc-powerpoint-telemetry.officeapps.live.com
+ukc-visio-telemetry.officeapps.live.com
+usc-visio-telemetry.officeapps.live.com
+word-telemetry.officeapps.live.com
+pipe.aria.microsoft.com
+adhs.events.data.microsoft.com
+apac.events.data.microsoft.com
+au-v10c.events.data.microsoft.com
+browser.events.data.microsoft.com
+emea.events.data.microsoft.com
+eu-ic3.events.data.microsoft.com
+eu-mobile.events.data.microsoft.com
+eu-office.events.data.microsoft.com
+eu-teams.events.data.microsoft.com
+eu-v10c.events.data.microsoft.com
+eu-watsonc.events.data.microsoft.com
+functional.events.data.microsoft.com
+ic3.events.data.microsoft.com
+jp-v10c.events.data.microsoft.com
+kmwatson.events.data.microsoft.com
+kmwatsonc.events.data.microsoft.com
+mobile.events.data.microsoft.com
+noam.events.data.microsoft.com
+nw-umwatson.events.data.microsoft.com
+office.events.data.microsoft.com
+office-c.events.data.microsoft.com
+office-g.events.data.microsoft.com
+pf.events.data.microsoft.com
+server.events.data.microsoft.com
+tb.events.data.microsoft.com
+teams.events.data.microsoft.com
+umwatson.events.data.microsoft.com
+umwatsonc.events.data.microsoft.com
+us-mobile.events.data.microsoft.com
+us-teams.events.data.microsoft.com
+us-v10c.events.data.microsoft.com
+v10c.events.data.microsoft.com
+watson.events.data.microsoft.com
+watsonc.events.data.microsoft.com
+events-sandbox.data.microsoft.com
+vortex.data.microsoft.com
+vortex-win.data.microsoft.com
+vortex-win-sandbox.data.microsoft.com
+watson.officeint.microsoft.com
+telemetry.microsoft.com
+telemetry.urs.microsoft.com
+watson.microsoft.com
+events.data.msn.cn
+events.data.msn.com
+events-sandbox.data.msn.com
+measure.office.com
+hubblecontent.osi.office.net
+events.data.trafficmanager.net
+legacywatson.trafficmanager.net
+o365diagtelemetry.trafficmanager.net
+office-events-data.trafficmanager.net
+teams-events-data.trafficmanager.net
+ceuswatcab01.blob.core.windows.net
+ceuswatcab02.blob.core.windows.net
+eaus2watcab01.blob.core.windows.net
+eaus2watcab02.blob.core.windows.net
+weus2watcab01.blob.core.windows.net
+weus2watcab02.blob.core.windows.net

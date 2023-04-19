@@ -1,0 +1,34 @@
+# Title: HaGeZi's LG webOS Tracker DNS Blocklist
+# Description: Blocks LG webOS native broadband tracker that track your activity.
+# Homepage: https://github.com/hagezi/dns-blocklists
+# Issues: https://github.com/hagezi/dns-blocklists/issues
+# License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
+# Expires: Updated regularly
+# Last modified: 12 Apr 2023 06:21 UTC
+# Version: 2023.0412.0621.36
+# Syntax: DNSMasq
+# Number of entries: 23
+#
+address=/aic-gfts.lge.com/#
+address=/qt2-ngfts.lge.com/#
+address=/ad.lgsmartad.com/#
+address=/aic.cdpbeacon.lgtvcommon.com/#
+address=/eic.cdpbeacon.lgtvcommon.com/#
+address=/eic.cdpsvc.lgtvcommon.com/#
+address=/aic.homeprv.lgtvcommon.com/#
+address=/eic.homeprv.lgtvcommon.com/#
+address=/kic.homeprv.lgtvcommon.com/#
+address=/ruc.homeprv.lgtvcommon.com/#
+address=/aic.nudge.lgtvcommon.com/#
+address=/eic.nudge.lgtvcommon.com/#
+address=/kic.nudge.lgtvcommon.com/#
+address=/ruc.nudge.lgtvcommon.com/#
+address=/kic.rdl.lgtvcommon.com/#
+address=/aic.recommend.lgtvcommon.com/#
+address=/eic.recommend.lgtvcommon.com/#
+address=/kic.recommend.lgtvcommon.com/#
+address=/ruc.recommend.lgtvcommon.com/#
+address=/eic.service.lgtvcommon.com/#
+address=/kic.service.lgtvcommon.com/#
+address=/ruc.service.lgtvcommon.com/#
+address=/aic.wiseconfig.lgtvcommon.com/#

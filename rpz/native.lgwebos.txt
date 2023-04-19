@@ -1,0 +1,61 @@
+$TTL 30
+@ SOA rpz.hagezi.native.lgwebos. hostmaster.hagezi.native.lgwebos. 1681280460 86400 3600 604800 30
+ NS localhost.
+;
+; Title: HaGeZi's LG webOS Tracker DNS Blocklist
+; Description: Blocks LG webOS native broadband tracker that track your activity.
+; Homepage: https://github.com/hagezi/dns-blocklists
+; Issues: https://github.com/hagezi/dns-blocklists/issues
+; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
+; Expires: Updated regularly
+; Last modified: 12 Apr 2023 06:21 UTC
+; Version: 2023.0412.0621.36
+; Syntax: RPZ
+; Number of entries: 46
+;
+aic-gfts.lge.com CNAME .
+*.aic-gfts.lge.com CNAME .
+qt2-ngfts.lge.com CNAME .
+*.qt2-ngfts.lge.com CNAME .
+ad.lgsmartad.com CNAME .
+*.ad.lgsmartad.com CNAME .
+aic.cdpbeacon.lgtvcommon.com CNAME .
+*.aic.cdpbeacon.lgtvcommon.com CNAME .
+eic.cdpbeacon.lgtvcommon.com CNAME .
+*.eic.cdpbeacon.lgtvcommon.com CNAME .
+eic.cdpsvc.lgtvcommon.com CNAME .
+*.eic.cdpsvc.lgtvcommon.com CNAME .
+aic.homeprv.lgtvcommon.com CNAME .
+*.aic.homeprv.lgtvcommon.com CNAME .
+eic.homeprv.lgtvcommon.com CNAME .
+*.eic.homeprv.lgtvcommon.com CNAME .
+kic.homeprv.lgtvcommon.com CNAME .
+*.kic.homeprv.lgtvcommon.com CNAME .
+ruc.homeprv.lgtvcommon.com CNAME .
+*.ruc.homeprv.lgtvcommon.com CNAME .
+aic.nudge.lgtvcommon.com CNAME .
+*.aic.nudge.lgtvcommon.com CNAME .
+eic.nudge.lgtvcommon.com CNAME .
+*.eic.nudge.lgtvcommon.com CNAME .
+kic.nudge.lgtvcommon.com CNAME .
+*.kic.nudge.lgtvcommon.com CNAME .
+ruc.nudge.lgtvcommon.com CNAME .
+*.ruc.nudge.lgtvcommon.com CNAME .
+kic.rdl.lgtvcommon.com CNAME .
+*.kic.rdl.lgtvcommon.com CNAME .
+aic.recommend.lgtvcommon.com CNAME .
+*.aic.recommend.lgtvcommon.com CNAME .
+eic.recommend.lgtvcommon.com CNAME .
+*.eic.recommend.lgtvcommon.com CNAME .
+kic.recommend.lgtvcommon.com CNAME .
+*.kic.recommend.lgtvcommon.com CNAME .
+ruc.recommend.lgtvcommon.com CNAME .
+*.ruc.recommend.lgtvcommon.com CNAME .
+eic.service.lgtvcommon.com CNAME .
+*.eic.service.lgtvcommon.com CNAME .
+kic.service.lgtvcommon.com CNAME .
+*.kic.service.lgtvcommon.com CNAME .
+ruc.service.lgtvcommon.com CNAME .
+*.ruc.service.lgtvcommon.com CNAME .
+aic.wiseconfig.lgtvcommon.com CNAME .
+*.aic.wiseconfig.lgtvcommon.com CNAME .
