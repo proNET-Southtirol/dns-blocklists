@@ -80061,8 +80061,6 @@ promotionpopup.sapoapps.vn CNAME .
 *.promotionpopup.sapoapps.vn CNAME .
 statistic-blog-v2.sapoapps.vn CNAME .
 *.statistic-blog-v2.sapoapps.vn CNAME .
-sbz.vn CNAME .
-*.sbz.vn CNAME .
 track.sendo.vn CNAME .
 *.track.sendo.vn CNAME .
 cvf.shopee.vn CNAME .

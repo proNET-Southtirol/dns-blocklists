@@ -32707,7 +32707,6 @@
 *.sbmsa.wiki
 *.sbplus.hr
 *.sbs-ad.com
-*.sbz.vn
 *.ads-interfaces.sc-cdn.net
 *.sc-static.net
 *.scadnet.com
