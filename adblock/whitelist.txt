@@ -3433,6 +3433,10 @@
 
 ! https://github.com/hagezi/dns-blocklists/issues/949
 @@|a.delivery.consentmanager.net^
+! Cookies
+@@|b.delivery.consentmanager.net^
+@@|c.delivery.consentmanager.net^
+@@|d.delivery.consentmanager.net^
 
 ! https://github.com/hagezi/dns-blocklists/issues/952
 @@|api.sbz.vn^
@@ -3444,4 +3448,8 @@
 @@|data.g2crowd.com^
 @@|images.g2crowd.com^
 @@|learn.g2crowd.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/958
+@@|turbulent.ca^
+@@|www.turbulent.ca^
 
