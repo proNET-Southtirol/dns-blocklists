@@ -3457,3 +3457,20 @@
 @@|jobseeker.com^
 @@|www.jobseeker.com^
 
+! Identity and Access Management
+@@|netiq.com^
+@@|www.netiq.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/960
+@@|zurl.co^
+@@|www.zurl.co^
+
+! GTA V online crashes 
+@@|prod.telemetry.ros.rockstargames.com^
+
+! Playstation 5 Trophies / recently played games
+@@|telemetry-console.api.playstation.com^
+
+! Epicgames 2FA auth, store purchase
+@@|tracking.epicgames.com^
+
