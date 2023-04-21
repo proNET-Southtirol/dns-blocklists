@@ -180833,7 +180833,6 @@
 *.zur-zertifizierung.de
 *.zurbrioerf.com
 *.zuriessle.space
-*.zurl.co
 *.zurshmaria.ch
 *.zuruapparel.com
 *.extcourse.zurvio.com
