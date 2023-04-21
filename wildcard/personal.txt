@@ -41321,3 +41321,4 @@
 *.zzxmcp.com
 *.zzzperform.com
 *.metric.zzzquil.com
+*.previsoracolonia.com

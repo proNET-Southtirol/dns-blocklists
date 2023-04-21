@@ -3453,3 +3453,7 @@
 @@|turbulent.ca^
 @@|www.turbulent.ca^
 
+! https://github.com/hagezi/dns-blocklists/issues/959
+@@|jobseeker.com^
+@@|www.jobseeker.com^
+

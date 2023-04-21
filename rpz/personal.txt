@@ -82637,3 +82637,5 @@ koten.zone CNAME .
 *.koten.zone CNAME .
 telemetry.marketcircle.zone CNAME .
 *.telemetry.marketcircle.zone CNAME .
+previsoracolonia.com CNAME .
+*.previsoracolonia.com CNAME .
