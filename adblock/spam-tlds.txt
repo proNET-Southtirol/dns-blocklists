@@ -7,8 +7,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 14 Apr 2023 15:09 UTC
-! Version: 2023.0414.1509.00
+! Last modified: 21 Apr 2023 21:30 UTC
+! Version: 2023.0421.2130.00
 ! Syntax: AdGuard
 !
 ||agency^$denyallow=battlefield.agency|baam.agency|robotzebra.agency|uphotel.agency|ws.agency
@@ -17,6 +17,7 @@
 ||beauty^$denyallow=homelab.beauty|nic.beauty|vipbj.beauty
 ||*.bid^
 ||biz^$denyallow=movabletype.biz
+||*.boats^
 ||*.boutique^
 ||buzz^$denyallow=allthe.buzz|awful.buzz|cliq.buzz|montpellier.buzz|sideb.buzz|williamsonday.buzz
 ||cf^$denyallow=google.cf|rths.cf|acap.cf
@@ -29,11 +30,13 @@
 ||ga^$denyallow=google.ga|dgdi.ga|9191.ga|animevsub.ga|my.ga|shorturl.ga
 ||*.gdn^
 ||gq^$denyallow=inege.gq|tvgelive.gq|siteproxy.gq|blockly.gq
+||*.hair^
 ||*.haus^
 ||life^$denyallow=digitalcitizen.life
 ||*.loan^
 ||loans^$denyallow=nic.loans
 ||ml^$denyallow=aire.ml|amap.ml|beatbump.ml|biblioreads.ml|birdkey.ml|debula.ml|dmml.ml|esparrec.ml|exp0.ml|fedi.ml|ghostcloud.ml|google.ml|guya.ml|info-matin.ml|kawauso.ml|leam.ml|lemmy.ml|lingva.ml|loma.ml|masto.ml|mastodon.ml|mastodonte.ml|melody.ml|nothingprivate.ml|precure.ml|prompt.ml|stilic.ml|sumanko.ml|we-moon.ml
+||*.mom^
 ||monster^$denyallow=egybest.monster|yts.monster|cloudcdn.monster|fedi.monster|rollenspiel.monster|tts.monster|vipbj.monster
 ||okinawa^$denyallow=aclub.okinawa|activity.okinawa|aquadrop.okinawa|asatoyasuba.okinawa|beachboys.okinawa|churaumi.okinawa|dancestudioon.okinawa|diver.okinawa|ecco.okinawa|eight.okinawa|emoh.okinawa|fidelity.okinawa|gukuru.okinawa|holdbyhand.okinawa|jupiter.okinawa|kanoa.okinawa|kerouac.okinawa|kimishimagroup.okinawa|kokorononekko.okinawa|makeman.okinawa|mansaku.okinawa|minsyo.okinawa|morinaga.okinawa|naminouta.okinawa|nanaironote.okinawa|okmarine.okinawa|pacificview.okinawa|rentakun.okinawa|retime.okinawa|ryukyugobyou.okinawa|saya.okinawa|seek.okinawa|seitai.okinawa|selfstorage.okinawa|sgt.okinawa|shigaku.okinawa|simplelife.okinawa|sir.okinawa|sisei.okinawa|soilcure.okinawa|strawberry.okinawa|suba.okinawa|suncoast.okinawa|takakogyo.okinawa|thekucha.okinawa|tsukishiro.okinawa|yamabuki.okinawa|yorozu.okinawa|zwwa.okinawa
 ||online^$denyallow=0xdevelopers.online|2br02b.online|3dexp.online|9-5.online|abolition.online|afternoonauthor.online|akop.online|allhen.online|amedia.online|anti-social.online|aoxiang.online|arinbasu.online|arrrgh.online|atomicedge.online|audiomo.online|awwter.online|b-ark.online|beppo.online|betterconversations.online|biblioverse.online|bigballchunkyverse.online|bostonmusic.online|carpdiem.online|ceilidh.online|chainsaw-man-manga.online|computer-club.online|crabdisk.online|crazylab.online|cville.online|cyberhideaway.online|dadchat.online|dansmith.online|dapchat.online|diskette.online|doesthings.online|dreamin.online|figureskating.online|flatline.online|foodienetwork.online|foxfamily.online|freethought.online|freezepeach.online|frinx.online|fursuits.online|greennuclear.online|grosshans.online|grumpys.online|h6x.online|helvet.online|hhgtm.online|hwfo.online|iamterminally.online|inadvertently.online|indiegamedev.online|indiegames.online|isnot.online|itsmf.online|joinfediverse.online|joinmirage.online|kinkytaboo.online|kinotickets.online|kitchenparty.online|kjv.online|labr.online|laterracita.online|law-and-politics.online|lerchgonzalez.online|lightlyseared.online|linuxrocks.online|litrat.online|litrpg.online|machikadon.online|madetomeasure.online|makary.online|makersocial.online|manga1st.online|mastodon.online|mastodonian.online|mastodonnederland.online|mathtod.online|matthewedavis.online|meowing.online|metapan.online|milkers.online|moltonlava.online|monads.online|monsterfuckers.online|mousehole.online|mstddntfdn.online|mysticaccess.online|natehiggers.online|nederland.online|nerdfight.online|nerdout.online|nic.online|nitech.online|ohnoim.online|patriot.online|performingart.online|photoholics.online|photophrenic.online|pztrn.online|raikow.online|rarified.online|realityridge.online|regretfully.online|retrochat.online|rpvortex.online|saillune.online|schleuss.online|schnauzergang.online|shavingcream.online|shmg.online|silversword.online|slayers.online|spacekaren.online|thebox.thelabs.online|thedevil.online|thegreendragon.online|thesnakepostoffice.online|thetaoist.online|thinkinginsystems.online|tired.umbreon.online|torlaz.online|townsends.online|triangleidiot.online|trotlot.online|tukkers.online|unipar.online|voidwood.online|wizzzard.online
@@ -43,6 +46,7 @@
 ||*.rest^
 ||*.sbs^
 ||site^$denyallow=aana.site|adamxtweaking.company.site|alexforsale.site|amatriain.site|anitube.site|athousandwords.site|august-don.site|birb.site|blocklist.site|business.site|cdmstudy.site|chagratt.site|dannythe.site|dodi-repacks.site|enby.site|fediunam.site|finsup.site|first-party.site|fitgirl-repacks.site|fmoviesto.site|fomin.site|franv.site|gt-mod.site|heimdall.site|hellsite.site|ichinyo.site|ipv6-only.site|is4.site|iztasocial.site|kamima.site|lamer-ethos.site|lavenby.site|loophole.site|louisematic.site|melonsoda.site|metrolagu.site|miri.site|mstdn-jp.site|nic.site|notion.site|notube.site|rebelbase.site|saimaa.site|secluded.site|secreto.site|shoddy.site|skilltoy.site|srht.site|starkov.site|sully.site|theantisocial.site|thex.site|third-party.site|thisisjoes.site|tighnari.site|toot.site|triplering.site|vtubers.site|welsea.site
+||*.skin^
 ||surf^$denyallow=bloom.surf|fedi.surf|glowing.surf|kayaking.surf|nic.surf|quran.surf|s-wings.surf|surfstation.surf
 ||tk^$denyallow=adistance.tk|bloatcat.tk|bonzibuddy.tk|bryla.tk|bstweaker.tk|budterence.tk|c-r-t.tk|c0d3c.tk|censurion.tk|china996.tk|cuso.tk|devhonk.tk|dlyang.tk|google.tk|goshujin.tk|gotofap.tk|graph.tk|grazziecorp.tk|handicapped.tk|heggadrone.tk|helene.tk|kabi.tk|lameni.tk|leroymcqy.tk|loveisgrief.tk|msqtdn.tk|pube.tk|rainer-zufall.tk|sironi.tk|takiverse.tk|tokelau-info.tk|webdev189.tk|xn--qubec-csa.tk|zete.tk
 ||top^$denyallow=caitlin.top|corriente.top|gdtot.top|nicenature.top|reminder.top|magocoro.top|castlevania.top|suiten.top|shucks.top|1stream.top|ambr.top|techblog.top|changlam10.top|changlam11.top|pdcdn1.top|mastodon.top|pressplay.top|chillx.top|strims.top|thedesk.top

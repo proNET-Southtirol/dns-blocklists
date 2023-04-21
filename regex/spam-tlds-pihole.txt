@@ -8,8 +8,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 14 Apr 2023 15:09 UTC
-# Version: 2023.0414.1509.00
+# Last modified: 21 Apr 2023 21:30 UTC
+# Version: 2023.0421.2130.00
 # Syntax: RegEx
 #
 \.agency$
@@ -18,6 +18,7 @@
 \.beauty$
 \.bid$
 \.biz$
+\.boats$
 \.boutique$
 \.buzz$
 \.cf$
@@ -30,11 +31,13 @@
 \.ga$
 \.gdn$
 \.gq$
+\.hair$
 \.haus$
 \.life$
 \.loan$
 \.loans$
 \.ml$
+\.mom$
 \.monster$
 \.okinawa$
 \.online$
@@ -44,6 +47,7 @@
 \.rest$
 \.sbs$
 \.site$
+\.skin$
 \.surf$
 \.tk$
 \.top$
