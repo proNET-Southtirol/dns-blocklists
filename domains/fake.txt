@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 20 Apr 2023 21:31 UTC
-# Version: 2023.0420.2131.45
+# Last modified: 21 Apr 2023 08:57 UTC
+# Version: 2023.0421.0857.33
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 19604
+# Number of entries: 19978
 #
 1-proof.cyou
 www.1-proof.cyou
@@ -56,6 +56,9 @@ discountonline.2021salecheap.ru
 www.2021shoponline.com
 2022onlineoutlet.ru
 www.2022onlineoutlet.ru
+2023-openai.com
+www.2023-openai.com
+eoutlet.2023shoponline.com
 21sstylees.com
 www.21sstylees.com
 24bitcoinexchange.com
@@ -82,6 +85,8 @@ www.2radmarkt.com
 2radwelten.de
 www.2radwelten.de
 2xtsla.io
+303e.com
+www.303e.com
 3clin.de
 www.3clin.de
 3d-pero-cz.com
@@ -161,6 +166,8 @@ abolder.com
 www.abolder.com
 aboutbeingold.com
 www.aboutbeingold.com
+abouttooltrade.com
+www.abouttooltrade.com
 abshuzhi.com
 www.abshuzhi.com
 abushop.de
@@ -200,10 +207,14 @@ achievementcesr.top
 www.achievementcesr.top
 achimkelbel.de
 www.achimkelbel.de
+achimreims.de
+www.achimreims.de
 acime-project.de
 www.acime-project.de
 acprdcu.com
 www.acprdcu.com
+acrbulletin.org
+www.acrbulletin.org
 acs-musik.de
 www.acs-musik.de
 acsde.de
@@ -249,7 +260,6 @@ www.adidas2018.com
 adidashrvatska.com
 www.adidashrvatska.com
 adidasko.com
-store.adidasko.com
 www.adidasko.com
 adidasnmdschuhe.at
 www.adidasnmdschuhe.at
@@ -296,7 +306,6 @@ advo-care.de
 www.advo-care.de
 advyprodej.cz
 www.advyprodej.cz
-store.adzfree-watch.net
 aehesis.de
 www.aehesis.de
 aenikas.com
@@ -316,10 +325,6 @@ afara.de
 www.afara.de
 affen.at
 www.affen.at
-app.affixwallet.net
-store.app.affixwallet.net
-www.app.affixwallet.net
-store.affixwallet.net
 afk-guild.at
 www.afk-guild.at
 aflycatus.com
@@ -357,7 +362,6 @@ www.aheadl.top
 ahealthcare.online
 www.ahealthcare.online
 ahenana.com
-store.ahenana.com
 www.ahenana.com
 ahler-versand.de
 www.ahler-versand.de
@@ -368,7 +372,6 @@ www.ahrtdt.store
 aiboson.com
 www.aiboson.com
 aichatgptforpc.com
-store.aichatgptforpc.com
 aietde.store
 www.aietde.store
 aigenbauer.at
@@ -404,7 +407,6 @@ www.airmaxoutlet.net
 airmaxsale.de
 www.airmaxsale.de
 airmaxskobillige.com
-store.airmaxskobillige.com
 www.airmaxskobillige.com
 airpurifieroutlet.com
 www.airpurifieroutlet.com
@@ -427,7 +429,6 @@ www.ajar.shop
 ajaxanywhere.com
 www.ajaxanywhere.com
 ajdta.com
-store.ajdta.com
 ajservice.de
 www.ajservice.de
 akarevents.com
@@ -438,7 +439,6 @@ www.akarosi.com
 akasyl-otzberg.de
 www.akasyl-otzberg.de
 akatee.com
-store.akatee.com
 www.akatee.com
 akccutlery.com
 www.akccutlery.com
@@ -451,7 +451,6 @@ www.akebicycle.com
 akenor.com
 www.akenor.com
 akjamv.shop
-store.akjamv.shop
 www.akjamv.shop
 akku-laden.at
 www.akku-laden.at
@@ -480,7 +479,6 @@ www.alakar.de
 alanmarshelt.com
 www.alanmarshelt.com
 alapeay.com
-store.alapeay.com
 www.alapeay.com
 albarayapothecary.com
 www.albarayapothecary.com
@@ -488,7 +486,6 @@ alben-mode.com
 www.alben-mode.com
 albertaqualitybeef.com
 www.albertaqualitybeef.com
-store.aldi-life.vip
 aldofashion.com
 www.aldofashion.com
 aldorf-dresden.de
@@ -525,9 +522,6 @@ alienoa.de
 www.alienoa.de
 alimoder.com
 www.alimoder.com
-aliripple.com
-store.aliripple.com
-www.aliripple.com
 aliseshop.com
 store.aliseshop.com
 www.aliseshop.com
@@ -540,14 +534,8 @@ www.all-charms.com
 all4you-fashion.com
 allbotoxonline.com
 www.allbotoxonline.com
-allen86.store
-store.allen86.store
-www.allen86.store
 allenedmondsschuhe.com
 www.allenedmondsschuhe.com
-allergyfl.com
-store.allergyfl.com
-www.allergyfl.com
 alles-brennholz.de
 www.alles-brennholz.de
 alles-einfacher.de
@@ -576,7 +564,6 @@ alloverbodysupport.com
 www.alloverbodysupport.com
 allskigear.com
 www.allskigear.com
-store.allstarshirt.com
 alltech-de.com
 www.alltech-de.com
 alltestbanksolutions.com
@@ -598,7 +585,6 @@ alocar-gmbh.com
 alofixa.com
 www.alofixa.com
 alohazing.com
-store.alohazing.com
 www.alohazing.com
 alongsideert.online
 www.alongsideert.online
@@ -651,7 +637,6 @@ www.altrarunnerscz.com
 altraschuhe.de
 www.altraschuhe.de
 altruetech.com
-store.altruetech.com
 www.altruetech.com
 aluver.es
 www.aluver.es
@@ -659,7 +644,6 @@ alvensleben.net
 alzaland.cz
 www.alzaland.cz
 am-freights.com
-store.am-freights.com
 www.am-freights.com
 amagarni.com
 www.amagarni.com
@@ -704,16 +688,12 @@ www.amboxfy.com
 ambrettlhof.at
 www.ambrettlhof.at
 ambulancesodium.cn
-store.ambulancesodium.cn
 ambusama.de
 www.ambusama.de
 amcclothes.com
-store.amcclothes.com
 www.amcclothes.com
 amcw-photovoltaik.de
 www.amcw-photovoltaik.de
-amdestore.com
-www.amdestore.com
 amechad.de
 www.amechad.de
 amellys-damenboutique.de
@@ -744,21 +724,16 @@ amstovicek.com
 www.amstovicek.com
 amt-wankendorf.de
 www.amt-wankendorf.de
+amybathtub.xyz
+www.amybathtub.xyz
 amycorrea.xyz
 www.amycorrea.xyz
 amz-pallets.com
 www.amz-pallets.com
 amznde.com
 www.amznde.com
-amznhoodies.com
-store.amznhoodies.com
-www.amznhoodies.com
 amznshirts.com
-store.amznshirts.com
 www.amznshirts.com
-amzntees.com
-store.amzntees.com
-www.amzntees.com
 amzprintify.com
 www.amzprintify.com
 amzstock.store
@@ -781,9 +756,6 @@ anbuifoenbi.com
 www.anbuifoenbi.com
 ancheer.de
 www.ancheer.de
-anclice.com
-store.anclice.com
-www.anclice.com
 andal.at
 www.andal.at
 andarchin.top
@@ -824,12 +796,12 @@ angiecutlery.shop
 www.angiecutlery.shop
 angoraberlin.de
 www.angoraberlin.de
+anhanger-tomald.com
+www.anhanger-tomald.com
 ani--zoo.com
 www.ani--zoo.com
 animalery.top
 www.animalery.top
-animals-love.us
-www.animals-love.us
 animalsupplys.com
 www.animalsupplys.com
 animationsummer.at
@@ -857,8 +829,6 @@ annebeautycare.com
 www.annebeautycare.com
 annekleinfashion.com
 www.annekleinfashion.com
-annemus.com
-www.annemus.com
 anneschilk.com
 www.anneschilk.com
 annivett.com
@@ -885,7 +855,6 @@ antobi-shop.de
 www.antobi-shop.de
 anwalt-wendelmuth.de
 www.anwalt-wendelmuth.de
-store.anydebrid.com
 anzugewspeichern.com
 www.anzugewspeichern.com
 aobjektif.shop
@@ -898,9 +867,6 @@ aoshimamodel.com
 www.aoshimamodel.com
 aoshimatoys.com
 www.aoshimatoys.com
-aozeala.com
-store.aozeala.com
-www.aozeala.com
 apalin.shop
 www.apalin.shop
 aparipalan.com
@@ -926,7 +892,9 @@ www.apotheke-rezeptfrei.ch
 www.apotheke-rezeptfrei.eu
 www.apotheke-rezeptfrei.net
 apotheke24eu.com
+apotheke24eu.de
 www.apotheke24eu.com
+www.apotheke24eu.de
 apotheke4all.is
 www.apotheke4all.is
 apotheken-sicher.at
@@ -956,10 +924,6 @@ www.applenext.de
 appliancesclearancesale.store
 www.appliancesclearancesale.store
 applydiraadd.com
-store.applydiraadd.com
-approdishop.com
-store.approdishop.com
-www.approdishop.com
 apromo.shop
 www.apromo.shop
 aprs-karlsruhe.de
@@ -978,6 +942,7 @@ aquaticsportshop.com
 www.aquaticsportshop.com
 arabischlernen.at
 www.arabischlernen.at
+arabues.de
 aramania.de
 www.aramania.de
 aranayan.com
@@ -1024,6 +989,8 @@ aresc.de
 www.aresc.de
 ariatwear.online
 www.ariatwear.online
+arieljewe.online
+www.arieljewe.online
 arielozg.com
 www.arielozg.com
 arila.de
@@ -1032,6 +999,8 @@ arindo.de
 www.arindo.de
 aripken.de
 www.aripken.de
+aritziaca.store
+www.aritziaca.store
 armodamobilya.com
 www.armodamobilya.com
 armxn.com
@@ -1044,6 +1013,8 @@ aromaleben.com
 www.aromaleben.com
 arrc.shop
 www.arrc.shop
+arriba-elektro.de
+www.arriba-elektro.de
 ars-conservare.de
 www.ars-conservare.de
 arshiner.com
@@ -1099,6 +1070,8 @@ www.aspesiclothes.com
 assameshop.com
 www.assameshop.com
 assertankle.store
+asset-consulting-estate.com
+www.asset-consulting-estate.com
 asta-barka.com
 www.asta-barka.com
 astoriajob.com
@@ -1299,6 +1272,8 @@ b-und-h.com
 www.b-und-h.com
 b92eegumoc.store
 www.b92eegumoc.store
+baaglbatohy.de
+www.baaglbatohy.de
 babbien.com
 baby-apparel.store
 www.baby-apparel.store
@@ -1504,6 +1479,8 @@ bba-shopify.com
 www.bba-shopify.com
 bbcolors.it
 www.bbcolors.it
+bbq-qonix.de
+www.bbq-qonix.de
 bbvipanswer.shop
 www.bbvipanswer.shop
 bbvipdiscover.shop
@@ -1666,6 +1643,10 @@ www.berlinbeardeal.de
 berlinbluebox.de
 www.berlinbluebox.de
 berliner-laden.de
+berlinermode.shop
+www.berlinermode.shop
+berlinosa.de
+www.berlinosa.de
 berlinpellets.com
 www.berlinpellets.com
 berndundgiselarenz.de
@@ -1691,6 +1672,8 @@ www.best-home.store
 best-income-source.com
 best24rxonline.shop
 www.best24rxonline.shop
+best4you.org
+www.best4you.org
 bestasateam.top
 www.bestasateam.top
 bestbaba.xyz
@@ -1864,6 +1847,8 @@ bike-shop-market.com
 www.bike-shop-market.com
 bikeabus.com
 www.bikeabus.com
+bikeblitz.de
+www.bikeblitz.de
 bikecannondale.com
 www.bikecannondale.com
 bikeequipmentdepot.com
@@ -1915,6 +1900,8 @@ billigeinkaufen.at
 www.billigeinkaufen.at
 billigeklokker.com
 www.billigeklokker.com
+billigfahrrad.com
+www.billigfahrrad.com
 bineflix.de
 www.bineflix.de
 bing-grondahl.com
@@ -2009,8 +1996,10 @@ www.bitcoinarchon.com
 www.bitcoinarchon.org
 bitcoindecode.io
 www.bitcoindecode.io
+bitcoineer.app
 bitcoineer.de
 bitcoineer.tv
+www.bitcoineer.app
 www.bitcoineer.de
 www.bitcoineer.tv
 bitcoinexpertrading.com
@@ -2120,6 +2109,8 @@ blueflix.de
 www.blueflix.de
 bluekip.com
 www.bluekip.com
+blueribbon.site
+www.blueribbon.site
 blum-film.de
 www.blum-film.de
 blumen-pro.de
@@ -2356,6 +2347,8 @@ brauer-reifen.com
 www.brauer-reifen.com
 braun-kamine.com
 www.braun-kamine.com
+brautkleider-24.de
+www.brautkleider-24.de
 brautkleidersales.com
 www.brautkleidersales.com
 breadslicersale.com
@@ -2432,6 +2425,8 @@ brooks-austria.com
 www.brooks-austria.com
 brooksberlin.de
 www.brooksberlin.de
+brookslaufschuhe.at
+www.brookslaufschuhe.at
 brookslaufschuhesale.de
 www.brookslaufschuhesale.de
 brooksosterreich.at
@@ -2571,6 +2566,8 @@ buxtownbeacher.de
 www.buxtownbeacher.de
 buy-cheap.eu
 www.buy-cheap.eu
+buy-pills.site
+www.buy-pills.site
 buyandorder.com
 www.buyandorder.com
 buybestgoods.top
@@ -2638,6 +2635,7 @@ www.byte-one.at
 bz-fuerth.de
 www.bz-fuerth.de
 c3scores.com
+check.c3scores.com
 www.c3scores.com
 cabergbrema.com
 www.cabergbrema.com
@@ -2657,6 +2655,8 @@ cafe-bauer.at
 www.cafe-bauer.at
 cafe-hardenberg.de
 www.cafe-hardenberg.de
+cafivo.com
+www.cafivo.com
 cagliostroberlin.de
 www.cagliostroberlin.de
 cairnoptical.com
@@ -2693,6 +2693,8 @@ camillesite.shop
 www.camillesite.shop
 campclearancesale.store
 www.campclearancesale.store
+camperschuhe.at
+www.camperschuhe.at
 campevery.com
 www.campevery.com
 campingandsurf.com
@@ -2726,6 +2728,8 @@ canadagoosevyprodej.cz
 www.canadagoosevyprodej.cz
 canadarx24h.com
 www.canadarx24h.com
+canastic.com
+www.canastic.com
 candlesbymadison.com
 www.candlesbymadison.com
 canis-feles.de
@@ -2830,6 +2834,8 @@ carvanamarkt.com
 www.carvanamarkt.com
 caryswimwear.shop
 www.caryswimwear.shop
+casafaranda.com
+www.casafaranda.com
 casapadrinos.de
 www.casapadrinos.de
 casebity.com
@@ -2982,6 +2988,8 @@ chapmbv.com
 www.chapmbv.com
 chargedupgadgets.com
 www.chargedupgadgets.com
+charlesdavidshoe.com
+www.charlesdavidshoe.com
 charmbean.com
 store.charmbean.com
 www.charmbean.com
@@ -3005,6 +3013,8 @@ cheap-tool.com
 www.cheap-tool.com
 cheapbiking.com
 www.cheapbiking.com
+cheapbrother.com
+www.cheapbrother.com
 cheapburns.shop
 www.cheapburns.shop
 cheapcharly.de
@@ -3013,11 +3023,15 @@ cheapdogfood.store
 www.cheapdogfood.store
 cheapgirltackle.com
 www.cheapgirltackle.com
+cheapmondo.com
+www.cheapmondo.com
 cheapmusical.com
 www.cheapmusical.com
 cheaptom.shop
 www.cheaptom.shop
 store.cheat-on.com
+checkaktiv.de
+www.checkaktiv.de
 checkist.top
 www.checkist.top
 chedrt.store
@@ -3443,8 +3457,6 @@ store.rsaonlinenow.com.au
 www.rsaonlinenow.com.au
 sowood.com.au
 thegiftyhouse.com.au
-store.apple.com-coordinates.info
-www.apple.com-coordinates.info
 comba.at
 www.comba.at
 combojoy.com
@@ -3708,6 +3720,7 @@ crocsoutletdeutschland.com
 www.crocsoutletdeutschland.com
 crocssalenz.com
 www.crocssalenz.com
+crossfit-kempten.de
 crosstourer.at
 www.crosstourer.at
 croutletau.store
@@ -3721,6 +3734,8 @@ crypsome.click
 www.crypsome.click
 cryptmaketrade.com
 www.cryptmaketrade.com
+crypto-mineinvests.com
+www.crypto-mineinvests.com
 platform.crypto1capital-trade.com
 cryptoeddu.com
 www.cryptoeddu.com
@@ -3799,6 +3814,8 @@ cycle100percent.com
 www.cycle100percent.com
 cycleclothingcheap.com
 www.cycleclothingcheap.com
+cycleorigin.com
+www.cycleorigin.com
 cyclepirelliprofile.com
 www.cyclepirelliprofile.com
 cyclepopular.com
@@ -3901,11 +3918,14 @@ damco-logistics.com
 www.damco-logistics.com
 damecbd.eu
 www.damecbd.eu
+dameniva.de
+www.dameniva.de
 damenmode-quelle.de
 www.damenmode-quelle.de
 damenperuecke.com
 www.damenperuecke.com
 danaaman.xyz
+store.danaaman.xyz
 www.danaaman.xyz
 danadarurat.net
 www.danadarurat.net
@@ -3971,6 +3991,8 @@ das-home.com
 www.das-home.com
 das-loesungsprinzip.at
 www.das-loesungsprinzip.at
+dasbuchdeslebens.at
+www.dasbuchdeslebens.at
 daschachten.de
 www.daschachten.de
 dasdea.com
@@ -4032,8 +4054,9 @@ www.dcsiteservices.com
 dcsnowboard.com
 www.dcsnowboard.com
 ddoe.shop
-store.ddoe.shop
 www.ddoe.shop
+ddypjs.com
+www.ddypjs.com
 newbalancesneakers.de.com
 pronb.de.com
 pronewbalance.de.com
@@ -4063,6 +4086,8 @@ decoden.shop
 www.decoden.shop
 decorationhome.store
 www.decorationhome.store
+decorlightingsale.com
+www.decorlightingsale.com
 decoryourhome.store
 decryptotradefx.com
 www.decryptotradefx.com
@@ -4077,6 +4102,8 @@ store.deergift.com
 www.deergift.com
 defactro.com
 www.defactro.com
+defahrradrabatt.com
+www.defahrradrabatt.com
 defahrradzubehoer.com
 www.defahrradzubehoer.com
 defenseweapon.store
@@ -4103,6 +4130,8 @@ dein-gartenmarkt.de
 www.dein-gartenmarkt.de
 dein-huettenurlaub.de
 www.dein-huettenurlaub.de
+dein-traumbrautkleid.de
+www.dein-traumbrautkleid.de
 deinbezirkunddu.at
 www.deinbezirkunddu.at
 deine-reise.info
@@ -4149,6 +4178,8 @@ demoniaschuhe.de
 www.demoniaschuhe.de
 den-danske.com
 www.den-danske.com
+denamalls.com
+www.denamalls.com
 dendelberg-kr.de
 www.dendelberg-kr.de
 denika.at
@@ -4165,6 +4196,8 @@ dentalsuppliessale.store
 www.dentalsuppliessale.store
 dentvilleclinic.com
 www.dentvilleclinic.com
+deonlinefahrrad.com
+www.deonlinefahrrad.com
 top.dep-ftd.xyz
 depeggao.com
 www.depeggao.com
@@ -4496,6 +4529,8 @@ dogparadisestore.com
 www.dogparadisestore.com
 dogs-food.shop
 www.dogs-food.shop
+dogsfoodmall.store
+www.dogsfoodmall.store
 dogstoy.shop
 www.dogstoy.shop
 dogsuppliesales.store
@@ -4514,6 +4549,8 @@ doktoratonline.cz
 www.doktoratonline.cz
 doktorp.de
 www.doktorp.de
+doktorpotenzmittel.de
+www.doktorpotenzmittel.de
 doktrin.cz
 www.doktrin.cz
 dolceamara.com
@@ -4582,6 +4619,8 @@ doussales.com
 www.doussales.com
 doyourselfafavr.at
 www.doyourselfafavr.at
+dozesale.com
+www.dozesale.com
 dpangulfts.com
 www.dpangulfts.com
 dphandel.at
@@ -4733,6 +4772,8 @@ dunjakke-no.com
 www.dunjakke-no.com
 dupastore.com
 www.dupastore.com
+durablemicrotech.com
+www.durablemicrotech.com
 durchschaubar.at
 www.durchschaubar.at
 durindo.de
@@ -4942,6 +4983,8 @@ ednajewelry.shop
 www.ednajewelry.shop
 edorz.us
 www.edorz.us
+edpilulanetwork.com
+www.edpilulanetwork.com
 eds-electromenager.com
 bedelia.fmed.edu.uy
 edzoease.com
@@ -5030,6 +5073,8 @@ electronicade.com
 www.electronicade.com
 electronicaudio.store
 www.electronicaudio.store
+elegantaodd.com
+www.elegantaodd.com
 eleictoyshop.com
 www.eleictoyshop.com
 elektora.de
@@ -5100,6 +5145,8 @@ elektronikgeschaft.com
 www.elektronikgeschaft.com
 elektroniknetzteil.de
 www.elektroniknetzteil.de
+elektronikrabatt.com
+www.elektronikrabatt.com
 elektronio.de
 www.elektronio.de
 elektronische-strasse.com
@@ -5174,7 +5221,6 @@ elo-werker.com
 www.elo-werker.com
 elongives.net
 www.elongives.net
-elonlive2x.com
 elontsla.com
 www.elontsla.com
 eloquentika.de
@@ -5191,6 +5237,8 @@ eluxuryonline.com
 www.eluxuryonline.com
 emarktkauf.com
 www.emarktkauf.com
+emarktplus.de
+www.emarktplus.de
 emberio.com
 store.emberio.com
 www.emberio.com
@@ -5376,6 +5424,8 @@ errevi.de
 www.errevi.de
 ersatzteil-land-mengeler.de
 www.ersatzteil-land-mengeler.de
+ersatzteilerabatt.com
+www.ersatzteilerabatt.com
 ersthands.com
 www.ersthands.com
 erun.fr
@@ -5443,6 +5493,8 @@ eufahrradzubehor.de
 www.eufahrradzubehor.de
 eugadneu.de
 www.eugadneu.de
+euheadsport.de
+www.euheadsport.de
 eurlogistic.com
 www.eurlogistic.com
 euro-markt-elektro.online
@@ -5592,6 +5644,8 @@ expresslogisticgroup.com
 www.expresslogisticgroup.com
 expressmovers.com
 www.expressmovers.com
+exproplatform.com
+www.exproplatform.com
 exquisitejewelryonsale.store
 www.exquisitejewelryonsale.store
 exquisitejewelrysale.website
@@ -5602,8 +5656,6 @@ epezq.extech-x.com
 extendsport.top
 exthann.com
 www.exthann.com
-extra-shop.store
-www.extra-shop.store
 extracontroller.co
 www.extracontroller.co
 extracryptocurrency.com
@@ -5612,10 +5664,13 @@ extradevip.com
 www.extradevip.com
 extratopia.com
 www.extratopia.com
+extremeofguy.com
+www.extremeofguy.com
 extrifitslovakia.eu
 www.extrifitslovakia.eu
 exvision.de
 www.exvision.de
+eyachfischer.de
 eyewear4you.cz
 www.eyewear4you.cz
 ezlaptop.net
@@ -5675,9 +5730,7 @@ fahrradcheck24.de
 www.fahrradcheck24.de
 fahrradhaus-zeyen.de
 www.fahrradhaus-zeyen.de
-fahrradmarkise.com
 fahrradmarkise.de
-www.fahrradmarkise.com
 www.fahrradmarkise.de
 fahrradriese.de
 www.fahrradriese.de
@@ -5729,6 +5782,8 @@ famulaturcheck.at
 www.famulaturcheck.at
 fanaticgarment.com
 www.fanaticgarment.com
+fanatictool.com
+www.fanatictool.com
 fancycentral.com
 store.fancycentral.com
 www.fancycentral.com
@@ -5867,6 +5922,10 @@ www.favoritepetselling.store
 favoriteshopmall.store
 www.favoriteshopmall.store
 favornote.com
+fbheydudesale.com
+www.fbheydudesale.com
+fbmf-b391022.su
+www.fbmf-b391022.su
 fcirlich.de
 www.fcirlich.de
 fdpbuerstadt.de
@@ -5881,6 +5940,7 @@ febsale.com
 www.febsale.com
 feddiy.com
 www.feddiy.com
+federnd-fit.de
 feedingweaning.com
 www.feedingweaning.com
 feellik.com
@@ -6000,8 +6060,6 @@ filmmentol.com
 www.filmmentol.com
 filmteam-nieheim.de
 www.filmteam-nieheim.de
-filzaffairen.de
-www.filzaffairen.de
 fimelstore.it
 www.fimelstore.it
 fimev.de
@@ -6012,6 +6070,10 @@ financialpronews.com
 www.financialpronews.com
 finanzaufsichtsbehoerde.com
 www.finanzaufsichtsbehoerde.com
+finca-agentur-fehlberg.com
+www.finca-agentur-fehlberg.com
+fincacheck.com
+www.fincacheck.com
 findedeinrad.de
 www.findedeinrad.de
 findsort.top
@@ -6026,6 +6088,8 @@ finejewelrysales.store
 www.finejewelrysales.store
 finelyycarved.com
 www.finelyycarved.com
+fineonlinesale.com
+www.fineonlinesale.com
 finerglory.com
 www.finerglory.com
 finewineaccess.com
@@ -6342,6 +6406,8 @@ fouque.de
 www.fouque.de
 fourjimmy.top
 www.fourjimmy.top
+foxaspect.com
+www.foxaspect.com
 foxflix.de
 www.foxflix.de
 foxnewstrade.org
@@ -6360,6 +6426,8 @@ franklinhome.shop
 www.franklinhome.shop
 franzisko-dachdecker.de
 www.franzisko-dachdecker.de
+frax-global.com
+www.frax-global.com
 frcomposants.com
 www.frcomposants.com
 fredidro.com
@@ -6514,6 +6582,8 @@ furnishingus.com
 www.furnishingus.com
 furnitureshop.store
 www.furnitureshop.store
+furnitureshopmall.com
+www.furnitureshopmall.com
 furnitureshopping.website
 www.furnitureshopping.website
 furoshop.com
@@ -6640,6 +6710,8 @@ gandreidev.shop
 www.gandreidev.shop
 gantcliver.com
 www.gantcliver.com
+gapotheke.de
+www.gapotheke.de
 gapp-cabtech.cz
 www.gapp-cabtech.cz
 gardana.net
@@ -6648,6 +6720,8 @@ gardendecoratio.shop
 www.gardendecoratio.shop
 gardenequipmentsale.store
 www.gardenequipmentsale.store
+gardentoolssale.com
+www.gardentoolssale.com
 garmineoutlet.com
 garminproductstore4us.com
 garminwelt.online
@@ -6705,6 +6779,8 @@ gc-reiting.at
 www.gc-reiting.at
 gd-workshop.com
 www.gd-workshop.com
+gdallianz.com
+www.gdallianz.com
 geaieentnm.com
 www.geaieentnm.com
 gear-outdoors.com
@@ -6839,8 +6915,6 @@ ggsportsagents.com
 www.ggsportsagents.com
 ggv-tk.de
 www.ggv-tk.de
-ghostarmy.de
-www.ghostarmy.de
 giakitchen.space
 www.giakitchen.space
 giavbv.top
@@ -7013,6 +7087,8 @@ goddesssharej.com
 www.goddesssharej.com
 godeskonettbutikk.com
 www.godeskonettbutikk.com
+goertz-graef.de
+www.goertz-graef.de
 goetzwache.de
 www.goetzwache.de
 goexpressparcel.com
@@ -7063,6 +7139,8 @@ goldengooseboty.cz
 www.goldengooseboty.cz
 goldeninvestbroker.com
 www.goldeninvestbroker.com
+goldf-tradex.com
+www.goldf-tradex.com
 goldfuchs.at
 www.goldfuchs.at
 goldgood.store
@@ -7378,6 +7456,8 @@ haeramon.de
 www.haeramon.de
 hagedornmode.de
 www.hagedornmode.de
+hagomann.com
+www.hagomann.com
 hair-oil.store
 www.hair-oil.store
 hairandbath.xyz
@@ -7418,8 +7498,12 @@ handelshaus-mayer.de
 www.handelshaus-mayer.de
 handlemylife.info
 www.handlemylife.info
+handpickgeneralstore.com
+www.handpickgeneralstore.com
 handwerker-katalog.net
 handwerkversand.shop
+handwerkzeugshop.com
+www.handwerkzeugshop.com
 handy24.biz
 www.handy24.biz
 handyhalters.de
@@ -7487,6 +7571,7 @@ www.harpious.com
 hartmann-versand.de
 www.hartmann-versand.de
 haruko.store
+store.haruko.store
 www.haruko.store
 hasanutar.com
 www.hasanutar.com
@@ -7500,6 +7585,8 @@ hati-onlineshop.de
 www.hati-onlineshop.de
 haufeltd.com
 www.haufeltd.com
+hauptapotheke.com
+www.hauptapotheke.com
 haus-der-bos.com
 www.haus-der-bos.com
 haus-media.de
@@ -7563,6 +7650,8 @@ hazeuhren.com
 www.hazeuhren.com
 hbc-finance.cz
 www.hbc-finance.cz
+hc-spedition.com
+www.hc-spedition.com
 hcasinogrey.shop
 www.hcasinogrey.shop
 hcslimburg.de
@@ -7605,6 +7694,8 @@ hebero.de
 www.hebero.de
 hederich-co.de
 www.hederich-co.de
+hedlund-versand.com
+www.hedlund-versand.com
 hefov.shop
 www.hefov.shop
 heidecker-rollergang.de
@@ -7619,6 +7710,8 @@ heimeiche.de
 www.heimeiche.de
 heimprofis.de
 www.heimprofis.de
+heimwerk-meister.de
+www.heimwerk-meister.de
 heinrich-essing.de
 www.heinrich-essing.de
 heira-shop.com
@@ -7864,6 +7957,8 @@ hokaonevyprodej.cz
 www.hokaonevyprodej.cz
 hokaoutlet.cz
 www.hokaoutlet.cz
+hokaschuhe.at
+www.hokaschuhe.at
 hokastyle.com
 www.hokastyle.com
 hokejovedresy.com
@@ -8124,6 +8219,8 @@ hudyrc.com
 www.hudyrc.com
 hugfirst.com
 www.hugfirst.com
+hughfurniture.xyz
+www.hughfurniture.xyz
 huglo.cz
 huglo.sk
 www.huglo.cz
@@ -8477,6 +8574,8 @@ interharbours.com
 www.interharbours.com
 interiordream.cz
 www.interiordream.cz
+interiorlightingshop.com
+www.interiorlightingshop.com
 internationaalverhuisadvies.nl
 www.internationaalverhuisadvies.nl
 internationalcybersafedating.com
@@ -8544,6 +8643,9 @@ irlongsecure.top
 www.irlongsecure.top
 irongoing.com
 www.irongoing.com
+ironpawtiny.live
+store.ironpawtiny.live
+www.ironpawtiny.live
 iruthok.com
 www.iruthok.com
 irwinpoint.com
@@ -8610,6 +8712,8 @@ jackjonesbootmaker.com
 www.jackjonesbootmaker.com
 jackwolfskinluxembourg.com
 www.jackwolfskinluxembourg.com
+jackwolfskinoutlet.com
+www.jackwolfskinoutlet.com
 jackwolfskinpraha.com
 www.jackwolfskinpraha.com
 jackwolfskinwerksverkauf.com
@@ -8882,6 +8986,8 @@ juust24.com
 www.juust24.com
 jvp-amstetten.at
 www.jvp-amstetten.at
+jw-boutique.com
+www.jw-boutique.com
 jxac.shop
 www.jxac.shop
 k-nj.com
@@ -9023,6 +9129,8 @@ katzende.de
 www.katzende.de
 kaufbrennholz.de
 www.kaufbrennholz.de
+kaufdefahrrad.com
+www.kaufdefahrrad.com
 kaufdisney.de
 www.kaufdisney.de
 kaufenfuhrerschein.com
@@ -9060,6 +9168,8 @@ kedsdeutschlandshop.com
 www.kedsdeutschlandshop.com
 kedsschuhe.top
 www.kedsschuhe.top
+kedsschuhes.com
+www.kedsschuhes.com
 keen-cz.com
 www.keen-cz.com
 keenbotyeshop.cz
@@ -9086,6 +9196,8 @@ keepeoff.shop
 www.keepeoff.shop
 keeprake.com
 www.keeprake.com
+keesocial.com
+www.keesocial.com
 keil-versand.com
 www.keil-versand.com
 keithretail.shop
@@ -9161,11 +9273,15 @@ kianshopy.com
 www.kianshopy.com
 kiaranews.com
 www.kiaranews.com
+kickarea.cn
+www.kickarea.cn
 kickoff-bikes.com
 www.kickoff-bikes.com
 kidebro.com
 www.kidebro.com
 kidge.store
+kidloveoutfit.com
+www.kidloveoutfit.com
 kidsadidaswear.com
 www.kidsadidaswear.com
 kidseducationaltoy.store
@@ -9274,6 +9390,8 @@ www.kiweecases.com
 kizona-handel.net
 kjsr-radeberg.de
 www.kjsr-radeberg.de
+kkhitlul.top
+www.kkhitlul.top
 kkilomo.com
 www.kkilomo.com
 kkiste.su
@@ -9296,6 +9414,8 @@ klax24.de
 www.klax24.de
 kleankanteenbottle.com
 www.kleankanteenbottle.com
+kleider-24.de
+www.kleider-24.de
 kleine-freundin.com
 www.kleine-freundin.com
 kleinesschaetzchen.de
@@ -9366,6 +9486,8 @@ kodiaq.eu
 www.kodiaq.eu
 kodykuponu.com
 www.kodykuponu.com
+kofireisen.com
+www.kofireisen.com
 kohlerofficial.com
 www.kohlerofficial.com
 koithru.com
@@ -9406,6 +9528,8 @@ kontribusiuang.top
 www.kontribusiuang.top
 kopticschool.de
 www.kopticschool.de
+korenaische-mode.de
+www.korenaische-mode.de
 koretrak.kaufen
 www.koretrak.kaufen
 koronavirus.in
@@ -9577,6 +9701,8 @@ ladyshoe.store
 www.ladyshoe.store
 ladyvanilla.de
 www.ladyvanilla.de
+ladywares.com
+www.ladywares.com
 lafinca-global.com
 lagerfehlmengen.de
 www.lagerfehlmengen.de
@@ -9692,6 +9818,8 @@ latestskirt.store
 www.latestskirt.store
 latestwestern.com
 www.latestwestern.com
+latifamorgantyorkies.com
+www.latifamorgantyorkies.com
 laubfall.de
 www.laubfall.de
 laufschule-janson.de
@@ -9702,6 +9830,8 @@ laureshop.eu
 www.laureshop.eu
 lava-muc.de
 www.lava-muc.de
+lavernegolf.shop
+www.lavernegolf.shop
 lavitaroquetas.com
 www.lavitaroquetas.com
 layssard.com
@@ -9746,6 +9876,23 @@ lecohealth.com
 www.lecohealth.com
 ledcars.at
 www.ledcars.at
+ledger-liveweb3app.com
+www.ledger-liveweb3app.com
+ledgerlive.mobi
+www.ledgerlive.mobi
+ledgerlives.live
+www.ledgerlives.live
+ledgerlivewallets.com
+www.ledgerlivewallets.com
+ledgerrlivess.org
+www.ledgerrlivess.org
+ledgers.network
+www.ledgers.network
+ledgerslive.org
+www.ledgerslive.org
+ledgqer.com
+store.ledgqer.com
+www.ledgqer.com
 leditgreen.fr
 www.leditgreen.fr
 leecogo.com
@@ -9944,6 +10091,8 @@ ligtm.us
 www.ligtm.us
 likelymorely.com
 www.likelymorely.com
+likeshoeees.com
+www.likeshoeees.com
 lillly.shop
 store.lillly.shop
 www.lillly.shop
@@ -10068,6 +10217,8 @@ lockpickingstore.de
 www.lockpickingstore.de
 locoford.com
 www.locoford.com
+loefflerrandalllove.com
+www.loefflerrandalllove.com
 loewe-vom-sauerland.de
 www.loewe-vom-sauerland.de
 loftysole.site
@@ -10297,6 +10448,8 @@ luxusuhren.to
 www.luxusuhren.to
 luyergeour.com
 www.luyergeour.com
+lva-grosshandel.de
+www.lva-grosshandel.de
 lydeyw.online
 www.lydeyw.online
 lydiapet.space
@@ -10374,6 +10527,8 @@ makeazt.com
 www.makeazt.com
 makeglamfg.com
 www.makeglamfg.com
+makeupgeneric.com
+www.makeupgeneric.com
 makewallperfect.store
 store.makewallperfect.store
 www.makewallperfect.store
@@ -10411,6 +10566,8 @@ mamapapaclothing.com
 www.mamapapaclothing.com
 mambojamboaruba.com
 www.mambojamboaruba.com
+mami-paradise.de
+www.mami-paradise.de
 man-homes.com
 www.man-homes.com
 manaboutadog.de
@@ -10464,6 +10621,8 @@ markaduz.com
 www.markaduz.com
 markdownmerge.com
 www.markdownmerge.com
+markechant.com
+www.markechant.com
 marketabrancikova.cz
 www.marketabrancikova.cz
 markethops.com
@@ -10671,8 +10830,6 @@ medgroup.club
 www.medgroup.club
 media-deals24.de
 www.media-deals24.de
-media-haushalt.de
-www.media-haushalt.de
 media-heinemann.com
 www.media-heinemann.com
 media-lehmann.com
@@ -10705,6 +10862,8 @@ medicine-online.org
 www.medicine-online.org
 medicphytos.com
 www.medicphytos.com
+medics-shop.net
+www.medics-shop.net
 medikament24.net
 www.medikament24.net
 medikamente-kaufen-24.net
@@ -10727,14 +10886,14 @@ medimaxde.de
 www.medimaxde.de
 medimaxdeutsch.de
 www.medimaxdeutsch.de
+medimaxdeutschland.store
+www.medimaxdeutschland.store
 medimaxkontakt.de
 www.medimaxkontakt.de
 medimaxline.de
 www.medimaxline.de
 medimaxservice.de
 www.medimaxservice.de
-medimaxstore.de
-www.medimaxstore.de
 medimox.net
 www.medimox.net
 medirezept.com
@@ -10815,6 +10974,8 @@ meineprojektoren.com
 www.meineprojektoren.com
 meinkleinesdepot.com
 www.meinkleinesdepot.com
+meinoel24.com
+www.meinoel24.com
 meinshirts.de
 www.meinshirts.de
 meisteralles.de
@@ -10851,6 +11012,8 @@ menclothesonline.store
 www.menclothesonline.store
 menclothingforsale.store
 www.menclothingforsale.store
+mendezcufflinks.shop
+www.mendezcufflinks.shop
 menfashionpromotion.store
 www.menfashionpromotion.store
 menily.com
@@ -11193,8 +11356,12 @@ modplay.de
 www.modplay.de
 modulerdekor.com
 www.modulerdekor.com
+moebelhaus-clovis.de
+www.moebelhaus-clovis.de
 moelleraktivhof.de
 www.moelleraktivhof.de
+moensale.com
+www.moensale.com
 mogmoc.com
 moja-cajovna.cz
 www.moja-cajovna.cz
@@ -11351,6 +11518,8 @@ mrceets.com
 www.mrceets.com
 mrphonedeals.com
 www.mrphonedeals.com
+ms-event.tech
+www.ms-event.tech
 ms-twin.de
 www.ms-twin.de
 msaylor2x.com
@@ -11373,6 +11542,8 @@ mtjarmart.shop
 www.mtjarmart.shop
 muama-enence.net
 www.muama-enence.net
+muckschweiz.com
+www.muckschweiz.com
 mudanzas-al-extranjero.es
 www.mudanzas-al-extranjero.es
 muellerscafe.de
@@ -11418,6 +11589,8 @@ musicequipmentshopping.store
 www.musicequipmentshopping.store
 musiknachhilfe.at
 www.musiknachhilfe.at
+musk-aigpt.com
+www.musk-aigpt.com
 musk-bit.com
 www.musk-bit.com
 muskai.net
@@ -11430,6 +11603,8 @@ mustafaelnimr.at
 www.mustafaelnimr.at
 musthavecycle.com
 www.musthavecycle.com
+musthavehunting.com
+www.musthavehunting.com
 muthaafoundation.org
 www.muthaafoundation.org
 muzam.de
@@ -11449,6 +11624,7 @@ yoli.my.id
 www.yoli.my.id
 uschse04.my03.com
 store.uschse04.my03.com
+www.uschse04.my03.com
 myautofficina.it
 www.myautofficina.it
 mybell-refund.me
@@ -11655,6 +11831,8 @@ store.nanistores.com
 www.nanistores.com
 nanovein.eu
 www.nanovein.eu
+nanoweb3-rarityledgertech.com
+www.nanoweb3-rarityledgertech.com
 naomibeauty.shop
 www.naomibeauty.shop
 napapijrifashion.com
@@ -11670,6 +11848,8 @@ nasioalca.com
 www.nasioalca.com
 nat-s.co
 www.nat-s.co
+nataconceptstore.com
+www.nataconceptstore.com
 natalie-bayas.de
 www.natalie-bayas.de
 nataliecraft.shop
@@ -11919,6 +12099,8 @@ newsummer.online
 www.newsummer.online
 newterry.shop
 www.newterry.shop
+newtopdigitals.club
+www.newtopdigitals.club
 newusfemale.com
 www.newusfemale.com
 newwomanoceanshop.com
@@ -11951,6 +12133,8 @@ nicdiamond.de
 www.nicdiamond.de
 nicenktop.com
 www.nicenktop.com
+nicetechpro.com
+www.nicetechpro.com
 nicht-von-heise-kopieren.de
 www.nicht-von-heise-kopieren.de
 nickccks.com
@@ -12033,6 +12217,8 @@ nk-spedition.eu
 www.nk-spedition.eu
 nkenbell.com
 www.nkenbell.com
+nkforce.com
+www.nkforce.com
 nldstore.com
 store.nldstore.com
 www.nldstore.com
@@ -12156,6 +12342,8 @@ noveltysdirect.com
 www.noveltysdirect.com
 novyles.cz
 www.novyles.cz
+now-openai.site
+www.now-openai.site
 nowakannewelpenkaufen.com
 www.nowakannewelpenkaufen.com
 noweight.de
@@ -12348,6 +12536,8 @@ ohpera.at
 www.ohpera.at
 oilabortle.com
 www.oilabortle.com
+oilsmsem.com
+www.oilsmsem.com
 oinepukin.com
 www.oinepukin.com
 oirudinkep.com
@@ -12405,12 +12595,16 @@ omegashark.com
 www.omegashark.com
 omitages.com
 www.omitages.com
+on-runningschweiz.com
+www.on-runningschweiz.com
 on-sneakers.com
 www.on-sneakers.com
 on-soprtshoes.com
 www.on-soprtshoes.com
 on-switch.com
 www.on-switch.com
+oncloud-turkey.com
+www.oncloud-turkey.com
 oncloudshoes.co
 www.oncloudshoes.co
 oncloudsonline.com
@@ -12455,6 +12649,8 @@ onlinechemicalandpills.com
 www.onlinechemicalandpills.com
 onlinedkny.com
 www.onlinedkny.com
+onlinedogfood.store
+www.onlinedogfood.store
 onlinefactory2021.ru
 www.onlinefactory2021.ru
 onlinefixedblade.com
@@ -12486,6 +12682,8 @@ onlinesgeldverdienens.com
 www.onlinesgeldverdienens.com
 onlineslevy.de
 www.onlineslevy.de
+onlinespotscoin.com
+www.onlinespotscoin.com
 cheaper.onlinestoresoutlet2021.ru
 onlineussports.com
 www.onlineussports.com
@@ -12531,10 +12729,14 @@ onward.store
 www.onward.store
 onyx-versand.com
 www.onyx-versand.com
+ooctaviat.store
+www.ooctaviat.store
 oofooosale.us
 www.oofooosale.us
 ookmdccix.com
 www.ookmdccix.com
+oopitucy.com
+www.oopitucy.com
 opbfd.shop
 www.opbfd.shop
 openai.reisen
@@ -12640,6 +12842,8 @@ otisbaby.shop
 www.otisbaby.shop
 otsnd.com
 www.otsnd.com
+ottide.com
+www.ottide.com
 otto-angebote.de
 www.otto-angebote.de
 otto-deat.de
@@ -12670,6 +12874,8 @@ outdoorortovox.com
 www.outdoorortovox.com
 outdoorpetzl.com
 www.outdoorpetzl.com
+outdoorplush.com
+www.outdoorplush.com
 outdoorr.shop
 www.outdoorr.shop
 outdoorrecreationplay.com
@@ -12697,6 +12903,8 @@ store.pjs.outlet.com
 www.pjs.outlet.com
 outlet-alfresco.com
 www.outlet-alfresco.com
+outlet-climb.com
+www.outlet-climb.com
 outlet-drmartens.com
 www.outlet-drmartens.com
 outlet-farm.com
@@ -12850,6 +13058,8 @@ paketstorch.cz
 www.paketstorch.cz
 palashcryptotrading.com
 www.palashcryptotrading.com
+palatina-vocalis.de
+www.palatina-vocalis.de
 zolrqw.palatlaldate.com
 store.zolrqw.palatlaldate.com
 www.zolrqw.palatlaldate.com
@@ -12962,6 +13172,8 @@ passamera.de
 www.passamera.de
 passion-fotos.de
 www.passion-fotos.de
+pastillas-es.com
+www.pastillas-es.com
 patainfel.com
 www.patainfel.com
 pateim.com
@@ -13101,6 +13313,8 @@ petjason.com
 www.petjason.com
 petoutlet.store
 www.petoutlet.store
+petpromotions.xyz
+www.petpromotions.xyz
 petras-nevas.de
 www.petras-nevas.de
 petsimulator.live
@@ -13112,6 +13326,8 @@ petzloutdooor.com
 www.petzloutdooor.com
 pf-ff.com
 www.pf-ff.com
+pfannen-store.com
+www.pfannen-store.com
 pfarrei-herz-mariae-igb.de
 www.pfarrei-herz-mariae-igb.de
 pfjhy.shop
@@ -13125,6 +13341,8 @@ store.pharaohstore.com
 www.pharaohstore.com
 pharm-24h.com
 www.pharm-24h.com
+pharma4health.com
+www.pharma4health.com
 pharmacet.eu
 www.pharmacet.eu
 pharmworld.icu
@@ -13153,6 +13371,8 @@ photovoltaik-green.com
 www.photovoltaik-green.com
 phpapps.de
 www.phpapps.de
+physioplus-badfiestel.de
+www.physioplus-badfiestel.de
 phytosbest.com
 www.phytosbest.com
 piazzello.at
@@ -13429,6 +13649,8 @@ popularmenswear.store
 www.popularmenswear.store
 popularusfemale.com
 www.popularusfemale.com
+popularwheel.com
+www.popularwheel.com
 popuor.com
 www.popuor.com
 popwelle.com
@@ -13598,6 +13820,8 @@ pro-glanz.at
 www.pro-glanz.at
 pro-ifen.at
 www.pro-ifen.at
+pro-paypremium-card.de
+www.pro-paypremium-card.de
 pro-pellets.at
 www.pro-pellets.at
 proactiveping.com
@@ -13760,6 +13984,7 @@ purelywave.com
 www.purelywave.com
 purprints.net
 www.purprints.net
+apothekerezeptfrei-1.puzl.com
 pwrdsport.com
 www.pwrdsport.com
 pwspsnt.com
@@ -13778,10 +14003,14 @@ pytssw.com
 www.pytssw.com
 pyvigo.com
 www.pyvigo.com
+pzbhold-auto.com
+www.pzbhold-auto.com
 qakppo.top
 www.qakppo.top
 qbagsbyte.shop
 www.qbagsbyte.shop
+qbiomal.shop
+www.qbiomal.shop
 qcatowe.store
 www.qcatowe.store
 qchokris.shop
@@ -13860,22 +14089,56 @@ store.rabamnetee.com
 rabar.net
 rabatt-disney.de
 www.rabatt-disney.de
+rabattakkuslader.com
+www.rabattakkuslader.com
 rabattarkk.de
 www.rabattarkk.de
+rabattbabykleidung.com
+www.rabattbabykleidung.com
+rabattbademode.com
+www.rabattbademode.com
+rabattbaukasten.com
+www.rabattbaukasten.com
+rabattbikinis.com
+www.rabattbikinis.com
 rabattblend.de
 www.rabattblend.de
 rabattcricut.de
 www.rabattcricut.de
+rabattdamen.com
+www.rabattdamen.com
 rabattdeuter.de
 www.rabattdeuter.de
 rabatteundcoupons.de
 www.rabatteundcoupons.de
+rabattfahrrad.com
+www.rabattfahrrad.com
 rabattfischer.de
 www.rabattfischer.de
+rabattherren.com
+www.rabattherren.com
+rabattkleidung.com
+www.rabattkleidung.com
 rabattklettern.de
 www.rabattklettern.de
+rabattmtb.com
+www.rabattmtb.com
+rabattreifen.com
+www.rabattreifen.com
+rabattschuh.com
+www.rabattschuh.com
+rabattsender.com
+www.rabattsender.com
 rabattskis.de
 www.rabattskis.de
+rabattsportbekleidung.com
+www.rabattsportbekleidung.com
+rabattstrandmode.com
+www.rabattstrandmode.com
+rabattwerkzeuge.com
+www.rabattwerkzeuge.com
+rabattzubehor.com
+www.rabattzubehor.com
 rabbiten.com
 www.rabbiten.com
 rabbunda.cz
@@ -14047,8 +14310,6 @@ rebatemerge.com
 www.rebatemerge.com
 rebatevehicle.com
 www.rebatevehicle.com
-rebeccatees.com
-store.rebeccatees.com
 rebeckabohlin.com
 www.rebeckabohlin.com
 reber-handel.de
@@ -14076,6 +14337,8 @@ redplush.shop
 www.redplush.shop
 redprotein.at
 www.redprotein.at
+reductionout.com
+www.reductionout.com
 redwingberlinshop.com
 www.redwingberlinshop.com
 redwingshoes-usa.com
@@ -14233,6 +14496,8 @@ www.resid3ncy.com
 store.resources4gaming.com
 restaurantnamaskar.de
 www.restaurantnamaskar.de
+restdiablo.com
+www.restdiablo.com
 restliss.com
 www.restliss.com
 retailerbike.com
@@ -14631,6 +14896,8 @@ rww-minis.de
 www.rww-minis.de
 rxapothekefursie.com
 www.rxapothekefursie.com
+rxmed.top
+www.rxmed.top
 rxmedonline.com
 www.rxmedonline.com
 ryanandtisha.com
@@ -14647,6 +14914,8 @@ saaturing.com
 www.saaturing.com
 saberdogart.com
 www.saberdogart.com
+sabermall.com
+www.sabermall.com
 sabine-becker.de
 www.sabine-becker.de
 sabinekraemer.de
@@ -14659,6 +14928,8 @@ sadiemasks.online
 www.sadiemasks.online
 saexd.com
 www.saexd.com
+safeapothecary.com
+www.safeapothecary.com
 safecaps.io
 www.safecaps.io
 sageribbon.com
@@ -14691,6 +14962,8 @@ saleathletics.com
 www.saleathletics.com
 saleberghaus.com
 www.saleberghaus.com
+salebotany.com
+www.salebotany.com
 salebullboxer.com
 www.salebullboxer.com
 salec.top
@@ -14707,6 +14980,8 @@ salefossil.com
 www.salefossil.com
 salegoldenstar.com
 www.salegoldenstar.com
+salehappys.com
+www.salehappys.com
 salehomeandgarden.com
 www.salehomeandgarden.com
 salehomeus.com
@@ -14799,6 +15074,8 @@ salomononlineshop.at
 www.salomononlineshop.at
 salomonosterreich.at
 www.salomonosterreich.at
+salomonoutlet-schweiz.com
+www.salomonoutlet-schweiz.com
 salomonoutlets.at
 www.salomonoutlets.at
 salomonschuh.at
@@ -14916,6 +15193,8 @@ scentuelle.de
 www.scentuelle.de
 schaffelle.at
 www.schaffelle.at
+schalen-shop.com
+www.schalen-shop.com
 scharhoern.de
 www.scharhoern.de
 schaumstoffwelt.de
@@ -14984,6 +15263,8 @@ schmidt-reifenversand.de
 schmiede-kunst.at
 www.schmiede-kunst.at
 schmitt-drogerie.com
+schmuckrabatt.com
+www.schmuckrabatt.com
 schmukkedeern.de
 www.schmukkedeern.de
 schnabylonbeats.de
@@ -15040,6 +15321,8 @@ schweden-hus.at
 www.schweden-hus.at
 schweizch.com
 www.schweizch.com
+schweizeruhrenbillig.com
+www.schweizeruhrenbillig.com
 sciencejournal.cz
 www.sciencejournal.cz
 scientificentre.com
@@ -15066,6 +15349,8 @@ scribblepen.com
 www.scribblepen.com
 scurvefashion.com
 www.scurvefashion.com
+sdrytru.online
+www.sdrytru.online
 seaarks.com
 www.seaarks.com
 seasaltfashion.com
@@ -15123,6 +15408,8 @@ select-football.com
 www.select-football.com
 selected-software.de
 www.selected-software.de
+selectedmedsonline.com
+www.selectedmedsonline.com
 selina-nails.de
 www.selina-nails.de
 sellbest.eu
@@ -15311,6 +15598,8 @@ shop-homeware.com
 www.shop-homeware.com
 shop-menswear.store
 www.shop-menswear.store
+shop-nanox.com
+www.shop-nanox.com
 shop-outdoorliving.com
 www.shop-outdoorliving.com
 shop-pecuni.at
@@ -15383,6 +15672,8 @@ www.shopjbweld.com
 shopjeanswest.com
 www.shopjeanswest.com
 shopkrone.de
+shoplacademie.com
+www.shoplacademie.com
 shopladyfashion.com
 www.shopladyfashion.com
 shopmusicalinstruments.com
@@ -15660,6 +15951,8 @@ smart-topstore.com
 www.smart-topstore.com
 smartall.cz
 www.smartall.cz
+smartbullmarket.com
+www.smartbullmarket.com
 smarters-pro.net
 www.smarters-pro.net
 smarthomevi.com
@@ -15679,6 +15972,8 @@ smartstoy.shop
 www.smartstoy.shop
 smatam.com
 www.smatam.com
+smazdak.com
+www.smazdak.com
 smilewithstyle.at
 www.smilewithstyle.at
 smitdeals.de
@@ -15741,6 +16036,8 @@ soapano.com
 www.soapano.com
 sobrecesped.com
 www.sobrecesped.com
+sodaplatz.de
+www.sodaplatz.de
 sofa-sauber.com
 www.sofa-sauber.com
 soflix.de
@@ -15751,6 +16048,8 @@ software-onsale.com
 www.software-onsale.com
 softwaredigital24.de
 www.softwaredigital24.de
+softwarezentrale.com
+www.softwarezentrale.com
 sohaus.shop
 www.sohaus.shop
 solandis.com
@@ -15815,6 +16114,8 @@ sona-med.at
 www.sona-med.at
 sonaliguitarist.com
 www.sonaliguitarist.com
+sonlitech.de
+www.sonlitech.de
 sonnenheld.at
 www.sonnenheld.at
 sonnesucht.de
@@ -16088,6 +16389,8 @@ startx.at
 www.startx.at
 starwarslover.com
 www.starwarslover.com
+stateso.com
+www.stateso.com
 stationsparty.de
 www.stationsparty.de
 stavimezavas.cz
@@ -16147,6 +16450,8 @@ steroidhaus.net
 www.steroidhaus.net
 steroidspeicher.de
 www.steroidspeicher.de
+sterreich.at
+www.sterreich.at
 steuerfrei-shoppen.com
 www.steuerfrei-shoppen.com
 stevenjenks.com
@@ -16240,6 +16545,8 @@ storecollectable.com
 www.storecollectable.com
 storecollegeonline.com
 www.storecollegeonline.com
+storecooler.com
+www.storecooler.com
 storedarkness.com
 store.storedarkness.com
 www.storedarkness.com
@@ -16409,6 +16716,8 @@ sunglowshade.com
 www.sunglowshade.com
 sunleaftravel.com
 www.sunleaftravel.com
+sunlitecycle.com
+www.sunlitecycle.com
 sunmorrison.com
 www.sunmorrison.com
 sunny-kids.de
@@ -16437,6 +16746,8 @@ store.superfacehoodie.com
 www.superfacehoodie.com
 superhelden24.com
 www.superhelden24.com
+superiorwilderdog.com
+www.superiorwilderdog.com
 supernele.de
 www.supernele.de
 superpostalservice.com
@@ -16512,6 +16823,8 @@ sv-blaschke.de
 www.sv-blaschke.de
 svarecky-velkoobchod.cz
 www.svarecky-velkoobchod.cz
+sven-kehmeier.de
+www.sven-kehmeier.de
 svethadu.cz
 www.svethadu.cz
 swancn.shop
@@ -16556,6 +16869,8 @@ syniaty.com
 www.syniaty.com
 synnaia.com
 www.synnaia.com
+synthesizesportnew.com
+www.synthesizesportnew.com
 syntheticaloutsport.com
 www.syntheticaloutsport.com
 syntheticalusbag.com
@@ -16656,6 +16971,8 @@ tartose.com
 www.tartose.com
 taschen-sales.com
 www.taschen-sales.com
+taschenrabatt.com
+www.taschenrabatt.com
 tashacamping.space
 www.tashacamping.space
 tatjana-beauty.de
@@ -16715,6 +17032,8 @@ tech-lagerhaus.com
 www.tech-lagerhaus.com
 tech-land.de
 www.tech-land.de
+tech-translation.de
+www.tech-translation.de
 techdata-promo.at
 www.techdata-promo.at
 techerado.com
@@ -16848,8 +17167,8 @@ tes-ic.cloud
 www.tes-ic.cloud
 tesauree.com
 www.tesauree.com
-tesla2023.store
-www.tesla2023.store
+tesla-openai.com
+www.tesla-openai.com
 teslabestfor.com
 www.teslabestfor.com
 teslabounce.com
@@ -17194,6 +17513,8 @@ thorogoodfrance.com
 thorogoodfrance.fr
 www.thorogoodfrance.com
 www.thorogoodfrance.fr
+three-and-six.com
+www.three-and-six.com
 thtex.cz
 www.thtex.cz
 thtoutli.com
@@ -17329,6 +17650,8 @@ tobiwag.de
 www.tobiwag.de
 tobuyy.com
 www.tobuyy.com
+todayoffer.info
+www.todayoffer.info
 todaytw.shop
 www.todaytw.shop
 toddlershood.shop
@@ -17457,6 +17780,8 @@ topholz-oase.com
 www.topholz-oase.com
 topicphones.info
 www.topicphones.info
+topillstore.com
+www.topillstore.com
 topknflee.buzz
 www.topknflee.buzz
 topleadermarkt.com
@@ -17568,6 +17893,8 @@ tradewomenshoe.com
 www.tradewomenshoe.com
 tradingfxunipremier.com
 www.tradingfxunipremier.com
+tradingpointuk.com
+www.tradingpointuk.com
 traeerly.com
 www.traeerly.com
 traileroutletllc.com
@@ -17614,6 +17941,8 @@ www.trendprace.cz
 trendsharks.com
 store.trendsharks.com
 www.trendsharks.com
+trendyclarks.com
+www.trendyclarks.com
 trendytowns.co
 www.trendytowns.co
 treppauf-treppab.de
@@ -17674,6 +18003,8 @@ troyleebike.com
 www.troyleebike.com
 truckerclub.at
 www.truckerclub.at
+truckfilters.space
+www.truckfilters.space
 invest.truelightcore.com
 truelovebridal.shop
 www.truelovebridal.shop
@@ -17683,8 +18014,6 @@ trust-edshop.com
 www.trust-edshop.com
 trustableoffering.org
 www.trustableoffering.org
-trusted-goldshop-nr-38271.de
-www.trusted-goldshop-nr-38271.de
 trusted-shop-n2784.de
 www.trusted-shop-n2784.de
 trusted-shop-nr18374.de
@@ -17723,8 +18052,8 @@ tschu.top
 www.tschu.top
 tsladouble23.com
 www.tsladouble23.com
-tslaeth.live
-www.tslaeth.live
+tslaget.live
+www.tslaget.live
 tslawill.com
 www.tslawill.com
 tslax2.io
@@ -17767,6 +18096,7 @@ www.tugaflix.de
 tunaicair.com
 www.tunaicair.com
 tunairupiah.xyz
+store.tunairupiah.xyz
 www.tunairupiah.xyz
 tunepart.com
 www.tunepart.com
@@ -17881,6 +18211,8 @@ uggszimniboty.cz
 www.uggszimniboty.cz
 uhren-beweger.at
 www.uhren-beweger.at
+uhrenvip.de
+www.uhrenvip.de
 uhrsprung-bar.at
 www.uhrsprung-bar.at
 uhrstern.net
@@ -17957,6 +18289,8 @@ www.underwearbjornborg.com
 unequalweb.com
 www.unequalweb.com
 unibail-assets.com
+unice688.com
+www.unice688.com
 unifully.com
 unikatknopf.de
 www.unikatknopf.de
@@ -18097,6 +18431,8 @@ uslashpurchase.shop
 www.uslashpurchase.shop
 uslimitmale.com
 www.uslimitmale.com
+usmenwardrobe.com
+www.usmenwardrobe.com
 usmodernlady.com
 www.usmodernlady.com
 usnewoutdoor.com
@@ -18113,12 +18449,18 @@ usonlineoutdoor.com
 www.usonlineoutdoor.com
 usoptimal-female.com
 www.usoptimal-female.com
+usoutdoorneeds.com
+www.usoutdoorneeds.com
 uspecialoonaip.com
 www.uspecialoonaip.com
+uspharmacyshop.com
+www.uspharmacyshop.com
 uspickleballpaddle.com
 www.uspickleballpaddle.com
 usplussports.com
 www.usplussports.com
+usportabletools.com
+www.usportabletools.com
 uspory.net
 www.uspory.net
 uspromovogue.com
@@ -18127,12 +18469,18 @@ uspsglobalexpress.com
 www.uspsglobalexpress.com
 usrccarkits.com
 www.usrccarkits.com
+ussmokingproduct.com
+www.ussmokingproduct.com
 ussportabout.com
 www.ussportabout.com
 ussportarea.com
 www.ussportarea.com
 ussportpioneer.com
 www.ussportpioneer.com
+ussteelknives.com
+www.ussteelknives.com
+usstylishall-round.com
+www.usstylishall-round.com
 uswesternaccessories.com
 www.uswesternaccessories.com
 uswesternwear.com
@@ -18195,6 +18543,8 @@ vanspraha.cz
 www.vanspraha.cz
 vansscarpeit.com
 www.vansscarpeit.com
+vansschuhe.at
+www.vansschuhe.at
 vantribo.de
 www.vantribo.de
 vaomoe.com
@@ -18266,6 +18616,8 @@ velhaven.net
 www.velhaven.net
 velinon-reifen.com
 www.velinon-reifen.com
+velmaspekingese.com
+www.velmaspekingese.com
 veloberlin.de
 www.veloberlin.de
 velomont.com
@@ -18321,6 +18673,8 @@ versandhandel-decker.de
 versandhaus-decker.de
 versandhaus-lindner.net
 www.versandhaus-lindner.net
+versandpharma.com
+www.versandpharma.com
 versilbertesbesteckshop.com
 www.versilbertesbesteckshop.com
 verssivo.com
@@ -18346,6 +18700,8 @@ vessiosterreich.com
 www.vessiosterreich.com
 vetacan.cz
 www.vetacan.cz
+vetapotheke-shop.de
+www.vetapotheke-shop.de
 veterinamnichovice.cz
 www.veterinamnichovice.cz
 vetoro.cc
@@ -18415,6 +18771,8 @@ vionicdeutschland.net
 www.vionicdeutschland.net
 vionicosterreich.at
 www.vionicosterreich.at
+vionicschuhe.de
+www.vionicschuhe.de
 vip-brands.cz
 www.vip-brands.cz
 vip-cigarette.com
@@ -18471,6 +18829,8 @@ vivianelektro.de
 www.vivianelektro.de
 vivilass.com
 www.vivilass.com
+vivobarefoot-deutschland.de
+www.vivobarefoot-deutschland.de
 vivobarefootboty.cz
 www.vivobarefootboty.cz
 vivobarefootcz.cz
@@ -18682,8 +19042,6 @@ wanfangmaier.com
 www.wanfangmaier.com
 wanford.com
 www.wanford.com
-wang-caravan.com
-www.wang-caravan.com
 wangsakti.com
 www.wangsakti.com
 wanparky.com
@@ -18781,6 +19139,9 @@ wearmountainsports.com
 www.wearmountainsports.com
 wearphilliplim.com
 www.wearphilliplim.com
+ledgerliveapps.web.app
+web3ledger-app.online
+www.web3ledger-app.online
 webapotheker.at
 www.webapotheker.at
 webarchx.top
@@ -19077,6 +19438,8 @@ wohlwohnen.at
 www.wohlwohnen.at
 wohnenlinxx.de
 www.wohnenlinxx.de
+wohnmobil-ludwig.de
+www.wohnmobil-ludwig.de
 wohnungdirekt.at
 www.wohnungdirekt.at
 wohnungen-wohnen.de
@@ -19205,8 +19568,11 @@ wt-schwentinental.de
 www.wt-schwentinental.de
 wunderwahl.de
 www.wunderwahl.de
+wunschurlaub24.com
+www.wunschurlaub24.com
 wusjay.shop
 www.wusjay.shop
+wv-langen.de
 wwhhwwh.top
 www.wwhhwwh.top
 wwlnws.ru
@@ -19249,6 +19615,10 @@ xilmubaik.shop
 www.xilmubaik.shop
 xiomnia.com
 www.xiomnia.com
+xistrap.com
+www.xistrap.com
+xkauf.at
+www.xkauf.at
 xl-1.de
 www.xl-1.de
 xlani.shop
@@ -19292,6 +19662,8 @@ xxxlcatering.at
 www.xxxlcatering.at
 xyiyi.com
 www.xyiyi.com
+yacht-offers.com
+www.yacht-offers.com
 yahhhoo.com
 store.yahhhoo.com
 www.yahhhoo.com
@@ -19359,6 +19731,8 @@ youreduspace.com
 www.youreduspace.com
 yourmarket24.com
 www.yourmarket24.com
+yoursafeinvestment.com
+www.yoursafeinvestment.com
 yoursalearea.com
 www.yoursalearea.com
 youthloft.uk
