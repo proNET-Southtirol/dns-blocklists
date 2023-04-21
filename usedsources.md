@@ -3,19 +3,19 @@
 #### LIGHT
 [unblocked domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-white.txt) | [unblocked referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-dead.txt)
 ```
-609682 (97%) included | 459 (0%) removed | 20026 (3%) dead
+610546 (97%) included | 457 (0%) removed | 21336 (3%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% |  113985 | personal.txt
+  1 |     100% |   0% |      0% |  114058 | personal.txt
   2 |      64% |   4% |     32% |     157 | personal-wildcard-rules.txt
-  3 |     100% |   0% |      0% |  151943 | personal-tif.txt
-  4 |     100% |   0% |      0% |   18955 | fake.txt
+  3 |     100% |   0% |      0% |  153627 | personal-tif.txt
+  4 |     100% |   0% |      0% |   19604 | fake.txt
   5 |     100% |   0% |      0% |      22 | native.apple.txt
   6 |     100% |   0% |      0% |      64 | native.huawei.txt
   7 |     100% |   0% |      0% |      58 | native.lgwebos.txt
   8 |      54% |   0% |     46% |     330 | native.tiktok.txt
   9 |      33% |   0% |     67% |     133 | native.winoffice.txt
- 10 |      97% |   0% |      3% |    5053 | black.list
+ 10 |      97% |   0% |      3% |    5054 | black.list
  11 |      94% |   6% |      0% |    3537 | https://raw.githubusercontent.com/manic-code/Emerging-Malicious-Domain-Blocklist/main/hosts.txt
 
 For domain and host lists, additionally: matching/missing subdomains (see at the bottom)
@@ -23,13 +23,13 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
 #### MULTI
 [unblocked domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/multi-removed-white.txt) | [unblocked referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/multi-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/multi-removed-dead.txt)
 ```
-957507 (95%) included | 1034 (0%) removed | 49969 (5%) dead
+958088 (95%) included | 1034 (0%) removed | 51435 (5%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% |  609682 | light.txt
-  2 |      98% |   1% |      1% |  102487 | https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt
-  3 |      95% |   5% |      0% |   88925 | adguarddns.domains.txt
-  4 |      98% |   2% |      0% |  282190 | oisd.domains.txt
+  1 |     100% |   0% |      0% |  610546 | light.txt
+  2 |      98% |   1% |      1% |  102064 | https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt
+  3 |      95% |   5% |      0% |   88996 | adguarddns.domains.txt
+  4 |      98% |   2% |      0% |  281646 | oisd.domains.txt
   5 |      88% |  12% |      0% |     256 | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/quad9_blocklist.txt
 
 For domain and host lists, additionally: matching/missing subdomains (see at the bottom)
@@ -37,53 +37,51 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
 #### PRO
 [unblocked domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro-removed-white.txt) | [unblocked referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro-removed-dead.txt)
 ```
-1335398 (76%) included | 1261 (0%) removed | 411424 (24%) dead
+1104127 (90%) included | 970 (0%) removed | 118263 (10%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% |  957507 | multi.txt
-  2 |      57% |  43% |      0% |  170535 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-  3 |      68% |  32% |      0% |  454986 | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
-  4 |      94% |   5% |      1% |   63468 | easylist.domains.txt
-  5 |      97% |   3% |      0% |    2750 | ublock.domains.txt
-  6 |      84% |  16% |      0% |  155735 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
-  7 |      96% |   3% |      1% |    3421 | tracking-extension.txt
-  8 |     100% |   0% |      0% |   48384 | popupads-extension.txt
-  9 |      99% |   0% |      1% |    5053 | black.list
+  1 |     100% |   0% |      0% |  958088 | multi.txt
+  2 |      56% |  44% |      0% |  170535 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+  3 |      94% |   5% |      1% |   63574 | easylist.domains.txt
+  4 |      97% |   3% |      0% |    2762 | ublock.domains.txt
+  5 |      96% |   3% |      1% |    3444 | tracking-extension.txt
+  6 |     100% |   0% |      0% |   48566 | popupads-extension.txt
+  7 |      99% |   0% |      1% |    5054 | black.list
 
 For domain and host lists, additionally: matching/missing subdomains (see at the bottom)
 ```
 #### PRO.PLUS
 [unblocked domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro.plus-removed-white.txt) | [unblocked referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro.plus-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro.plus-removed-dead.txt)
 ```
-1462585 (77%) included | 1682 (0%) removed | 446455 (23%) dead
+1452163 (77%) included | 1681 (0%) removed | 439878 (23%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% | 1335398 | pro.txt
-  2 |     100% |   0% |      0% |   17636 | pro.plus.extension.domains
-  3 |      98% |   1% |      1% |  130962 | https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt
-  4 |      57% |  43% |      0% |  170535 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-  5 |      68% |  32% |      0% |  454986 | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
-  6 |      98% |   2% |      0% |  282190 | oisd.domains.txt
-  7 |      92% |   8% |      0% |   50373 | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+  1 |     100% |   0% |      0% | 1104127 | pro.txt
+  2 |     100% |   0% |      0% |   17725 | pro.plus.extension.domains
+  3 |      99% |   0% |      1% |  130696 | https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt
+  4 |      56% |  44% |      0% |  170535 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+  5 |      69% |  31% |      0% |  449486 | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
+  6 |      98% |   2% |      0% |  281646 | oisd.domains.txt
+  7 |      92% |   8% |      0% |   50518 | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
   8 |      75% |  24% |      1% |     550 | https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt
-  9 |      88% |  10% |      2% |     852 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
+  9 |      88% |  10% |      2% |     854 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
  10 |      73% |  27% |      0% |     127 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_13_Turkish/filter.txt
  11 |      82% |  17% |      1% |     196 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
- 12 |      94% |   6% |      0% |    8558 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_16_French/filter.txt
+ 12 |      94% |   6% |      0% |    8573 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_16_French/filter.txt
  13 |      97% |   0% |      3% |      38 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_18_Annoyances_Cookies/filter.txt
  14 |      76% |  24% |      0% |     129 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_19_Annoyances_Popups/filter.txt
  15 |      76% |  24% |      0% |     555 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt
  16 |     100% |   0% |      0% |       5 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_21_Annoyances_Other/filter.txt
- 17 |      87% |  13% |      0% |    7295 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt
+ 17 |      87% |  13% |      0% |    7311 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt
  18 |      88% |   8% |      4% |      24 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_22_Annoyances_Widgets/filter.txt
- 19 |      98% |   2% |      0% |   27815 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
- 20 |      98% |   2% |      0% |   27477 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
+ 19 |      98% |   2% |      0% |   27949 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
+ 20 |      98% |   2% |      0% |   27481 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
  21 |      50% |  50% |      0% |       2 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt
  22 |      87% |  13% |      0% |      64 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_6_German/filter.txt
  23 |      98% |   1% |      1% |     169 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_7_Japanese/filter.txt
  24 |      85% |   5% |     10% |      21 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_8_Dutch/filter.txt
  25 |      76% |  24% |      0% |      88 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_9_Spanish/filter.txt
- 26 |      97% |   3% |      0% |    1225 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt
+ 26 |      97% |   3% |      0% |    1226 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt
  27 |      99% |   1% |      0% |     159 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers_firstparty.txt
  28 |      94% |   6% |      0% |      85 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/cryptominers.txt
  29 |     100% |   0% |      0% |      33 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/foreign.txt
@@ -94,26 +92,26 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
  34 |     100% |   0% |      0% |       1 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/UkrainianFilter/sections/adservers_firstparty.txt
  35 |     100% |   0% |      0% |       2 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/DutchFilter/sections/adservers.txt
  36 |      60% |   0% |     40% |       5 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/DutchFilter/sections/adservers_firstparty.txt
- 37 |      54% |  46% |      0% |      13 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/FrenchFilter/sections/adservers.txt
+ 37 |      57% |  43% |      0% |      14 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/FrenchFilter/sections/adservers.txt
  38 |     100% |   0% |      0% |       2 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/FrenchFilter/sections/adservers_firstparty.txt
  39 |      94% |   3% |      3% |      33 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/GermanFilter/sections/adservers.txt
  40 |      97% |   1% |      2% |     352 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
  41 |      93% |   0% |      7% |      15 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers_firstparty.txt
- 42 |      88% |  10% |      2% |     875 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
+ 42 |      88% |  10% |      2% |     877 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
  43 |      79% |  19% |      2% |     175 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpanishFilter/sections/adservers.txt
  44 |     100% |   0% |      0% |       2 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpanishFilter/sections/adservers_firstparty.txt
  45 |      87% |  10% |      3% |     684 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
- 46 |      95% |   3% |      2% |    4871 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt
- 47 |      85% |  14% |      1% |    2253 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt
+ 46 |      95% |   3% |      2% |    4873 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt
+ 47 |      85% |  14% |      1% |    2256 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt
  48 |      81% |  18% |      1% |     283 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers.txt
  49 |      63% |  37% |      0% |      62 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers_firstparty.txt
  50 |      99% |   1% |      0% |   54086 | https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
- 51 |      98% |   2% |      0% |   22957 | https://easylist-downloads.adblockplus.org/easylist.txt
- 52 |      98% |   2% |      0% |   15408 | https://easylist-downloads.adblockplus.org/easyprivacy.txt
+ 51 |      98% |   2% |      0% |   23092 | https://easylist-downloads.adblockplus.org/easylist.txt
+ 52 |      98% |   2% |      0% |   15412 | https://easylist-downloads.adblockplus.org/easyprivacy.txt
  53 |      97% |   2% |      1% |      96 | https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
  54 |      69% |  31% |      0% |      13 | https://easylist-downloads.adblockplus.org/Liste_AR.txt
  55 |      46% |  54% |      0% |    1925 | https://easylist-downloads.adblockplus.org/advblock.txt
- 56 |      87% |  13% |      0% |    7244 | https://easylist-downloads.adblockplus.org/easylistchina.txt
+ 56 |      87% |  13% |      0% |    7258 | https://easylist-downloads.adblockplus.org/easylistchina.txt
  57 |      88% |   6% |      6% |      16 | https://easylist-downloads.adblockplus.org/easylistdutch.txt
  58 |      90% |  10% |      0% |      49 | https://easylist-downloads.adblockplus.org/easylistgermany.txt
  59 |      89% |   9% |      2% |      47 | https://easylist-downloads.adblockplus.org/easylistitaly.txt
@@ -122,7 +120,7 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
  62 |     100% |   0% |      0% |      10 | https://easylist-downloads.adblockplus.org/easylistspanish.txt
  63 |     100% |   0% |      0% |       3 | https://easylist-downloads.adblockplus.org/indianlist.txt
  64 |     100% |   0% |      0% |       3 | https://easylist-downloads.adblockplus.org/koreanlist.txt
- 65 |      94% |   6% |      0% |    8550 | https://easylist-downloads.adblockplus.org/liste_fr.txt
+ 65 |      94% |   6% |      0% |    8564 | https://easylist-downloads.adblockplus.org/liste_fr.txt
  66 |      46% |  54% |      0% |    1925 | https://easylist-downloads.adblockplus.org/ruadlist.txt
  67 |      58% |  42% |      0% |      19 | https://fanboy.co.nz/enhancedstats.txt
  68 |      60% |  40% |      0% |      15 | https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt
@@ -143,33 +141,33 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
  83 |      86% |   7% |      7% |      14 | https://www.zoso.ro/pages/rolist2.txt
  84 |      67% |  33% |      0% |     263 | https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/adservers.txt
  85 |      56% |  44% |      0% |      18 | https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/thirdparty.txt
- 86 |      98% |   2% |      0% |   23547 | https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
+ 86 |      98% |   2% |      0% |   23682 | https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
  87 |     100% |   0% |      0% |     788 | https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt
  88 |      98% |   0% |      2% |    1286 | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
  89 |      98% |   1% |      1% |     485 | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty_international.txt
- 90 |      96% |   1% |      3% |    4512 | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt
- 91 |      95% |   1% |      4% |     928 | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers_international.txt
+ 90 |      96% |   1% |      3% |    4513 | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt
+ 91 |      95% |   1% |      4% |     929 | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers_international.txt
  92 |      92% |   4% |      4% |      23 | https://raw.githubusercontent.com/easylist/easylistdutch/master/easylistdutch/block_third_party_server.txt
  93 |      93% |   6% |      1% |     297 | https://raw.githubusercontent.com/easylist/easylistgermany/master/easylistgermany/easylistgermany_adservers.txt
  94 |      92% |   8% |      0% |     134 | https://raw.githubusercontent.com/easylist/easylistitaly/master/easylistitaly/easylistitaly_adservers.txt
  95 |     100% |   0% |      0% |       2 | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
- 96 |      97% |   3% |      0% |    2348 | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
+ 96 |      97% |   3% |      0% |    2354 | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
  97 |      96% |   4% |      0% |      46 | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
  98 |      94% |   6% |      0% |      47 | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt
  99 |      89% |  11% |      0% |      64 | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2022.txt
-100 |     100% |   0% |      0% |      37 | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2023.txt
+100 |     100% |   0% |      0% |      38 | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2023.txt
 101 |      94% |   6% |      0% |     133 | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
-102 |     100% |   0% |      0% |      58 | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
+102 |     100% |   0% |      0% |      63 | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
 103 |     100% |   0% |      0% |       3 | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
 104 |      89% |   9% |      2% |    1087 | https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 105 |      96% |   0% |      4% |      50 | https://raw.githubusercontent.com/realodix/AdBlockID/master/src/adservers.adfl
 106 |      97% |   3% |      0% |     310 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersAdGuardHome.txt
 107 |     100% |   0% |      0% |       7 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Other%20domains%20versions/BrowseWebsitesWithoutLoggingInAGH.txt
 108 |      98% |   2% |      0% |     825 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.txt
-109 |      95% |   5% |      0% |     226 | https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerHosts.txt
+109 |      95% |   5% |      0% |     227 | https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerHosts.txt
 110 |      45% |  52% |      3% |     744 | https://raw.githubusercontent.com/craiu/mobiletrackers/master/list.txt
 111 |      96% |   1% |      3% |     502 | https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/notrack-annoyance.txt
-112 |      97% |   1% |      2% |   16599 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+112 |      97% |   1% |      2% |   16595 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 113 |      88% |  12% |      0% |     256 | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/quad9_blocklist.txt
 114 |      98% |   2% |      0% |      44 | https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-matomo.txt
 115 |      94% |   6% |      0% |    3537 | https://raw.githubusercontent.com/manic-code/Emerging-Malicious-Domain-Blocklist/main/hosts.txt
@@ -179,57 +177,57 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
 119 |     100% |   0% |      0% |      16 | https://raw.githubusercontent.com/theel0ja/finnish-easylist-addition/master/Finland_adb.txt
 120 |      80% |  19% |      1% |     147 | https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
 121 |      92% |   1% |      7% |     188 | https://adblock.ee/list.php
-122 |      65% |  35% |      0% |  373336 | https://hblock.molinero.dev/hosts_domains.txt
-123 |      93% |   7% |      0% |    5797 | analytics-metrics-extension.txt
-124 |      96% |   3% |      1% |    3421 | tracking-extension.txt
-125 |     100% |   0% |      0% |   48384 | popupads-extension.txt
+122 |      65% |  35% |      0% |  374413 | https://hblock.molinero.dev/hosts_domains.txt
+123 |      93% |   7% |      0% |    5828 | analytics-metrics-extension.txt
+124 |      96% |   3% |      1% |    3444 | tracking-extension.txt
+125 |     100% |   0% |      0% |   48566 | popupads-extension.txt
 126 |     100% |   0% |      0% |      22 | native.apple.txt
 127 |     100% |   0% |      0% |      64 | native.huawei.txt
 128 |      69% |   0% |     31% |     151 | windows-office.txt
 129 |     100% |   0% |      0% |     330 | native.tiktok.txt
 130 |     100% |   0% |      0% |      58 | native.lgwebos.txt
-131 |      99% |   0% |      1% |    5053 | black.list
+131 |      99% |   0% |      1% |    5054 | black.list
 132 |      96% |   1% |      3% |     496 | black.list.plus
 133 |      92% |   0% |      8% |    2586 | black.list.size
-134 |     100% |   0% |      0% |  113985 | personal.txt
+134 |     100% |   0% |      0% |  114058 | personal.txt
 135 |      74% |   4% |     22% |     157 | personal-wildcard-rules.txt
-136 |     100% |   0% |      0% |   18955 | fake.txt
-137 |     100% |   0% |      0% |  151943 | personal-tif.txt
+136 |     100% |   0% |      0% |   19604 | fake.txt
+137 |     100% |   0% |      0% |  153627 | personal-tif.txt
 
 For domain and host lists, additionally: matching/missing subdomains (see at the bottom)
 ```
 #### ULTIMATE
 [unblocked domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/ultimate-removed-white.txt) | [unblocked referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/ultimate-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/ultimate-removed-dead.txt)
 ```
-2236178 (78%) included | 1267 (0%) removed | 647165 (22%) dead
+2222126 (78%) included | 1268 (0%) removed | 643482 (22%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% | 1462585 | pro.plus.txt
-  2 |     100% |   0% |      0% |   41159 | ultimate.extension.domains
-  3 |      99% |   1% |      0% |  130962 | https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt
-  4 |      57% |  43% |      0% |  170535 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-  5 |      68% |  32% |      0% |  454986 | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
-  6 |      98% |   2% |      0% |  282190 | oisd.domains.txt
-  7 |      92% |   8% |      0% |   50373 | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+  1 |     100% |   0% |      0% | 1452163 | pro.plus.txt
+  2 |     100% |   0% |      0% |   40895 | ultimate.extension.domains
+  3 |     100% |   0% |      0% |  130696 | https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt
+  4 |      56% |  44% |      0% |  170535 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+  5 |      69% |  31% |      0% |  449486 | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
+  6 |      98% |   2% |      0% |  281646 | oisd.domains.txt
+  7 |      92% |   8% |      0% |   50525 | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
   8 |      76% |  24% |      0% |     550 | https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt
-  9 |      89% |  10% |      1% |     852 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
+  9 |      89% |  10% |      1% |     854 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
  10 |      73% |  27% |      0% |     127 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_13_Turkish/filter.txt
  11 |      82% |  17% |      1% |     196 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
- 12 |      94% |   6% |      0% |    8566 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_16_French/filter.txt
+ 12 |      94% |   6% |      0% |    8573 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_16_French/filter.txt
  13 |      97% |   0% |      3% |      38 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_18_Annoyances_Cookies/filter.txt
  14 |      76% |  24% |      0% |     129 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_19_Annoyances_Popups/filter.txt
  15 |      76% |  24% |      0% |     555 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt
  16 |     100% |   0% |      0% |       5 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_21_Annoyances_Other/filter.txt
- 17 |      87% |  13% |      0% |    7302 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt
+ 17 |      87% |  13% |      0% |    7315 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt
  18 |      88% |   8% |      4% |      24 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_22_Annoyances_Widgets/filter.txt
- 19 |      98% |   2% |      0% |   27815 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
- 20 |      98% |   2% |      0% |   27477 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
+ 19 |      98% |   2% |      0% |   27949 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
+ 20 |      98% |   2% |      0% |   27481 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
  21 |      50% |  50% |      0% |       2 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt
  22 |      87% |  13% |      0% |      64 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_6_German/filter.txt
  23 |      99% |   1% |      0% |     169 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_7_Japanese/filter.txt
  24 |      85% |   5% |     10% |      21 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_8_Dutch/filter.txt
  25 |      76% |  24% |      0% |      88 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_9_Spanish/filter.txt
- 26 |      97% |   3% |      0% |    1225 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt
+ 26 |      97% |   3% |      0% |    1226 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt
  27 |      99% |   1% |      0% |     159 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers_firstparty.txt
  28 |      94% |   6% |      0% |      85 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/cryptominers.txt
  29 |     100% |   0% |      0% |      33 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/foreign.txt
@@ -240,26 +238,26 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
  34 |     100% |   0% |      0% |       1 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/UkrainianFilter/sections/adservers_firstparty.txt
  35 |     100% |   0% |      0% |       2 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/DutchFilter/sections/adservers.txt
  36 |      60% |   0% |     40% |       5 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/DutchFilter/sections/adservers_firstparty.txt
- 37 |      54% |  46% |      0% |      13 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/FrenchFilter/sections/adservers.txt
+ 37 |      57% |  43% |      0% |      14 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/FrenchFilter/sections/adservers.txt
  38 |     100% |   0% |      0% |       2 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/FrenchFilter/sections/adservers_firstparty.txt
  39 |      94% |   3% |      3% |      33 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/GermanFilter/sections/adservers.txt
  40 |      98% |   1% |      1% |     352 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
  41 |      93% |   0% |      7% |      15 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers_firstparty.txt
- 42 |      89% |  10% |      1% |     875 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
+ 42 |      89% |  10% |      1% |     877 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
  43 |      81% |  19% |      0% |     175 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpanishFilter/sections/adservers.txt
  44 |     100% |   0% |      0% |       2 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpanishFilter/sections/adservers_firstparty.txt
  45 |      89% |  10% |      1% |     684 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
- 46 |      96% |   3% |      1% |    4871 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt
- 47 |      85% |  14% |      1% |    2253 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt
+ 46 |      96% |   3% |      1% |    4873 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt
+ 47 |      85% |  14% |      1% |    2256 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt
  48 |      82% |  18% |      0% |     283 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers.txt
  49 |      63% |  37% |      0% |      62 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers_firstparty.txt
  50 |      99% |   1% |      0% |   54086 | https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
- 51 |      98% |   2% |      0% |   22957 | https://easylist-downloads.adblockplus.org/easylist.txt
- 52 |      98% |   2% |      0% |   15408 | https://easylist-downloads.adblockplus.org/easyprivacy.txt
+ 51 |      98% |   2% |      0% |   23092 | https://easylist-downloads.adblockplus.org/easylist.txt
+ 52 |      98% |   2% |      0% |   15412 | https://easylist-downloads.adblockplus.org/easyprivacy.txt
  53 |      97% |   2% |      1% |      96 | https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
  54 |      69% |  31% |      0% |      13 | https://easylist-downloads.adblockplus.org/Liste_AR.txt
  55 |      46% |  54% |      0% |    1925 | https://easylist-downloads.adblockplus.org/advblock.txt
- 56 |      87% |  13% |      0% |    7244 | https://easylist-downloads.adblockplus.org/easylistchina.txt
+ 56 |      87% |  13% |      0% |    7258 | https://easylist-downloads.adblockplus.org/easylistchina.txt
  57 |      88% |   6% |      6% |      16 | https://easylist-downloads.adblockplus.org/easylistdutch.txt
  58 |      90% |  10% |      0% |      49 | https://easylist-downloads.adblockplus.org/easylistgermany.txt
  59 |      91% |   9% |      0% |      47 | https://easylist-downloads.adblockplus.org/easylistitaly.txt
@@ -268,7 +266,7 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
  62 |     100% |   0% |      0% |      10 | https://easylist-downloads.adblockplus.org/easylistspanish.txt
  63 |     100% |   0% |      0% |       3 | https://easylist-downloads.adblockplus.org/indianlist.txt
  64 |     100% |   0% |      0% |       3 | https://easylist-downloads.adblockplus.org/koreanlist.txt
- 65 |      94% |   6% |      0% |    8558 | https://easylist-downloads.adblockplus.org/liste_fr.txt
+ 65 |      94% |   6% |      0% |    8564 | https://easylist-downloads.adblockplus.org/liste_fr.txt
  66 |      46% |  54% |      0% |    1925 | https://easylist-downloads.adblockplus.org/ruadlist.txt
  67 |      58% |  42% |      0% |      19 | https://fanboy.co.nz/enhancedstats.txt
  68 |      60% |  40% |      0% |      15 | https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt
@@ -289,33 +287,33 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
  83 |      93% |   7% |      0% |      14 | https://www.zoso.ro/pages/rolist2.txt
  84 |      67% |  33% |      0% |     263 | https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/adservers.txt
  85 |      56% |  44% |      0% |      18 | https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/thirdparty.txt
- 86 |      98% |   2% |      0% |   23547 | https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
+ 86 |      98% |   2% |      0% |   23682 | https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
  87 |     100% |   0% |      0% |     788 | https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt
  88 |      99% |   0% |      1% |    1286 | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
  89 |      98% |   1% |      1% |     485 | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty_international.txt
- 90 |      98% |   1% |      1% |    4512 | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt
- 91 |      98% |   1% |      1% |     928 | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers_international.txt
+ 90 |      98% |   1% |      1% |    4513 | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt
+ 91 |      98% |   1% |      1% |     929 | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers_international.txt
  92 |      92% |   4% |      4% |      23 | https://raw.githubusercontent.com/easylist/easylistdutch/master/easylistdutch/block_third_party_server.txt
  93 |      94% |   6% |      0% |     297 | https://raw.githubusercontent.com/easylist/easylistgermany/master/easylistgermany/easylistgermany_adservers.txt
  94 |      92% |   8% |      0% |     134 | https://raw.githubusercontent.com/easylist/easylistitaly/master/easylistitaly/easylistitaly_adservers.txt
  95 |     100% |   0% |      0% |       2 | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
- 96 |      97% |   3% |      0% |    2348 | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
+ 96 |      97% |   3% |      0% |    2355 | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
  97 |      96% |   4% |      0% |      46 | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
  98 |      94% |   6% |      0% |      47 | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt
  99 |      89% |  11% |      0% |      64 | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2022.txt
-100 |     100% |   0% |      0% |      37 | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2023.txt
+100 |     100% |   0% |      0% |      38 | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2023.txt
 101 |      94% |   6% |      0% |     133 | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
-102 |     100% |   0% |      0% |      58 | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
+102 |     100% |   0% |      0% |      63 | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
 103 |     100% |   0% |      0% |       3 | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
 104 |      90% |   9% |      1% |    1087 | https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 105 |      96% |   0% |      4% |      50 | https://raw.githubusercontent.com/realodix/AdBlockID/master/src/adservers.adfl
 106 |      97% |   3% |      0% |     310 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersAdGuardHome.txt
 107 |     100% |   0% |      0% |       7 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Other%20domains%20versions/BrowseWebsitesWithoutLoggingInAGH.txt
 108 |      98% |   2% |      0% |     825 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.txt
-109 |      95% |   5% |      0% |     226 | https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerHosts.txt
+109 |      95% |   5% |      0% |     227 | https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerHosts.txt
 110 |      46% |  52% |      2% |     744 | https://raw.githubusercontent.com/craiu/mobiletrackers/master/list.txt
 111 |      96% |   1% |      3% |     502 | https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/notrack-annoyance.txt
-112 |      98% |   1% |      1% |   16599 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+112 |      98% |   1% |      1% |   16595 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 113 |      88% |  10% |      2% |     252 | https://assets.windscribe.com/custom_blocklists/clickbait.txt
 114 |      88% |  12% |      0% |     907 | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full
 115 |      98% |   2% |      0% |      44 | https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-matomo.txt
@@ -326,20 +324,20 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
 120 |     100% |   0% |      0% |      16 | https://raw.githubusercontent.com/theel0ja/finnish-easylist-addition/master/Finland_adb.txt
 121 |      80% |  19% |      1% |     147 | https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
 122 |      97% |   1% |      2% |     188 | https://adblock.ee/list.php
-123 |      65% |  35% |      0% |  373336 | https://hblock.molinero.dev/hosts_domains.txt
+123 |      65% |  35% |      0% |  374413 | https://hblock.molinero.dev/hosts_domains.txt
 124 |      72% |  14% |     14% |       7 | https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
 125 |      78% |   9% |     13% |      79 | https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt
 126 |      67% |   0% |     33% |      12 | https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt
-127 |      95% |   3% |      2% |    1247 | https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts
+127 |      95% |   3% |      2% |    1248 | https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/hosts
 128 |      95% |   4% |      1% |   16706 | https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/ads-tracking
-129 |      93% |   7% |      0% |   82475 | https://raw.githubusercontent.com/Cats-Team/AdRules/main/ad-domains.txt
+129 |      93% |   7% |      0% |   82519 | https://raw.githubusercontent.com/Cats-Team/AdRules/main/ad-domains.txt
 130 |      89% |  11% |      0% |   58548 | https://anti-ad.net/easylist.txt
 131 |      95% |   4% |      1% |   17749 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 132 |      97% |   3% |      0% |    1792 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN
 133 |      65% |  29% |      6% |     347 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 134 |      86% |  11% |      3% |      35 | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
 135 |      86% |  13% |      1% |     173 | https://raw.githubusercontent.com/Potterli20/file/main/ad-hosts/hosts
-136 |      64% |  36% |      0% |   22648 | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
+136 |      64% |  36% |      0% |   22779 | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 137 |      96% |   4% |      0% |      25 | https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/adkeeper-domains.txt
 138 |      83% |  17% |      0% |      64 | https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/admaven-domains.txt
 139 |      72% |  28% |      0% |     220 | https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/admeasures-domains.txt
@@ -360,49 +358,49 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
 154 |      69% |  31% |      0% |      13 | https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/unknown-domains.txt
 155 |     100% |   0% |      0% |       7 | https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/videoadex-domains.txt
 156 |     100% |   0% |      0% |       1 | https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/volumedata-domains.txt
-157 |      97% |   3% |      0% |   25392 | ads-tracking-extension.txt
-158 |      96% |   3% |      1% |    3421 | tracking-extension.txt
-159 |      93% |   7% |      0% |    5797 | analytics-metrics-extension.txt
-160 |     100% |   0% |      0% |   48384 | popupads-extension.txt
+157 |      97% |   3% |      0% |   25482 | ads-tracking-extension.txt
+158 |      96% |   3% |      1% |    3444 | tracking-extension.txt
+159 |      93% |   7% |      0% |    5828 | analytics-metrics-extension.txt
+160 |     100% |   0% |      0% |   48566 | popupads-extension.txt
 161 |     100% |   0% |      0% |      22 | native.apple.txt
 162 |     100% |   0% |      0% |      64 | native.huawei.txt
 163 |      85% |   0% |     15% |     151 | windows-office.txt
 164 |     100% |   0% |      0% |     330 | native.tiktok.txt
 165 |     100% |   0% |      0% |      58 | native.lgwebos.txt
-166 |      99% |   0% |      1% |    5053 | black.list
+166 |      99% |   0% |      1% |    5054 | black.list
 167 |      96% |   1% |      3% |     496 | black.list.plus
 168 |      96% |   0% |      4% |    2586 | black.list.size
-169 |     100% |   0% |      0% |  113985 | personal.txt
+169 |     100% |   0% |      0% |  114058 | personal.txt
 170 |      85% |   4% |     11% |     157 | personal-wildcard-rules.txt
-171 |     100% |   0% |      0% |   18955 | fake.txt
-172 |     100% |   0% |      0% | 1227038 | tif.txt
+171 |     100% |   0% |      0% |   19604 | fake.txt
+172 |     100% |   0% |      0% | 1221397 | tif.txt
 
 For domain and host lists, additionally: matching/missing subdomains (see at the bottom)
 ```
 #### FAKE
 [unblocked domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/fake-removed-white.txt) | [unblocked referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/fake-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/fake-removed-dead.txt)
 ```
-18955 (97%) included | 4 (0%) removed | 516 (3%) dead
+19604 (97%) included | 4 (0%) removed | 529 (3%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
   1 |      99% |   1% |      0% |    1341 | fake.ts.txt
   2 |      98% |   2% |      0% |     364 | fake.vzni.txt
   3 |      98% |   2% |      0% |    6534 | fake.wli.txt
-  4 |      99% |   1% |      0% |    1750 | https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
-  5 |     100% |   0% |      0% |    1128 | https://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/rizikove.csv
-  6 |     100% |   0% |      0% |    1229 | https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/domains
+  4 |      99% |   1% |      0% |    1808 | https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
+  5 |     100% |   0% |      0% |    1127 | https://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/rizikove.csv
+  6 |     100% |   0% |      0% |    2179 | https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/domains
 ```
 #### TIF
 [unblocked domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/tif-removed-white.txt) | [unblocked referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/tif-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/tif-removed-dead.txt)
 ```
-1227038 (44%) included | 402 (0%) removed | 1547009 (56%) dead
+1221397 (44%) included | 398 (0%) removed | 1555552 (56%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
   1 |      77% |  22% |      1% |     156 | https://gitlab.com/cmiksche/blacklists/-/raw/master/hosts
-  2 |      34% |  66% |      0% |  109510 | https://hole.cert.pl/domains/domains_hosts.txt
-  3 |      73% |  27% |      0% |   41917 | https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt
+  2 |      34% |  66% |      0% |  109621 | https://hole.cert.pl/domains/domains_hosts.txt
+  3 |      73% |  27% |      0% |   42494 | https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt
   4 |      69% |  31% |      0% |     194 | https://malware-filter.gitlab.io/malware-filter/pup-filter-hosts.txt
-  5 |      94% |   6% |      0% |    7905 | https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt
+  5 |      94% |   6% |      0% |    8272 | https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt
   6 |      67% |  33% |      0% |   16823 | https://malware-filter.gitlab.io/malware-filter/vn-badsite-filter-hosts.txt
   7 |      85% |  15% |      0% |     544 | https://raw.githubusercontent.com/paulgb/BarbBlock/main/blocklists/hosts-file.txt
   8 |      94% |   6% |      0% |   12457 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
@@ -412,45 +410,45 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
  12 |      41% |  59% |      0% |    3319 | https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hosts.txt
  13 |      81% |  19% |      0% |    3880 | https://raw.githubusercontent.com/Th3M3/blocklists/master/malware.list
  14 |      55% |  45% |      0% |    3758 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/threat/hosts
- 15 |      81% |  17% |      2% |      63 | https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
- 16 |      99% |   1% |      0% |    1750 | https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
+ 15 |      81% |  17% |      2% |      65 | https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
+ 16 |      99% |   1% |      0% |    1808 | https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
  17 |      20% |  80% |      0% |    8624 | https://raw.githubusercontent.com/guardicore/labs_campaigns/master/Autodiscover/autodiscover-tlds.txt
  18 |      91% |   8% |      1% |     409 | https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
  19 |      26% |  74% |      0% |    1071 | https://raw.githubusercontent.com/metamask/eth-phishing-detect/master/src/hosts.txt
  20 |      74% |  25% |      1% |    1384 | https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
  21 |      57% |  43% |      0% |   13464 | https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts
- 22 |      78% |  22% |      0% |   28514 | https://threatfox.abuse.ch/downloads/hostfile
- 23 |     100% |   0% |      0% |    1065 | https://urlhaus.abuse.ch/downloads/hostfile
+ 22 |      78% |  22% |      0% |   28570 | https://threatfox.abuse.ch/downloads/hostfile
+ 23 |     100% |   0% |      0% |    1316 | https://urlhaus.abuse.ch/downloads/hostfile
  24 |      34% |  66% |      0% |  104204 | https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/malware-domains.txt
  25 |      79% |  21% |      0% |      33 | https://raw.githubusercontent.com/iam-py-test/vxvault_filter/main/domains_file.txt
  26 |      48% |  52% |      0% |     879 | https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist
- 27 |      97% |   3% |      0% |    2348 | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
+ 27 |      97% |   3% |      0% |    2354 | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
  28 |      41% |  59% |      0% |     987 | https://azorult-tracker.net/api/list/domain?format=plain
  29 |      12% |  87% |      1% |     898 | https://cert-agid.gov.it/download/log4shell-iocs-raw-domain.txt
- 30 |      38% |  62% |      0% |   13833 | https://dl.red.flag.domains/red.flag.domains_fr.txt
+ 30 |      38% |  62% |      0% |   13870 | https://dl.red.flag.domains/red.flag.domains_fr.txt
  31 |      21% |  79% |      0% |    9781 | https://gitlab.com/KevinThomas0/cryptoscamdb-lists/-/raw/master/cryptoscamdb-blocklist.txt
  32 |      20% |  80% |      0% |    1055 | https://gitlab.com/nitrohorse/government-malware-domains-blocklist/-/raw/master/domains.txt
  33 |      40% |  60% |      0% |    1128 | https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-malware.txt
  34 |      62% |  38% |      0% |    1100 | https://orca.pet/notonmyshift/domains.txt
- 35 |      81% |  17% |      2% |      63 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
- 36 |      41% |  59% |      0% |  146021 | https://phishing.army/download/phishing_army_blocklist.txt
- 37 |      42% |  58% |      0% |  151274 | https://phishing.army/download/phishing_army_blocklist_extended.txt
+ 35 |      81% |  17% |      2% |      65 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
+ 36 |      41% |  59% |      0% |  146491 | https://phishing.army/download/phishing_army_blocklist.txt
+ 37 |      42% |  58% |      0% |  151759 | https://phishing.army/download/phishing_army_blocklist_extended.txt
  38 |      23% |  77% |      0% |    1438 | https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/domains.txt
  39 |      45% |  55% |      0% |      29 | https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-10-07_donot/domains.txt
  40 |      25% |  75% |      0% |     326 | https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-12-16_cytrox/domains.txt
- 41 |      75% |  25% |      0% |    2183 | https://raw.githubusercontent.com/AmnestyTech/investigations/master/2023-03-29_android_campaign/domains.txt
+ 41 |      74% |  26% |      0% |    2183 | https://raw.githubusercontent.com/AmnestyTech/investigations/master/2023-03-29_android_campaign/domains.txt
  42 |      88% |  12% |      0% |      34 | https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/fake-domains.txt
- 43 |      48% |  52% |      0% |  130755 | https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADomains.txt
- 44 |      80% |  20% |      0% |   35945 | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware
+ 43 |      47% |  53% |      0% |  130973 | https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADomains.txt
+ 44 |      80% |  20% |      0% |   35984 | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware
  45 |      52% |  48% |      0% |     909 | https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/aggregated-threats-1.txt
  46 |      62% |  38% |      0% |    3736 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/MD-ID-Fork.txt
  47 |      82% |  18% |      0% |      39 | https://raw.githubusercontent.com/craiu/iocs/main/log4shell/log4j_blocklist.txt
  48 |      74% |  26% |      0% |     384 | https://raw.githubusercontent.com/elliotwutingfeng/GlobalAntiScamOrg-blocklist/main/global-anti-scam-org-scam-urls-pihole.txt
  49 |      46% |  54% |      0% |  589546 | https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames.txt
  50 |      75% |  25% |      0% |    6821 | https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames_light.txt
- 51 |      82% |  18% |      0% |   11184 | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt
+ 51 |      82% |  18% |      0% |   11194 | https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt
  52 |      18% |  82% |      0% |   16413 | https://raw.githubusercontent.com/ihgalis/pihole_collection/master/Sinking_Yachts_Phishing
- 53 |      60% |  40% |      0% |   11494 | https://raw.githubusercontent.com/infinitytec/blocklists/master/scams-and-phishing.txt
+ 53 |      59% |  41% |      0% |   11498 | https://raw.githubusercontent.com/infinitytec/blocklists/master/scams-and-phishing.txt
  54 |      56% |  44% |      0% |     677 | https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-it.txt
  55 |      72% |  28% |      0% |    2249 | https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
  56 |      57% |  43% |      0% |   71152 | https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt
@@ -471,29 +469,29 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
  71 |      44% |  56% |      0% |    5496 | https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-personal.txt
  72 |      17% |  83% |      0% |     864 | https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-sentinelone.txt
  73 |      22% |  78% |      0% |      67 | https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-sophos.txt
- 74 |      41% |  59% |      0% |     246 | https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-tag.txt
+ 74 |      44% |  56% |      0% |     260 | https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-tag.txt
  75 |      45% |  55% |      0% |     507 | https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-unit42-playbook.txt
  76 |      11% |  89% |      0% |   23220 | https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-unit42-silverterrier.txt
  77 |      54% |  46% |      0% |     903 | https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-yoroi.txt
  78 |      37% |  63% |      0% |    5845 | https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-zscaler.txt
- 79 |      45% |  55% |      0% |  281746 | https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt
+ 79 |      45% |  55% |      0% |  281802 | https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt
  80 |      36% |  64% |      0% |   17863 | https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt
  81 |      36% |  64% |      0% |     500 | https://rescure.me/covid.txt
- 82 |      71% |  28% |      1% |     500 | https://rescure.me/rescure_domain_blacklist.txt
+ 82 |      72% |  28% |      0% |     500 | https://rescure.me/rescure_domain_blacklist.txt
  83 |      38% |  62% |      0% |      63 | https://www.botvrij.eu/data/ioclist.domain.raw
  84 |      53% |  47% |      0% |      53 | https://www.botvrij.eu/data/ioclist.hostname.raw
- 85 |      64% |  36% |      0% |   44403 | https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
- 86 |      77% |  23% |      0% |   23002 | https://threatview.io/Downloads/DOMAIN-High-Confidence-Feed.txt
- 87 |      45% |  55% |      0% |    2353 | https://hosts.tweedge.net/malicious.txt
+ 85 |      64% |  36% |      0% |   44415 | https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
+ 86 |      77% |  23% |      0% |   23129 | https://threatview.io/Downloads/DOMAIN-High-Confidence-Feed.txt
+ 87 |      45% |  55% |      0% |    2363 | https://hosts.tweedge.net/malicious.txt
  88 |      33% |  67% |      0% |   15885 | https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/cryptojacking/domains
  89 |      42% |  58% |      0% |   39580 | https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/phishing/domains
- 90 |      42% |  58% |      0% |   39811 | https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/malware/domains
+ 90 |      42% |  58% |      0% |   40044 | https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/malware/domains
  91 |     100% |   0% |      0% |     222 | https://tor.taxi/avoid
- 92 |      94% |   6% |      0% |   21334 | black.list.threat-intelligence
+ 92 |      94% |   6% |      0% |   21335 | black.list.threat-intelligence
  93 |      98% |   0% |      2% |      51 | black.list.hoster
- 94 |     100% |   0% |      0% |  151943 | personal-tif.txt
- 95 |     100% |   0% |      0% |    1229 | https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/domains
- 96 |      61% |  39% |      0% |   35348 | scam-extension.txt
+ 94 |     100% |   0% |      0% |  153627 | personal-tif.txt
+ 95 |     100% |   0% |      0% |    2179 | https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/domains
+ 96 |      61% |  39% |      0% |   35510 | scam-extension.txt
 ```
 #### DOH-VPN-PROXY-BYPASS
 [unblocked domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/doh-vpn-proxy-bypass-removed-white.txt) | [unblocked referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/doh-vpn-proxy-bypass-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/doh-vpn-proxy-bypass-removed-dead.txt)
