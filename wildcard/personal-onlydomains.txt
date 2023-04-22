@@ -33039,9 +33039,6 @@ mtsn2kolaka.sch.id
 secmetrics.schaefer-shop.de
 collector.schibsted.io
 metric.schibsted.fi
-privacy.schibsted.com
-jssdk.pulse.schibsted.com
-sdk.pulse.schibsted.com
 schjmp.com
 mktg.schlage.com
 analytics.schlager.de

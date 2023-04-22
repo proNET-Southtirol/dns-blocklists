@@ -91454,14 +91454,6 @@ mtsn2kolaka.sch.id
 secmetrics.schaefer-shop.de
 collector.schibsted.io
 metric.schibsted.fi
-privacy.schibsted.com
-api.privacy.schibsted.com
-info.privacy.schibsted.com
-jssdk.privacy.schibsted.com
-static.privacy.schibsted.com
-user-permissions.privacy.schibsted.com
-jssdk.pulse.schibsted.com
-sdk.pulse.schibsted.com
 schjmp.com
 www.schjmp.com
 mktg.schlage.com

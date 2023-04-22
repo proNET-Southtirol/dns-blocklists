@@ -43261,12 +43261,6 @@ scenepass.com CNAME .
 *.scenepass.com CNAME .
 scentedindication.com CNAME .
 *.scentedindication.com CNAME .
-privacy.schibsted.com CNAME .
-*.privacy.schibsted.com CNAME .
-jssdk.pulse.schibsted.com CNAME .
-*.jssdk.pulse.schibsted.com CNAME .
-sdk.pulse.schibsted.com CNAME .
-*.sdk.pulse.schibsted.com CNAME .
 schjmp.com CNAME .
 *.schjmp.com CNAME .
 mktg.schlage.com CNAME .

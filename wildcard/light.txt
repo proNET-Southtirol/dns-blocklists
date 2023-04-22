@@ -142027,9 +142027,6 @@
 *.schibellocaffe.com
 *.collector.schibsted.io
 *.metric.schibsted.fi
-*.privacy.schibsted.com
-*.jssdk.pulse.schibsted.com
-*.sdk.pulse.schibsted.com
 *.schickgloves.com
 *.schiesshouse.com
 *.schifke-zeltverleih.de

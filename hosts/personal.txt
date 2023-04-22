@@ -91454,14 +91454,6 @@
 0.0.0.0 secmetrics.schaefer-shop.de
 0.0.0.0 collector.schibsted.io
 0.0.0.0 metric.schibsted.fi
-0.0.0.0 privacy.schibsted.com
-0.0.0.0 api.privacy.schibsted.com
-0.0.0.0 info.privacy.schibsted.com
-0.0.0.0 jssdk.privacy.schibsted.com
-0.0.0.0 static.privacy.schibsted.com
-0.0.0.0 user-permissions.privacy.schibsted.com
-0.0.0.0 jssdk.pulse.schibsted.com
-0.0.0.0 sdk.pulse.schibsted.com
 0.0.0.0 schjmp.com
 0.0.0.0 www.schjmp.com
 0.0.0.0 mktg.schlage.com
