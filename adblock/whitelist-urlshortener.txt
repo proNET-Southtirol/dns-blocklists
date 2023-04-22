@@ -108,6 +108,7 @@
 @@||abbr.sk^
 @@||abc.li^
 @@||abc11.tv^
+@@||abc13.co^
 @@||abc7.la^
 @@||abc7.ws^
 @@||abc7ne.ws^
@@ -134,6 +135,7 @@
 @@||adfoc.us^
 @@||adli.pw^
 @@||adobe.ly^
+@@||adol.us^
 @@||adv.li^
 @@||adweek.it^
 @@||aet.na^
@@ -149,7 +151,9 @@
 @@||alli.pub^
 @@||alnk.to^
 @@||alpha.camp^
+@@||alphab.gr^
 @@||alturl.com^
+@@||amays.im^
 @@||amba.to^
 @@||amc.film^
 @@||amex.co^
@@ -164,6 +168,7 @@
 @@||any.gs^
 @@||anyimage.io^
 @@||aol.it^
+@@||aon.io^
 @@||apne.ws^
 @@||apple.co^
 @@||apple.news^
@@ -210,6 +215,7 @@
 @@||bddy.me^
 @@||bee4.biz^
 @@||beth.games^
+@@||bg4.me^
 @@||bhpho.to^
 @@||bigcc.cc^
 @@||bigfi.sh^
@@ -278,6 +284,7 @@
 @@||cadill.ac^
 @@||can.al^
 @@||can.si^
+@@||canon.us^
 @@||capital.one^
 @@||captl1.co^
 @@||captur.in^
@@ -708,6 +715,7 @@
 @@||jdem.cz^
 @@||jieb.be^
 @@||jkf.lv^
+@@||joo.gl^
 @@||jp22.net^
 @@||jpeg.ly^
 @@||jqw.de^
@@ -1423,6 +1431,7 @@
 @@||trymongodb.com^
 @@||tsbk.tw^
 @@||tsta.rs^
+@@||tsurl.co^
 @@||tt.vg^
 @@||tvote.org^
 @@||tw.sv^
@@ -1496,6 +1505,7 @@
 @@||urls.im^
 @@||urls.kr^
 @@||urluno.com^
+@@||urly.co^
 @@||urly.fi^
 @@||urlz.fr^
 @@||urlzs.com^
