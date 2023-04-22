@@ -3177,3 +3177,13 @@ telemetry-console.api.playstation.com
 # Epicgames 2FA auth, store purchase
 tracking.epicgames.com
 
+# https://github.com/hagezi/dns-blocklists/issues/961
+pix2.services.tvn.pl
+
+# Schibsted Payment
+payment.schibsted.com
+payment.schibsted.no
+
+# Weather details for various weather apps
+weather*.allawnos.com
+
