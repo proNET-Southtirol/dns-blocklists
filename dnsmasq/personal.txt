@@ -37558,7 +37558,6 @@ address=/saa.tvguide.com/#
 address=/tvlyzer.com/#
 address=/data-0d5230f0d5.tvmovie.de/#
 address=/data-89628491af.tvmovie.de/#
-address=/pix2.services.tvn.pl/#
 address=/data-c33ac4a00e.tvnow.de/#
 address=/tvparlour.com/#
 address=/tvping.com/#

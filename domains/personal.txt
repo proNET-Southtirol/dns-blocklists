@@ -104858,7 +104858,6 @@ cdn-analytics.tvlyzer.com
 www.tvlyzer.com
 data-0d5230f0d5.tvmovie.de
 data-89628491af.tvmovie.de
-pix2.services.tvn.pl
 data-c33ac4a00e.tvnow.de
 tvparlour.com
 www.tvparlour.com

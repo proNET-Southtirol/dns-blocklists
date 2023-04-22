@@ -75935,8 +75935,6 @@ torrenty-org.pl CNAME .
 *.torrenty-org.pl CNAME .
 trafficscanner.pl CNAME .
 *.trafficscanner.pl CNAME .
-pix2.services.tvn.pl CNAME .
-*.pix2.services.tvn.pl CNAME .
 uksale.pl CNAME .
 *.uksale.pl CNAME .
 ulixes.pl CNAME .

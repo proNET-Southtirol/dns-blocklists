@@ -104858,7 +104858,6 @@
 0.0.0.0 www.tvlyzer.com
 0.0.0.0 data-0d5230f0d5.tvmovie.de
 0.0.0.0 data-89628491af.tvmovie.de
-0.0.0.0 pix2.services.tvn.pl
 0.0.0.0 data-c33ac4a00e.tvnow.de
 0.0.0.0 tvparlour.com
 0.0.0.0 www.tvparlour.com
