@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 19 Apr 2023 08:21 UTC
-# Version: 2023.0419.0821.10
+# Last modified: 22 Apr 2023 08:09 UTC
+# Version: 2023.0422.0809.14
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 73
+# Number of entries: 75
 #
 *.nexusrules.live.com
 *.euc-excel-telemetry.officeapps.live.com
@@ -26,6 +26,7 @@
 *.pipe.aria.microsoft.com
 *.adhs.events.data.microsoft.com
 *.apac.events.data.microsoft.com
+*.au-mobile.events.data.microsoft.com
 *.au-v10c.events.data.microsoft.com
 *.browser.events.data.microsoft.com
 *.emea.events.data.microsoft.com
@@ -37,6 +38,7 @@
 *.eu-watsonc.events.data.microsoft.com
 *.functional.events.data.microsoft.com
 *.ic3.events.data.microsoft.com
+*.jp-mobile.events.data.microsoft.com
 *.jp-v10c.events.data.microsoft.com
 *.kmwatson.events.data.microsoft.com
 *.kmwatsonc.events.data.microsoft.com
