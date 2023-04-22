@@ -9914,7 +9914,6 @@
 *.tracking-1611167402.us-east-1.elb.amazonaws.com
 *.tracking-content-1527193194.us-east-1.elb.amazonaws.com
 *.tracking-us-2012427168.us-east-1.elb.amazonaws.com
-*.tracking-website-prod-674464163.us-east-1.elb.amazonaws.com
 *.uplynk-beacon-newvpc-1603485991.us-east-1.elb.amazonaws.com
 *.wildcard-ads-new-1653986885.us-east-1.elb.amazonaws.com
 *.adserver-front-1214293195.us-east-2.elb.amazonaws.com
@@ -9932,7 +9931,6 @@
 *.adserver-vpc-alb-3-578630024.us-west-2.elb.amazonaws.com
 *.beaconserver-ce-vpc0-1909323404.us-west-2.elb.amazonaws.com
 *.dco-jads-727222375.us-west-2.elb.amazonaws.com
-*.elb-telemetry-gtav-prod-336243739.us-west-2.elb.amazonaws.com
 *.elb-telemetry-rdr2-prod-1584453389.us-west-2.elb.amazonaws.com
 *.elb-telemetry-rgl-prod-1710895762.us-west-2.elb.amazonaws.com
 *.p-dany-analytics-1643478883.us-west-2.elb.amazonaws.com
@@ -59425,7 +59423,6 @@
 *.matchadsrvr.yieldmo.com.edgekey.net
 *.wildcard.yieldmo.com.edgekey.net
 *.rubiconproject.com-v1.edgekey.net
-*.telemetry-console.api.playstation.com-v2.edgekey.net
 *.v6analytics.htmedia.in.edgekey.net
 *.akstat.io.edgekey.net
 *.dable.io.edgekey.net

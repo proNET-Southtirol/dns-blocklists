@@ -8197,8 +8197,6 @@ tracking-content-1527193194.us-east-1.elb.amazonaws.com CNAME .
 *.tracking-content-1527193194.us-east-1.elb.amazonaws.com CNAME .
 tracking-us-2012427168.us-east-1.elb.amazonaws.com CNAME .
 *.tracking-us-2012427168.us-east-1.elb.amazonaws.com CNAME .
-tracking-website-prod-674464163.us-east-1.elb.amazonaws.com CNAME .
-*.tracking-website-prod-674464163.us-east-1.elb.amazonaws.com CNAME .
 uplynk-beacon-newvpc-1603485991.us-east-1.elb.amazonaws.com CNAME .
 *.uplynk-beacon-newvpc-1603485991.us-east-1.elb.amazonaws.com CNAME .
 wildcard-ads-new-1653986885.us-east-1.elb.amazonaws.com CNAME .
@@ -8233,8 +8231,6 @@ beaconserver-ce-vpc0-1909323404.us-west-2.elb.amazonaws.com CNAME .
 *.beaconserver-ce-vpc0-1909323404.us-west-2.elb.amazonaws.com CNAME .
 dco-jads-727222375.us-west-2.elb.amazonaws.com CNAME .
 *.dco-jads-727222375.us-west-2.elb.amazonaws.com CNAME .
-elb-telemetry-gtav-prod-336243739.us-west-2.elb.amazonaws.com CNAME .
-*.elb-telemetry-gtav-prod-336243739.us-west-2.elb.amazonaws.com CNAME .
 elb-telemetry-rdr2-prod-1584453389.us-west-2.elb.amazonaws.com CNAME .
 *.elb-telemetry-rdr2-prod-1584453389.us-west-2.elb.amazonaws.com CNAME .
 elb-telemetry-rgl-prod-1710895762.us-west-2.elb.amazonaws.com CNAME .
@@ -69737,8 +69733,6 @@ wildcard.yieldmo.com.edgekey.net CNAME .
 *.wildcard.yieldmo.com.edgekey.net CNAME .
 rubiconproject.com-v1.edgekey.net CNAME .
 *.rubiconproject.com-v1.edgekey.net CNAME .
-telemetry-console.api.playstation.com-v2.edgekey.net CNAME .
-*.telemetry-console.api.playstation.com-v2.edgekey.net CNAME .
 v6analytics.htmedia.in.edgekey.net CNAME .
 *.v6analytics.htmedia.in.edgekey.net CNAME .
 wildcard46.akstat.io.edgekey.net CNAME .

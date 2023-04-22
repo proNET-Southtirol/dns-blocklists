@@ -3467,12 +3467,15 @@
 
 ! GTA V online crashes 
 @@|prod.telemetry.ros.rockstargames.com^
+@@|elb-telemetry-gtav-prod-336243739.us-west-2.elb.amazonaws.com^
 
 ! Playstation 5 Trophies / recently played games
 @@|telemetry-console.api.playstation.com^
+@@|telemetry-console.api.playstation.com-v2.edgekey.net^
 
 ! Epicgames 2FA auth, store purchase
 @@|tracking.epicgames.com^
+@@|tracking-website-prod-674464163.us-east-1.elb.amazonaws.com^
 
 ! https://github.com/hagezi/dns-blocklists/issues/961
 @@|pix2.services.tvn.pl^
