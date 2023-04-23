@@ -22585,7 +22585,6 @@
 0.0.0.0 ws-services.bitmex.com
 0.0.0.0 www.bitmex.com
 0.0.0.0 analytics-ingress-global.bitmovin.com
-0.0.0.0 licensing.bitmovin.com
 0.0.0.0 bitonclick.com
 0.0.0.0 www.bitonclick.com
 0.0.0.0 metric.bitpanda.com

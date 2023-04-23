@@ -22077,7 +22077,6 @@
 *.bitmixr.biz
 *.bitmixx.biz
 *.analytics-ingress-global.bitmovin.com
-*.licensing.bitmovin.com
 *.bitnbytesdigital.com
 *.bitokk.com
 *.pldomainerenautodns.bitol.biz

@@ -11731,8 +11731,6 @@ bitmex.com CNAME .
 *.bitmex.com CNAME .
 analytics-ingress-global.bitmovin.com CNAME .
 *.analytics-ingress-global.bitmovin.com CNAME .
-licensing.bitmovin.com CNAME .
-*.licensing.bitmovin.com CNAME .
 bitonclick.com CNAME .
 *.bitonclick.com CNAME .
 metric.bitpanda.com CNAME .

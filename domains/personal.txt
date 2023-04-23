@@ -22585,7 +22585,6 @@ ws-services.testnet.bitmex.com
 ws-services.bitmex.com
 www.bitmex.com
 analytics-ingress-global.bitmovin.com
-licensing.bitmovin.com
 bitonclick.com
 www.bitonclick.com
 metric.bitpanda.com

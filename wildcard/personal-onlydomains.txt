@@ -6024,7 +6024,6 @@ bitmedia.io
 bitmedianetwork.com
 bitmex.com
 analytics-ingress-global.bitmovin.com
-licensing.bitmovin.com
 bitonclick.com
 metric.bitpanda.com
 cod.bitrec.com

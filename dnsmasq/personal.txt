@@ -6024,7 +6024,6 @@ address=/bitmedia.io/#
 address=/bitmedianetwork.com/#
 address=/bitmex.com/#
 address=/analytics-ingress-global.bitmovin.com/#
-address=/licensing.bitmovin.com/#
 address=/bitonclick.com/#
 address=/metric.bitpanda.com/#
 address=/cod.bitrec.com/#
