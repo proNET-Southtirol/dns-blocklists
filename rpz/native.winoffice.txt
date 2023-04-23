@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.native.winoffice. hostmaster.hagezi.native.winoffice. 1682150940 86400 3600 604800 30
+@ SOA rpz.hagezi.native.winoffice. hostmaster.hagezi.native.winoffice. 1682286480 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Windows/Office Tracker DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 22 Apr 2023 08:09 UTC
-; Version: 2023.0422.0809.14
+; Last modified: 23 Apr 2023 21:48 UTC
+; Version: 2023.0423.2148.55
 ; Syntax: RPZ
-; Number of entries: 150
+; Number of entries: 144
 ;
 events.data.msn.cn CNAME .
 *.events.data.msn.cn CNAME .
@@ -119,12 +119,6 @@ watsonc.events.data.microsoft.com CNAME .
 *.watsonc.events.data.microsoft.com CNAME .
 events-sandbox.data.microsoft.com CNAME .
 *.events-sandbox.data.microsoft.com CNAME .
-vortex.data.microsoft.com CNAME .
-*.vortex.data.microsoft.com CNAME .
-vortex-win.data.microsoft.com CNAME .
-*.vortex-win.data.microsoft.com CNAME .
-vortex-win-sandbox.data.microsoft.com CNAME .
-*.vortex-win-sandbox.data.microsoft.com CNAME .
 watson.officeint.microsoft.com CNAME .
 *.watson.officeint.microsoft.com CNAME .
 telemetry.microsoft.com CNAME .
