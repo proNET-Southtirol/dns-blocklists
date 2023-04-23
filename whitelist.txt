@@ -3193,3 +3193,9 @@ weather*.allawnos.com
 # https://github.com/hagezi/dns-blocklists/issues/965
 licensing.bitmovin.com
 
+# Candy Crush Soda
+candycrushsoda.king.com
+
+# Site layout on tz.de and other sites
+idcdn.de
+
