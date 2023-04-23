@@ -3487,3 +3487,6 @@
 ! Weather details for various weather apps
 @@|weather*.allawnos.com^
 
+! https://github.com/hagezi/dns-blocklists/issues/965
+@@|licensing.bitmovin.com^
+
