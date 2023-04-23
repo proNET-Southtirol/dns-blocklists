@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 22 Apr 2023 21:46 UTC
-# Version: 2023.0422.2146.23
+# Last modified: 23 Apr 2023 21:52 UTC
+# Version: 2023.0423.2152.20
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 10588
+# Number of entries: 10608
 #
 *.1-proof.cyou
 *.100-solarni-lampa-cz.com
@@ -112,6 +112,7 @@
 *.accessoriestackle.com
 *.accessoriestore.live
 *.accfiverif.com
+*.accidentaln.com
 *.accionlabc.com
 *.acemoyusy.com
 *.aceytw.com
@@ -827,6 +828,7 @@
 *.beautwholesale.com
 *.beauty-goods.biz
 *.beauty-shopping.net
+*.beauty-ventura.com
 *.beautygiftsets.com
 *.beautypassword.com
 *.beautysolution24.com
@@ -1375,6 +1377,7 @@
 *.buushop.com
 *.buxtownbeacher.de
 *.buy-cheap.eu
+*.buy-pills.site
 *.buyandorder.com
 *.buybestgoods.top
 *.buydax.xyz
@@ -1392,7 +1395,6 @@
 *.buzzazone.com
 *.buzzhence.com
 *.buzzsportz.shop
-*.bvewa.shop
 *.bvp-frobel.de
 *.bvuyyds.shop
 *.byberlin.de
@@ -2316,6 +2318,7 @@
 *.dewemalls.com
 *.dexia-hyp.de
 *.deytee.com
+*.dezamall.com
 *.dezpez.com
 *.dezubehor.com
 *.dfifomy.com
@@ -2364,6 +2367,7 @@
 *.uhpuf.diisoundeventos.com
 *.dilikasab.com
 *.diliving.info
+*.dillers.shop
 *.dina-vital.de
 *.dinual.com
 *.dionparty.store
@@ -2396,6 +2400,7 @@
 *.discounttoy.store
 *.discounttoys.website
 *.discountwalldecor.com
+*.discussionk.com
 *.disney-obleceni.cz
 *.disneymode.de
 *.disneymuppets.store
@@ -2815,7 +2820,6 @@
 *.elo-cc.de
 *.elo-werker.com
 *.elongives.net
-*.elontsla.com
 *.eloquentika.de
 *.elsacraft.shop
 *.elsnerholz.com
@@ -3187,7 +3191,6 @@
 *.favoriteshopmall.store
 *.favoriteswimwear.com
 *.favornote.com
-*.fbheydudesale.com
 *.fbmf-b391022.su
 *.fcirlich.de
 *.fdpbuerstadt.de
@@ -3610,6 +3613,7 @@
 *.gapp-cabtech.cz
 *.gardana.net
 *.gardendecoratio.shop
+*.gardenequipmenshopmall.store
 *.gardenequipmentsale.store
 *.gardentoolssale.com
 *.garmentvogue.com
@@ -3674,6 +3678,7 @@
 *.generositym.com
 *.genialoff.com
 *.geniusfxmaket.com
+*.geniusstuff.co
 *.genshinimpact-store.com
 *.geoped.cz
 *.georgie.at
@@ -3708,7 +3713,6 @@
 *.getvoltplug.com
 *.getvoltsemi.com
 *.getwomenswear.com
-*.getx2tesla.com
 *.getzor.com
 *.gforeosterreich.com
 *.gfricke.com
@@ -3746,6 +3750,7 @@
 *.givenstar.com
 *.givenstyle.com
 *.giveproducts.top
+*.givings.online
 *.gizmopage.com
 *.gizupp.com
 *.gkl-teampublic.de
@@ -4230,6 +4235,7 @@
 *.hitecschuhe.com
 *.hivintage.com
 *.hk6986.com
+*.hklaccessoriesstore.com
 *.hkls.at
 *.hkriostur.shop
 *.hlaskyzezivota.cz
@@ -4668,6 +4674,7 @@
 *.jacmusfashion.com
 *.jacobbag.shop
 *.jacobsstore.shop
+*.jacoobss.store
 *.jafar-france.fr
 *.jagd-mentz.de
 *.jagdundungarn.at
@@ -4693,6 +4700,7 @@
 *.jbstra.com
 *.jbstspb.shop
 *.jdfashionstore.com
+*.jdsportt.com
 *.jdsportwearz.com
 *.jdssporty.com
 *.jdstockz.com
@@ -4784,6 +4792,7 @@
 *.judithclothing.shop
 *.judithmall.shop
 *.juergen-runge.de
+*.jufact.com
 *.julhouse.shop
 *.juliejoseph.site
 *.juliestore.shop
@@ -5022,6 +5031,7 @@
 *.kittensales.website
 *.kittyfood.space
 *.kiweecases.com
+*.kizomba-berlinal.de
 *.kizona-handel.net
 *.kjsr-radeberg.de
 *.kkhitlul.top
@@ -5497,6 +5507,7 @@
 *.love-ralphlauren.com
 *.lovegoldsale.com
 *.lovelovegifts.com
+*.lovelvse.com
 *.lovelygen.com
 *.lovetray.xyz
 *.lovinweed.com
@@ -5537,6 +5548,7 @@
 *.lucullusacademy.com
 *.lucybreeze.com
 *.lucypet.live
+*.ludlamshop.com
 *.ludyfit.com
 *.luenx.com
 *.lufeipromo.shop
@@ -5585,6 +5597,7 @@
 *.lynnsnowmobile.online
 *.m-burtscher.at
 *.m-heizungs.com
+*.maajiswim.com
 *.mac-properties.com
 *.mach-finca-urlaub.com
 *.machart-durlach.de
@@ -6104,6 +6117,7 @@
 *.moopify.com
 *.morenius.de
 *.morgante.at
+*.morlyes.com
 *.morreysale.space
 *.mosano.de
 *.moses-sales.shop
@@ -6154,6 +6168,7 @@
 *.mth14.at
 *.mtjarmart.shop
 *.muama-enence.net
+*.muckbootsmrheater.com
 *.muckschweiz.com
 *.mudanzas-al-extranjero.es
 *.muellerscafe.de
@@ -6180,7 +6195,6 @@
 *.musicequipmentshopping.store
 *.musiknachhilfe.at
 *.musk-aigpt.com
-*.musk-bit.com
 *.muskai.net
 *.muskelkatze-berlin.de
 *.musleag.com
@@ -6583,7 +6597,6 @@
 *.noveltyclimb.com
 *.noveltysdirect.com
 *.novyles.cz
-*.now-openai.site
 *.nowakannewelpenkaufen.com
 *.noweight.de
 *.nowflix.de
@@ -6940,6 +6953,7 @@
 *.ovonas-x.com
 *.owlkaminholz.de
 *.owlsand.com
+*.owqdi.top
 *.oykqo.top
 *.oylerhof.de
 *.oyo-store.com
@@ -7016,6 +7030,7 @@
 *.particularchristmas.com
 *.partsbicycle.shop
 *.party4kids.at
+*.partyoftenuk.com
 *.pasadenablues.com
 *.pasarbali-malls.com
 *.pasargadrugs.com
@@ -7123,6 +7138,7 @@
 *.phnvmsi.shop
 *.phoberose.com
 *.phobility-aktiv.at
+*.phooom.com
 *.photocurtis.at
 *.photonstrom.de
 *.photovoltaik-green.com
@@ -7152,7 +7168,6 @@
 *.pinjamanduit.lol
 *.pinjamanelit.top
 *.pinjamanmurah.space
-*.pinjamanpedia.xyz
 *.pinjamanplus.com
 *.pinjamanrupiah.xyz
 *.pinjamantunai.xyz
@@ -7373,6 +7388,7 @@
 *.product-club.com
 *.productsorganic.top
 *.profayansy.com
+*.professionistidelsorriso.eu
 *.profimatics.de
 *.profiservice-24.info
 *.profit-farma.com
@@ -7815,6 +7831,7 @@
 *.rockrollwestern.com
 *.rockstargood.com
 *.rocktime.cz
+*.rocktransit.com
 *.rockule.top
 *.rockwell-berlin.de
 *.rocolee.com
@@ -7881,6 +7898,7 @@
 *.rromaakt.de
 *.rsahansuwa.shop
 *.rsf-services.de
+*.rsfancy.com
 *.rspasian.com
 *.rsshagen.de
 *.rstebett.shop
@@ -8312,7 +8330,6 @@
 *.shopdejardineria.com
 *.shopdima.com
 *.shopdremel.com
-*.shopee1666.com
 *.shopeplace.com
 *.shoperando.com
 *.shopgamefishing.com
@@ -8331,6 +8348,7 @@
 *.shoplacademie.com
 *.shopladyfashion.com
 *.shopmusicalinstruments.com
+*.shopmustangparts.com
 *.shopnaturenow.com
 *.shopnewclothing.com
 *.shopolo.cz
@@ -9115,7 +9133,7 @@
 *.tes-ib.cloud
 *.tes-ic.cloud
 *.tesauree.com
-*.tesla-openai.com
+*.store.tesla-openai.com
 *.teslabestfor.com
 *.teslabounce.com
 *.teslacar.io
@@ -9331,6 +9349,7 @@
 *.timelix.us
 *.timental.de
 *.timeout-bar.at
+*.timesends.com
 *.timesofnaukri.com
 *.timyllc.com
 *.timzin.de
@@ -9685,6 +9704,7 @@
 *.ultrasshop.top
 *.um-bs.com
 *.umadate.xyz
+*.umagic.net
 *.umbrellacorp.fr
 *.umehrazi.top
 *.umia-gmbh.com
@@ -9711,6 +9731,7 @@
 *.unique-modules.com
 *.unique-print.de
 *.uniqueetee.com
+*.uniquehomeshop.com
 *.uniqueshirt.shop
 *.uniteddeliveryagency.com
 *.unitedglobal-logistics.com
@@ -9970,7 +9991,6 @@
 *.vipkickz.com
 *.vipmallstore.shop
 *.vipoli-reifen.com
-*.shop.vipsshop.ga
 *.vipticketgiveaway.com
 *.virany.de
 *.virdigo-reifen.de
@@ -10300,6 +10320,7 @@
 *.wisereading.store
 *.wittenberger-hof.de
 *.reiseweltat6.wixsite.com
+*.wizgoo.com
 *.wizmazzaken.com
 *.wj-tag.de
 *.wlosnd.com
@@ -10460,7 +10481,6 @@
 *.youbestchoice.com
 *.youkoll.com
 *.your-hairstyle.de
-*.your-redelivery-au.com
 *.youreduspace.com
 *.yourmarket24.com
 *.yoursafeinvestment.com

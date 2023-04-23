@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 22 Apr 2023 21:46 UTC
-# Version: 2023.0422.2146.23
+# Last modified: 23 Apr 2023 21:52 UTC
+# Version: 2023.0423.2152.20
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 20847
+# Number of entries: 20886
 #
 1-proof.cyou
 www.1-proof.cyou
@@ -205,6 +205,8 @@ www.accessoriestackle.com
 accessoriestore.live
 www.accessoriestore.live
 accfiverif.com
+accidentaln.com
+www.accidentaln.com
 accionlabc.com
 www.accionlabc.com
 acemoyusy.com
@@ -1615,6 +1617,8 @@ beauty-goods.biz
 www.beauty-goods.biz
 beauty-shopping.net
 www.beauty-shopping.net
+beauty-ventura.com
+www.beauty-ventura.com
 beautygiftsets.com
 www.beautygiftsets.com
 beautypassword.com
@@ -2699,6 +2703,8 @@ buxtownbeacher.de
 www.buxtownbeacher.de
 buy-cheap.eu
 www.buy-cheap.eu
+buy-pills.site
+www.buy-pills.site
 buyandorder.com
 www.buyandorder.com
 buybestgoods.top
@@ -2735,8 +2741,6 @@ buzzhence.com
 www.buzzhence.com
 buzzsportz.shop
 www.buzzsportz.shop
-bvewa.shop
-www.bvewa.shop
 bvp-frobel.de
 www.bvp-frobel.de
 bvuyyds.shop
@@ -4529,6 +4533,8 @@ dexia-hyp.de
 www.dexia-hyp.de
 deytee.com
 www.deytee.com
+dezamall.com
+www.dezamall.com
 dezpez.com
 www.dezpez.com
 dezubehor.com
@@ -4621,6 +4627,8 @@ dilikasab.com
 www.dilikasab.com
 diliving.info
 www.diliving.info
+dillers.shop
+www.dillers.shop
 dina-vital.de
 www.dina-vital.de
 dinual.com
@@ -4685,6 +4693,8 @@ discounttoys.website
 www.discounttoys.website
 discountwalldecor.com
 www.discountwalldecor.com
+discussionk.com
+www.discussionk.com
 disney-obleceni.cz
 www.disney-obleceni.cz
 disneymode.de
@@ -5501,8 +5511,6 @@ elo-werker.com
 www.elo-werker.com
 elongives.net
 www.elongives.net
-elontsla.com
-www.elontsla.com
 eloquentika.de
 www.eloquentika.de
 elsacraft.shop
@@ -6240,8 +6248,6 @@ www.favoriteshopmall.store
 favoriteswimwear.com
 www.favoriteswimwear.com
 favornote.com
-fbheydudesale.com
-www.fbheydudesale.com
 fbmf-b391022.su
 www.fbmf-b391022.su
 fcirlich.de
@@ -7066,6 +7072,8 @@ gardana.net
 www.gardana.net
 gardendecoratio.shop
 www.gardendecoratio.shop
+gardenequipmenshopmall.store
+www.gardenequipmenshopmall.store
 gardenequipmentsale.store
 www.gardenequipmentsale.store
 gardentoolssale.com
@@ -7192,6 +7200,8 @@ genialoff.com
 www.genialoff.com
 geniusfxmaket.com
 www.geniusfxmaket.com
+geniusstuff.co
+www.geniusstuff.co
 genshinimpact-store.com
 www.genshinimpact-store.com
 geoped.cz
@@ -7257,8 +7267,6 @@ getvoltsemi.com
 www.getvoltsemi.com
 getwomenswear.com
 www.getwomenswear.com
-getx2tesla.com
-www.getx2tesla.com
 getzor.com
 www.getzor.com
 gforeosterreich.com
@@ -7332,6 +7340,8 @@ givenstyle.com
 www.givenstyle.com
 giveproducts.top
 www.giveproducts.top
+givings.online
+www.givings.online
 gizmopage.com
 gizupp.com
 www.gizupp.com
@@ -8280,6 +8290,8 @@ hivintage.com
 www.hivintage.com
 hk6986.com
 www.hk6986.com
+hklaccessoriesstore.com
+www.hklaccessoriesstore.com
 hkls.at
 www.hkls.at
 hkriostur.shop
@@ -9148,6 +9160,8 @@ jacobbag.shop
 www.jacobbag.shop
 jacobsstore.shop
 www.jacobsstore.shop
+jacoobss.store
+www.jacoobss.store
 jafar-france.fr
 www.jafar-france.fr
 jagd-mentz.de
@@ -9197,6 +9211,8 @@ jbstspb.shop
 www.jbstspb.shop
 jdfashionstore.com
 www.jdfashionstore.com
+jdsportt.com
+www.jdsportt.com
 jdsportwearz.com
 www.jdsportwearz.com
 jdssporty.com
@@ -9381,6 +9397,8 @@ judithmall.shop
 www.judithmall.shop
 juergen-runge.de
 www.juergen-runge.de
+jufact.com
+www.jufact.com
 julhouse.shop
 www.julhouse.shop
 juliejoseph.site
@@ -9850,6 +9868,8 @@ kittyfood.space
 www.kittyfood.space
 kiweecases.com
 www.kiweecases.com
+kizomba-berlinal.de
+www.kizomba-berlinal.de
 kizona-handel.net
 kjsr-radeberg.de
 www.kjsr-radeberg.de
@@ -10190,6 +10210,7 @@ www.lagunalaguna.com
 lahootf.com
 www.lahootf.com
 lakersfanshoponline.com
+store.lakersfanshoponline.com
 www.lakersfanshoponline.com
 lakihair.com
 www.lakihair.com
@@ -10804,6 +10825,8 @@ lovegoldsale.com
 www.lovegoldsale.com
 lovelovegifts.com
 www.lovelovegifts.com
+lovelvse.com
+www.lovelvse.com
 lovelygen.com
 www.lovelygen.com
 lovetray.xyz
@@ -10884,6 +10907,8 @@ lucybreeze.com
 www.lucybreeze.com
 lucypet.live
 www.lucypet.live
+ludlamshop.com
+www.ludlamshop.com
 ludyfit.com
 www.ludyfit.com
 luenx.com
@@ -10980,6 +11005,8 @@ m-burtscher.at
 www.m-burtscher.at
 m-heizungs.com
 www.m-heizungs.com
+maajiswim.com
+www.maajiswim.com
 mac-properties.com
 www.mac-properties.com
 mach-finca-urlaub.com
@@ -12003,6 +12030,8 @@ morenius.de
 www.morenius.de
 morgante.at
 www.morgante.at
+morlyes.com
+www.morlyes.com
 morreysale.space
 www.morreysale.space
 mosano.de
@@ -12103,6 +12132,8 @@ mtjarmart.shop
 www.mtjarmart.shop
 muama-enence.net
 www.muama-enence.net
+muckbootsmrheater.com
+www.muckbootsmrheater.com
 muckschweiz.com
 www.muckschweiz.com
 mudanzas-al-extranjero.es
@@ -12154,8 +12185,6 @@ musiknachhilfe.at
 www.musiknachhilfe.at
 musk-aigpt.com
 www.musk-aigpt.com
-musk-bit.com
-www.musk-bit.com
 muskai.net
 www.muskai.net
 muskelkatze-berlin.de
@@ -12938,8 +12967,6 @@ noveltysdirect.com
 www.noveltysdirect.com
 novyles.cz
 www.novyles.cz
-now-openai.site
-www.now-openai.site
 nowakannewelpenkaufen.com
 www.nowakannewelpenkaufen.com
 noweight.de
@@ -13644,6 +13671,8 @@ owlkaminholz.de
 www.owlkaminholz.de
 owlsand.com
 www.owlsand.com
+owqdi.top
+www.owqdi.top
 oykqo.top
 www.oykqo.top
 oylerhof.de
@@ -13796,6 +13825,8 @@ partsbicycle.shop
 www.partsbicycle.shop
 party4kids.at
 www.party4kids.at
+partyoftenuk.com
+www.partyoftenuk.com
 pasadenablues.com
 www.pasadenablues.com
 pasarbali-malls.com
@@ -14008,6 +14039,8 @@ phoberose.com
 www.phoberose.com
 phobility-aktiv.at
 www.phobility-aktiv.at
+phooom.com
+www.phooom.com
 photocurtis.at
 www.photocurtis.at
 photonstrom.de
@@ -14067,9 +14100,6 @@ pinjamanelit.top
 www.pinjamanelit.top
 pinjamanmurah.space
 www.pinjamanmurah.space
-pinjamanpedia.xyz
-store.pinjamanpedia.xyz
-www.pinjamanpedia.xyz
 pinjamanplus.com
 www.pinjamanplus.com
 pinjamanrupiah.xyz
@@ -14508,6 +14538,8 @@ productsorganic.top
 www.productsorganic.top
 profayansy.com
 www.profayansy.com
+professionistidelsorriso.eu
+www.professionistidelsorriso.eu
 profimatics.de
 www.profimatics.de
 profiservice-24.info
@@ -15375,6 +15407,8 @@ rockstargood.com
 www.rockstargood.com
 rocktime.cz
 www.rocktime.cz
+rocktransit.com
+www.rocktransit.com
 rockule.top
 www.rockule.top
 rockwell-berlin.de
@@ -15502,6 +15536,8 @@ www.rromaakt.de
 rsahansuwa.shop
 rsf-services.de
 www.rsf-services.de
+rsfancy.com
+www.rsfancy.com
 rspasian.com
 www.rspasian.com
 rsshagen.de
@@ -16356,7 +16392,6 @@ shopdima.com
 www.shopdima.com
 shopdremel.com
 www.shopdremel.com
-shopee1666.com
 shopeplace.com
 www.shopeplace.com
 shoperando.com
@@ -16391,6 +16426,8 @@ shopladyfashion.com
 www.shopladyfashion.com
 shopmusicalinstruments.com
 www.shopmusicalinstruments.com
+shopmustangparts.com
+www.shopmustangparts.com
 shopnaturenow.com
 www.shopnaturenow.com
 shopnewclothing.com
@@ -17939,9 +17976,7 @@ www.tes-ib.cloud
 tes-ic.cloud
 tesauree.com
 www.tesauree.com
-tesla-openai.com
 store.tesla-openai.com
-www.tesla-openai.com
 teslabestfor.com
 www.teslabestfor.com
 teslabounce.com
@@ -18370,6 +18405,8 @@ timental.de
 www.timental.de
 timeout-bar.at
 www.timeout-bar.at
+timesends.com
+www.timesends.com
 timesofnaukri.com
 www.timesofnaukri.com
 timyllc.com
@@ -19064,6 +19101,8 @@ store.um-bs.com
 www.um-bs.com
 umadate.xyz
 www.umadate.xyz
+umagic.net
+www.umagic.net
 umbrellacorp.fr
 www.umbrellacorp.fr
 umehrazi.top
@@ -19114,6 +19153,8 @@ unique-print.de
 www.unique-print.de
 uniqueetee.com
 www.uniqueetee.com
+uniquehomeshop.com
+www.uniquehomeshop.com
 uniqueshirt.shop
 www.uniqueshirt.shop
 uniteddeliveryagency.com
@@ -19619,7 +19660,6 @@ vipmallstore.shop
 www.vipmallstore.shop
 vipoli-reifen.com
 www.vipoli-reifen.com
-shop.vipsshop.ga
 vipticketgiveaway.com
 www.vipticketgiveaway.com
 virany.de
@@ -20266,6 +20306,8 @@ www.wisereading.store
 wittenberger-hof.de
 www.wittenberger-hof.de
 reiseweltat6.wixsite.com
+wizgoo.com
+www.wizgoo.com
 wizmazzaken.com
 www.wizmazzaken.com
 wj-tag.de
@@ -20585,9 +20627,6 @@ youkoll.com
 www.youkoll.com
 your-hairstyle.de
 www.your-hairstyle.de
-your-redelivery-au.com
-auspost.your-redelivery-au.com
-www.your-redelivery-au.com
 youreduspace.com
 www.youreduspace.com
 yourmarket24.com
