@@ -184,9 +184,8 @@ www.device-provisioning.googleapis.com
 www.semanticlocation-pa.googleapis.com
 # Breaks site layouts, videos and more on some sites
 *.googletagmanager.com
-# googletagservices.com
+*.googletagservices.com
 *.www-googletagmanager.l.google.com
-# www.googletagservices.com
 # Not used for tracking, metrics, analytics
 *.metric.gstatic.com
 
@@ -255,6 +254,7 @@ settings-prod-*.cloudapp.azure.com
 settings-win.data.microsoft.com
 settings.data.microsoft.com
 target.microsoft.com
+microsoftmscompoc.tt.omtrdc.net
 time.windows.com
 twc.trafficmanager.net
 vlscppe.microsoft.com
@@ -1770,6 +1770,7 @@ images.cdn.scarabresearch.com
 
 # Breaks paypal pay process on some german shopping sites
 siteintercept.qualtrics.com
+siteintercept.qprod2.net
 *paypal*.siteintercept.qualtrics.com
 
 # Aim Lab aimlab.gg passwort reset
@@ -3060,7 +3061,8 @@ api.nextgen.guardianapps.co.uk
 
 # https://github.com/hagezi/dns-blocklists/issues/899
 medium.ngtv.io
-turnip.cdn.turner.com
+*.cdn.turner.com
+c.amazon-adsystem.com
 
 # https://github.com/hagezi/dns-blocklists/issues/908
 chip.de
@@ -3205,4 +3207,7 @@ web.snrbox.com
 
 # https://github.com/hagezi/dns-blocklists/issues/969
 tracker.gpcdn.pl
+
+# https://github.com/hagezi/dns-blocklists/issues/970
+600vekil.com
 
