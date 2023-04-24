@@ -3197,5 +3197,12 @@ licensing.bitmovin.com
 candycrushsoda.king.com
 
 # Site layout on tz.de and other sites
+# https://github.com/StevenBlack/hosts/issues/2299#issuecomment-1519299658
 idcdn.de
+
+# https://github.com/hagezi/dns-blocklists/issues/968
+web.snrbox.com
+
+# https://github.com/hagezi/dns-blocklists/issues/969
+tracker.gpcdn.pl
 
