@@ -2447,7 +2447,6 @@
 *.5z.pm
 *.6-mtt.uz
 *.60019.it
-*.600vekil.com
 *.6016799644.com
 *.608-ite-channel-route.cfd
 *.vinted.60900081.xyz
