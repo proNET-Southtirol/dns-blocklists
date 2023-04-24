@@ -4,47 +4,31 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 22 Apr 2023 18:25 UTC
-# Version: 2023.0422.1825.33
+# Last modified: 24 Apr 2023 21:56 UTC
+# Version: 2023.0424.2156.16
 # Syntax: DNSMasq
-# Number of entries: 2186
+# Number of entries: 2170
 #
 address=/0000a-fast-proxy.de/#
-address=/0020proxy.info/#
-address=/007unblocker.com/#
-address=/012proxy.ga/#
-address=/02014proxy.info/#
 address=/0x3d.lu/#
 address=/123-proxy.org/#
-address=/1234proxysomemore.com/#
-address=/123anonymous.com/#
 address=/123hideip.com/#
 address=/123proxy.app/#
 address=/12vpx.com/#
 address=/16yd.com/#
-address=/1774.info/#
 address=/1and1-dns.de/#
 address=/1clickvpn.net/#
 address=/1freeproxy.pw/#
 address=/1proxy.de/#
-address=/1proxy.in/#
 address=/1proxy.us/#
 address=/233py.com/#
 address=/24tunnel.com/#
-address=/2999.info/#
-address=/2a87.com/#
 address=/2anonymousproxy.com/#
 address=/2fastsurfer.com/#
 address=/2fastsurfer.eu/#
 address=/2fastsurfer.us/#
-address=/2kjb10.net/#
-address=/2kjb8.net/#
-address=/2kjb9.net/#
-address=/2name.info/#
 address=/2proxy.de/#
 address=/2proxy.us/#
-address=/2r34.com/#
-address=/2tunnel.info/#
 address=/2ub.top/#
 address=/33253.com/#
 address=/doh.360.cn/#

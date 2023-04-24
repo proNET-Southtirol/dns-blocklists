@@ -4,30 +4,22 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 22 Apr 2023 18:25 UTC
-# Version: 2023.0422.1825.33
+# Last modified: 24 Apr 2023 21:56 UTC
+# Version: 2023.0424.2156.16
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 2314
+# Number of entries: 2298
 #
 0.0.0.0 0000a-fast-proxy.de
-0.0.0.0 0020proxy.info
-0.0.0.0 007unblocker.com
-0.0.0.0 012proxy.ga
-0.0.0.0 02014proxy.info
 0.0.0.0 0x3d.lu
 0.0.0.0 123-proxy.org
-0.0.0.0 1234proxysomemore.com
-0.0.0.0 123anonymous.com
 0.0.0.0 123hideip.com
 0.0.0.0 123proxy.app
 0.0.0.0 12vpx.com
 0.0.0.0 16yd.com
-0.0.0.0 1774.info
 0.0.0.0 1and1-dns.de
 0.0.0.0 1clickvpn.net
 0.0.0.0 1freeproxy.pw
 0.0.0.0 1proxy.de
-0.0.0.0 1proxy.in
 0.0.0.0 1proxy.us
 0.0.0.0 233py.com
 0.0.0.0 dns.233py.com
@@ -38,20 +30,12 @@
 0.0.0.0 sdns.233py.com
 0.0.0.0 wdns.233py.com
 0.0.0.0 24tunnel.com
-0.0.0.0 2999.info
-0.0.0.0 2a87.com
 0.0.0.0 2anonymousproxy.com
 0.0.0.0 2fastsurfer.com
 0.0.0.0 2fastsurfer.eu
 0.0.0.0 2fastsurfer.us
-0.0.0.0 2kjb10.net
-0.0.0.0 2kjb8.net
-0.0.0.0 2kjb9.net
-0.0.0.0 2name.info
 0.0.0.0 2proxy.de
 0.0.0.0 2proxy.us
-0.0.0.0 2r34.com
-0.0.0.0 2tunnel.info
 0.0.0.0 2ub.top
 0.0.0.0 33253.com
 0.0.0.0 doh.360.cn

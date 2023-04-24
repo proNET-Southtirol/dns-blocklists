@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1682187900 86400 3600 604800 30
+@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1682373360 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Enyrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: Updated regularly
-; Last modified: 22 Apr 2023 18:25 UTC
-; Version: 2023.0422.1825.33
+; Last modified: 24 Apr 2023 21:56 UTC
+; Version: 2023.0424.2156.16
 ; Syntax: RPZ
-; Number of entries: 4372
+; Number of entries: 4340
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -269,12 +269,6 @@ youtube-proxy.co CNAME .
 *.youtube-proxy.co CNAME .
 youtubeproxy.co CNAME .
 *.youtubeproxy.co CNAME .
-007unblocker.com CNAME .
-*.007unblocker.com CNAME .
-1234proxysomemore.com CNAME .
-*.1234proxysomemore.com CNAME .
-123anonymous.com CNAME .
-*.123anonymous.com CNAME .
 123hideip.com CNAME .
 *.123hideip.com CNAME .
 12vpx.com CNAME .
@@ -285,14 +279,10 @@ youtubeproxy.co CNAME .
 *.233py.com CNAME .
 24tunnel.com CNAME .
 *.24tunnel.com CNAME .
-2a87.com CNAME .
-*.2a87.com CNAME .
 2anonymousproxy.com CNAME .
 *.2anonymousproxy.com CNAME .
 2fastsurfer.com CNAME .
 *.2fastsurfer.com CNAME .
-2r34.com CNAME .
-*.2r34.com CNAME .
 33253.com CNAME .
 *.33253.com CNAME .
 4everproxy.com CNAME .
@@ -2273,8 +2263,6 @@ proxy.vpnmag.fr CNAME .
 *.proxy.vpnmag.fr CNAME .
 wez.fr CNAME .
 *.wez.fr CNAME .
-012proxy.ga CNAME .
-*.012proxy.ga CNAME .
 freedomvpn.ga CNAME .
 *.freedomvpn.ga CNAME .
 freevpns.ga CNAME .
@@ -2355,8 +2343,6 @@ supervpn.im CNAME .
 *.supervpn.im CNAME .
 zpn.im CNAME .
 *.zpn.im CNAME .
-1proxy.in CNAME .
-*.1proxy.in CNAME .
 9proxy.in CNAME .
 *.9proxy.in CNAME .
 2.dnscrypt-cert.captnemo.in CNAME .
@@ -2383,18 +2369,6 @@ vpnfree.in CNAME .
 *.vpnfree.in CNAME .
 websurf.in CNAME .
 *.websurf.in CNAME .
-0020proxy.info CNAME .
-*.0020proxy.info CNAME .
-02014proxy.info CNAME .
-*.02014proxy.info CNAME .
-1774.info CNAME .
-*.1774.info CNAME .
-2999.info CNAME .
-*.2999.info CNAME .
-2name.info CNAME .
-*.2name.info CNAME .
-2tunnel.info CNAME .
-*.2tunnel.info CNAME .
 3name.info CNAME .
 *.3name.info CNAME .
 45bytes.info CNAME .
@@ -3185,12 +3159,6 @@ dns.therifleman.name CNAME .
 *.dns.therifleman.name CNAME .
 1clickvpn.net CNAME .
 *.1clickvpn.net CNAME .
-2kjb10.net CNAME .
-*.2kjb10.net CNAME .
-2kjb8.net CNAME .
-*.2kjb8.net CNAME .
-2kjb9.net CNAME .
-*.2kjb9.net CNAME .
 42k0b13.net CNAME .
 *.42k0b13.net CNAME .
 42k2b14.net CNAME .
