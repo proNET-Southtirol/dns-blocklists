@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 19 Apr 2023 08:18 UTC
-# Version: 2023.0419.0818.34
+# Last modified: 24 Apr 2023 21:58 UTC
+# Version: 2023.0424.2158.18
 # Syntax: DNSMasq
-# Number of entries: 6897
+# Number of entries: 6892
 #
 address=/zer0day.000webhostapp.com/#
 address=/0123456789nonexistent.com/#
@@ -65,7 +65,6 @@ address=/123movies.mx/#
 address=/123movies.net/#
 address=/123movies.online/#
 address=/123movies.pics/#
-address=/123movies.promo/#
 address=/123movies.review/#
 address=/123movies.sale/#
 address=/123movies.sc/#
@@ -94,7 +93,6 @@ address=/123movieshub.tech/#
 address=/123movieshubz.com/#
 address=/123moviesme.org/#
 address=/123moviesnew.site/#
-address=/123moviess.ga/#
 address=/123moviess.gdn/#
 address=/123moviess.ru/#
 address=/123moviess.se/#
@@ -154,7 +152,6 @@ address=/23movies.xyz/#
 address=/24-download.com/#
 address=/24-downloads.com/#
 address=/240x320.ru/#
-address=/247movies.xyz/#
 address=/247pirate.org/#
 address=/247prox.link/#
 address=/247proxydl.org/#
@@ -174,7 +171,6 @@ address=/2streaming.net/#
 address=/2torrentz.net/#
 address=/amerikasimperialism.2ya.com/#
 address=/danime.2ya.com/#
-address=/300kg.ru/#
 address=/321n.net/#
 address=/tracker.3304399.com/#
 address=/337hhh.xyz/#
@@ -2774,7 +2770,6 @@ address=/i-p-v-6.tk/#
 address=/i123movies.club/#
 address=/opentracker.i2p.rocks/#
 address=/tracker.iamhansen.xyz/#
-address=/1337x.iamproxy.gq/#
 address=/rarbg.iamproxy.gq/#
 address=/iartbot.ru/#
 address=/ibdplex.net/#
