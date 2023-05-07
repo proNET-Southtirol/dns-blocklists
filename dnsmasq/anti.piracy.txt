@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 04 May 2023 21:58 UTC
-# Version: 2023.0504.2158.14
+# Last modified: 07 May 2023 22:08 UTC
+# Version: 2023.0507.2208.15
 # Syntax: DNSMasq
-# Number of entries: 6764
+# Number of entries: 6763
 #
 address=/zer0day.000webhostapp.com/#
 address=/0123456789nonexistent.com/#
@@ -1870,7 +1870,6 @@ address=/edels-stube.eu/#
 address=/edgeoftheworld.net/#
 address=/tracker.edkj.club/#
 address=/edmag.net/#
-address=/tracker.edoardocolombo.eu/#
 address=/tracker.sjtu.edu.cn/#
 address=/tracker.xauat6.edu.cn/#
 address=/aarinfantasy.edwardk.info/#

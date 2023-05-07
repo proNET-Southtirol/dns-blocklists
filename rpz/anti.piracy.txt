@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1683237480 86400 3600 604800 30
+@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1683497280 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 04 May 2023 21:58 UTC
-; Version: 2023.0504.2158.14
+; Last modified: 07 May 2023 22:08 UTC
+; Version: 2023.0507.2208.15
 ; Syntax: RPZ
-; Number of entries: 13528
+; Number of entries: 13526
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -5759,8 +5759,6 @@ dvdseed.eu CNAME .
 *.dvdseed.eu CNAME .
 edels-stube.eu CNAME .
 *.edels-stube.eu CNAME .
-tracker.edoardocolombo.eu CNAME .
-*.tracker.edoardocolombo.eu CNAME .
 exitorrent.eu CNAME .
 *.exitorrent.eu CNAME .
 fiberlink.eu CNAME .
