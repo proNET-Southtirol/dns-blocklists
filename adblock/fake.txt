@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 06 May 2023 22:18 UTC
-! Version: 2023.0506.2218.55
+! Last modified: 07 May 2023 22:14 UTC
+! Version: 2023.0507.2214.19
 ! Syntax: AdBlock
-! Number of entries: 11295
+! Number of entries: 11265
 !
 ||1-proof.cyou^
 ||100-solarni-lampa-cz.com^
@@ -33,7 +33,6 @@
 ||2021shoponline.com^
 ||21sstylees.com^
 ||24bitcoinexchange.com^
-||24hschlossdienst.at^
 ||24installateur.at^
 ||24team.at^
 ||24things.de^
@@ -116,7 +115,6 @@
 ||acg-immo.at^
 ||achenseeinfo.at^
 ||achievementcesr.top^
-||achimkelbel.de^
 ||achimreims.de^
 ||acime-project.de^
 ||acnsa.shop^
@@ -493,7 +491,6 @@
 ||ao-running.com^
 ||aobjektif.shop^
 ||aocrloib.shop^
-||aolbags.com^
 ||aoptee.com^
 ||aopwix.com^
 ||aorticb.shop^
@@ -572,6 +569,7 @@
 ||ariesjeweller.com^
 ||arila.de^
 ||arindo.de^
+||arkcoin.cc^
 ||armodamobilya.com^
 ||armoires.store^
 ||armxn.com^
@@ -940,6 +938,7 @@
 ||benecharm.com^
 ||bennet-bock.de^
 ||bennettsale.com^
+||bensiro.com^
 ||benskincare.xyz^
 ||bentrn.shop^
 ||benzodiazepine-kaufen.com^
@@ -2005,7 +2004,6 @@
 ||combojoy.com^
 ||combont.com^
 ||combuildwith.top^
-||comclone.com^
 ||comdorpeopl.com^
 ||comerciouruguay.com^
 ||comeyour.com^
@@ -2081,7 +2079,6 @@
 ||cootank.com^
 ||copenhagenschuhesale.de^
 ||coprv.com^
-||copymyfx.com^
 ||coracosmetic.live^
 ||coralpuremusic.xyz^
 ||corg.co^
@@ -2182,6 +2179,7 @@
 ||cryptoeddu.com^
 ||cryptoinas.com^
 ||cryptokasse.co^
+||cryptolivetrade.live^
 ||cryptolnvest.com^
 ||cryptoprofittable247.com^
 ||cryptot.net^
@@ -2308,7 +2306,6 @@
 ||darkavenuev.com^
 ||darkminder.co^
 ||darliasmaltesepuppies.com^
-||darrenyo.com^
 ||daryf.com^
 ||darylwilkins.space^
 ||das-home.com^
@@ -2446,11 +2443,9 @@
 ||deroky.com^
 ||derpokal.at^
 ||dersupertiger.de^
-||derudte.com^
 ||derumzugshelfer.at^
 ||derurban.at^
 ||desamishop.com^
-||desayleddisplay.fr^
 ||descontom.com^
 ||designer-dream.com^
 ||designer-second-hand-shop.com^
@@ -2750,7 +2745,6 @@
 ||dsingtse.com^
 ||dslladen.com^
 ||dspqrm.com^
-||dssales.shop^
 ||dsuleipzig.de^
 ||dsvss.com^
 ||dt-courier.net^
@@ -2919,7 +2913,6 @@
 ||eisenhart.at^
 ||eisschild.com^
 ||ejkyugekjth.top^
-||ejrjx.top^
 ||ekaufe.com^
 ||ekebalu.shop^
 ||ekiz-volders.at^
@@ -3178,7 +3171,6 @@
 ||eugadneu.de^
 ||euheadsport.de^
 ||eulawalsh.space^
-||eurlogistic.com^
 ||euro-markt-elektro.online^
 ||euroadmaps.com^
 ||euroemarket.com^
@@ -3281,7 +3273,6 @@
 ||ezredtool.com^
 ||ezzpools.com^
 ||ezzymoly.com^
-||f-flt.com^
 ||f1authentics.shop^
 ||fabiang.shop^
 ||fabionapoli.com^
@@ -3334,7 +3325,6 @@
 ||familystore.com^
 ||familyteacupschihuahuas.com^
 ||famoury.com^
-||famromanski.de^
 ||famulaturcheck.at^
 ||fanaticgarment.com^
 ||fanatictool.com^
@@ -3356,7 +3346,6 @@
 ||farben-store.com^
 ||farexon.com^
 ||fasamey.com^
-||fascboots.com^
 ||fascinatorshair.com^
 ||fash-brand.shop^
 ||fashglamorous.com^
@@ -3424,7 +3413,6 @@
 ||favoriteshopmall.store^
 ||favoriteswimwear.com^
 ||favornote.com^
-||fbmf-b391022.su^
 ||fcirlich.de^
 ||fdpbuerstadt.de^
 ||fdrc-gov.org^
@@ -4683,7 +4671,6 @@
 ||housepicsct.com^
 ||houserby.com^
 ||housewarede.de^
-||hoverboard-time.com^
 ||howarco.com^
 ||howtozila.com^
 ||hpawesome.com^
@@ -4928,7 +4915,6 @@
 ||iplflasher.co^
 ||ipokerword.com^
 ||iqcreditcheck.com^
-||iqsmartoption.art^
 ||ique-robot.de^
 ||irecommendz.com^
 ||irene-karin.com^
@@ -5165,7 +5151,6 @@
 ||kaminholzgmbh.com^
 ||kaminholzholzofen.de^
 ||kaminsky-shop.de^
-||kammerjaeger24h.at^
 ||kammerjaeger7d.at^
 ||kamoni.de^
 ||kamuhane.com^
@@ -5318,7 +5303,6 @@
 ||king7seven.com^
 ||kingdessew.top^
 ||kingfinds.de^
-||kingjober.xyz^
 ||kingsevensunglasses.com^
 ||kingteestore.com^
 ||kinky-events.at^
@@ -5607,7 +5591,6 @@
 ||lbrandsale.com^
 ||lcc-allgaeu.de^
 ||lcgform.com^
-||lcirv.top^
 ||le-cartier.com^
 ||leaderr.shop^
 ||leadinggiftsale.shop^
@@ -5767,6 +5750,7 @@
 ||lisianstore.com^
 ||lismali.com^
 ||lisnatgomes.shop^
+||listennwa.com^
 ||litcomplex.com^
 ||litconception.com^
 ||literaryfiction.store^
@@ -5795,7 +5779,6 @@
 ||lloyd-verkauf.shop^
 ||lloydchuhe.de^
 ||lloydloom.com^
-||lmwip.top^
 ||lo-transport.eu^
 ||lobbyreviews.net^
 ||local-payments.shop^
@@ -6064,7 +6047,6 @@
 ||marschallplatz1.at^
 ||martenscz.com^
 ||martensosterreich.com^
-||martensosterrelch.com^
 ||marthistore.cz^
 ||martialclub.xyz^
 ||martialstroe.shop^
@@ -6159,7 +6141,6 @@
 ||media-deals24.de^
 ||media-heinemann.com^
 ||media-lehmann.com^
-||media-markt-outlet.de^
 ||media-palmer.com^
 ||media-voigt.de^
 ||media-wagner.com^
@@ -6181,7 +6162,6 @@
 ||medimax-deat.de^
 ||medimax-service.de^
 ||medimax-servicede.de^
-||medimaxde.de^
 ||medimaxdeutsch.de^
 ||medimaxdeutschland.store^
 ||medimaxkontakt.de^
@@ -6193,6 +6173,7 @@
 ||medirezept.shop^
 ||medivaa.com^
 ||medizin-rezeptfrei.net^
+||medlines.fr^
 ||medplay.de^
 ||meds24.top^
 ||meertickets.de^
@@ -6411,10 +6392,10 @@
 ||mlpa.cz^
 ||mluvicikrecek-cz.com^
 ||mmarketing.cz^
+||mmfit.eu^
 ||mmmjemp.cn^
 ||mmoutlet.store^
 ||mmplus.store^
-||mnlsbjsy.com^
 ||mnoramemeti.com^
 ||mnotina.com^
 ||mobiamy.com^
@@ -6603,7 +6584,6 @@
 ||www.pinjamnow.my.id^
 ||yoli.my.id^
 ||uschse04.my03.com^
-||myautofficina.it^
 ||mybell-refund.me^
 ||myberlinshop.com^
 ||mybordercollies.de^
@@ -6794,6 +6774,7 @@
 ||neogames.eu^
 ||neonbitepro.com^
 ||neonlikez.com^
+||neopass.de^
 ||neozor.com^
 ||nepalnet.de^
 ||nepenthe.shop^
@@ -7041,7 +7022,6 @@
 ||nursingsale.store^
 ||nuxcloset.com^
 ||nuxxu.de^
-||nv-logistic-trade-sl.com^
 ||nvistle.us^
 ||nwbikeshoes.com^
 ||nwtaylor.shop^
@@ -7651,7 +7631,6 @@
 ||planetopia-online.de^
 ||planetstore24.de^
 ||plantsinterior.com^
-||plasmaoracleglobalex.com^
 ||plasticpipings.fr^
 ||platformmind.quest^
 ||platinumpolls.com^
@@ -7921,7 +7900,6 @@
 ||pyroforms.at^
 ||pyromax.at^
 ||pyroxtrem.com^
-||pytssw.com^
 ||pyvigo.com^
 ||pzbhold-auto.com^
 ||qbagsbyte.shop^
@@ -8034,7 +8012,6 @@
 ||rainer-baumarkt.de^
 ||ralindo.de^
 ||ramblel.top^
-||ramelliamode.de^
 ||ramonlabrador.de^
 ||rampado.de^
 ||ramsgil.com^
@@ -8127,7 +8104,6 @@
 ||refreshedts.online^
 ||regattaretail.com^
 ||regenmantel24.de^
-||regio-treuhand.de^
 ||regionit.top^
 ||registerwegweiser.info^
 ||registerzentrale.de^
@@ -8233,7 +8209,6 @@
 ||rezeptfrei.online^
 ||rezeptfrei-24.com^
 ||rezeptfrei-bestellung.de^
-||rezeptfrei-versand.de^
 ||rfaxlead.com^
 ||rftobler.at^
 ||rgoconnell.com^
@@ -8627,7 +8602,6 @@
 ||schlund-woehr.de^
 ||schlusseldienst.at^
 ||schlussmit.at^
-||schmerbeck-versand.de^
 ||schmerzloseapotheke.com^
 ||schmerzmittel-billiger.com^
 ||schmerzmittel-rezeptfrei.com^
@@ -9018,7 +8992,6 @@
 ||sleva24.cz^
 ||slicerverkauf.de^
 ||sligen.com^
-||slim-fitusmen.com^
 ||slimfit-sales.com^
 ||slimmingproductsale.store^
 ||slimwaist.us^
@@ -9036,7 +9009,6 @@
 ||smart-topstore.com^
 ||smartbullmarket.com^
 ||smarters-pro.net^
-||smartfortore.it^
 ||smarthomevi.com^
 ||smartmoney-deal-now.com^
 ||smartpower4all.org^
@@ -10088,7 +10060,6 @@
 ||topillstore.com^
 ||topknflee.buzz^
 ||topleadermarkt.com^
-||toplinkcouriers.com^
 ||topmarkendeutschland.com^
 ||topmarket24hr.com^
 ||topmodareps.es^
@@ -10198,12 +10169,12 @@
 ||trinitywelpenzuhause.de^
 ||trinodro.com^
 ||tripinpremiumsnacks.com^
+||tripodproductions.net^
 ||triumphd.com^
 ||triviatrade.com^
 ||trockenesholz.com^
 ||trodat-cz.cz^
 ||tromselementbygg.no^
-||at.tronicfactory.com^
 ||tronicversand.net^
 ||trophal.de^
 ||tropicaltrends.co^
@@ -10881,7 +10852,6 @@
 ||wellindal.de^
 ||de.wellreplicas.to^
 ||wellsbaby.shop^
-||wellstuffz.shop^
 ||welpen-stubenrein.de^
 ||welpenexperten.de^
 ||welstv.at^
@@ -10921,6 +10891,7 @@
 ||wheelsamazing.com^
 ||wheelskit.com^
 ||whentotowork.com^
+||whiindia.org^
 ||whiskysbilliger.de^
 ||whiteheartdevelopers.com^
 ||whitetigersclan.at^
@@ -10954,7 +10925,6 @@
 ||wiltonsale.com^
 ||wincleanerpro.com^
 ||wind88.shop^
-||windlehurst-transport.eu^
 ||windowfilm.life^
 ||windshops.com^
 ||windyys.com^
