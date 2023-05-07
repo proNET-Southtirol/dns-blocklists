@@ -1,0 +1,57 @@
+# Title: HaGeZi's The World's Most Abused TLDs for Pi-hole (RegEx)
+# Description: The Top Most Abused Top Level Domains, merged from Yokoffing, DandelionSprout and SpamHAUS. Only TLDs, without exclusion of possible false positive domains!
+# Installation: Mark all RegEx rules and copy them to Domains > tab "RegEx filter" > field "Regular Expression:". Enter "Spam TLDs" in the "Comment:" field. Click on "Add to Blacklist".
+# Source: https://www.spamhaus.org/statistics/tlds/
+#         https://raw.githubusercontent.com/yokoffing/filterlists/main/enhanced_site_protection.txt
+#         https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
+# Homepage: https://github.com/hagezi/dns-blocklists
+# Issues: https://github.com/hagezi/dns-blocklists/issues
+# License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
+# Expires: Updated regularly
+# Last modified: 05 May 2023 22:02 UTC
+# Version: 2023.0505.2202.15
+# Syntax: RegEx
+#
+\.agency$
+\.autos$
+\.bar$
+\.beauty$
+\.bid$
+\.biz$
+\.boats$
+\.boutique$
+\.buzz$
+\.cf$
+\.cfd$
+\.degree$
+\.discount$
+\.fit$
+\.fun$
+\.fyi$
+\.ga$
+\.gdn$
+\.gq$
+\.hair$
+\.haus$
+\.life$
+\.loan$
+\.loans$
+\.ml$
+\.mom$
+\.monster$
+\.okinawa$
+\.online$
+\.ooo$
+\.pw$
+\.quest$
+\.rest$
+\.sbs$
+\.site$
+\.skin$
+\.surf$
+\.tk$
+\.top$
+\.uno$
+\.wiki$
+\.work$
+\.zone$
