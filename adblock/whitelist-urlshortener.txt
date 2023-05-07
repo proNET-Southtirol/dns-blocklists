@@ -13,7 +13,6 @@
 @@||0.gp^
 @@||02faq.com^
 @@||0987.win^
-@@||0a.fit^
 @@||0a.sk^
 @@||0rz.tw^
 @@||0vu.cn^
@@ -855,7 +854,6 @@
 @@||m1p.fr^
 @@||m3mi.com^
 @@||m6z.cn^
-@@||ma.my^
 @@||maac.io^
 @@||maga.lu^
 @@||make.my^

@@ -3370,3 +3370,12 @@ fly.customer.io
 # Food tracker
 track.talabat.com
 
+# https://github.com/hagezi/dns-blocklists/issues/1015
+d.ghostery.com
+
+# Video playback on Hotstar (Website only?)
+hesads.akamaized.net
+
+# https://github.com/hagezi/dns-blocklists/issues/1016
+promotions.newegg.com
+
