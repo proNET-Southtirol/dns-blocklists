@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.native.tiktok. hostmaster.hagezi.native.tiktok. 1683411420 86400 3600 604800 30
+@ SOA rpz.hagezi.native.tiktok. hostmaster.hagezi.native.tiktok. 1683497520 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's TikTok Fingerprinting DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 06 May 2023 22:17 UTC
-; Version: 2023.0506.2217.08
+; Last modified: 07 May 2023 22:12 UTC
+; Version: 2023.0507.2212.36
 ; Syntax: RPZ
-; Number of entries: 456
+; Number of entries: 466
 ;
 cdnlog-va-useast2a.byteoversea.com CNAME .
 *.cdnlog-va-useast2a.byteoversea.com CNAME .
@@ -169,6 +169,8 @@ log-va-useast2a.tiktokv.com CNAME .
 *.log-va-useast2a.tiktokv.com CNAME .
 log15-normal-alisg.tiktokv.com CNAME .
 *.log15-normal-alisg.tiktokv.com CNAME .
+log15-normal-useast1a.tiktokv.com CNAME .
+*.log15-normal-useast1a.tiktokv.com CNAME .
 log15-normal-useast2a.tiktokv.com CNAME .
 *.log15-normal-useast2a.tiktokv.com CNAME .
 log16-normal.tiktokv.com CNAME .
@@ -237,6 +239,8 @@ log55-normal-c-alisg.tiktokv.com CNAME .
 *.log55-normal-c-alisg.tiktokv.com CNAME .
 log55-normal-c-useast1a.tiktokv.com CNAME .
 *.log55-normal-c-useast1a.tiktokv.com CNAME .
+log58-normal-alisg.tiktokv.com CNAME .
+*.log58-normal-alisg.tiktokv.com CNAME .
 log58-normal-c-alisg.tiktokv.com CNAME .
 *.log58-normal-c-alisg.tiktokv.com CNAME .
 log58-normal-c-useast1a.tiktokv.com CNAME .
@@ -429,6 +433,8 @@ rtlog31-normal-useast1a.tiktokv.com CNAME .
 *.rtlog31-normal-useast1a.tiktokv.com CNAME .
 rtlog58-normal-alisg.tiktokv.com CNAME .
 *.rtlog58-normal-alisg.tiktokv.com CNAME .
+rtlog58-normal-useast1a.tiktokv.com CNAME .
+*.rtlog58-normal-useast1a.tiktokv.com CNAME .
 tns-sec-log-useast2a.tiktokv.com CNAME .
 *.tns-sec-log-useast2a.tiktokv.com CNAME .
 log16-applog-useast5.us.tiktokv.com CNAME .
@@ -451,6 +457,10 @@ rtc-logger.us.tiktokv.com CNAME .
 *.rtc-logger.us.tiktokv.com CNAME .
 rtlog16-applog-useast5.us.tiktokv.com CNAME .
 *.rtlog16-applog-useast5.us.tiktokv.com CNAME .
+rtlog19-applog-useast5.us.tiktokv.com CNAME .
+*.rtlog19-applog-useast5.us.tiktokv.com CNAME .
+rtlog19-platform-useast5.us.tiktokv.com CNAME .
+*.rtlog19-platform-useast5.us.tiktokv.com CNAME .
 xlog16-platform-useast5.us.tiktokv.com CNAME .
 *.xlog16-platform-useast5.us.tiktokv.com CNAME .
 xlog.tiktokv.com CNAME .
