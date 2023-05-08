@@ -4,8 +4,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 07 May 2023 22:08 UTC
-# Version: 2023.0507.2208.15
+# Last modified: 08 May 2023 22:08 UTC
+# Version: 2023.0508.2208.01
 # Syntax: DNSMasq
 # Number of entries: 6763
 #
@@ -1031,6 +1031,7 @@ address=/btbbt.cc/#
 address=/btbot.com/#
 address=/btbtt.com/#
 address=/btbtw.com/#
+address=/tracker.btcake.com/#
 address=/t.btcland.xyz/#
 address=/btcyberstorm.com/#
 address=/btdb.io/#
@@ -2379,7 +2380,6 @@ address=/gadget-vault.com/#
 address=/galacticcentral.org/#
 address=/gamato.info/#
 address=/game-files.net/#
-address=/game-torrent.info/#
 address=/game3rb.com/#
 address=/gameburnworld.com/#
 address=/uploads.gamecoast.net/#
@@ -3950,6 +3950,7 @@ address=/tracker.nyaa.uk/#
 address=/nyaatorrents.info/#
 address=/nyaatorrents.org/#
 address=/t.nyaatracker.com/#
+address=/tr.nyacat.pw/#
 address=/tracker.nyacat.pw/#
 address=/nyafilmer.lol/#
 address=/nyafilmer.vip/#
@@ -4330,7 +4331,6 @@ address=/bt.plc.mx/#
 address=/pldm.ml/#
 address=/pleer.com/#
 address=/plexbd.net/#
-address=/track.plop.pm/#
 address=/plugintorrent.com/#
 address=/plusbox.tv/#
 address=/plusnetbd.com/#

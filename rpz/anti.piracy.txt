@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1683497280 86400 3600 604800 30
+@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1683583680 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 07 May 2023 22:08 UTC
-; Version: 2023.0507.2208.15
+; Last modified: 08 May 2023 22:08 UTC
+; Version: 2023.0508.2208.01
 ; Syntax: RPZ
 ; Number of entries: 13526
 ;
@@ -1897,6 +1897,8 @@ btbtt.com CNAME .
 *.btbtt.com CNAME .
 btbtw.com CNAME .
 *.btbtw.com CNAME .
+tracker.btcake.com CNAME .
+*.tracker.btcake.com CNAME .
 btcyberstorm.com CNAME .
 *.btcyberstorm.com CNAME .
 btdig.com CNAME .
@@ -6339,8 +6341,6 @@ fxp-terminal.info CNAME .
 *.fxp-terminal.info CNAME .
 gamato.info CNAME .
 *.gamato.info CNAME .
-game-torrent.info CNAME .
-*.game-torrent.info CNAME .
 gameloo.info CNAME .
 *.gameloo.info CNAME .
 tracker.gbitt.info CNAME .
@@ -11053,8 +11053,6 @@ putlockers.plus CNAME .
 *.putlockers.plus CNAME .
 tracker.breizh.pm CNAME .
 *.tracker.breizh.pm CNAME .
-track.plop.pm CNAME .
-*.track.plop.pm CNAME .
 yts.pm CNAME .
 *.yts.pm CNAME .
 thepiratebay.press CNAME .
@@ -11165,6 +11163,8 @@ myflixer.pw CNAME .
 *.myflixer.pw CNAME .
 nulledfree.pw CNAME .
 *.nulledfree.pw CNAME .
+tr.nyacat.pw CNAME .
+*.tr.nyacat.pw CNAME .
 tracker.nyacat.pw CNAME .
 *.tracker.nyacat.pw CNAME .
 predb.pw CNAME .
