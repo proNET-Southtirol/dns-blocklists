@@ -303,15 +303,12 @@ c.office.com
 # eu.events.data.trafficmanager.net
 
 # Outlook - link to new outlook e-Mail address
-# eu-office.events.data.microsoft.com
-# eu.aria.events.data.trafficmanager.net
 
 # Microsoft Teams Events
 # ic3.events.data.microsoft.com
 # teams.events.data.microsoft.com
 # teams-events-data.trafficmanager.net
 # eu-teams.events.data.microsoft.com
-# eu.events.data.trafficmanager.net
 
 # XBox Rewards
 *.rewardsprod.trafficmanager.net
@@ -581,7 +578,6 @@ faz.sevenval-fit.com
 # breaks site layout
 stats.t-online.de
 
-# breaks site layout
 bilder.fernsehserien.de
 
 # Tidal login
@@ -699,7 +695,6 @@ newbedev.com
 # https://github.com/hagezi/dns-blocklists/issues/19
 activehosted.com
 
-# https://github.com/hagezi/dns-blocklists/issues/19
 activecampaign.com
 
 # https://forum.adguard.com/index.php?threads/45115/223037
@@ -780,7 +775,6 @@ above.com
 webadvisorc.rest.gti.mcafee.com
 
 # Videos on 20min.ch - Example:  https://www.20min.ch/video/weisse-girls-mit-farbigen-dreadlocks-finde-ich-nicht-so-toll-222458234734
-tdn.da-services.ch
 
 # Videos on 247sports.com - Example: https://247sports.com/Video/Preps-To-Pros-Player-as-Potental-5-Star-Jump-Chris-Vizzina-11250144/
 production-cmp.isgprivacy.cbsi.com
@@ -815,7 +809,6 @@ plugin.mediavoice.com
 
 # Breaks site layput on bankofamerica.com
 staticweb.bankofamerica.com
-# CNAMES
 staticweb.ecglb.bac.com
 cs636.wac.chicdn.net
 
@@ -992,7 +985,6 @@ cdnbunny.org
 save.tv
 
 # Click article Links on scotsman.com
-#+ www.googletagmanager.com
 
 # Breaks site layout on share-videos.se
 static.share-videos.se
@@ -1105,7 +1097,6 @@ media.itsfogo.com
 hgc-cf-cache-1.svonm.com
 
 # Site layout on cinemaxx.de
-# !!! Will not be unblocked, the domains are used for ads/tracking and are quite common !!!
 # securepubads.g.doubleclick.net
 #+ googletagservices.com
 
@@ -1266,7 +1257,6 @@ sdk-02.moengage.com
 qualtrics.com
 
 # Videos on heise.de
-cdnapisec.kaltura.com
 cdn-kaltura-dscd.edgekey.net
 
 # https://github.com/StevenBlack/hosts/issues/2081
@@ -1413,7 +1403,6 @@ traccar.org
 # https://github.com/StevenBlack/hosts/issues/2098
 # https://github.com/AdAway/adaway.github.io/pull/352
 # https://github.com/nextdns/metadata/issues/1078
-# ...
 *.gigya.com
 
 # https://github.com/AdAway/adaway.github.io/issues/338
@@ -1484,7 +1473,6 @@ formula1.com
 aeotec.com
 
 # https://github.com/StevenBlack/hosts/issues/2109
-learn.cisecurity.org
 
 # https://github.com/EnergizedProtection/block/issues/902
 *.wdtinc.com
@@ -1603,7 +1591,6 @@ view.genial.ly
 sp-ao.shortpixel.ai
 
 # Breaks fastpic.org
-static.fastpic.org
 
 # Confirmation of change.org petitions
 click.e.change.org
@@ -1653,7 +1640,6 @@ d3tracking.rbc.com
 services.chipotle.com
 
 # apple-dns.net
-apple-dns.net
 
 # Articles on buzzfee.com
 abeagle-public.buzzfeed.com
@@ -1670,7 +1656,6 @@ appsumo.com
 # Canary email app
 canarymail.io
 
-# Mastodon instance
 norden.social
 
 # Breaks naver.com
@@ -1900,8 +1885,6 @@ hsforms.com
 hsforms.net
 
 # Surveys
-opinions.research-interactive.com
-surveymyopinion.researchnow.com
 
 # Customer live chat support
 liveperson.com
@@ -2014,7 +1997,6 @@ client-uc.heytapmobi.com
 # https://github.com/hagezi/dns-blocklists/issues/122
 static.cdn.responsys.net
 
-# https://github.com/hagezi/dns-blocklists/issues/122
 *.performfeeds.com
 
 # Breaks LinkedIn
@@ -2042,7 +2024,6 @@ majorgeeks.com
 # https://github.com/hagezi/dns-blocklists/issues/133
 stacksocial.com
 
-# Parcel tracking
 track.goshippo.com
 
 # Mandrill Mailchimp add-on - requesting a password, placing an order, links in emails, ...
@@ -2075,7 +2056,6 @@ sharkoon.com
 # aikQ Mail
 aikq.de
 
-# Shop
 airydress.com
 
 # Movie Streaming
@@ -2129,7 +2109,6 @@ custom.bnc.lt
 # https://github.com/hagezi/dns-blocklists/issues/171
 mntzrlt.net
 
-# https://github.com/hagezi/dns-blocklists/issues/171
 chillx.top
 
 # https://github.com/hagezi/dns-blocklists/issues/174
@@ -2173,10 +2152,8 @@ mywot.com
 # https://github.com/hagezi/dns-blocklists/issues/202
 mindvalley.com
 
-# https://github.com/hagezi/dns-blocklists/issues/191
 *.etrality.com
 
-# https://github.com/hagezi/dns-blocklists/issues/191
 api.speedspot.org
 
 # LinkedIn Content
@@ -2310,7 +2287,6 @@ polygraph.net
 
 # https://github.com/hagezi/dns-blocklists/issues/245
 serviceschipotlecom.trafficmanager.net
-services.chipotle.com
 
 # https://github.com/hagezi/dns-blocklists/issues/246
 saweria.co
@@ -2354,7 +2330,6 @@ abc-twitter.extremereach.com
 agents.extremereach.com
 app.extremereach.com
 download.extremereach.com
-dv.extremereach.com
 updates.extremereach.com
 
 # https://github.com/hagezi/dns-blocklists/issues/259
@@ -2496,14 +2471,12 @@ homedepot.cdn.findly.com
 # https://github.com/hagezi/dns-blocklists/issues/295
 secondstreetapp.com
 
-# https://github.com/hagezi/dns-blocklists/issues/295
 localiq.com
 
 https://github.com/hagezi/dns-blocklists/issues/297
 rtw.uol.com
 stc.uol.com
 tm.uol.com.br
-tm.jsuol.com.br
 e.imguol.com
 h.imguol.com
 
@@ -2643,7 +2616,6 @@ vulcan.condenastdigital.com
 option.boldapps.net
 
 # https://github.com/hagezi/dns-blocklists/issues/354
-# Parcel tracking
 track.aliexpress.com
 track.aliexpress.ru
 track.aliexpress.com.gds.alibabadns.com
@@ -2709,7 +2681,6 @@ cdn.optimizely.com
 baixaki.com.br
 www.baixaki.com.br
 
-# https://github.com/hagezi/dns-blocklists/issues/539
 api*.spot.im
 
 # https://github.com/hagezi/dns-blocklists/issues/540
@@ -2721,9 +2692,6 @@ agave.myanalytics.cdn.office.net
 
 # https://github.com/hagezi/dns-blocklists/issues/543
 onmilwaukee.com
-
-# https://github.com/hagezi/dns-blocklists/issues/545
-karenpryoracademy.com
 
 # https://github.com/hagezi/dns-blocklists/issues/545
 karenpryoracademy.com
@@ -3340,7 +3308,6 @@ d1bd3wxsyuz0t7.cloudfront.net
 
 # https://github.com/hagezi/dns-blocklists/issues/1008
 t1.baidu.com
-t10.baidu.com
 t11.baidu.com
 t12.baidu.com
 t13.baidu.com
@@ -3371,11 +3338,28 @@ fly.customer.io
 track.talabat.com
 
 # https://github.com/hagezi/dns-blocklists/issues/1015
+ghostery-metrics-713401778.us-east-1.elb.amazonaws.com
 d.ghostery.com
 
 # Video playback on Hotstar (Website only?)
 hesads.akamaized.net
 
 # https://github.com/hagezi/dns-blocklists/issues/1016
+www.usopc.com.edgekey.net
 promotions.newegg.com
+
+# https://github.com/hagezi/dns-blocklists/issues/1017
+top.n.shifen.com
+top.baidu.com
+
+# https://github.com/hagezi/dns-blocklists/issues/1018
+urldefense.gslb.proofpoint.com
+urldefense.proofpoint.com
+
+# https://github.com/hagezi/dns-blocklists/issues/1019
+cdn.livechat.com.edgekey.net
+cdn.livechatinc.com
+
+# sign in on Indeedapp
+secure.indeed.com
 
