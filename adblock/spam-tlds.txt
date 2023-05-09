@@ -7,8 +7,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 05 May 2023 22:02 UTC
-! Version: 2023.0505.2202.15
+! Last modified: 09 May 2023 22:12 UTC
+! Version: 2023.0509.2212.08
 ! Syntax: AdGuard
 !
 ||agency^$denyallow=battlefield.agency|baam.agency|robotzebra.agency|uphotel.agency|ws.agency
@@ -35,7 +35,7 @@
 ||life^$denyallow=digitalcitizen.life
 ||*.loan^
 ||loans^$denyallow=nic.loans
-||ml^$denyallow=aire.ml|amap.ml|beatbump.ml|biblioreads.ml|birdkey.ml|debula.ml|dmml.ml|esparrec.ml|exp0.ml|fedi.ml|ghostcloud.ml|google.ml|guya.ml|info-matin.ml|kawauso.ml|leam.ml|lemmy.ml|lingva.ml|loma.ml|masto.ml|mastodon.ml|mastodonte.ml|melody.ml|nothingprivate.ml|precure.ml|prompt.ml|stilic.ml|sumanko.ml|we-moon.ml
+||ml^$denyallow=aire.ml|amap.ml|beatbump.ml|birdkey.ml|debula.ml|dmml.ml|esparrec.ml|exp0.ml|fedi.ml|ghostcloud.ml|google.ml|guya.ml|info-matin.ml|kawauso.ml|leam.ml|lemmy.ml|lingva.ml|loma.ml|masto.ml|mastodon.ml|mastodonte.ml|melody.ml|nothingprivate.ml|precure.ml|prompt.ml|stilic.ml|sumanko.ml|we-moon.ml
 ||*.mom^
 ||monster^$denyallow=egybest.monster|yts.monster|cloudcdn.monster|fedi.monster|rollenspiel.monster|tts.monster|vipbj.monster
 ||okinawa^$denyallow=aclub.okinawa|activity.okinawa|aquadrop.okinawa|asatoyasuba.okinawa|beachboys.okinawa|churaumi.okinawa|dancestudioon.okinawa|diver.okinawa|ecco.okinawa|eight.okinawa|emoh.okinawa|fidelity.okinawa|gukuru.okinawa|holdbyhand.okinawa|jupiter.okinawa|kanoa.okinawa|kerouac.okinawa|kimishimagroup.okinawa|kokorononekko.okinawa|makeman.okinawa|mansaku.okinawa|minsyo.okinawa|morinaga.okinawa|naminouta.okinawa|nanaironote.okinawa|okmarine.okinawa|pacificview.okinawa|rentakun.okinawa|retime.okinawa|ryukyugobyou.okinawa|saya.okinawa|seek.okinawa|seitai.okinawa|selfstorage.okinawa|sgt.okinawa|shigaku.okinawa|simplelife.okinawa|sir.okinawa|sisei.okinawa|soilcure.okinawa|strawberry.okinawa|suba.okinawa|suncoast.okinawa|takakogyo.okinawa|thekucha.okinawa|tsukishiro.okinawa|yamabuki.okinawa|yorozu.okinawa|zwwa.okinawa
