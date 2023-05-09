@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1683583980 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1683670560 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 08 May 2023 22:13 UTC
-; Version: 2023.0508.2213.36
+; Last modified: 09 May 2023 22:16 UTC
+; Version: 2023.0509.2216.28
 ; Syntax: RPZ
-; Number of entries: 22698
+; Number of entries: 22692
 ;
 bitcoin360.ai CNAME .
 *.bitcoin360.ai CNAME .
@@ -1587,8 +1587,6 @@ crypsome.click CNAME .
 *.crypsome.click CNAME .
 dataid-subsidies.click CNAME .
 *.dataid-subsidies.click CNAME .
-milead.click CNAME .
-*.milead.click CNAME .
 grtw-frw.cloud CNAME .
 *.grtw-frw.cloud CNAME .
 orami.cloud CNAME .
@@ -1631,8 +1629,6 @@ medgroup.club CNAME .
 *.medgroup.club CNAME .
 modell-spielzeuge.club CNAME .
 *.modell-spielzeuge.club CNAME .
-newdigitals.club CNAME .
-*.newdigitals.club CNAME .
 newtopdigitals.club CNAME .
 *.newtopdigitals.club CNAME .
 raealed.club CNAME .
@@ -2739,6 +2735,8 @@ beautiing.com CNAME .
 *.beautiing.com CNAME .
 beauttyan.com CNAME .
 *.beauttyan.com CNAME .
+beauty-ventura.com CNAME .
+*.beauty-ventura.com CNAME .
 beautygiftsets.com CNAME .
 *.beautygiftsets.com CNAME .
 beautynailhairsalons.com CNAME .
@@ -3081,8 +3079,6 @@ bodycaresale.com CNAME .
 *.bodycaresale.com CNAME .
 bodygo.com CNAME .
 *.bodygo.com CNAME .
-bogdanski-salonbau.com CNAME .
-*.bogdanski-salonbau.com CNAME .
 bogsboot.com CNAME .
 *.bogsboot.com CNAME .
 bohmischesglas.com CNAME .
@@ -6109,8 +6105,6 @@ grenildee.com CNAME .
 *.grenildee.com CNAME .
 grill-accessories.com CNAME .
 *.grill-accessories.com CNAME .
-grimfrost.com CNAME .
-*.grimfrost.com CNAME .
 gritronic.com CNAME .
 *.gritronic.com CNAME .
 grocentro.com CNAME .
@@ -7833,8 +7827,6 @@ luenx.com CNAME .
 *.luenx.com CNAME .
 luffglasses.com CNAME .
 *.luffglasses.com CNAME .
-luggey.com CNAME .
-*.luggey.com CNAME .
 lukeshoe.com CNAME .
 *.lukeshoe.com CNAME .
 luluestore.com CNAME .
@@ -9641,8 +9633,6 @@ penguinnow.com CNAME .
 *.penguinnow.com CNAME .
 penitentinnovation.com CNAME .
 *.penitentinnovation.com CNAME .
-pennfosterglobal.com CNAME .
-*.pennfosterglobal.com CNAME .
 peoplestorry.com CNAME .
 *.peoplestorry.com CNAME .
 peppatees.com CNAME .
@@ -13009,8 +12999,6 @@ yeezyslides.us.com CNAME .
 *.yeezyslides.us.com CNAME .
 yeezysofficial.us.com CNAME .
 *.yeezysofficial.us.com CNAME .
-us-boutiques.com CNAME .
-*.us-boutiques.com CNAME .
 us-dtswissbike.com CNAME .
 *.us-dtswissbike.com CNAME .
 usadultproducts.com CNAME .
@@ -14209,8 +14197,6 @@ kozni-keclikova.cz CNAME .
 *.kozni-keclikova.cz CNAME .
 kralovskezlato.cz CNAME .
 *.kralovskezlato.cz CNAME .
-krcma-marketa.cz CNAME .
-*.krcma-marketa.cz CNAME .
 kubasmrz.cz CNAME .
 *.kubasmrz.cz CNAME .
 kubishop.cz CNAME .
@@ -15953,6 +15939,8 @@ heikojentsch.de CNAME .
 *.heikojentsch.de CNAME .
 heimatrad.de CNAME .
 *.heimatrad.de CNAME .
+heimeiche.de CNAME .
+*.heimeiche.de CNAME .
 heinrich-essing.de CNAME .
 *.heinrich-essing.de CNAME .
 helden-not.de CNAME .
@@ -16475,6 +16463,8 @@ mad-max-vd-brunnengaerten.de CNAME .
 *.mad-max-vd-brunnengaerten.de CNAME .
 maehercenter.de CNAME .
 *.maehercenter.de CNAME .
+magischepfoten.de CNAME .
+*.magischepfoten.de CNAME .
 magtechnik.de CNAME .
 *.magtechnik.de CNAME .
 maikekloss.de CNAME .
@@ -18707,6 +18697,8 @@ nobullsalewien.me CNAME .
 *.nobullsalewien.me CNAME .
 nobulosterreich.me CNAME .
 *.nobulosterreich.me CNAME .
+titan-man.me CNAME .
+*.titan-man.me CNAME .
 waxx.me CNAME .
 *.waxx.me CNAME .
 yeezywholesale.me CNAME .
@@ -19509,6 +19501,8 @@ xrp-give.pro CNAME .
 *.xrp-give.pro CNAME .
 andamente.pt CNAME .
 *.andamente.pt CNAME .
+gazinvest.quest CNAME .
+*.gazinvest.quest CNAME .
 platformmind.quest CNAME .
 *.platformmind.quest CNAME .
 openai.reisen CNAME .
@@ -21187,6 +21181,8 @@ wadepetitems.space CNAME .
 *.wadepetitems.space CNAME .
 watersstore.space CNAME .
 *.watersstore.space CNAME .
+zooger.space CNAME .
+*.zooger.space CNAME .
 3d-printing.store CNAME .
 *.3d-printing.store CNAME .
 68apparel.store CNAME .
@@ -21607,8 +21603,6 @@ meaningbox.store CNAME .
 *.meaningbox.store CNAME .
 media-world.store CNAME .
 *.media-world.store CNAME .
-medimaxdeutschland.store CNAME .
-*.medimaxdeutschland.store CNAME .
 meetfireplace.store CNAME .
 *.meetfireplace.store CNAME .
 megahood.store CNAME .
