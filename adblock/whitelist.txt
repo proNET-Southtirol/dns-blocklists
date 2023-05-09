@@ -1966,7 +1966,8 @@
 @@|hsbc.com.au^
 
 ! ACDSee Photo Studio
-@@||acdsystems.com^
+@@|acdsystems.com^
+@@|www.acdsystems.com^
 
 ! Images/Links/... in Mails (Nintendo, SEAT, ...)
 @@||exacttarget.com.edgekey.net^
@@ -2212,7 +2213,7 @@
 
 ! TSB Bank mobile banking app
 @@|check2.tsb.co.uk^
-! h-tsb.online-metrix.net
+@@|h-tsb.online-metrix.net^
 
 ! https://github.com/hagezi/dns-blocklists/issues/127
 @@|tracking.post.japanpost.jp^
@@ -2338,7 +2339,6 @@
 ! https://github.com/hagezi/dns-blocklists/issues/171
 @@|mntzrlt.net^
 @@|www.mntzrlt.net^
-
 @@|chillx.top^
 @@|www.chillx.top^
 
@@ -2949,12 +2949,11 @@
 @@|k.apiairasia.com^
 
 ! https://github.com/hagezi/dns-blocklists/issues/498
-@@|cdn.optimizely.com^
+! cdn.optimizely.com
 
 ! https://github.com/hagezi/dns-blocklists/issues/539
 @@|baixaki.com.br^
 @@|www.baixaki.com.br^
-
 @@|api*.spot.im^
 
 ! https://github.com/hagezi/dns-blocklists/issues/540
@@ -3018,7 +3017,6 @@
 @@|click.discord.com^
 
 ! Videos in Filmstarts.de App on Android
-!dmxleo.dailymotion.com
 @@|streaming.split.io^
 
 ! https://github.com/hagezi/dns-blocklists/issues/614
@@ -3100,7 +3098,7 @@
 @@|analysis*.chess.com^
 @@|analysis*.chess.com.cdn.cloudflare.net^
 
-! Images on  tiki.vn
+! Images on tiki.vn
 @@|salt.tikicdn.com^
 
 ! https://github.com/hagezi/dns-blocklists/issues/700
@@ -3201,7 +3199,6 @@
 ! https://github.com/hagezi/dns-blocklists/issues/657
 ! https://github.com/hagezi/dns-blocklists/issues/797#issuecomment-1501120725
 @@|mssdk-va.tiktok*.com^
-! *mssdk*.tiktokv.com
 
 ! Videos WDR App
 @@|deviceids-medp.wdr.de^
@@ -3380,10 +3377,6 @@
 ! https://github.com/hagezi/dns-blocklists/issues/913
 @@|contaboserver.net^
 @@|www.contaboserver.net^
-
-! #917
-@@|https://github.com/hagezi/dns-blocklists/issues/917^
-@@|www.https://github.com/hagezi/dns-blocklists/issues/917^
 
 ! https://github.com/hagezi/dns-blocklists/issues/917
 @@|dnainfotel.com^
