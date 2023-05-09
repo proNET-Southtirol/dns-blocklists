@@ -2073,8 +2073,28 @@
 
 ! Optimized mobile GPS Data - A-GPS Qualcomm - also used in emergencies
 ! https://teddit.net/r/privacy/comments/12yii9u/comment/jhojlr7/
-@@|xtracloud.net^
-@@|www.xtracloud.net^
+! https://github.com/hagezi/dns-blocklists/issues/1023
+@@|path1.xtracloud.net^
+@@|path2.xtracloud.net^
+@@|path3.xtracloud.net^
+@@|time.xtracloud.net^
+@@|xtratime.xboxprod.xtracloud.net^
+@@|path*.xtracloud.net^
+@@|xtrapath*.xtracloud.net^
+@@|izattime.xboxprod.izatcloud.net^
+@@|time.izatcloud.net^
+@@|xtra1ha.xboxprod.izatcloud.net^
+@@|xtra2.xboxprod.izatcloud.net^
+@@|xtra3.xboxprod.izatcloud.net^
+@@|xtrapath1.izatcloud.net^
+@@|xtrapath1.xboxprod.izatcloud.net^
+@@|xtrapath2.izatcloud.net^
+@@|xtrapath2.xboxprod.izatcloud.net^
+@@|xtrapath3.izatcloud.net^
+@@|xtrapath3.xboxprod.izatcloud.net^
+@@|xtrapath4.xboxprod.izatcloud.net^
+@@|xtrapath5.xboxprod.izatcloud.net^
+@@|xtrapath6.xboxprod.izatcloud.net^
 @@|path*.izatcloud.net^
 @@|xtrapath*.izatcloud.net^
 
@@ -3671,6 +3691,10 @@
 @@|cdn.livechat.com.edgekey.net^
 @@|cdn.livechatinc.com^
 
-! sign in on Indeedapp
+! sign in on Indeed app
 @@|secure.indeed.com^
+
+! Digital, transformation and technology recruitment specialist
+@@|lorienglobal.com^
+@@|www.lorienglobal.com^
 

@@ -28479,8 +28479,6 @@ secure.meet3monk.com CNAME .
 *.secure.meet3monk.com CNAME .
 meetbeagle.com CNAME .
 *.meetbeagle.com CNAME .
-diag.meethue.com CNAME .
-*.diag.meethue.com CNAME .
 meetingcupule.com CNAME .
 *.meetingcupule.com CNAME .
 meetinsrilanka.com CNAME .
