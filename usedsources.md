@@ -421,6 +421,17 @@
  44 |      98% |   2% |      0% |     413 | black.list.antipiracy
 ```
 ---
+#### GAMBLING
+```
+9054 (99%) included | 0 (0%) removed | 79 (1%) dead
+
+ Nr | Included | Dead | Removed |   Count | URL/File
+  1 |     100% |   0% |      0% |    1421 | raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/gambling/domains
+  2 |      99% |   1% |      0% |    2577 | raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts
+  3 |      99% |   1% |      0% |    4929 | raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts-VN
+  4 |      99% |   1% |      0% |    2499 | raw.githubusercontent.com/blocklistproject/Lists/master/gambling.txt
+```
+---
 ### Credits
 **A huge thank you to the following list maintainers of the sources that were partially used, alphabetical order:**
          

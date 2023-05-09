@@ -206,6 +206,7 @@ https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.txt
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/adblock.txt
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/hosts.txt
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts-VN
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/threat/hosts
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.tx
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.txt
@@ -213,6 +214,7 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN
 https://raw.githubusercontent.com/bitamind/filter/master/280blocker_domain_mirror.txt
 https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts
+https://raw.githubusercontent.com/blocklistproject/Lists/master/gambling.txt
 https://raw.githubusercontent.com/blocklistproject/Lists/master/piracy.txt
 https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock-mining.txt
 https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
@@ -403,6 +405,7 @@ https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/cryptojacking/domains
 https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/doh/domains
+https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/gambling/domains
 https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/malware/domains
 https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/phishing/domains
 https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/publicite/domains
@@ -452,6 +455,8 @@ https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnels
 https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
+https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-host
+https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts
 https://raw.githubusercontent.com/SM443/BDIX-Piracy-Blocklist/main/bdix_piracy_websites_only-domains.txt
 https://raw.githubusercontent.com/SM443/Pi-hole-Torrent-Blocklist/main/all-torrent-trackres.txt
 https://raw.githubusercontent.com/SM443/Pi-hole-Torrent-Blocklist/main/all-torrent-websites.txt
