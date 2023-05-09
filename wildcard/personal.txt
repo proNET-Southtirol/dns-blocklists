@@ -6530,7 +6530,6 @@
 *.vas-maliva16.byteoversea.com
 *.vas-maliva19.byteoversea.com
 *.vas-maliva21.byteoversea.com
-*.videoarch-lb-maliva.byteoversea.net
 *.xlog.byteoversea.com
 *.xlog-va.byteoversea.com
 *.bytesabbreviation.com

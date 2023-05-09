@@ -59213,8 +59213,6 @@ log-tiktok.byteoversea.net CNAME .
 *.log-tiktok.byteoversea.net CNAME .
 maliva-normal-lb.byteoversea.net CNAME .
 *.maliva-normal-lb.byteoversea.net CNAME .
-videoarch-lb-maliva.byteoversea.net CNAME .
-*.videoarch-lb-maliva.byteoversea.net CNAME .
 bywycda.net CNAME .
 *.bywycda.net CNAME .
 c-rings.net CNAME .

@@ -3387,3 +3387,7 @@ secure.indeed.com
 # Digital, transformation and technology recruitment specialist
 lorienglobal.com
 
+# TikTok Videos
+videoarch-*.byteoversea.net
+video-*.tiktok*.com
+

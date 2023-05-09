@@ -15779,7 +15779,6 @@ address=/vas-maliva.byteoversea.com/#
 address=/vas-maliva16.byteoversea.com/#
 address=/vas-maliva19.byteoversea.com/#
 address=/vas-maliva21.byteoversea.com/#
-address=/videoarch-lb-maliva.byteoversea.net/#
 address=/web-mon-useast2a.byteoversea.com/#
 address=/xlog.byteoversea.com/#
 address=/xlog-o.byteoversea.com/#

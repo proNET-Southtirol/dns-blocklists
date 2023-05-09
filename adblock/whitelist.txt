@@ -3698,3 +3698,7 @@
 @@|lorienglobal.com^
 @@|www.lorienglobal.com^
 
+! TikTok Videos
+@@|videoarch-*.byteoversea.net^
+@@|video-*.tiktok*.com^
+

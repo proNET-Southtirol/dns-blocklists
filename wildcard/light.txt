@@ -15779,7 +15779,6 @@
 *.vas-maliva16.byteoversea.com
 *.vas-maliva19.byteoversea.com
 *.vas-maliva21.byteoversea.com
-*.videoarch-lb-maliva.byteoversea.net
 *.web-mon-useast2a.byteoversea.com
 *.xlog.byteoversea.com
 *.xlog-o.byteoversea.com
