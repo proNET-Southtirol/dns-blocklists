@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1683583680 86400 3600 604800 30
+@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1683756600 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 08 May 2023 22:08 UTC
-; Version: 2023.0508.2208.01
+; Last modified: 10 May 2023 22:10 UTC
+; Version: 2023.0510.2210.28
 ; Syntax: RPZ
-; Number of entries: 13526
+; Number of entries: 13530
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -7853,6 +7853,8 @@ anisource.net CNAME .
 *.anisource.net CNAME .
 ankeschwarz.net CNAME .
 *.ankeschwarz.net CNAME .
+ansktracker.net CNAME .
+*.ansktracker.net CNAME .
 antbd.net CNAME .
 *.antbd.net CNAME .
 anthousebd.net CNAME .
@@ -11867,6 +11869,8 @@ topeuropix.site CNAME .
 *.topeuropix.site CNAME .
 torrent9.site CNAME .
 *.torrent9.site CNAME .
+tracker.trojangogogo.site CNAME .
+*.tracker.trojangogogo.site CNAME .
 zorrostream.site CNAME .
 *.zorrostream.site CNAME .
 animes.so CNAME .

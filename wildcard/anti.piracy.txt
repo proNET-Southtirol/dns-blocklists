@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 08 May 2023 22:08 UTC
-# Version: 2023.0508.2208.01
+# Last modified: 10 May 2023 22:10 UTC
+# Version: 2023.0510.2210.28
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 6763
+# Number of entries: 6765
 #
 *.zer0day.000webhostapp.com
 *.0123456789nonexistent.com
@@ -534,6 +534,7 @@
 *.ankeschwarz.net
 *.private.anonseed.com
 *.anosbd.com
+*.ansktracker.net
 *.antbd.com
 *.antbd.net
 *.tracker.anthelion.me
@@ -5890,6 +5891,7 @@
 *.tribalmixes.com
 *.tricitytorrents.com
 *.triptorrents.com
+*.tracker.trojangogogo.site
 *.troypoint.com
 *.trungkien.us
 *.trupornolabs.org

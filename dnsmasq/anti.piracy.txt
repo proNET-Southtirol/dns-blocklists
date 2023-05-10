@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 08 May 2023 22:08 UTC
-# Version: 2023.0508.2208.01
+# Last modified: 10 May 2023 22:10 UTC
+# Version: 2023.0510.2210.28
 # Syntax: DNSMasq
-# Number of entries: 6763
+# Number of entries: 6765
 #
 address=/zer0day.000webhostapp.com/#
 address=/0123456789nonexistent.com/#
@@ -534,6 +534,7 @@ address=/aniwatcher.com/#
 address=/ankeschwarz.net/#
 address=/private.anonseed.com/#
 address=/anosbd.com/#
+address=/ansktracker.net/#
 address=/antbd.com/#
 address=/antbd.net/#
 address=/tracker.anthelion.me/#
@@ -5890,6 +5891,7 @@ address=/tri-tavern.com/#
 address=/tribalmixes.com/#
 address=/tricitytorrents.com/#
 address=/triptorrents.com/#
+address=/tracker.trojangogogo.site/#
 address=/troypoint.com/#
 address=/trungkien.us/#
 address=/trupornolabs.org/#
