@@ -467,6 +467,9 @@
 @@|youtube-nocookie.com^
 @@|www.youtube-nocookie.com^
 
+! Zoom
+@@|*logfiles.zoom.us^
+
 ! -----------------------------------------------------------------------
 
 ! Online-Metrix (breaking)
@@ -3694,4 +3697,11 @@
 ! TikTok Videos
 @@|videoarch-*.byteoversea.net^
 @@|video-*.tiktok*.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1026
+@@|thecubexguide.com^
+@@|www.thecubexguide.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1027
+@@|zlp-bill-tracking.zalopay.vn^
 

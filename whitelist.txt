@@ -455,6 +455,9 @@ s2.youtube.com
 youtu.be
 youtube-nocookie.com
 
+# Zoom
+*logfiles.zoom.us
+
 # -----------------------------------------------------------------------
 
 # Online-Metrix (breaking)
@@ -3383,4 +3386,10 @@ lorienglobal.com
 # TikTok Videos
 videoarch-*.byteoversea.net
 video-*.tiktok*.com
+
+# https://github.com/hagezi/dns-blocklists/issues/1026
+thecubexguide.com
+
+# https://github.com/hagezi/dns-blocklists/issues/1027
+zlp-bill-tracking.zalopay.vn
 
