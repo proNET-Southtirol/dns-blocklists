@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 08 May 2023 11:15 UTC
-! Version: 2023.0508.1115.27
+! Last modified: 11 May 2023 22:15 UTC
+! Version: 2023.0511.2215.51
 ! Syntax: AdBlock
-! Number of entries: 1884
+! Number of entries: 1885
 !
 ||000a.de^
 ||000space.com^
@@ -157,6 +157,7 @@
 ||81x.com^
 ||85d.de^
 ||89.pl^
+||8b.io^
 ||8c8.de^
 ||8m.net^
 ||8x.pl^

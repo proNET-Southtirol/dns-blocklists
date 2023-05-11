@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 08 May 2023 11:15 UTC
-# Version: 2023.0508.1115.27
+# Last modified: 11 May 2023 22:15 UTC
+# Version: 2023.0511.2215.51
 # Syntax: DNSMasq
-# Number of entries: 1884
+# Number of entries: 1885
 #
 address=/000a.de/#
 address=/000space.com/#
@@ -157,6 +157,7 @@ address=/8.je/#
 address=/81x.com/#
 address=/85d.de/#
 address=/89.pl/#
+address=/8b.io/#
 address=/8c8.de/#
 address=/8m.net/#
 address=/8x.pl/#
