@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 10 May 2023 22:10 UTC
-# Version: 2023.0510.2210.28
+# Last modified: 11 May 2023 22:17 UTC
+# Version: 2023.0511.2217.13
 # Syntax: Domains (without subdomains)
-# Number of entries: 6765
+# Number of entries: 6767
 #
 zer0day.000webhostapp.com
 0123456789nonexistent.com
@@ -2362,6 +2362,8 @@ furk.net
 fussballlivestreams.de
 future.net
 futurenet-bd.com
+ipv6.fuuuuuck.com
+oh.fuuuuuck.com
 git.fuwafuwa.moe
 fux0r.fyi
 fux0r.top

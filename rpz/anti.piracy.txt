@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1683756600 86400 3600 604800 30
+@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1683843420 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 10 May 2023 22:10 UTC
-; Version: 2023.0510.2210.28
+; Last modified: 11 May 2023 22:17 UTC
+; Version: 2023.0511.2217.13
 ; Syntax: RPZ
-; Number of entries: 13530
+; Number of entries: 13534
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -2749,6 +2749,10 @@ funtimebd.com CNAME .
 *.funtimebd.com CNAME .
 futurenet-bd.com CNAME .
 *.futurenet-bd.com CNAME .
+ipv6.fuuuuuck.com CNAME .
+*.ipv6.fuuuuuck.com CNAME .
+oh.fuuuuuck.com CNAME .
+*.oh.fuuuuuck.com CNAME .
 gadget-vault.com CNAME .
 *.gadget-vault.com CNAME .
 game3rb.com CNAME .
