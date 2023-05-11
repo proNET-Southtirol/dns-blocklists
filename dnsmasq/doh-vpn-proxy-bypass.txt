@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 04 May 2023 21:54 UTC
-# Version: 2023.0504.2154.23
+# Last modified: 11 May 2023 22:12 UTC
+# Version: 2023.0511.2212.27
 # Syntax: DNSMasq
-# Number of entries: 2140
+# Number of entries: 2139
 #
 address=/0000a-fast-proxy.de/#
 address=/ns.00dani.me/#
@@ -1100,7 +1100,6 @@ address=/dns.murgi.de/#
 address=/dns.muxinghe.cn/#
 address=/muxyuji.ru/#
 address=/d.apemlegit.my.id/#
-address=/please.dontsteal.my.id/#
 address=/dns.hafidzradhival.my.id/#
 address=/id.terra.my.id/#
 address=/doh.velyn.my.id/#

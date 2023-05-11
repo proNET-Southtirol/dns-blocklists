@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 04 May 2023 21:54 UTC
-# Version: 2023.0504.2154.23
+# Last modified: 11 May 2023 22:12 UTC
+# Version: 2023.0511.2212.27
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 2140
+# Number of entries: 2139
 #
 *.0000a-fast-proxy.de
 *.ns.00dani.me
@@ -1100,7 +1100,6 @@
 *.dns.muxinghe.cn
 *.muxyuji.ru
 *.d.apemlegit.my.id
-*.please.dontsteal.my.id
 *.dns.hafidzradhival.my.id
 *.id.terra.my.id
 *.doh.velyn.my.id
