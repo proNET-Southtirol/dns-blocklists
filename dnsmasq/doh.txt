@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 04 May 2023 13:35 UTC
-# Version: 2023.0504.1335.10
+# Last modified: 11 May 2023 22:14 UTC
+# Version: 2023.0511.2214.00
 # Syntax: DNSMasq
-# Number of entries: 764
+# Number of entries: 763
 #
 address=/ns.00dani.me/#
 address=/dns.0ooo.icu/#
@@ -489,7 +489,6 @@ address=/dns.murgi.de/#
 address=/dns.muxinghe.cn/#
 address=/muxyuji.ru/#
 address=/d.apemlegit.my.id/#
-address=/please.dontsteal.my.id/#
 address=/dns.hafidzradhival.my.id/#
 address=/id.terra.my.id/#
 address=/doh.velyn.my.id/#
