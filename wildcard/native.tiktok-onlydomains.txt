@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 09 May 2023 22:14 UTC
-# Version: 2023.0509.2214.41
+# Last modified: 11 May 2023 22:23 UTC
+# Version: 2023.0511.2223.54
 # Syntax: Domains (without subdomains)
-# Number of entries: 232
+# Number of entries: 231
 #
 cdnlog-va-useast2a.byteoversea.com
 gplog-sg.byteoversea.com
@@ -227,7 +227,6 @@ mon.us.tiktokv.com
 mon16-platform-useast5.us.tiktokv.com
 mssdk.us.tiktokv.com
 mssdk16-platform-useast5.us.tiktokv.com
-mssdk19-platform-useast5.us.tiktokv.com
 rtc-logger.us.tiktokv.com
 rtlog16-applog-useast5.us.tiktokv.com
 rtlog19-applog-useast5.us.tiktokv.com
