@@ -326,6 +326,7 @@
 @@||ckbe.at^
 @@||cl.ly^
 @@||clarobr.co^
+@@||clc.am^
 @@||clc.to^
 @@||clck.ru^
 @@||cle.clinic^

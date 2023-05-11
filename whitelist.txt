@@ -3393,3 +3393,9 @@ thecubexguide.com
 # https://github.com/hagezi/dns-blocklists/issues/1027
 zlp-bill-tracking.zalopay.vn
 
+# https://github.com/hagezi/dns-blocklists/issues/1028
+jsv3.recruitics.com
+
+# https://github.com/hagezi/dns-blocklists/issues/1029
+*.blackfire.io
+
