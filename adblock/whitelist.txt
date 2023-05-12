@@ -3711,3 +3711,14 @@
 ! https://github.com/hagezi/dns-blocklists/issues/1029
 @@||blackfire.io^
 
+! https://github.com/hagezi/dns-blocklists/issues/1031
+@@|a.jsrdn.com^
+@@|c.jsrdn.com^
+@@|i.jsrdn.com^
+@@|s.jsrdn.com^
+@@|tv.jsrdn.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1032
+@@|distroscale.com^
+@@|www.distroscale.com^
+
