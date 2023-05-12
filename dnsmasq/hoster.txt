@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 11 May 2023 22:15 UTC
-# Version: 2023.0511.2215.51
+# Last modified: 12 May 2023 22:09 UTC
+# Version: 2023.0512.2209.10
 # Syntax: DNSMasq
-# Number of entries: 1885
+# Number of entries: 1886
 #
 address=/000a.de/#
 address=/000space.com/#
@@ -1507,6 +1507,7 @@ address=/sitegoz.com/#
 address=/sitelio.me/#
 address=/sitepalace.com/#
 address=/siterubix.com/#
+address=/sitew.ca/#
 address=/sitew.com/#
 address=/sitew.fr/#
 address=/skul.de/#
