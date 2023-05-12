@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 12 May 2023 18:38 UTC
-# Version: 2023.0512.1838.43
+# Last modified: 12 May 2023 22:16 UTC
+# Version: 2023.0512.2216.20
 # Syntax: DNSMasq
-# Number of entries: 13090
+# Number of entries: 13085
 #
 address=/1-proof.cyou/#
 address=/100-solarni-lampa-cz.com/#
@@ -1246,7 +1246,6 @@ address=/bijouxneu.space/#
 address=/bike-hagers.de/#
 address=/bike-poc.com/#
 address=/bike-shop-market.com/#
-address=/bikeabus.com/#
 address=/bikeblitz.de/#
 address=/bikecannondale.com/#
 address=/bikeequipmentdepot.com/#
@@ -5148,7 +5147,6 @@ address=/hellovivi.ca/#
 address=/hells-kitchen-ink.de/#
 address=/hellyhansendeutschland.com/#
 address=/hellyhanseneshop.cz/#
-address=/helmetsabus.com/#
 address=/helmetscycle.com/#
 address=/helmetsmet.com/#
 address=/heloliviana.shop/#
@@ -7562,8 +7560,6 @@ address=/movie4k.su/#
 address=/movie4kfilme.online/#
 address=/mowodania.com/#
 address=/mozpee.com/#
-address=/dav.mp3sepet.com/#
-address=/mas.mp3sepet.com/#
 address=/mpfcust.com/#
 address=/mpgymwear.com/#
 address=/mpscamph.com/#
@@ -8242,6 +8238,7 @@ address=/ogimedya.com/#
 address=/ogogear.com/#
 address=/ogybi.com/#
 address=/ogyhome.com/#
+address=/ohay.tv/#
 address=/ohbio.de/#
 address=/ohitems.com/#
 address=/ohjeklischee.de/#
@@ -8878,7 +8875,6 @@ address=/playsome.de/#
 address=/playstore.de/#
 address=/playted.de/#
 address=/playvox.de/#
-address=/zzeh.doktorekwpodrozy.pldayuse-agent.online/#
 address=/pleasanthearthsale.com/#
 address=/pleaserosterreich.com/#
 address=/plentiture.de/#
@@ -9758,7 +9754,6 @@ address=/rupiahpetiroiuy.xyz/#
 address=/rupiahsaku.com/#
 address=/ruppiner-landhonig.de/#
 address=/russellbromleyschuhe.com/#
-address=/russelloutlet.online/#
 address=/russianparty.at/#
 address=/rusticjusticerecords.com/#
 address=/rustoleumspray.com/#
@@ -10110,6 +10105,7 @@ address=/selasie.de/#
 address=/seldte.com/#
 address=/select-football.com/#
 address=/selectconsumers.help/#
+address=/selectcustomers.review/#
 address=/selected-software.de/#
 address=/selectedmedsonline.com/#
 address=/selfcsmall.com/#
@@ -11530,6 +11526,7 @@ address=/timsneakers.com/#
 address=/timyllc.com/#
 address=/timzin.de/#
 address=/kdnm.tindo.biz/#
+address=/m.tindo.biz/#
 address=/tingnybaby.com/#
 address=/tinkleo.com/#
 address=/tinnitus-losung.com/#
@@ -11564,7 +11561,6 @@ address=/tmnwrt.com/#
 address=/origin.tnail.cc/#
 address=/tnewslite.com/#
 address=/tnewsrefresh.com/#
-address=/tnfbackpacks.com/#
 address=/tnr-home.com/#
 address=/toastmaster.at/#
 address=/tobias-lorsbach.de/#
@@ -12087,7 +12083,6 @@ address=/usoffkids.com/#
 address=/usoffsports.com/#
 address=/usonealstore.com/#
 address=/usonlineoutdoor.com/#
-address=/usoptimal-female.com/#
 address=/usoutdooradventure.com/#
 address=/usoutdoorneeds.com/#
 address=/uspecialoonaip.com/#

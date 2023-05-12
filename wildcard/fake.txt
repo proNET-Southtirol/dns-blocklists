@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 12 May 2023 18:38 UTC
-# Version: 2023.0512.1838.43
+# Last modified: 12 May 2023 22:16 UTC
+# Version: 2023.0512.2216.20
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 13090
+# Number of entries: 13085
 #
 *.1-proof.cyou
 *.100-solarni-lampa-cz.com
@@ -1246,7 +1246,6 @@
 *.bike-hagers.de
 *.bike-poc.com
 *.bike-shop-market.com
-*.bikeabus.com
 *.bikeblitz.de
 *.bikecannondale.com
 *.bikeequipmentdepot.com
@@ -5148,7 +5147,6 @@
 *.hells-kitchen-ink.de
 *.hellyhansendeutschland.com
 *.hellyhanseneshop.cz
-*.helmetsabus.com
 *.helmetscycle.com
 *.helmetsmet.com
 *.heloliviana.shop
@@ -7562,8 +7560,6 @@
 *.movie4kfilme.online
 *.mowodania.com
 *.mozpee.com
-*.dav.mp3sepet.com
-*.mas.mp3sepet.com
 *.mpfcust.com
 *.mpgymwear.com
 *.mpscamph.com
@@ -8242,6 +8238,7 @@
 *.ogogear.com
 *.ogybi.com
 *.ogyhome.com
+*.ohay.tv
 *.ohbio.de
 *.ohitems.com
 *.ohjeklischee.de
@@ -8878,7 +8875,6 @@
 *.playstore.de
 *.playted.de
 *.playvox.de
-*.zzeh.doktorekwpodrozy.pldayuse-agent.online
 *.pleasanthearthsale.com
 *.pleaserosterreich.com
 *.plentiture.de
@@ -9758,7 +9754,6 @@
 *.rupiahsaku.com
 *.ruppiner-landhonig.de
 *.russellbromleyschuhe.com
-*.russelloutlet.online
 *.russianparty.at
 *.rusticjusticerecords.com
 *.rustoleumspray.com
@@ -10110,6 +10105,7 @@
 *.seldte.com
 *.select-football.com
 *.selectconsumers.help
+*.selectcustomers.review
 *.selected-software.de
 *.selectedmedsonline.com
 *.selfcsmall.com
@@ -11530,6 +11526,7 @@
 *.timyllc.com
 *.timzin.de
 *.kdnm.tindo.biz
+*.m.tindo.biz
 *.tingnybaby.com
 *.tinkleo.com
 *.tinnitus-losung.com
@@ -11564,7 +11561,6 @@
 *.origin.tnail.cc
 *.tnewslite.com
 *.tnewsrefresh.com
-*.tnfbackpacks.com
 *.tnr-home.com
 *.toastmaster.at
 *.tobias-lorsbach.de
@@ -12087,7 +12083,6 @@
 *.usoffsports.com
 *.usonealstore.com
 *.usonlineoutdoor.com
-*.usoptimal-female.com
 *.usoutdooradventure.com
 *.usoutdoorneeds.com
 *.uspecialoonaip.com

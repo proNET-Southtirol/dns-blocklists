@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1683916680 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1683929760 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 12 May 2023 18:38 UTC
-; Version: 2023.0512.1838.43
+; Last modified: 12 May 2023 22:16 UTC
+; Version: 2023.0512.2216.20
 ; Syntax: RPZ
-; Number of entries: 26180
+; Number of entries: 26170
 ;
 bitcoin360.ai CNAME .
 *.bitcoin360.ai CNAME .
@@ -1693,6 +1693,8 @@ rx-store-24x7.biz CNAME .
 *.rx-store-24x7.biz CNAME .
 kdnm.tindo.biz CNAME .
 *.kdnm.tindo.biz CNAME .
+m.tindo.biz CNAME .
+*.m.tindo.biz CNAME .
 weed-bestellen.biz CNAME .
 *.weed-bestellen.biz CNAME .
 cafuzee5.boats CNAME .
@@ -3291,8 +3293,6 @@ bike-poc.com CNAME .
 *.bike-poc.com CNAME .
 bike-shop-market.com CNAME .
 *.bike-shop-market.com CNAME .
-bikeabus.com CNAME .
-*.bikeabus.com CNAME .
 bikecannondale.com CNAME .
 *.bikecannondale.com CNAME .
 bikeequipmentdepot.com CNAME .
@@ -7153,8 +7153,6 @@ hellorolexwatch.com CNAME .
 *.hellorolexwatch.com CNAME .
 hellyhansendeutschland.com CNAME .
 *.hellyhansendeutschland.com CNAME .
-helmetsabus.com CNAME .
-*.helmetsabus.com CNAME .
 helmetscycle.com CNAME .
 *.helmetscycle.com CNAME .
 helmetsmet.com CNAME .
@@ -9503,10 +9501,6 @@ mowodania.com CNAME .
 *.mowodania.com CNAME .
 mozpee.com CNAME .
 *.mozpee.com CNAME .
-dav.mp3sepet.com CNAME .
-*.dav.mp3sepet.com CNAME .
-mas.mp3sepet.com CNAME .
-*.mas.mp3sepet.com CNAME .
 mpfcust.com CNAME .
 *.mpfcust.com CNAME .
 mpgymwear.com CNAME .
@@ -14175,8 +14169,6 @@ tnewslite.com CNAME .
 *.tnewslite.com CNAME .
 tnewsrefresh.com CNAME .
 *.tnewsrefresh.com CNAME .
-tnfbackpacks.com CNAME .
-*.tnfbackpacks.com CNAME .
 tnr-home.com CNAME .
 *.tnr-home.com CNAME .
 tobuyy.com CNAME .
@@ -14769,8 +14761,6 @@ usonealstore.com CNAME .
 *.usonealstore.com CNAME .
 usonlineoutdoor.com CNAME .
 *.usonlineoutdoor.com CNAME .
-usoptimal-female.com CNAME .
-*.usoptimal-female.com CNAME .
 usoutdooradventure.com CNAME .
 *.usoutdooradventure.com CNAME .
 usoutdoorneeds.com CNAME .
@@ -22419,8 +22409,6 @@ newposti.online CNAME .
 *.newposti.online CNAME .
 newsummer.online CNAME .
 *.newsummer.online CNAME .
-zzeh.doktorekwpodrozy.pldayuse-agent.online CNAME .
-*.zzeh.doktorekwpodrozy.pldayuse-agent.online CNAME .
 qmzdo.online CNAME .
 *.qmzdo.online CNAME .
 qzzfg7zy0r.online CNAME .
@@ -22435,8 +22423,6 @@ rinnei.online CNAME .
 *.rinnei.online CNAME .
 rokianjas.online CNAME .
 *.rokianjas.online CNAME .
-russelloutlet.online CNAME .
-*.russelloutlet.online CNAME .
 sadiemasks.online CNAME .
 *.sadiemasks.online CNAME .
 salomonam.online CNAME .
@@ -22777,6 +22763,8 @@ platformmind.quest CNAME .
 *.platformmind.quest CNAME .
 openai.reisen CNAME .
 *.openai.reisen CNAME .
+selectcustomers.review CNAME .
+*.selectcustomers.review CNAME .
 vipshoppers.review CNAME .
 *.vipshoppers.review CNAME .
 ofertapromotionala.ro CNAME .
@@ -25701,6 +25689,8 @@ bitcoineer.tv CNAME .
 *.bitcoineer.tv CNAME .
 bitindexai.tv CNAME .
 *.bitindexai.tv CNAME .
+ohay.tv CNAME .
+*.ohay.tv CNAME .
 bikesly.uk CNAME .
 *.bikesly.uk CNAME .
 century-21.uk CNAME .
