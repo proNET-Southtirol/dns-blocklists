@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.dyndns. hostmaster.hagezi.dyndns. 1684006800 86400 3600 604800 30
+@ SOA rpz.hagezi.dyndns. hostmaster.hagezi.dyndns. 1684015620 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: Updated regularly
-; Last modified: 13 May 2023 19:40 UTC
-; Version: 2023.0513.1940.24
+; Last modified: 13 May 2023 22:07 UTC
+; Version: 2023.0513.2207.56
 ; Syntax: RPZ
-; Number of entries: 3120
+; Number of entries: 3110
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -618,8 +618,6 @@ elchemi.com CNAME .
 *.elchemi.com CNAME .
 elliotshoe.com CNAME .
 *.elliotshoe.com CNAME .
-eltraslomitas.com CNAME .
-*.eltraslomitas.com CNAME .
 empresastaylor.com CNAME .
 *.empresastaylor.com CNAME .
 endlessmovie.com CNAME .
@@ -1318,8 +1316,6 @@ routemehome.com CNAME .
 *.routemehome.com CNAME .
 rundis.com CNAME .
 *.rundis.com CNAME .
-russkoeumea.com CNAME .
-*.russkoeumea.com CNAME .
 rwbcode.com CNAME .
 *.rwbcode.com CNAME .
 ryointernational.com CNAME .
@@ -1752,8 +1748,6 @@ govt.hu CNAME .
 *.govt.hu CNAME .
 t-online.hu CNAME .
 *.t-online.hu CNAME .
-dnshome.icu CNAME .
-*.dnshome.icu CNAME .
 dyndns.icu CNAME .
 *.dyndns.icu CNAME .
 nav.co.id CNAME .
@@ -1992,8 +1986,6 @@ ns3.name CNAME .
 *.3-a.net CNAME .
 3322.net CNAME .
 *.3322.net CNAME .
-3c4d.net CNAME .
-*.3c4d.net CNAME .
 airlinemeals.net CNAME .
 *.airlinemeals.net CNAME .
 altblue.net CNAME .
@@ -2926,8 +2918,6 @@ xsph.ru CNAME .
 *.xsph.ru CNAME .
 z86.ru CNAME .
 *.z86.ru CNAME .
-divx.se CNAME .
-*.divx.se CNAME .
 spelar.se CNAME .
 *.spelar.se CNAME .
 ftp.sh CNAME .

@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 13 May 2023 19:40 UTC
-# Version: 2023.0513.1940.24
+# Last modified: 13 May 2023 22:07 UTC
+# Version: 2023.0513.2207.56
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1560
+# Number of entries: 1555
 #
 *.0000000000000000000000.com
 *.0rg.us
@@ -30,7 +30,6 @@
 *.3322.net
 *.3322.org
 *.360digit.com
-*.3c4d.net
 *.3d-game.com
 *.3dxtras.com
 *.3n.cc
@@ -309,7 +308,6 @@
 *.diskstation.org
 *.ditchyourip.com
 *.divakeramika.com
-*.divx.se
 *.diyplans.org
 *.dlinkddns.com
 *.dmchub.org
@@ -343,7 +341,6 @@
 *.dnsfor.me
 *.dnsget.org
 *.dnshome.de
-*.dnshome.icu
 *.dnsis.us
 *.dnsiskinky.com
 *.dnsking.ch
@@ -483,7 +480,6 @@
 *.elchemi.com
 *.elitter.net
 *.elliotshoe.com
-*.eltraslomitas.com
 *.embeddedonline.org
 *.empresastaylor.com
 *.endlessmovie.com
@@ -1259,7 +1255,6 @@
 *.rum.si
 *.rundis.com
 *.ruok.org
-*.russkoeumea.com
 *.rwbcode.com
 *.ryointernational.com
 *.sadayuki.jp
