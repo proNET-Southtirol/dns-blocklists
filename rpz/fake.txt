@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1683929760 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1684016100 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 12 May 2023 22:16 UTC
-; Version: 2023.0512.2216.20
+; Last modified: 13 May 2023 22:15 UTC
+; Version: 2023.0513.2215.44
 ; Syntax: RPZ
-; Number of entries: 26170
+; Number of entries: 26158
 ;
 bitcoin360.ai CNAME .
 *.bitcoin360.ai CNAME .
@@ -9509,8 +9509,6 @@ mpscamph.com CNAME .
 *.mpscamph.com CNAME .
 mralefgoods.com CNAME .
 *.mralefgoods.com CNAME .
-mrbeastgifts.com CNAME .
-*.mrbeastgifts.com CNAME .
 mrelektroshop.com CNAME .
 *.mrelektroshop.com CNAME .
 mrkimberly.com CNAME .
@@ -21095,8 +21093,6 @@ zyclist.de CNAME .
 *.zyclist.de CNAME .
 kathmandu.deals CNAME .
 *.kathmandu.deals CNAME .
-expresscourier.delivery CNAME .
-*.expresscourier.delivery CNAME .
 shiptop.delivery CNAME .
 *.shiptop.delivery CNAME .
 jtgsr.pages.dev CNAME .
@@ -21541,6 +21537,8 @@ kielorelief.io CNAME .
 *.kielorelief.io CNAME .
 maller.io CNAME .
 *.maller.io CNAME .
+muskbtc.io CNAME .
+*.muskbtc.io CNAME .
 replicareview.io CNAME .
 *.replicareview.io CNAME .
 revanced.io CNAME .
@@ -22327,8 +22325,6 @@ cialis-online20mg.online CNAME .
 *.cialis-online20mg.online CNAME .
 crypto030.online CNAME .
 *.crypto030.online CNAME .
-crypto031.online CNAME .
-*.crypto031.online CNAME .
 dayuse-agent.online CNAME .
 *.dayuse-agent.online CNAME .
 done-done.online CNAME .
@@ -22741,6 +22737,8 @@ shopsure.pro CNAME .
 *.shopsure.pro CNAME .
 supersurveys.pro CNAME .
 *.supersurveys.pro CNAME .
+teslalive23.pro CNAME .
+*.teslalive23.pro CNAME .
 today4deal.pro CNAME .
 *.today4deal.pro CNAME .
 vshow.pro CNAME .
@@ -22869,8 +22867,6 @@ aocrloib.shop CNAME .
 *.aocrloib.shop CNAME .
 aorticb.shop CNAME .
 *.aorticb.shop CNAME .
-apalin.shop CNAME .
-*.apalin.shop CNAME .
 apromo.shop CNAME .
 *.apromo.shop CNAME .
 arocosi.shop CNAME .
@@ -23041,8 +23037,6 @@ buildawhip.shop CNAME .
 *.buildawhip.shop CNAME .
 buzzsportz.shop CNAME .
 *.buzzsportz.shop CNAME .
-bvewa.shop CNAME .
-*.bvewa.shop CNAME .
 byeuys.shop CNAME .
 *.byeuys.shop CNAME .
 byrdgear.shop CNAME .
@@ -23825,8 +23819,6 @@ neseten.shop CNAME .
 *.neseten.shop CNAME .
 netelar.shop CNAME .
 *.netelar.shop CNAME .
-netsugar.shop CNAME .
-*.netsugar.shop CNAME .
 nevaehcoll.shop CNAME .
 *.nevaehcoll.shop CNAME .
 newchloe.shop CNAME .
@@ -24159,16 +24151,12 @@ tablegame.shop CNAME .
 *.tablegame.shop CNAME .
 tabosep.shop CNAME .
 *.tabosep.shop CNAME .
-taina.shop CNAME .
-*.taina.shop CNAME .
 tastysnack.shop CNAME .
 *.tastysnack.shop CNAME .
 tavolini.shop CNAME .
 *.tavolini.shop CNAME .
 taylorsales.shop CNAME .
 *.taylorsales.shop CNAME .
-teached.shop CNAME .
-*.teached.shop CNAME .
 techifyze.shop CNAME .
 *.techifyze.shop CNAME .
 technin.shop CNAME .
@@ -26153,8 +26141,8 @@ thecameron.xyz CNAME .
 *.thecameron.xyz CNAME .
 tonilah.xyz CNAME .
 *.tonilah.xyz CNAME .
-store.tunairupiah.xyz CNAME .
-*.store.tunairupiah.xyz CNAME .
+tunairupiah.xyz CNAME .
+*.tunairupiah.xyz CNAME .
 umadate.xyz CNAME .
 *.umadate.xyz CNAME .
 uplifeaccessories.xyz CNAME .

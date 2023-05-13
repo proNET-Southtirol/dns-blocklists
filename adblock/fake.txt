@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 12 May 2023 22:16 UTC
-! Version: 2023.0512.2216.20
+! Last modified: 13 May 2023 22:15 UTC
+! Version: 2023.0513.2215.44
 ! Syntax: AdBlock
-! Number of entries: 13085
+! Number of entries: 13079
 !
 ||1-proof.cyou^
 ||100-solarni-lampa-cz.com^
@@ -567,7 +567,6 @@
 ||aorticb.shop^
 ||aoshimamodel.com^
 ||aoshimatoys.com^
-||apalin.shop^
 ||aparipalan.com^
 ||apartment-badsalzuflen.de^
 ||apartments-ciric.com^
@@ -1719,7 +1718,6 @@
 ||buzzfeedprivacyclaims.com^
 ||buzzhence.com^
 ||buzzsportz.shop^
-||bvewa.shop^
 ||bvp-frobel.de^
 ||by-emmamuller.de^
 ||byberlin.de^
@@ -2533,7 +2531,6 @@
 ||cryptmaketrade.com^
 ||crypto-mineinvests.com^
 ||crypto030.online^
-||crypto031.online^
 ||platform.crypto1capital-trade.com^
 ||cryptoeddu.com^
 ||cryptoinas.com^
@@ -3762,7 +3759,6 @@
 ||expofstore.com^
 ||express-geld.online^
 ||express-schaedlingsbekaempfung.at^
-||expresscourier.delivery^
 ||expressdealz.com^
 ||expressfuhrerscheinverkauf.com^
 ||expressionu.com^
@@ -7565,7 +7561,6 @@
 ||mpscamph.com^
 ||mraky-kostek.cz^
 ||mralefgoods.com^
-||mrbeastgifts.com^
 ||mrdecooo.de^
 ||mrelektroshop.com^
 ||mrjaeger-optik.de^
@@ -7620,6 +7615,7 @@
 ||musicequipmentshopping.store^
 ||musiknachhilfe.at^
 ||muskai.net^
+||muskbtc.io^
 ||muskelkatze-berlin.de^
 ||musleag.com^
 ||mustafaelnimr.at^
@@ -7867,7 +7863,6 @@
 ||netelar.shop^
 ||netrule.de^
 ||netselect.site^
-||netsugar.shop^
 ||networksfishing.com^
 ||netzinfy.com^
 ||netzteil-akku.com^
@@ -11102,7 +11097,6 @@
 ||tailnaturd.com^
 ||tailorfactory.com^
 ||tailorwears.com^
-||taina.shop^
 ||taktischewelt.com^
 ||taledeals.com^
 ||talentgrps.com^
@@ -11157,7 +11151,6 @@
 ||te.de^
 ||te-led.cloud^
 ||te-soa.com^
-||teached.shop^
 ||teaecesa.com^
 ||tealbicycle.com^
 ||team-enjoy.de^
@@ -11270,6 +11263,7 @@
 ||teslacar.io^
 ||teslaflows.com^
 ||teslagive.live^
+||teslalive23.pro^
 ||teslarea.com^
 ||teslatucker.com^
 ||tesler-inc.trade^
@@ -11855,7 +11849,7 @@
 ||tukeraja.store^
 ||tulumwellnessacademy.com^
 ||tunaicair.com^
-||store.tunairupiah.xyz^
+||tunairupiah.xyz^
 ||tunepart.com^
 ||tuntelimem.de^
 ||turanostre.de^

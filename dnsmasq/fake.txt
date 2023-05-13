@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 12 May 2023 22:16 UTC
-# Version: 2023.0512.2216.20
+# Last modified: 13 May 2023 22:15 UTC
+# Version: 2023.0513.2215.44
 # Syntax: DNSMasq
-# Number of entries: 13085
+# Number of entries: 13079
 #
 address=/1-proof.cyou/#
 address=/100-solarni-lampa-cz.com/#
@@ -567,7 +567,6 @@ address=/aopwix.com/#
 address=/aorticb.shop/#
 address=/aoshimamodel.com/#
 address=/aoshimatoys.com/#
-address=/apalin.shop/#
 address=/aparipalan.com/#
 address=/apartment-badsalzuflen.de/#
 address=/apartments-ciric.com/#
@@ -1719,7 +1718,6 @@ address=/buzzazone.com/#
 address=/buzzfeedprivacyclaims.com/#
 address=/buzzhence.com/#
 address=/buzzsportz.shop/#
-address=/bvewa.shop/#
 address=/bvp-frobel.de/#
 address=/by-emmamuller.de/#
 address=/byberlin.de/#
@@ -2533,7 +2531,6 @@ address=/cryptcoinwallet.com/#
 address=/cryptmaketrade.com/#
 address=/crypto-mineinvests.com/#
 address=/crypto030.online/#
-address=/crypto031.online/#
 address=/platform.crypto1capital-trade.com/#
 address=/cryptoeddu.com/#
 address=/cryptoinas.com/#
@@ -3762,7 +3759,6 @@ address=/expo-challenge.de/#
 address=/expofstore.com/#
 address=/express-geld.online/#
 address=/express-schaedlingsbekaempfung.at/#
-address=/expresscourier.delivery/#
 address=/expressdealz.com/#
 address=/expressfuhrerscheinverkauf.com/#
 address=/expressionu.com/#
@@ -7565,7 +7561,6 @@ address=/mpgymwear.com/#
 address=/mpscamph.com/#
 address=/mraky-kostek.cz/#
 address=/mralefgoods.com/#
-address=/mrbeastgifts.com/#
 address=/mrdecooo.de/#
 address=/mrelektroshop.com/#
 address=/mrjaeger-optik.de/#
@@ -7620,6 +7615,7 @@ address=/musicdiscount.store/#
 address=/musicequipmentshopping.store/#
 address=/musiknachhilfe.at/#
 address=/muskai.net/#
+address=/muskbtc.io/#
 address=/muskelkatze-berlin.de/#
 address=/musleag.com/#
 address=/mustafaelnimr.at/#
@@ -7867,7 +7863,6 @@ address=/netcotto.com/#
 address=/netelar.shop/#
 address=/netrule.de/#
 address=/netselect.site/#
-address=/netsugar.shop/#
 address=/networksfishing.com/#
 address=/netzinfy.com/#
 address=/netzteil-akku.com/#
@@ -11102,7 +11097,6 @@ address=/tailgatetheroost.com/#
 address=/tailnaturd.com/#
 address=/tailorfactory.com/#
 address=/tailorwears.com/#
-address=/taina.shop/#
 address=/taktischewelt.com/#
 address=/taledeals.com/#
 address=/talentgrps.com/#
@@ -11157,7 +11151,6 @@ address=/tdubtunes.com/#
 address=/te.de/#
 address=/te-led.cloud/#
 address=/te-soa.com/#
-address=/teached.shop/#
 address=/teaecesa.com/#
 address=/tealbicycle.com/#
 address=/team-enjoy.de/#
@@ -11270,6 +11263,7 @@ address=/teslabounce.com/#
 address=/teslacar.io/#
 address=/teslaflows.com/#
 address=/teslagive.live/#
+address=/teslalive23.pro/#
 address=/teslarea.com/#
 address=/teslatucker.com/#
 address=/tesler-inc.trade/#
@@ -11855,7 +11849,7 @@ address=/tugruy.com/#
 address=/tukeraja.store/#
 address=/tulumwellnessacademy.com/#
 address=/tunaicair.com/#
-address=/store.tunairupiah.xyz/#
+address=/tunairupiah.xyz/#
 address=/tunepart.com/#
 address=/tuntelimem.de/#
 address=/turanostre.de/#
