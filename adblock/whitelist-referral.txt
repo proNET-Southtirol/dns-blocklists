@@ -109,6 +109,7 @@
 @@||api.bam-x.com^
 @@||click.emcom.bankofamerica.com^
 @@||analytics.barnebys.sh^
+@@||x.bestcheck.de^
 @@||click.em.blizzard.com^
 @@||go.blokada.org^
 @@||tracking.bol.com^

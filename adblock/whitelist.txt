@@ -3722,3 +3722,11 @@
 @@|distroscale.com^
 @@|www.distroscale.com^
 
+! https://github.com/hagezi/dns-blocklists/issues/1035
+@@|phncdn.com^
+@@|www.phncdn.com^
+@@|rncdn7.com^
+@@|www.rncdn7.com^
+@@|ypncdn.com^
+@@|www.ypncdn.com^
+

@@ -3409,3 +3409,8 @@ tv.jsrdn.com
 # https://github.com/hagezi/dns-blocklists/issues/1032
 distroscale.com
 
+# https://github.com/hagezi/dns-blocklists/issues/1035
+phncdn.com
+rncdn7.com
+ypncdn.com
+
