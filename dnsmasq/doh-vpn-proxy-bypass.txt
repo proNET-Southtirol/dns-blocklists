@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 11 May 2023 22:12 UTC
-# Version: 2023.0511.2212.27
+# Last modified: 13 May 2023 20:14 UTC
+# Version: 2023.0513.2014.23
 # Syntax: DNSMasq
-# Number of entries: 2139
+# Number of entries: 2138
 #
 address=/0000a-fast-proxy.de/#
 address=/ns.00dani.me/#
@@ -1109,7 +1109,6 @@ address=/mybestvpn.info/#
 address=/mycelium.site/#
 address=/freedom.mydns.network/#
 address=/dgca.myds.me/#
-address=/echoe1yidzu4ioo5.myfritz.net/#
 address=/myip.io/#
 address=/myip-proxy.info/#
 address=/blackhole.myon.lu/#

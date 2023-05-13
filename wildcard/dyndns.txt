@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 05 May 2023 13:15 UTC
-# Version: 2023.0505.1315.55
+# Last modified: 13 May 2023 19:40 UTC
+# Version: 2023.0513.1940.24
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1546
+# Number of entries: 1560
 #
 *.0000000000000000000000.com
 *.0rg.us
@@ -150,6 +150,7 @@
 *.blogdns.net
 *.blogdns.org
 *.blogsite.org
+*.blogsite.xyz
 *.blogsyte.com
 *.bloodforthebloodgod.com
 *.bloom.us
@@ -211,6 +212,7 @@
 *.cleansite.us
 *.clienturl.net
 *.cloudns.asia
+*.cloudns.cl
 *.cloudns.in
 *.cloudns.net
 *.cloudns.org
@@ -256,6 +258,7 @@
 *.csproject.org
 *.ctproduction.net
 *.cuesinc.com
+*.cupddns.net
 *.custom-gaming.net
 *.cw03.ru
 *.cybertv.tv
@@ -276,12 +279,15 @@
 *.ddns.net
 *.ddns.us
 *.ddns-dvr.com
+*.ddns5.com
 *.ddnsapp.com
 *.ddnsfree.com
 *.ddnsgeek.com
 *.ddnsguru.com
 *.ddnsking.com
+*.ddnss.ch
 *.ddnss.de
+*.ddnss.org
 *.ddnssec.de
 *.de-a.org
 *.deaftone.com
@@ -366,6 +372,7 @@
 *.dp76.com
 *.dpcube.com
 *.dray-dns.de
+*.drayddns.com
 *.draydns.de
 *.dropfiles.net
 *.drunkensailor.org
@@ -396,6 +403,7 @@
 *.dyn-access.info
 *.dyn-access.net
 *.dyn-access.org
+*.dyn-ip24.de
 *.dyn-o-saur.com
 *.dyn-vpn.de
 *.dynalias.com
@@ -698,6 +706,7 @@
 *.hobby-site.org
 *.hokum-smack.com
 *.home.kg
+*.home-webserver.de
 *.homedns.org
 *.homeftp.net
 *.homeftp.org
@@ -1007,10 +1016,10 @@
 *.myddns.rocks
 *.mydissent.net
 *.myeffect.net
-*.myfritz.net
 *.myftp.biz
 *.myftp.info
 *.myftp.org
+*.myhome-server.de
 *.myhomeschoolfamily.com
 *.myip.org
 *.myiphost.com
@@ -1192,6 +1201,7 @@
 *.portmap.host
 *.portrelay.com
 *.possessed.us
+*.pp.ua
 *.prettyweak.com
 *.priamaakcia.sk
 *.privatedns.com
@@ -1361,6 +1371,7 @@
 *.spectrumnet.bg
 *.spelar.se
 *.spottt.com
+*.sql01.com
 *.sqlconcepts.com
 *.squirly.info
 *.srvdns.de
@@ -1395,6 +1406,7 @@
 *.syntereo.com
 *.sysadminetworks.com
 *.system-ns.com
+*.systes.net
 *.sytes.net
 *.t-online.hu
 *.tallison.com
@@ -1428,6 +1440,7 @@
 *.tobuy.us
 *.toh.info
 *.topdns.com
+*.topsddns.net
 *.toshibanetcam.com
 *.toythieves.com
 *.traeumtgerade.de
@@ -1544,6 +1557,7 @@
 *.zaibar.ro
 *.zanity.net
 *.zapto.org
+*.zapto.xyz
 *.ze.am
 *.zelslonik.info
 *.zneth.com

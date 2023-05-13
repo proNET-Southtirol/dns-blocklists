@@ -4,10 +4,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: Updated regularly
-! Last modified: 11 May 2023 22:12 UTC
-! Version: 2023.0511.2212.27
+! Last modified: 13 May 2023 20:14 UTC
+! Version: 2023.0513.2014.23
 ! Syntax: AdBlock
-! Number of entries: 2139
+! Number of entries: 2138
 !
 ||0000a-fast-proxy.de^
 ||ns.00dani.me^
@@ -1109,7 +1109,6 @@
 ||mycelium.site^
 ||freedom.mydns.network^
 ||dgca.myds.me^
-||echoe1yidzu4ioo5.myfritz.net^
 ||myip.io^
 ||myip-proxy.info^
 ||blackhole.myon.lu^
