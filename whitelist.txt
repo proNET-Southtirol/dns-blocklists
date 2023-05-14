@@ -3429,3 +3429,6 @@ analytics.halkbank.com.tr
 # Just for tracking ships
 *.marinetraffic.com
 
+# https://github.com/hagezi/dns-blocklists/issues/1041
+search-operate.cdn.bcebos.com
+
