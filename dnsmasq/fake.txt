@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 13 May 2023 22:15 UTC
-# Version: 2023.0513.2215.44
+# Last modified: 14 May 2023 22:15 UTC
+# Version: 2023.0514.2215.01
 # Syntax: DNSMasq
-# Number of entries: 13079
+# Number of entries: 13085
 #
 address=/1-proof.cyou/#
 address=/100-solarni-lampa-cz.com/#
@@ -567,6 +567,7 @@ address=/aopwix.com/#
 address=/aorticb.shop/#
 address=/aoshimamodel.com/#
 address=/aoshimatoys.com/#
+address=/apalin.shop/#
 address=/aparipalan.com/#
 address=/apartment-badsalzuflen.de/#
 address=/apartments-ciric.com/#
@@ -1245,6 +1246,7 @@ address=/bijouxneu.space/#
 address=/bike-hagers.de/#
 address=/bike-poc.com/#
 address=/bike-shop-market.com/#
+address=/bikeabus.com/#
 address=/bikeblitz.de/#
 address=/bikecannondale.com/#
 address=/bikeequipmentdepot.com/#
@@ -1718,6 +1720,7 @@ address=/buzzazone.com/#
 address=/buzzfeedprivacyclaims.com/#
 address=/buzzhence.com/#
 address=/buzzsportz.shop/#
+address=/bvewa.shop/#
 address=/bvp-frobel.de/#
 address=/by-emmamuller.de/#
 address=/byberlin.de/#
@@ -6374,7 +6377,7 @@ address=/kundigenbei.at/#
 address=/kunstpanorama.de/#
 address=/kunstzeit-ruhr.de/#
 address=/kuntaiko-muenchen.de/#
-address=/kuosern.com/#
+address=/m.kuosern.com/#
 address=/kupferstadl.at/#
 address=/kupparfem.com/#
 address=/kurpiezielone.pl/#
@@ -6413,7 +6416,6 @@ address=/lady-coat.com/#
 address=/lady-inside.de/#
 address=/ladypeterkaiser.com/#
 address=/ladyrunclothing.com/#
-address=/ladyrunningshoe.com/#
 address=/ladyshoe.store/#
 address=/ladyvanilla.de/#
 address=/ladywares.com/#
@@ -7561,6 +7563,7 @@ address=/mpgymwear.com/#
 address=/mpscamph.com/#
 address=/mraky-kostek.cz/#
 address=/mralefgoods.com/#
+address=/mrbeastgifts.com/#
 address=/mrdecooo.de/#
 address=/mrelektroshop.com/#
 address=/mrjaeger-optik.de/#
@@ -11097,6 +11100,7 @@ address=/tailgatetheroost.com/#
 address=/tailnaturd.com/#
 address=/tailorfactory.com/#
 address=/tailorwears.com/#
+address=/taina.shop/#
 address=/taktischewelt.com/#
 address=/taledeals.com/#
 address=/talentgrps.com/#
@@ -11151,6 +11155,7 @@ address=/tdubtunes.com/#
 address=/te.de/#
 address=/te-led.cloud/#
 address=/te-soa.com/#
+address=/teached.shop/#
 address=/teaecesa.com/#
 address=/tealbicycle.com/#
 address=/team-enjoy.de/#
@@ -11945,6 +11950,7 @@ address=/ultrasshop.top/#
 address=/um-bs.com/#
 address=/umadate.xyz/#
 address=/umagic.net/#
+address=/umbler.net/#
 address=/umbrellacorp.fr/#
 address=/umia-gmbh.com/#
 address=/store.umidigi.com/#
@@ -12413,7 +12419,7 @@ address=/vtechtoyshop.com/#
 address=/vtecnokar.com/#
 address=/vtg-elektronik.de/#
 address=/vulcanus.at/#
-address=/vuorlciothing.com/#
+address=/m.vuorlciothing.com/#
 address=/vvebwizard.com/#
 address=/vvocase.com/#
 address=/vvvvicshop.com/#

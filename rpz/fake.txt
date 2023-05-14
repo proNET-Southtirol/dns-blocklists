@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1684016100 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1684102500 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 13 May 2023 22:15 UTC
-; Version: 2023.0513.2215.44
+; Last modified: 14 May 2023 22:15 UTC
+; Version: 2023.0514.2215.01
 ; Syntax: RPZ
-; Number of entries: 26158
+; Number of entries: 26170
 ;
 bitcoin360.ai CNAME .
 *.bitcoin360.ai CNAME .
@@ -3293,6 +3293,8 @@ bike-poc.com CNAME .
 *.bike-poc.com CNAME .
 bike-shop-market.com CNAME .
 *.bike-shop-market.com CNAME .
+bikeabus.com CNAME .
+*.bikeabus.com CNAME .
 bikecannondale.com CNAME .
 *.bikecannondale.com CNAME .
 bikeequipmentdepot.com CNAME .
@@ -8355,8 +8357,8 @@ kukkabutikc.com CNAME .
 *.kukkabutikc.com CNAME .
 kulione.com CNAME .
 *.kulione.com CNAME .
-kuosern.com CNAME .
-*.kuosern.com CNAME .
+m.kuosern.com CNAME .
+*.m.kuosern.com CNAME .
 kupparfem.com CNAME .
 *.kupparfem.com CNAME .
 kusemo.com CNAME .
@@ -8385,8 +8387,6 @@ ladypeterkaiser.com CNAME .
 *.ladypeterkaiser.com CNAME .
 ladyrunclothing.com CNAME .
 *.ladyrunclothing.com CNAME .
-ladyrunningshoe.com CNAME .
-*.ladyrunningshoe.com CNAME .
 ladywares.com CNAME .
 *.ladywares.com CNAME .
 laeliajr.com CNAME .
@@ -9509,6 +9509,8 @@ mpscamph.com CNAME .
 *.mpscamph.com CNAME .
 mralefgoods.com CNAME .
 *.mralefgoods.com CNAME .
+mrbeastgifts.com CNAME .
+*.mrbeastgifts.com CNAME .
 mrelektroshop.com CNAME .
 *.mrelektroshop.com CNAME .
 mrkimberly.com CNAME .
@@ -15091,8 +15093,8 @@ vtechtoyshop.com CNAME .
 *.vtechtoyshop.com CNAME .
 vtecnokar.com CNAME .
 *.vtecnokar.com CNAME .
-vuorlciothing.com CNAME .
-*.vuorlciothing.com CNAME .
+m.vuorlciothing.com CNAME .
+*.m.vuorlciothing.com CNAME .
 vvebwizard.com CNAME .
 *.vvebwizard.com CNAME .
 vvocase.com CNAME .
@@ -22223,6 +22225,8 @@ uhrstern.net CNAME .
 *.uhrstern.net CNAME .
 umagic.net CNAME .
 *.umagic.net CNAME .
+umbler.net CNAME .
+*.umbler.net CNAME .
 up4profit.net CNAME .
 *.up4profit.net CNAME .
 upchest.net CNAME .
@@ -22867,6 +22871,8 @@ aocrloib.shop CNAME .
 *.aocrloib.shop CNAME .
 aorticb.shop CNAME .
 *.aorticb.shop CNAME .
+apalin.shop CNAME .
+*.apalin.shop CNAME .
 apromo.shop CNAME .
 *.apromo.shop CNAME .
 arocosi.shop CNAME .
@@ -23037,6 +23043,8 @@ buildawhip.shop CNAME .
 *.buildawhip.shop CNAME .
 buzzsportz.shop CNAME .
 *.buzzsportz.shop CNAME .
+bvewa.shop CNAME .
+*.bvewa.shop CNAME .
 byeuys.shop CNAME .
 *.byeuys.shop CNAME .
 byrdgear.shop CNAME .
@@ -24151,12 +24159,16 @@ tablegame.shop CNAME .
 *.tablegame.shop CNAME .
 tabosep.shop CNAME .
 *.tabosep.shop CNAME .
+taina.shop CNAME .
+*.taina.shop CNAME .
 tastysnack.shop CNAME .
 *.tastysnack.shop CNAME .
 tavolini.shop CNAME .
 *.tavolini.shop CNAME .
 taylorsales.shop CNAME .
 *.taylorsales.shop CNAME .
+teached.shop CNAME .
+*.teached.shop CNAME .
 techifyze.shop CNAME .
 *.techifyze.shop CNAME .
 technin.shop CNAME .

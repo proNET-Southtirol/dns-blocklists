@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 13 May 2023 22:15 UTC
-# Version: 2023.0513.2215.44
+# Last modified: 14 May 2023 22:15 UTC
+# Version: 2023.0514.2215.01
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 13079
+# Number of entries: 13085
 #
 *.1-proof.cyou
 *.100-solarni-lampa-cz.com
@@ -567,6 +567,7 @@
 *.aorticb.shop
 *.aoshimamodel.com
 *.aoshimatoys.com
+*.apalin.shop
 *.aparipalan.com
 *.apartment-badsalzuflen.de
 *.apartments-ciric.com
@@ -1245,6 +1246,7 @@
 *.bike-hagers.de
 *.bike-poc.com
 *.bike-shop-market.com
+*.bikeabus.com
 *.bikeblitz.de
 *.bikecannondale.com
 *.bikeequipmentdepot.com
@@ -1718,6 +1720,7 @@
 *.buzzfeedprivacyclaims.com
 *.buzzhence.com
 *.buzzsportz.shop
+*.bvewa.shop
 *.bvp-frobel.de
 *.by-emmamuller.de
 *.byberlin.de
@@ -6374,7 +6377,7 @@
 *.kunstpanorama.de
 *.kunstzeit-ruhr.de
 *.kuntaiko-muenchen.de
-*.kuosern.com
+*.m.kuosern.com
 *.kupferstadl.at
 *.kupparfem.com
 *.kurpiezielone.pl
@@ -6413,7 +6416,6 @@
 *.lady-inside.de
 *.ladypeterkaiser.com
 *.ladyrunclothing.com
-*.ladyrunningshoe.com
 *.ladyshoe.store
 *.ladyvanilla.de
 *.ladywares.com
@@ -7561,6 +7563,7 @@
 *.mpscamph.com
 *.mraky-kostek.cz
 *.mralefgoods.com
+*.mrbeastgifts.com
 *.mrdecooo.de
 *.mrelektroshop.com
 *.mrjaeger-optik.de
@@ -11097,6 +11100,7 @@
 *.tailnaturd.com
 *.tailorfactory.com
 *.tailorwears.com
+*.taina.shop
 *.taktischewelt.com
 *.taledeals.com
 *.talentgrps.com
@@ -11151,6 +11155,7 @@
 *.te.de
 *.te-led.cloud
 *.te-soa.com
+*.teached.shop
 *.teaecesa.com
 *.tealbicycle.com
 *.team-enjoy.de
@@ -11945,6 +11950,7 @@
 *.um-bs.com
 *.umadate.xyz
 *.umagic.net
+*.umbler.net
 *.umbrellacorp.fr
 *.umia-gmbh.com
 *.store.umidigi.com
@@ -12413,7 +12419,7 @@
 *.vtecnokar.com
 *.vtg-elektronik.de
 *.vulcanus.at
-*.vuorlciothing.com
+*.m.vuorlciothing.com
 *.vvebwizard.com
 *.vvocase.com
 *.vvvvicshop.com
