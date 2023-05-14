@@ -3414,3 +3414,6 @@ phncdn.com
 rncdn7.com
 ypncdn.com
 
+# WyzeCam IoT devices
+*.iotcplatform.com
+

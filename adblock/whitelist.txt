@@ -3730,3 +3730,6 @@
 @@|ypncdn.com^
 @@|www.ypncdn.com^
 
+! WyzeCam IoT devices
+@@||iotcplatform.com^
+
