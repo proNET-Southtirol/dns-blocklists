@@ -3417,3 +3417,15 @@ ypncdn.com
 # WyzeCam IoT devices
 *.iotcplatform.com
 
+# https://github.com/hagezi/dns-blocklists/issues/1037
+mark.isbank.com.tr
+
+# https://github.com/hagezi/dns-blocklists/issues/1038
+analytics.halkbank.com.tr
+
+# https://github.com/hagezi/dns-blocklists/issues/1040
+*.a2hosted.com
+
+# Just for tracking ships
+*.marinetraffic.com
+
