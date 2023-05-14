@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 13 May 2023 20:14 UTC
-# Version: 2023.0513.2014.23
+# Last modified: 14 May 2023 22:05 UTC
+# Version: 2023.0514.2205.03
 # Syntax: DNSMasq
-# Number of entries: 2138
+# Number of entries: 2137
 #
 address=/0000a-fast-proxy.de/#
 address=/ns.00dani.me/#
@@ -203,7 +203,6 @@ address=/fr-dns1.bancuh.com/#
 address=/jp-dns1.bancuh.com/#
 address=/sg-dns1.bancuh.com/#
 address=/base99.com/#
-address=/dns.bayas.dev/#
 address=/bcandrade.ml/#
 address=/bdns.at/#
 address=/bdns.io/#
