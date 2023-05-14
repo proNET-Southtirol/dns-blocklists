@@ -323,6 +323,8 @@ https://raw.githubusercontent.com/hpthreatresearch/iocs/main/TA505/domains.txt
 https://raw.githubusercontent.com/hpthreatresearch/iocs/main/TA551/domains.txt
 https://raw.githubusercontent.com/hufilter/hufilter/master/hufilter.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt
+https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
+https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antidynamicdns.txt
 https://raw.githubusercontent.com/iam-py-test/vxvault_filter/main/domains_file.txt
 https://raw.githubusercontent.com/ihgalis/pihole_collection/master/Sinking_Yachts_Phishing
 https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
