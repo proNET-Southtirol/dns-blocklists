@@ -1928,7 +1928,6 @@ address=/a2covid19.com/#
 address=/a2covid19.org/#
 address=/a2dfp.net/#
 address=/a2fshop.ma/#
-address=/a2hosted.com/#
 address=/cg-oe.snprobbx.pbz.r.de.a2ip.ru/#
 address=/cy-cy.snprobbx.pbz.r.de.a2ip.ru/#
 address=/eb-eb.snprobbx.pbz.r.de.a2ip.ru/#

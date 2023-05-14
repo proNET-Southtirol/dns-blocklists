@@ -1928,7 +1928,6 @@
 *.a2covid19.org
 *.a2dfp.net
 *.a2fshop.ma
-*.a2hosted.com
 *.cg-oe.snprobbx.pbz.r.de.a2ip.ru
 *.cy-cy.snprobbx.pbz.r.de.a2ip.ru
 *.eb-eb.snprobbx.pbz.r.de.a2ip.ru
