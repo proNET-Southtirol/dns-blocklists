@@ -5,10 +5,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 13 May 2023 20:12 UTC
-! Version: 2023.0513.2012.13
+! Last modified: 14 May 2023 22:06 UTC
+! Version: 2023.0514.2206.27
 ! Syntax: AdBlock
-! Number of entries: 762
+! Number of entries: 761
 !
 ||ns.00dani.me^
 ||dns.0ooo.icu^
@@ -103,7 +103,6 @@
 ||fr-dns1.bancuh.com^
 ||jp-dns1.bancuh.com^
 ||sg-dns1.bancuh.com^
-||dns.bayas.dev^
 ||bcandrade.ml^
 ||dns.bebasid.com^
 ||adguard.beliefanx.cn^

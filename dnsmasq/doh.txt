@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 13 May 2023 20:12 UTC
-# Version: 2023.0513.2012.13
+# Last modified: 14 May 2023 22:06 UTC
+# Version: 2023.0514.2206.27
 # Syntax: DNSMasq
-# Number of entries: 762
+# Number of entries: 761
 #
 address=/ns.00dani.me/#
 address=/dns.0ooo.icu/#
@@ -103,7 +103,6 @@ address=/dns.b612.me/#
 address=/fr-dns1.bancuh.com/#
 address=/jp-dns1.bancuh.com/#
 address=/sg-dns1.bancuh.com/#
-address=/dns.bayas.dev/#
 address=/bcandrade.ml/#
 address=/dns.bebasid.com/#
 address=/adguard.beliefanx.cn/#
