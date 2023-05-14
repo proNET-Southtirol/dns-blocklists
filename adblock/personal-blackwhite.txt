@@ -23712,7 +23712,6 @@
 ||halaldatasub.com.ng^
 ||20i18uko3a.halinastankowska.com.pl^
 ||borys.halinastankowska.com.pl^
-||analytics.halkbank.com.tr^
 ||hamsah.com.ng^
 ||hamsak.com.ng^
 ||hanandata.com.ng^

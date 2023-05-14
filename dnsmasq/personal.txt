@@ -9738,7 +9738,6 @@ address=/contacto.gtc.com.gt/#
 address=/guariz.com.br/#
 address=/saam.gumtree.com.au/#
 address=/tracking.gvm.com.tw/#
-address=/analytics.halkbank.com.tr/#
 address=/havn.com.vn/#
 address=/hcsnet.com.br/#
 address=/ablinks.comms.healthengine.com.au/#

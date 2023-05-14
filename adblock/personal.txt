@@ -9738,7 +9738,6 @@
 ||guariz.com.br^
 ||saam.gumtree.com.au^
 ||tracking.gvm.com.tw^
-||analytics.halkbank.com.tr^
 ||havn.com.vn^
 ||hcsnet.com.br^
 ||ablinks.comms.healthengine.com.au^

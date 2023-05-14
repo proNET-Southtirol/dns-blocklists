@@ -75557,8 +75557,6 @@ garantiotoekspertiz.com.tr CNAME .
 *.garantiotoekspertiz.com.tr CNAME .
 gnsdekor.com.tr CNAME .
 *.gnsdekor.com.tr CNAME .
-analytics.halkbank.com.tr CNAME .
-*.analytics.halkbank.com.tr CNAME .
 geoloc.hurriyet.com.tr CNAME .
 *.geoloc.hurriyet.com.tr CNAME .
 ivr.com.tr CNAME .

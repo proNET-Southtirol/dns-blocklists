@@ -23722,7 +23722,6 @@ address=/halabsaray.com.tr/#
 address=/halaldatasub.com.ng/#
 address=/20i18uko3a.halinastankowska.com.pl/#
 address=/borys.halinastankowska.com.pl/#
-address=/analytics.halkbank.com.tr/#
 address=/hamsah.com.ng/#
 address=/hamsak.com.ng/#
 address=/hanandata.com.ng/#
