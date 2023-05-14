@@ -23913,7 +23913,6 @@ address=/iredinternet.com.br/#
 address=/irenicpublications.com.au/#
 address=/irm.com.mx/#
 address=/isanikcieontap.com.ua/#
-address=/mark.isbank.com.tr/#
 address=/iscast.com.br/#
 address=/ispenerji.com.tr/#
 address=/ispgroup.com.tr/#

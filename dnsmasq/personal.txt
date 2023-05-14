@@ -9775,7 +9775,6 @@ address=/elqtrk.intel.com.br/#
 address=/www91.intel.com.br/#
 address=/loja.intimapassion.com.br/#
 address=/isanikcieontap.com.ua/#
-address=/mark.isbank.com.tr/#
 address=/itcnt.com.np/#
 address=/itadapi.ithome.com.tw/#
 address=/itwasbrghttohi.com.ua/#

@@ -75561,8 +75561,6 @@ analytics.halkbank.com.tr CNAME .
 *.analytics.halkbank.com.tr CNAME .
 geoloc.hurriyet.com.tr CNAME .
 *.geoloc.hurriyet.com.tr CNAME .
-mark.isbank.com.tr CNAME .
-*.mark.isbank.com.tr CNAME .
 ivr.com.tr CNAME .
 *.ivr.com.tr CNAME .
 eum.kuveytturk.com.tr CNAME .
