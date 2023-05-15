@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 14 May 2023 22:15 UTC
-# Version: 2023.0514.2215.01
+# Last modified: 15 May 2023 22:15 UTC
+# Version: 2023.0515.2215.27
 # Syntax: Domains (without subdomains)
-# Number of entries: 13085
+# Number of entries: 13077
 #
 1-proof.cyou
 100-solarni-lampa-cz.com
@@ -1041,7 +1041,6 @@ beautlife.shop
 beauttyan.com
 beauty-goods.biz
 beauty-shopping.net
-beauty-ventura.com
 beautybuzzed.shop
 beautydreams24.com
 beautygiftsets.com
@@ -3494,6 +3493,7 @@ elmontmalla.xyz
 elo-cc.de
 elo-werker.com
 eloiseandlolo.com
+elontesla23.pro
 eloquentik.de
 eloquentika.de
 elsacraft.shop
@@ -3731,7 +3731,6 @@ evergabru.com
 everlead.net
 evermily.com
 everyknives.com
-everythingkitchens.com
 everythingsaltspring.com
 eviralstore.com
 evitadeutschland.de
@@ -4343,7 +4342,6 @@ fuehrerscheinfabrik.com
 fuehrungszeugnis.at
 fuehrungszeugnis-online-beantragen.de
 fuehrungszeugnis-service.eu
-fuelta.co
 fuesschentraeume.de
 fuesseinharmonie.at
 fugitive.top
@@ -5879,6 +5877,7 @@ johannes-lerch.de
 johanneslemke.de
 johnghoops.com
 joiceclothing.shop
+join2musk.com
 joinyous.com
 joival.us
 jojocrystal.com
@@ -6778,8 +6777,6 @@ louisbraillechor.at
 louiseperez.space
 louisepet.shop
 loungeflybags.com
-loungeflyoutlets.shop
-loungeflyuk.shop
 lovastores.com
 love-outdoor.com
 love-ralphlauren.com
@@ -8376,6 +8373,7 @@ ontimehome.store
 onward.store
 onweier.com
 onyx-versand.com
+ooctaviat.store
 oofooosale.us
 oopitucy.com
 opbfd.shop
@@ -8573,7 +8571,6 @@ paketmann.de
 palashcryptotrading.com
 palatina-vocalis.de
 zolrqw.palatlaldate.com
-paleogym.shop
 palima-maschinenhandel.com
 palima-maschinenhandel.de
 palinine.top
@@ -9417,7 +9414,6 @@ rehauevents.de
 rehidetes.com
 rehobothprophotos.com
 reichenauertafel.at
-reichwahl.de
 reifen-burghardt.com
 reifen-digon.com
 reifen-dinamo.com
@@ -10608,7 +10604,6 @@ southeastern.site
 southernlife.net
 southerntidewear.com
 souu.shop
-sowaswillichauch.de
 sowood.com
 sozialrecht-sh.de
 sozonest.com
@@ -11262,9 +11257,9 @@ tes-ib.cloud
 tes-ic.cloud
 tesauree.com
 tesento.com
-tesla-openai.com
 teslabestfor.com
 teslabounce.com
+teslabrc.com
 teslacar.io
 teslaflows.com
 teslagive.live
@@ -11540,7 +11535,6 @@ tischlerei-fischler.at
 tischset.at
 tistbike.top
 titacai.top
-titan-man.me
 titel-kaufen.com
 titemo.com
 tiyyf.com
@@ -12608,7 +12602,6 @@ westpointcourier.online
 wesybuy.com
 wetoweto.com
 wetting.de
-wewhrg.shop
 wezpod.com
 wfronning.com
 wgmannheim.de
@@ -13080,7 +13073,6 @@ zum-alten-perkeo.de
 zum-gockelhahn.at
 zum-ochsen-neuwied.de
 zumlangenheinrich.de
-zuozuoshoe.shop
 zupdone.com
 zuperiu.de
 zuseety.com

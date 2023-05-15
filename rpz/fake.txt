@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1684102500 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1684188900 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 14 May 2023 22:15 UTC
-; Version: 2023.0514.2215.01
+; Last modified: 15 May 2023 22:15 UTC
+; Version: 2023.0515.2215.27
 ; Syntax: RPZ
-; Number of entries: 26170
+; Number of entries: 26154
 ;
 bitcoin360.ai CNAME .
 *.bitcoin360.ai CNAME .
@@ -1945,8 +1945,6 @@ flymeta.co CNAME .
 *.flymeta.co CNAME .
 fnpmarkets.co CNAME .
 *.fnpmarkets.co CNAME .
-fuelta.co CNAME .
-*.fuelta.co CNAME .
 galagate.co CNAME .
 *.galagate.co CNAME .
 geniusstuff.co CNAME .
@@ -3087,8 +3085,6 @@ beautiing.com CNAME .
 *.beautiing.com CNAME .
 beauttyan.com CNAME .
 *.beauttyan.com CNAME .
-beauty-ventura.com CNAME .
-*.beauty-ventura.com CNAME .
 beautydreams24.com CNAME .
 *.beautydreams24.com CNAME .
 beautygiftsets.com CNAME .
@@ -5739,8 +5735,6 @@ evermily.com CNAME .
 *.evermily.com CNAME .
 everyknives.com CNAME .
 *.everyknives.com CNAME .
-everythingkitchens.com CNAME .
-*.everythingkitchens.com CNAME .
 everythingsaltspring.com CNAME .
 *.everythingsaltspring.com CNAME .
 eviralstore.com CNAME .
@@ -7915,6 +7909,8 @@ johacngoods.com CNAME .
 *.johacngoods.com CNAME .
 johnghoops.com CNAME .
 *.johnghoops.com CNAME .
+join2musk.com CNAME .
+*.join2musk.com CNAME .
 joinyous.com CNAME .
 *.joinyous.com CNAME .
 jojocrystal.com CNAME .
@@ -13767,12 +13763,12 @@ tesauree.com CNAME .
 *.tesauree.com CNAME .
 tesento.com CNAME .
 *.tesento.com CNAME .
-tesla-openai.com CNAME .
-*.tesla-openai.com CNAME .
 teslabestfor.com CNAME .
 *.teslabestfor.com CNAME .
 teslabounce.com CNAME .
 *.teslabounce.com CNAME .
+teslabrc.com CNAME .
+*.teslabrc.com CNAME .
 teslaflows.com CNAME .
 *.teslaflows.com CNAME .
 teslarea.com CNAME .
@@ -19789,8 +19785,6 @@ rehasportberatung.de CNAME .
 *.rehasportberatung.de CNAME .
 rehauevents.de CNAME .
 *.rehauevents.de CNAME .
-reichwahl.de CNAME .
-*.reichwahl.de CNAME .
 reifen-glaser.de CNAME .
 *.reifen-glaser.de CNAME .
 reifen-prechtl.de CNAME .
@@ -20183,8 +20177,6 @@ soulofnippes.de CNAME .
 *.soulofnippes.de CNAME .
 soulwhoppers.de CNAME .
 *.soulwhoppers.de CNAME .
-sowaswillichauch.de CNAME .
-*.sowaswillichauch.de CNAME .
 sozialrecht-sh.de CNAME .
 *.sozialrecht-sh.de CNAME .
 spar-markt.de CNAME .
@@ -21789,8 +21781,6 @@ nobullsalewien.me CNAME .
 *.nobullsalewien.me CNAME .
 nobulosterreich.me CNAME .
 *.nobulosterreich.me CNAME .
-titan-man.me CNAME .
-*.titan-man.me CNAME .
 waxx.me CNAME .
 *.waxx.me CNAME .
 yeezywholesale.me CNAME .
@@ -22725,6 +22715,8 @@ consumersreport.pro CNAME .
 *.consumersreport.pro CNAME .
 ecoslimmer.pro CNAME .
 *.ecoslimmer.pro CNAME .
+elontesla23.pro CNAME .
+*.elontesla23.pro CNAME .
 luxus-handtaschen.pro CNAME .
 *.luxus-handtaschen.pro CNAME .
 monthlypolls.pro CNAME .
@@ -23685,10 +23677,6 @@ lokans.shop CNAME .
 *.lokans.shop CNAME .
 louisepet.shop CNAME .
 *.louisepet.shop CNAME .
-loungeflyoutlets.shop CNAME .
-*.loungeflyoutlets.shop CNAME .
-loungeflyuk.shop CNAME .
-*.loungeflyuk.shop CNAME .
 love4dogs.shop CNAME .
 *.love4dogs.shop CNAME .
 lskg.shop CNAME .
@@ -23913,8 +23901,6 @@ owkshop.shop CNAME .
 *.owkshop.shop CNAME .
 ozxshop.shop CNAME .
 *.ozxshop.shop CNAME .
-paleogym.shop CNAME .
-*.paleogym.shop CNAME .
 pamgomez.shop CNAME .
 *.pamgomez.shop CNAME .
 parcelex.shop CNAME .
@@ -24301,8 +24287,6 @@ welchwomen.shop CNAME .
 *.welchwomen.shop CNAME .
 wellsbaby.shop CNAME .
 *.wellsbaby.shop CNAME .
-wewhrg.shop CNAME .
-*.wewhrg.shop CNAME .
 wildanimal.shop CNAME .
 *.wildanimal.shop CNAME .
 wilkinspromo.shop CNAME .
@@ -24363,8 +24347,6 @@ zocker.shop CNAME .
 *.zocker.shop CNAME .
 zschech.shop CNAME .
 *.zschech.shop CNAME .
-zuozuoshoe.shop CNAME .
-*.zuozuoshoe.shop CNAME .
 zwit.shop CNAME .
 *.zwit.shop CNAME .
 zzyha.shop CNAME .
@@ -25109,6 +25091,8 @@ ontimehome.store CNAME .
 *.ontimehome.store CNAME .
 onward.store CNAME .
 *.onward.store CNAME .
+ooctaviat.store CNAME .
+*.ooctaviat.store CNAME .
 oralcleaningonline.store CNAME .
 *.oralcleaningonline.store CNAME .
 orotonhugesale.store CNAME .
