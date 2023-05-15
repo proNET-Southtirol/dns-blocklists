@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 11 May 2023 22:17 UTC
-! Version: 2023.0511.2217.13
+! Last modified: 15 May 2023 22:08 UTC
+! Version: 2023.0515.2208.56
 ! Syntax: AdBlock
-! Number of entries: 6767
+! Number of entries: 6766
 !
 ||zer0day.000webhostapp.com^
 ||0123456789nonexistent.com^
@@ -2817,6 +2817,7 @@
 ||ns349743.ip-91-121-106.eu^
 ||ipacrack.com^
 ||v2.iperson.xyz^
+||tracker.ipfsscan.io^
 ||iphonebooks.info^
 ||iphonecake.com^
 ||iplay.ro^
@@ -3453,7 +3454,6 @@
 ||mlbstreams.to^
 ||mlcboard.com^
 ||mlmsoftwarez.in^
-||tracker.mlsub.net^
 ||trackers.mlsub.net^
 ||mlwbd.life^
 ||mlwbd.pw^
@@ -3938,7 +3938,6 @@
 ||nulljungle.com^
 ||nullphp.net^
 ||nullphpscript.com^
-||tracker.nullrouted.me^
 ||nullscriptfullz.com^
 ||nunuyy.cc^
 ||nutorrent.com^

@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 11 May 2023 22:17 UTC
-# Version: 2023.0511.2217.13
+# Last modified: 15 May 2023 22:08 UTC
+# Version: 2023.0515.2208.56
 # Syntax: DNSMasq
-# Number of entries: 6767
+# Number of entries: 6766
 #
 address=/zer0day.000webhostapp.com/#
 address=/0123456789nonexistent.com/#
@@ -2817,6 +2817,7 @@ address=/47.ip-51-68-199.eu/#
 address=/ns349743.ip-91-121-106.eu/#
 address=/ipacrack.com/#
 address=/v2.iperson.xyz/#
+address=/tracker.ipfsscan.io/#
 address=/iphonebooks.info/#
 address=/iphonecake.com/#
 address=/iplay.ro/#
@@ -3453,7 +3454,6 @@ address=/mkvking.me/#
 address=/mlbstreams.to/#
 address=/mlcboard.com/#
 address=/mlmsoftwarez.in/#
-address=/tracker.mlsub.net/#
 address=/trackers.mlsub.net/#
 address=/mlwbd.life/#
 address=/mlwbd.pw/#
@@ -3938,7 +3938,6 @@ address=/nulledwarez.org/#
 address=/nulljungle.com/#
 address=/nullphp.net/#
 address=/nullphpscript.com/#
-address=/tracker.nullrouted.me/#
 address=/nullscriptfullz.com/#
 address=/nunuyy.cc/#
 address=/nutorrent.com/#
