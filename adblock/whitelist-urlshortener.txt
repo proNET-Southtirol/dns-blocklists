@@ -458,6 +458,7 @@
 @@||edu.nl^
 @@||eepurl.com^
 @@||efshop.tw^
+@@||ela.st^
 @@||elle.re^
 @@||ellemag.co^
 @@||ely.re^
@@ -622,6 +623,7 @@
 @@||her.is^
 @@||herff.ly^
 @@||hex.tw^
+@@||hf.co^
 @@||hicider.com^
 @@||hide.my^
 @@||hideout.cc^
@@ -896,7 +898,6 @@
 @@||more.sh^
 @@||mork.ro^
 @@||mou.sr^
-@@||mpago.info^
 @@||mrte.ch^
 @@||mrx.cl^
 @@||msft.it^
@@ -1303,6 +1304,7 @@
 @@||storycor.ps^
 @@||stspg.io^
 @@||stts.in^
+@@||sttu.info^
 @@||stuf.in^
 @@||su.pr^
 @@||sumal.ly^
@@ -1387,6 +1389,7 @@
 @@||tinyurl.hu^
 @@||tinyurl.mobi^
 @@||tixsu.com^
+@@||tktwb.tw^
 @@||tl.gd^
 @@||tldr.sk^
 @@||tlil.nl^
@@ -1460,6 +1463,7 @@
 @@||ucbexed.org^
 @@||ucla.in^
 @@||ug.cz^
+@@||ugp.io^
 @@||ui8.ru^
 @@||ukf.me^
 @@||ukoeln.de^
@@ -1473,6 +1477,7 @@
 @@||undrarmr.co^
 @@||uni.cf^
 @@||unipapa.co^
+@@||unixgaming.dev^
 @@||unlc.us^
 @@||unr.ly^
 @@||uofr.us^
@@ -1510,6 +1515,7 @@
 @@||urly.fi^
 @@||urlz.fr^
 @@||urlzs.com^
+@@||urt.io^
 @@||urub.us^
 @@||usanet.tv^
 @@||usat.ly^
@@ -1723,7 +1729,6 @@
 @@||zovpart.com^
 @@||zpag.es^
 @@||zpr.io^
-@@||zrge.eu^
 @@||zshorten.com^
 @@||zsms.net^
 @@||zti.me^
