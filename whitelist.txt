@@ -3438,3 +3438,13 @@ wee.so
 # Samsung Gamelauncher
 api.glb.samsung-gamelauncher.com
 
+# https://github.com/hagezi/dns-blocklists/issues/1051
+edge-*.demdex.net
+
+# https://github.com/hagezi/dns-blocklists/issues/1052
+pl-play.adtonos.com
+pl2-play.adtonos.com
+
+# High-quality algorithm, for rapid, accurate, bias-free facial identification
+app.clearview.ai
+
