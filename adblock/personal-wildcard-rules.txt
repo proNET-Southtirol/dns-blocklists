@@ -503,38 +503,38 @@
 
 ! *** Lazada ***
 
-!||audid-api-sg.taobao.com^
-!||cf.aliyun.com^
-!||filebroker-cdn.lazada.*^
-!||hybrid.miniapp.taobao.com^
-!||idfp.tongdun.net^
-!||ifs.lazada.sg^
-!||jmacs-m.lazada.*^
-!||lzd.highway.alibaba-inc.com^
-!||msgacs-m.lazada.*^
-!||orange-dc.lazada.com^
-!||retcode-sg-lazada.arms.aliyuncs.com^
-!||sg-wum.alibaba.com^
-!||sug.lazada.sg^
-!||umlazada.alibaba.com^
-!||ynuf.aliapp.org^
-!||zconfig.alibabausercontent.com^
+||audid-api-sg.taobao.com^
+||cf.aliyun.com^
+||filebroker-cdn.lazada.*^
+||hybrid.miniapp.taobao.com^
+||idfp.tongdun.net^
+||ifs.lazada.sg^
+||jmacs-m.lazada.*^
+||lzd.highway.alibaba-inc.com^
+||msgacs-m.lazada.*^
+||orange-dc.lazada.com^
+||retcode-sg-lazada.arms.aliyuncs.com^
+||sg-wum.alibaba.com^
+||sug.lazada.sg^
+||umlazada.alibaba.com^
+||ynuf.aliapp.org^
+||zconfig.alibabausercontent.com^
 
 ! *** Shopee - the Shopping "TikTok" ;) ***
 
-!||ccms.shopee.io^
-!||cvf.shopee.*^
-!||dem.shopee.com^
-!||df.infra*.shopee.*^
-!||endpoint.mms.shopee.*^
-!||fe-reporting.shopeemobile.com^
-!||frd.shopee.*^
-!||gslb.sgw.shopeemobile.com^
-!||livetech*.shopee.*^
-! ||data-rep.livetech.shopee.*^
-!||msdk.shopee.*^
-!||offline.toc.shopeemobile.com^
-!||patronus.idata.shopeemobile.com^
+||ccms.shopee.io^
+||cvf.shopee.*^
+||dem.shopee.com^
+||df.infra*.shopee.*^
+||endpoint.mms.shopee.*^
+||fe-reporting.shopeemobile.com^
+||frd.shopee.*^
+||gslb.sgw.shopeemobile.com^
+||livetech*.shopee.*^
+||data-rep.livetech.shopee.*^
+||msdk.shopee.*^
+||offline.toc.shopeemobile.com^
+||patronus.idata.shopeemobile.com^
 
 ! *** TikTok Fingerprinting ***
 
