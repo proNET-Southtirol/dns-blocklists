@@ -220,6 +220,7 @@ https://raw.githubusercontent.com/blocklistproject/Lists/master/piracy.txt
 https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock-mining.txt
 https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
 https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/MD-ID-Fork.txt
+https://raw.githubusercontent.com/braveinnovators/url-blocklist/main/filters/url-blocklist-domains.txt
 https://raw.githubusercontent.com/Cats-Team/AdRules/main/ad-domains.txt
 https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt
 https://raw.githubusercontent.com/cbuijs/shallalist/master/adv/domains
