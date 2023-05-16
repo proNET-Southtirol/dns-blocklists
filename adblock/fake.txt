@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 15 May 2023 22:15 UTC
-! Version: 2023.0515.2215.27
+! Last modified: 16 May 2023 21:26 UTC
+! Version: 2023.0516.2126.11
 ! Syntax: AdBlock
-! Number of entries: 13077
+! Number of entries: 13079
 !
 ||1-proof.cyou^
 ||100-solarni-lampa-cz.com^
@@ -699,7 +699,9 @@
 ||asia-minimarkt.at^
 ||asianight.at^
 ||asics-deutschland.com^
+||asicsczeshop.cz^
 ||asicsoutletosterreich.at^
+||asicspraha.cz^
 ||asicstenisky.sk^
 ||asleme.com^
 ||asliuo.shop^
@@ -1041,6 +1043,7 @@
 ||beauttyan.com^
 ||beauty-goods.biz^
 ||beauty-shopping.net^
+||beauty-ventura.com^
 ||beautybuzzed.shop^
 ||beautydreams24.com^
 ||beautygiftsets.com^
@@ -1114,6 +1117,7 @@
 ||berlinbeardeal.de^
 ||berlinbesonders.de^
 ||berliner-laden.de^
+||berlinermode.shop^
 ||berlinosa.de^
 ||berlinpellets.com^
 ||berndundgiselarenz.de^
@@ -2440,7 +2444,6 @@
 ||costlysunscreen.store^
 ||costumo.co^
 ||costuv.com^
-||cotopdeals.store^
 ||cotsrabatt.de^
 ||cottontalkf.com^
 ||cottonwears.com^
@@ -2718,7 +2721,7 @@
 ||dawnbaby.shop^
 ||daxmixstore.com^
 ||daylighty.com^
-||dayuse-agent.online^
+||m.dayuse-agent.online^
 ||dazsistmeins.at^
 ||dbehringer.de^
 ||dbhmnp.shop^
@@ -4342,6 +4345,7 @@
 ||fuehrungszeugnis.at^
 ||fuehrungszeugnis-online-beantragen.de^
 ||fuehrungszeugnis-service.eu^
+||fuelta.co^
 ||fuesschentraeume.de^
 ||fuesseinharmonie.at^
 ||fugitive.top^
@@ -4871,7 +4875,6 @@
 ||groundies-osterreich.com^
 ||groundiescz.com^
 ||groundiesczechrepublic.com^
-||groundiesdeutsch.de^
 ||groundiesdeutschland.com^
 ||groundiesgermany.com^
 ||groundiesosterreich.at^
@@ -5524,6 +5527,7 @@
 ||icaroviaggi.com^
 ||iceao.shop^
 ||icebath.cc^
+||icebugcz.com^
 ||icebugschuhe.com^
 ||icediscount.live^
 ||icego.org^
@@ -6077,6 +6081,7 @@
 ||keenfootwearsale.com^
 ||keenfootwearsk.sk^
 ||keenobuv.cz^
+||keenonlineshop.de^
 ||keenosterreich.at^
 ||keenschuhe.com^
 ||keenschuhewien.at^
@@ -6941,7 +6946,6 @@
 ||makeglamfg.com^
 ||makeupgeneric.com^
 ||makeupproductsshop.store^
-||makewallperfect.store^
 ||makitabillig.de^
 ||makunuoil.com^
 ||malabor.com^
@@ -7794,7 +7798,6 @@
 ||natas-berlin.de^
 ||natilove.com^
 ||nationaladvancegroup.com^
-||natistore.us^
 ||natkeys.com^
 ||natsgl.com^
 ||natural-sales.com^
@@ -8373,7 +8376,6 @@
 ||onward.store^
 ||onweier.com^
 ||onyx-versand.com^
-||ooctaviat.store^
 ||oofooosale.us^
 ||oopitucy.com^
 ||opbfd.shop^
@@ -9922,6 +9924,7 @@
 ||sanuk-deutschland.com^
 ||sanukdeutschland.com^
 ||sanukeshop.cz^
+||sanukpraha.cz^
 ||sanukschuheosterreich.com^
 ||sarah-eckert.de^
 ||sarahbali.cz^
@@ -10298,7 +10301,6 @@
 ||shopparts.store^
 ||shoppawsclaws.com^
 ||shopperevals.com^
-||shopperexpress.shop^
 ||shoppers-report.com^
 ||shoppers-thoughts.com^
 ||shoppersreview.help^
@@ -10609,7 +10611,6 @@
 ||sozonest.com^
 ||spacekeeper.com^
 ||spacexmusk.io^
-||spagetlink.com^
 ||spainhealthtravel.net^
 ||spaire.us^
 ||spar-markt.de^
@@ -11257,6 +11258,7 @@
 ||tes-ic.cloud^
 ||tesauree.com^
 ||tesento.com^
+||tesla-openai.com^
 ||teslabestfor.com^
 ||teslabounce.com^
 ||teslabrc.com^
@@ -11338,6 +11340,7 @@
 ||theclassycore.com^
 ||theclothesbox.com^
 ||thecoldwars.top^
+||thecomplication.cz^
 ||thecraftssewing.com^
 ||thecycleshoes.com^
 ||thecyclistsupply.com^
@@ -11535,6 +11538,7 @@
 ||tischset.at^
 ||tistbike.top^
 ||titacai.top^
+||titan-man.me^
 ||titel-kaufen.com^
 ||titemo.com^
 ||tiyyf.com^
@@ -11944,7 +11948,6 @@
 ||um-bs.com^
 ||umadate.xyz^
 ||umagic.net^
-||umbler.net^
 ||umbrellacorp.fr^
 ||umia-gmbh.com^
 ||store.umidigi.com^
@@ -12979,7 +12982,6 @@
 ||zdravimazelenou.cz^
 ||zdraviodslovanu.online^
 ||zealfox.shop^
-||zech-company.com^
 ||zedbubble.com^
 ||zedorders.com^
 ||german.zeelool.com^

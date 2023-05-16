@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1684188900 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1684272360 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 15 May 2023 22:15 UTC
-; Version: 2023.0515.2215.27
+; Last modified: 16 May 2023 21:26 UTC
+; Version: 2023.0516.2126.11
 ; Syntax: RPZ
-; Number of entries: 26154
+; Number of entries: 26158
 ;
 bitcoin360.ai CNAME .
 *.bitcoin360.ai CNAME .
@@ -1945,6 +1945,8 @@ flymeta.co CNAME .
 *.flymeta.co CNAME .
 fnpmarkets.co CNAME .
 *.fnpmarkets.co CNAME .
+fuelta.co CNAME .
+*.fuelta.co CNAME .
 galagate.co CNAME .
 *.galagate.co CNAME .
 geniusstuff.co CNAME .
@@ -3085,6 +3087,8 @@ beautiing.com CNAME .
 *.beautiing.com CNAME .
 beauttyan.com CNAME .
 *.beauttyan.com CNAME .
+beauty-ventura.com CNAME .
+*.beauty-ventura.com CNAME .
 beautydreams24.com CNAME .
 *.beautydreams24.com CNAME .
 beautygiftsets.com CNAME .
@@ -7547,6 +7551,8 @@ ibratie.com CNAME .
 *.ibratie.com CNAME .
 icaroviaggi.com CNAME .
 *.icaroviaggi.com CNAME .
+icebugcz.com CNAME .
+*.icebugcz.com CNAME .
 icebugschuhe.com CNAME .
 *.icebugschuhe.com CNAME .
 icemenruy.com CNAME .
@@ -13041,8 +13047,6 @@ sozonest.com CNAME .
 *.sozonest.com CNAME .
 spacekeeper.com CNAME .
 *.spacekeeper.com CNAME .
-spagetlink.com CNAME .
-*.spagetlink.com CNAME .
 sparkauf24.com CNAME .
 *.sparkauf24.com CNAME .
 sparktheoccasion.com CNAME .
@@ -13763,6 +13767,8 @@ tesauree.com CNAME .
 *.tesauree.com CNAME .
 tesento.com CNAME .
 *.tesento.com CNAME .
+tesla-openai.com CNAME .
+*.tesla-openai.com CNAME .
 teslabestfor.com CNAME .
 *.teslabestfor.com CNAME .
 teslabounce.com CNAME .
@@ -15697,8 +15703,6 @@ zdorovieludi.com CNAME .
 *.zdorovieludi.com CNAME .
 zdraveprsty-na-nohou-cz.com CNAME .
 *.zdraveprsty-na-nohou-cz.com CNAME .
-zech-company.com CNAME .
-*.zech-company.com CNAME .
 zedbubble.com CNAME .
 *.zedbubble.com CNAME .
 zedorders.com CNAME .
@@ -15835,6 +15839,10 @@ antikwariat.cz CNAME .
 *.antikwariat.cz CNAME .
 areareklama.cz CNAME .
 *.areareklama.cz CNAME .
+asicsczeshop.cz CNAME .
+*.asicsczeshop.cz CNAME .
+asicspraha.cz CNAME .
+*.asicspraha.cz CNAME .
 wwd.bags2020c.cz CNAME .
 *.wwd.bags2020c.cz CNAME .
 baltom.cz CNAME .
@@ -16177,6 +16185,8 @@ sananga.cz CNAME .
 *.sananga.cz CNAME .
 sanukeshop.cz CNAME .
 *.sanukeshop.cz CNAME .
+sanukpraha.cz CNAME .
+*.sanukpraha.cz CNAME .
 sarahbali.cz CNAME .
 *.sarahbali.cz CNAME .
 schotz.cz CNAME .
@@ -16213,6 +16223,8 @@ teva-praha.cz CNAME .
 *.teva-praha.cz CNAME .
 tevabotystore.cz CNAME .
 *.tevabotystore.cz CNAME .
+thecomplication.cz CNAME .
+*.thecomplication.cz CNAME .
 thorogood.cz CNAME .
 *.thorogood.cz CNAME .
 thtex.cz CNAME .
@@ -18087,8 +18099,6 @@ grocert.de CNAME .
 *.grocert.de CNAME .
 groteno.de CNAME .
 *.groteno.de CNAME .
-groundiesdeutsch.de CNAME .
-*.groundiesdeutsch.de CNAME .
 group-rwe.de CNAME .
 *.group-rwe.de CNAME .
 grubano.de CNAME .
@@ -18577,6 +18587,8 @@ kauful.de CNAME .
 *.kauful.de CNAME .
 ked-rad.de CNAME .
 *.ked-rad.de CNAME .
+keenonlineshop.de CNAME .
+*.keenonlineshop.de CNAME .
 keinpasskeinspass.de CNAME .
 *.keinpasskeinspass.de CNAME .
 keksa.de CNAME .
@@ -21781,6 +21793,8 @@ nobullsalewien.me CNAME .
 *.nobullsalewien.me CNAME .
 nobulosterreich.me CNAME .
 *.nobulosterreich.me CNAME .
+titan-man.me CNAME .
+*.titan-man.me CNAME .
 waxx.me CNAME .
 *.waxx.me CNAME .
 yeezywholesale.me CNAME .
@@ -22215,8 +22229,6 @@ uhrstern.net CNAME .
 *.uhrstern.net CNAME .
 umagic.net CNAME .
 *.umagic.net CNAME .
-umbler.net CNAME .
-*.umbler.net CNAME .
 up4profit.net CNAME .
 *.up4profit.net CNAME .
 upchest.net CNAME .
@@ -22319,8 +22331,8 @@ cialis-online20mg.online CNAME .
 *.cialis-online20mg.online CNAME .
 crypto030.online CNAME .
 *.crypto030.online CNAME .
-dayuse-agent.online CNAME .
-*.dayuse-agent.online CNAME .
+m.dayuse-agent.online CNAME .
+*.m.dayuse-agent.online CNAME .
 done-done.online CNAME .
 *.done-done.online CNAME .
 emmettretail.online CNAME .
@@ -22961,6 +22973,8 @@ benelok.shop CNAME .
 *.benelok.shop CNAME .
 bentrn.shop CNAME .
 *.bentrn.shop CNAME .
+berlinermode.shop CNAME .
+*.berlinermode.shop CNAME .
 bernicpr.shop CNAME .
 *.bernicpr.shop CNAME .
 bertbaby.shop CNAME .
@@ -24057,8 +24071,6 @@ sharicar.shop CNAME .
 *.sharicar.shop CNAME .
 sharonbaby.shop CNAME .
 *.sharonbaby.shop CNAME .
-shopperexpress.shop CNAME .
-*.shopperexpress.shop CNAME .
 shytoy.shop CNAME .
 *.shytoy.shop CNAME .
 siifik.shop CNAME .
@@ -24737,8 +24749,6 @@ consequiclothing.store CNAME .
 *.consequiclothing.store CNAME .
 costlysunscreen.store CNAME .
 *.costlysunscreen.store CNAME .
-cotopdeals.store CNAME .
-*.cotopdeals.store CNAME .
 courtyarddecoration.store CNAME .
 *.courtyarddecoration.store CNAME .
 croutletau.store CNAME .
@@ -25005,8 +25015,6 @@ luxuryjewelrys.store CNAME .
 *.luxuryjewelrys.store CNAME .
 makeupproductsshop.store CNAME .
 *.makeupproductsshop.store CNAME .
-makewallperfect.store CNAME .
-*.makewallperfect.store CNAME .
 meaningbox.store CNAME .
 *.meaningbox.store CNAME .
 media-world.store CNAME .
@@ -25091,8 +25099,6 @@ ontimehome.store CNAME .
 *.ontimehome.store CNAME .
 onward.store CNAME .
 *.onward.store CNAME .
-ooctaviat.store CNAME .
-*.ooctaviat.store CNAME .
 oralcleaningonline.store CNAME .
 *.oralcleaningonline.store CNAME .
 orotonhugesale.store CNAME .
@@ -25797,8 +25803,6 @@ menchoice.us CNAME .
 *.menchoice.us CNAME .
 mymallsale.us CNAME .
 *.mymallsale.us CNAME .
-natistore.us CNAME .
-*.natistore.us CNAME .
 niche3d.us CNAME .
 *.niche3d.us CNAME .
 nvistle.us CNAME .
