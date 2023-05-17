@@ -820,7 +820,6 @@
 @@||lmg.gg^
 @@||lmt.co^
 @@||lmy.de^
-@@||lnk.bz^
 @@||lnk.co^
 @@||lnk.direct^
 @@||lnk.do^
@@ -1394,7 +1393,6 @@
 @@||tldr.sk^
 @@||tlil.nl^
 @@||tllg.net^
-@@||tlnt.at^
 @@||tlrk.it^
 @@||tmblr.co^
 @@||tmsnrt.rs^
@@ -1452,7 +1450,6 @@
 @@||u.fail^
 @@||u.nu^
 @@||u.to^
-@@||u2s.in^
 @@||u6v.cn^
 @@||uafly.co^
 @@||ubm.io^

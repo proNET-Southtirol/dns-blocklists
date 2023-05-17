@@ -3448,3 +3448,13 @@ pl2-play.adtonos.com
 # High-quality algorithm, for rapid, accurate, bias-free facial identification
 app.clearview.ai
 
+# Linux Vendor Firmware Service
+*.fwupd.org
+
+# https://github.com/hagezi/dns-blocklists/issues/1055
+dogus-ads-cdn.dygdigital.com
+dygassets.dygdigital.com
+
+# O2 Hotline Widget
+static-v2.trbo.com
+
