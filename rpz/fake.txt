@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1684272360 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1684359960 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 16 May 2023 21:26 UTC
-; Version: 2023.0516.2126.11
+; Last modified: 17 May 2023 21:46 UTC
+; Version: 2023.0517.2146.28
 ; Syntax: RPZ
-; Number of entries: 26158
+; Number of entries: 26160
 ;
 bitcoin360.ai CNAME .
 *.bitcoin360.ai CNAME .
@@ -3883,8 +3883,6 @@ cargotrustcourier.com CNAME .
 *.cargotrustcourier.com CNAME .
 cargservicesdelnc.com CNAME .
 *.cargservicesdelnc.com CNAME .
-carharttoutdoor.com CNAME .
-*.carharttoutdoor.com CNAME .
 carlogodesign.com CNAME .
 *.carlogodesign.com CNAME .
 carlosport.com CNAME .
@@ -5739,6 +5737,8 @@ evermily.com CNAME .
 *.evermily.com CNAME .
 everyknives.com CNAME .
 *.everyknives.com CNAME .
+everythingkitchens.com CNAME .
+*.everythingkitchens.com CNAME .
 everythingsaltspring.com CNAME .
 *.everythingsaltspring.com CNAME .
 eviralstore.com CNAME .
@@ -13767,8 +13767,6 @@ tesauree.com CNAME .
 *.tesauree.com CNAME .
 tesento.com CNAME .
 *.tesento.com CNAME .
-tesla-openai.com CNAME .
-*.tesla-openai.com CNAME .
 teslabestfor.com CNAME .
 *.teslabestfor.com CNAME .
 teslabounce.com CNAME .
@@ -13851,8 +13849,6 @@ thebitcoincompass.com CNAME .
 *.thebitcoincompass.com CNAME .
 thebustlight.com CNAME .
 *.thebustlight.com CNAME .
-thecarharttwip.com CNAME .
-*.thecarharttwip.com CNAME .
 thecartruck.com CNAME .
 *.thecartruck.com CNAME .
 thecasualclothing.com CNAME .
@@ -18099,6 +18095,8 @@ grocert.de CNAME .
 *.grocert.de CNAME .
 groteno.de CNAME .
 *.groteno.de CNAME .
+groundiesdeutsch.de CNAME .
+*.groundiesdeutsch.de CNAME .
 group-rwe.de CNAME .
 *.group-rwe.de CNAME .
 grubano.de CNAME .
@@ -21801,8 +21799,6 @@ yeezywholesale.me CNAME .
 *.yeezywholesale.me CNAME .
 yoyokicks.me CNAME .
 *.yoyokicks.me CNAME .
-skymedia.media CNAME .
-*.skymedia.media CNAME .
 veryuseful.ml CNAME .
 *.veryuseful.ml CNAME .
 ledgerlive.mobi CNAME .
@@ -21947,6 +21943,8 @@ goldankaufbayern.net CNAME .
 *.goldankaufbayern.net CNAME .
 graskaufen.net CNAME .
 *.graskaufen.net CNAME .
+gutes-angebot.net CNAME .
+*.gutes-angebot.net CNAME .
 hamburg-hotel.net CNAME .
 *.hamburg-hotel.net CNAME .
 hamega.net CNAME .
@@ -22375,6 +22373,8 @@ hugoaquarium.online CNAME .
 *.hugoaquarium.online CNAME .
 hypersneakers.online CNAME .
 *.hypersneakers.online CNAME .
+i-grade.online CNAME .
+*.i-grade.online CNAME .
 intgblockchain.online CNAME .
 *.intgblockchain.online CNAME .
 iojjdrvcshop.online CNAME .
@@ -25015,6 +25015,8 @@ luxuryjewelrys.store CNAME .
 *.luxuryjewelrys.store CNAME .
 makeupproductsshop.store CNAME .
 *.makeupproductsshop.store CNAME .
+makewallperfect.store CNAME .
+*.makewallperfect.store CNAME .
 meaningbox.store CNAME .
 *.meaningbox.store CNAME .
 media-world.store CNAME .

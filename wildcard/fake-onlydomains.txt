@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 16 May 2023 21:26 UTC
-# Version: 2023.0516.2126.11
+# Last modified: 17 May 2023 21:46 UTC
+# Version: 2023.0517.2146.28
 # Syntax: Domains (without subdomains)
-# Number of entries: 13079
+# Number of entries: 13080
 #
 1-proof.cyou
 100-solarni-lampa-cz.com
@@ -1845,7 +1845,6 @@ carethy.at
 cargadgetss.com
 cargotrustcourier.com
 cargservicesdelnc.com
-carharttoutdoor.com
 carlogodesign.com
 carlosport.com
 carlsneaker.com
@@ -3734,6 +3733,7 @@ evergabru.com
 everlead.net
 evermily.com
 everyknives.com
+everythingkitchens.com
 everythingsaltspring.com
 eviralstore.com
 evitadeutschland.de
@@ -4875,6 +4875,7 @@ groteno.de
 groundies-osterreich.com
 groundiescz.com
 groundiesczechrepublic.com
+groundiesdeutsch.de
 groundiesdeutschland.com
 groundiesgermany.com
 groundiesosterreich.at
@@ -4926,6 +4927,7 @@ gutehauswelpen.com
 guteholzheizung.de
 gutenstore.com
 guterkauf.com
+gutes-angebot.net
 gutes-brennholz.com
 gutesbestes.com
 gutgegrillt.com
@@ -5504,6 +5506,7 @@ hysterant.com
 hyybabe.com
 hznation.shop
 i-deal24.com
+i-grade.online
 i-healthy-beauty.com
 i-translogistics.com
 i-vaya.de
@@ -6946,6 +6949,7 @@ makeazt.com
 makeglamfg.com
 makeupgeneric.com
 makeupproductsshop.store
+makewallperfect.store
 makitabillig.de
 makunuoil.com
 malabor.com
@@ -10437,7 +10441,6 @@ skuttem.com
 skyairdrone.com
 skyeline.net
 skyllonline.com
-skymedia.media
 skymorogoods.com
 skyoivest.shop
 skyquaddrone.com
@@ -11258,7 +11261,6 @@ tes-ib.cloud
 tes-ic.cloud
 tesauree.com
 tesento.com
-tesla-openai.com
 teslabestfor.com
 teslabounce.com
 teslabrc.com
@@ -11331,7 +11333,6 @@ thebitindex.ai
 thebustlight.com
 thecallkc.org
 thecameron.xyz
-thecarharttwip.com
 thecartruck.com
 thecasualclothing.com
 thecasualkleding.com

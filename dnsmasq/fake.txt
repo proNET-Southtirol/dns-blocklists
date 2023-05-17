@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 16 May 2023 21:26 UTC
-# Version: 2023.0516.2126.11
+# Last modified: 17 May 2023 21:46 UTC
+# Version: 2023.0517.2146.28
 # Syntax: DNSMasq
-# Number of entries: 13079
+# Number of entries: 13080
 #
 address=/1-proof.cyou/#
 address=/100-solarni-lampa-cz.com/#
@@ -1845,7 +1845,6 @@ address=/carethy.at/#
 address=/cargadgetss.com/#
 address=/cargotrustcourier.com/#
 address=/cargservicesdelnc.com/#
-address=/carharttoutdoor.com/#
 address=/carlogodesign.com/#
 address=/carlosport.com/#
 address=/carlsneaker.com/#
@@ -3734,6 +3733,7 @@ address=/evergabru.com/#
 address=/everlead.net/#
 address=/evermily.com/#
 address=/everyknives.com/#
+address=/everythingkitchens.com/#
 address=/everythingsaltspring.com/#
 address=/eviralstore.com/#
 address=/evitadeutschland.de/#
@@ -4875,6 +4875,7 @@ address=/groteno.de/#
 address=/groundies-osterreich.com/#
 address=/groundiescz.com/#
 address=/groundiesczechrepublic.com/#
+address=/groundiesdeutsch.de/#
 address=/groundiesdeutschland.com/#
 address=/groundiesgermany.com/#
 address=/groundiesosterreich.at/#
@@ -4926,6 +4927,7 @@ address=/gutehauswelpen.com/#
 address=/guteholzheizung.de/#
 address=/gutenstore.com/#
 address=/guterkauf.com/#
+address=/gutes-angebot.net/#
 address=/gutes-brennholz.com/#
 address=/gutesbestes.com/#
 address=/gutgegrillt.com/#
@@ -5504,6 +5506,7 @@ address=/hysterant.com/#
 address=/hyybabe.com/#
 address=/hznation.shop/#
 address=/i-deal24.com/#
+address=/i-grade.online/#
 address=/i-healthy-beauty.com/#
 address=/i-translogistics.com/#
 address=/i-vaya.de/#
@@ -6946,6 +6949,7 @@ address=/makeazt.com/#
 address=/makeglamfg.com/#
 address=/makeupgeneric.com/#
 address=/makeupproductsshop.store/#
+address=/makewallperfect.store/#
 address=/makitabillig.de/#
 address=/makunuoil.com/#
 address=/malabor.com/#
@@ -10437,7 +10441,6 @@ address=/skuttem.com/#
 address=/skyairdrone.com/#
 address=/skyeline.net/#
 address=/skyllonline.com/#
-address=/skymedia.media/#
 address=/skymorogoods.com/#
 address=/skyoivest.shop/#
 address=/skyquaddrone.com/#
@@ -11258,7 +11261,6 @@ address=/tes-ib.cloud/#
 address=/tes-ic.cloud/#
 address=/tesauree.com/#
 address=/tesento.com/#
-address=/tesla-openai.com/#
 address=/teslabestfor.com/#
 address=/teslabounce.com/#
 address=/teslabrc.com/#
@@ -11331,7 +11333,6 @@ address=/thebitindex.ai/#
 address=/thebustlight.com/#
 address=/thecallkc.org/#
 address=/thecameron.xyz/#
-address=/thecarharttwip.com/#
 address=/thecartruck.com/#
 address=/thecasualclothing.com/#
 address=/thecasualkleding.com/#
