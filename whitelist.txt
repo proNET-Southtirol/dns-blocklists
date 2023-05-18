@@ -3458,6 +3458,15 @@ dygassets.dygdigital.com
 # O2 Hotline Widget
 static-v2.trbo.com
 
-# Caesars Sportsbook Location
-*.geocomply.com 
+# Caesars Sportsbook Location - breaks app
+*.geocomply.com
+
+# Blocks Instantgames from Samsung
+*.pushmessage.samsung.com
+
+# News
+thethings.com
+
+# remote work community
+weworkremotely.com
 
