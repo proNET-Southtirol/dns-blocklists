@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1684359960 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1684445940 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 17 May 2023 21:46 UTC
-; Version: 2023.0517.2146.28
+; Last modified: 18 May 2023 21:39 UTC
+; Version: 2023.0518.2139.33
 ; Syntax: RPZ
-; Number of entries: 26160
+; Number of entries: 26166
 ;
 bitcoin360.ai CNAME .
 *.bitcoin360.ai CNAME .
@@ -2147,6 +2147,8 @@ abendroth-fortel.com CNAME .
 *.abendroth-fortel.com CNAME .
 abidacy.com CNAME .
 *.abidacy.com CNAME .
+abncbp.com CNAME .
+*.abncbp.com CNAME .
 abolder.com CNAME .
 *.abolder.com CNAME .
 abourt.com CNAME .
@@ -4191,8 +4193,8 @@ ckilla.com CNAME .
 *.ckilla.com CNAME .
 cktckt.com CNAME .
 *.cktckt.com CNAME .
-clabra.com CNAME .
-*.clabra.com CNAME .
+m.clabra.com CNAME .
+*.m.clabra.com CNAME .
 clara-holz.com CNAME .
 *.clara-holz.com CNAME .
 clarks-germany.com CNAME .
@@ -6711,8 +6713,6 @@ glazik-bois-energie.com CNAME .
 *.glazik-bois-energie.com CNAME .
 gledorktrade.com CNAME .
 *.gledorktrade.com CNAME .
-glendaz.com CNAME .
-*.glendaz.com CNAME .
 glitzce.com CNAME .
 *.glitzce.com CNAME .
 glitzermoment.com CNAME .
@@ -8373,6 +8373,8 @@ kyliefoley.com CNAME .
 *.kyliefoley.com CNAME .
 kyoshorc.com CNAME .
 *.kyoshorc.com CNAME .
+labetcod.com CNAME .
+*.labetcod.com CNAME .
 labogi.com CNAME .
 *.labogi.com CNAME .
 labormall9us.com CNAME .
@@ -9577,6 +9579,8 @@ uschse04.my03.com CNAME .
 *.uschse04.my03.com CNAME .
 myberlinshop.com CNAME .
 *.myberlinshop.com CNAME .
+mybestautologin567.com CNAME .
+*.mybestautologin567.com CNAME .
 mycaboconcierge.com CNAME .
 *.mycaboconcierge.com CNAME .
 mycatalogy.com CNAME .
@@ -13047,6 +13051,8 @@ sozonest.com CNAME .
 *.sozonest.com CNAME .
 spacekeeper.com CNAME .
 *.spacekeeper.com CNAME .
+spagetlink.com CNAME .
+*.spagetlink.com CNAME .
 sparkauf24.com CNAME .
 *.sparkauf24.com CNAME .
 sparktheoccasion.com CNAME .
@@ -13393,6 +13399,8 @@ subsequentp.com CNAME .
 *.subsequentp.com CNAME .
 subttles.com CNAME .
 *.subttles.com CNAME .
+successglossary.com CNAME .
+*.successglossary.com CNAME .
 suga-product.com CNAME .
 *.suga-product.com CNAME .
 suganormnd.com CNAME .
@@ -13767,6 +13775,8 @@ tesauree.com CNAME .
 *.tesauree.com CNAME .
 tesento.com CNAME .
 *.tesento.com CNAME .
+tesla-openai.com CNAME .
+*.tesla-openai.com CNAME .
 teslabestfor.com CNAME .
 *.teslabestfor.com CNAME .
 teslabounce.com CNAME .
@@ -18585,8 +18595,6 @@ kauful.de CNAME .
 *.kauful.de CNAME .
 ked-rad.de CNAME .
 *.ked-rad.de CNAME .
-keenonlineshop.de CNAME .
-*.keenonlineshop.de CNAME .
 keinpasskeinspass.de CNAME .
 *.keinpasskeinspass.de CNAME .
 keksa.de CNAME .
@@ -19847,6 +19855,8 @@ rhein-main-abenteuer.de CNAME .
 *.rhein-main-abenteuer.de CNAME .
 rhein-trends24.de CNAME .
 *.rhein-trends24.de CNAME .
+rheineule.de CNAME .
+*.rheineule.de CNAME .
 rheintulpen.de CNAME .
 *.rheintulpen.de CNAME .
 rheinwing.de CNAME .
@@ -21467,8 +21477,6 @@ boxaple.info CNAME .
 *.boxaple.info CNAME .
 canteago.info CNAME .
 *.canteago.info CNAME .
-castim.info CNAME .
-*.castim.info CNAME .
 cition.info CNAME .
 *.cition.info CNAME .
 coolbox24.info CNAME .
@@ -21987,8 +21995,8 @@ infodir.net CNAME .
 *.infodir.net CNAME .
 jaimerico.net CNAME .
 *.jaimerico.net CNAME .
-jamilabra.net CNAME .
-*.jamilabra.net CNAME .
+m.jamilabra.net CNAME .
+*.m.jamilabra.net CNAME .
 jerseyviponline.net CNAME .
 *.jerseyviponline.net CNAME .
 jma-heimarbeit.net CNAME .
@@ -22731,6 +22739,8 @@ elontesla23.pro CNAME .
 *.elontesla23.pro CNAME .
 luxus-handtaschen.pro CNAME .
 *.luxus-handtaschen.pro CNAME .
+microngroup.pro CNAME .
+*.microngroup.pro CNAME .
 monthlypolls.pro CNAME .
 *.monthlypolls.pro CNAME .
 newenergysaver.pro CNAME .
@@ -25015,8 +25025,6 @@ luxuryjewelrys.store CNAME .
 *.luxuryjewelrys.store CNAME .
 makeupproductsshop.store CNAME .
 *.makeupproductsshop.store CNAME .
-makewallperfect.store CNAME .
-*.makewallperfect.store CNAME .
 meaningbox.store CNAME .
 *.meaningbox.store CNAME .
 media-world.store CNAME .
@@ -25183,8 +25191,6 @@ shopparts.store CNAME .
 *.shopparts.store CNAME .
 sinleycollection.store CNAME .
 *.sinleycollection.store CNAME .
-skechersshoeoutlets.store CNAME .
-*.skechersshoeoutlets.store CNAME .
 slimmingproductsale.store CNAME .
 *.slimmingproductsale.store CNAME .
 sportsbag.store CNAME .

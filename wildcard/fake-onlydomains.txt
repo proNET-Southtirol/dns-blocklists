@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 17 May 2023 21:46 UTC
-# Version: 2023.0517.2146.28
+# Last modified: 18 May 2023 21:39 UTC
+# Version: 2023.0518.2139.33
 # Syntax: Domains (without subdomains)
-# Number of entries: 13080
+# Number of entries: 13083
 #
 1-proof.cyou
 100-solarni-lampa-cz.com
@@ -98,6 +98,7 @@ abercrombiestore.online
 abfluss-frei24.de
 abidacy.com
 abipartyxxl.de
+abncbp.com
 abnehmen-einfach-gemacht.de
 abolder.com
 abourt.com
@@ -1887,7 +1888,6 @@ casimir-coburg.de
 castanerosterreich.com
 castellicycle.com
 castillo-art.shop
-castim.info
 castrosale.shop
 casualsportstore.com
 catalia.de
@@ -2111,7 +2111,7 @@ ckl-bau.de
 ckonlinesale.store
 ckpromotions.store
 cktckt.com
-clabra.com
+m.clabra.com
 claimcoderz.live
 clairedresses.space
 clara-holz.com
@@ -4661,7 +4661,6 @@ glassesneon.com
 glaydssale.shop
 glazik-bois-energie.com
 gledorktrade.com
-glendaz.com
 glennauto.shop
 gleuelspd.de
 gling-misu.de
@@ -5782,7 +5781,7 @@ jaimerico.net
 jakkesalgs.com
 jakkesnorge.com
 jalpakhabar.com
-jamilabra.net
+m.jamilabra.net
 jampastey.com
 jamunto.de
 jan-gabelstapler.de
@@ -6084,7 +6083,6 @@ keen-cz.com
 keenfootwearsale.com
 keenfootwearsk.sk
 keenobuv.cz
-keenonlineshop.de
 keenosterreich.at
 keenschuhe.com
 keenschuhewien.at
@@ -6401,6 +6399,7 @@ kyliefoley.com
 kyolo.net
 kyoshorc.com
 kzv-kirdorf.de
+labetcod.com
 labogi.com
 laboitenomade.de
 labormall9us.com
@@ -6949,7 +6948,6 @@ makeazt.com
 makeglamfg.com
 makeupgeneric.com
 makeupproductsshop.store
-makewallperfect.store
 makitabillig.de
 makunuoil.com
 malabor.com
@@ -7327,6 +7325,7 @@ mickcosmetic.shop
 microbiologybytes.com
 microgull.com
 micron-srl.de
+microngroup.pro
 microtro.com
 midikleider.com
 miebag.net
@@ -7646,6 +7645,7 @@ yoli.my.id
 uschse04.my03.com
 mybell-refund.me
 myberlinshop.com
+mybestautologin567.com
 mybordercollies.de
 mycaboconcierge.com
 mycatalogy.com
@@ -9543,6 +9543,7 @@ rhein-entree.de
 rhein-main-abenteuer.de
 rhein-trends24.de
 rheinadler.com
+rheineule.de
 rheintulpen.de
 rheinwing.de
 rheokth.top
@@ -10420,7 +10421,6 @@ skechersbotyoutlet.cz
 skechersdeutschland.de
 skechersgermany.com
 skechersschuhe.at
-skechersshoeoutlets.store
 skechersshop.at
 skecherstoresbest.de
 ski-apparel.com
@@ -10614,6 +10614,7 @@ sozialrecht-sh.de
 sozonest.com
 spacekeeper.com
 spacexmusk.io
+spagetlink.com
 spainhealthtravel.net
 spaire.us
 spar-markt.de
@@ -10915,6 +10916,7 @@ subhmobiles.com
 subsequenti.com
 subsequentp.com
 subttles.com
+successglossary.com
 sueder-handwerker-stammtisch.de
 suemalls.top
 suga-product.com
@@ -11261,6 +11263,7 @@ tes-ib.cloud
 tes-ic.cloud
 tesauree.com
 tesento.com
+tesla-openai.com
 teslabestfor.com
 teslabounce.com
 teslabrc.com
