@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.gambling. hostmaster.hagezi.gambling. 1683843540 86400 3600 604800 30
+@ SOA rpz.hagezi.gambling. hostmaster.hagezi.gambling. 1684445640 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 11 May 2023 22:19 UTC
-; Version: 2023.0511.2219.19
+; Last modified: 18 May 2023 21:34 UTC
+; Version: 2023.0518.2134.24
 ; Syntax: RPZ
-; Number of entries: 171930
+; Number of entries: 171934
 ;
 kubet.ac CNAME .
 *.kubet.ac CNAME .
@@ -78285,6 +78285,8 @@ aflrgvbhyc.com CNAME .
 *.aflrgvbhyc.com CNAME .
 afpp88.com CNAME .
 *.afpp88.com CNAME .
+afun.com CNAME .
+*.afun.com CNAME .
 ag-biying.com CNAME .
 *.ag-biying.com CNAME .
 ag18ks.com CNAME .
@@ -165557,6 +165559,8 @@ can888.vip CNAME .
 *.can888.vip CNAME .
 casinoonline88.vip CNAME .
 *.casinoonline88.vip CNAME .
+casinoroom.vip CNAME .
+*.casinoroom.vip CNAME .
 cc19941120.vip CNAME .
 *.cc19941120.vip CNAME .
 chenyu1008.vip CNAME .

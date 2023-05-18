@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 11 May 2023 22:19 UTC
-! Version: 2023.0511.2219.19
+! Last modified: 18 May 2023 21:34 UTC
+! Version: 2023.0518.2134.24
 ! Syntax: AdBlock
-! Number of entries: 85965
+! Number of entries: 85967
 !
 ||000000tyc.com^
 ||00001111hlcp1111.com^
@@ -44259,6 +44259,7 @@
 ||affsplus555.com^
 ||aflrgvbhyc.com^
 ||afpp88.com^
+||afun.com^
 ||ag-biying.com^
 ||ag18ks.com^
 ||ag19789.com^
@@ -50903,6 +50904,7 @@
 ||casinorobots.com^
 ||casinorocket.com^
 ||casinoroom.com^
+||casinoroom.vip^
 ||casinoroyaldragon.com^
 ||casinoroyale888.info^
 ||casinos-hits.com^
