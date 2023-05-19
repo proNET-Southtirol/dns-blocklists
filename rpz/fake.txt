@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1684445940 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1684532340 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 18 May 2023 21:39 UTC
-; Version: 2023.0518.2139.33
+; Last modified: 19 May 2023 21:39 UTC
+; Version: 2023.0519.2139.48
 ; Syntax: RPZ
-; Number of entries: 26166
+; Number of entries: 26178
 ;
 bitcoin360.ai CNAME .
 *.bitcoin360.ai CNAME .
@@ -2303,6 +2303,8 @@ ahlert-versand.com CNAME .
 *.ahlert-versand.com CNAME .
 ahmcbgmmall.com CNAME .
 *.ahmcbgmmall.com CNAME .
+ahundredphotos.com CNAME .
+*.ahundredphotos.com CNAME .
 aiboson.com CNAME .
 *.aiboson.com CNAME .
 aichatgptforpc.com CNAME .
@@ -2435,6 +2437,8 @@ allhotelsmorocco.com CNAME .
 *.allhotelsmorocco.com CNAME .
 alliedaffirm.com CNAME .
 *.alliedaffirm.com CNAME .
+allnewsready.com CNAME .
+*.allnewsready.com CNAME .
 alloutdoorsale.com CNAME .
 *.alloutdoorsale.com CNAME .
 alloverbodysupport.com CNAME .
@@ -6245,6 +6249,8 @@ forsaleprey.com CNAME .
 *.forsaleprey.com CNAME .
 forstbetriebbernhardt-gmbh.com CNAME .
 *.forstbetriebbernhardt-gmbh.com CNAME .
+dash.fortissio-invest.com CNAME .
+*.dash.fortissio-invest.com CNAME .
 fortistrd.com CNAME .
 *.fortistrd.com CNAME .
 fortmediatech.com CNAME .
@@ -6713,6 +6719,8 @@ glazik-bois-energie.com CNAME .
 *.glazik-bois-energie.com CNAME .
 gledorktrade.com CNAME .
 *.gledorktrade.com CNAME .
+glendaz.com CNAME .
+*.glendaz.com CNAME .
 glitzce.com CNAME .
 *.glitzce.com CNAME .
 glitzermoment.com CNAME .
@@ -9575,8 +9583,8 @@ mwsgts.com CNAME .
 *.mwsgts.com CNAME .
 mxsania.com CNAME .
 *.mxsania.com CNAME .
-uschse04.my03.com CNAME .
-*.uschse04.my03.com CNAME .
+www.uschse04.my03.com CNAME .
+*.www.uschse04.my03.com CNAME .
 myberlinshop.com CNAME .
 *.myberlinshop.com CNAME .
 mybestautologin567.com CNAME .
@@ -11409,6 +11417,8 @@ qisoin.com CNAME .
 *.qisoin.com CNAME .
 qnethini.com CNAME .
 *.qnethini.com CNAME .
+qobifai1.com CNAME .
+*.qobifai1.com CNAME .
 shop.qrp-labs.com CNAME .
 *.shop.qrp-labs.com CNAME .
 qshinebright.com CNAME .
@@ -15831,6 +15841,8 @@ aizen.cz CNAME .
 *.aizen.cz CNAME .
 akce-pandora.cz CNAME .
 *.akce-pandora.cz CNAME .
+albi-almont.cz CNAME .
+*.albi-almont.cz CNAME .
 aldoeshop.cz CNAME .
 *.aldoeshop.cz CNAME .
 altra-cz.cz CNAME .
@@ -21689,6 +21701,8 @@ futuremoderntech.life CNAME .
 *.futuremoderntech.life CNAME .
 goodhyip.life CNAME .
 *.goodhyip.life CNAME .
+newdigitalgenius.life CNAME .
+*.newdigitalgenius.life CNAME .
 orami.life CNAME .
 *.orami.life CNAME .
 realnews.life CNAME .
@@ -25503,8 +25517,6 @@ mentailtyinand.top CNAME .
 *.mentailtyinand.top CNAME .
 mentalitynot.top CNAME .
 *.mentalitynot.top CNAME .
-miningpror.top CNAME .
-*.miningpror.top CNAME .
 misetee.top CNAME .
 *.misetee.top CNAME .
 mixdepot.top CNAME .

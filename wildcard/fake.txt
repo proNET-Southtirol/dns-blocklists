@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 18 May 2023 21:39 UTC
-# Version: 2023.0518.2139.33
+# Last modified: 19 May 2023 21:39 UTC
+# Version: 2023.0519.2139.48
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 13083
+# Number of entries: 13089
 #
 *.1-proof.cyou
 *.100-solarni-lampa-cz.com
@@ -234,6 +234,7 @@
 *.ahlert-versand.com
 *.ahmcbgmmall.com
 *.ahrtdt.store
+*.ahundredphotos.com
 *.aiboson.com
 *.aichatgptforpc.com
 *.aieloe.com
@@ -313,6 +314,7 @@
 *.albers-reifenversand.com
 *.albertaqualitybeef.com
 *.albertsgruen.de
+*.albi-almont.cz
 *.aldoeshop.cz
 *.aldofashion.com
 *.aldoies.com
@@ -371,6 +373,7 @@
 *.allhotelsmorocco.com
 *.alliedaffirm.com
 *.allinfliesen.at
+*.allnewsready.com
 *.alloutdoorsale.com
 *.alloverbodysupport.com
 *.allskigear.com
@@ -4227,6 +4230,7 @@
 *.forsaleprey.com
 *.forstbetriebbernhardt-gmbh.com
 *.fortbewegen.at
+*.dash.fortissio-invest.com
 *.fortistrd.com
 *.fortmediatech.com
 *.fortnitevipaccounts.com
@@ -4661,6 +4665,7 @@
 *.glaydssale.shop
 *.glazik-bois-energie.com
 *.gledorktrade.com
+*.glendaz.com
 *.glennauto.shop
 *.gleuelspd.de
 *.gling-misu.de
@@ -7359,7 +7364,6 @@
 *.miniflix.de
 *.minimarto.com
 *.minimesupply.com
-*.miningpror.top
 *.minisik.com
 *.miniwelpen.com
 *.minkenundpalme.de
@@ -7642,7 +7646,7 @@
 *.jne-express.my.id
 *.www.pinjamnow.my.id
 *.yoli.my.id
-*.uschse04.my03.com
+*.www.uschse04.my03.com
 *.mybell-refund.me
 *.myberlinshop.com
 *.mybestautologin567.com
@@ -7919,6 +7923,7 @@
 *.newcyclingshop.com
 *.newdelicate-ring.website
 *.newdelxe.shop
+*.newdigitalgenius.life
 *.newdompet.com
 *.newduluthpack.com
 *.newenergysaver.pro
@@ -9186,6 +9191,7 @@
 *.qisoin.com
 *.qmzdo.online
 *.qnethini.com
+*.qobifai1.com
 *.qoonleif.de
 *.shop.qrp-labs.com
 *.qsadf.shop
