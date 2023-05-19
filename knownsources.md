@@ -337,6 +337,8 @@ https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
 https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks.txt
+https://raw.githubusercontent.com/KodoPengin/GameIndustry-hosts-Template/master/Gaming-Full-Template/hosts
+https://raw.githubusercontent.com/KodoPengin/GameIndustry-hosts-Template/master/Main-Template/hosts
 https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
 https://raw.githubusercontent.com/Laicure/HostsY_hosts/master/shithosts
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/adback-domains.txt
