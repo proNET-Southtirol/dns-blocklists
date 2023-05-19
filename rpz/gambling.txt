@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.gambling. hostmaster.hagezi.gambling. 1684445640 86400 3600 604800 30
+@ SOA rpz.hagezi.gambling. hostmaster.hagezi.gambling. 1684532040 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 18 May 2023 21:34 UTC
-; Version: 2023.0518.2134.24
+; Last modified: 19 May 2023 21:34 UTC
+; Version: 2023.0519.2134.40
 ; Syntax: RPZ
-; Number of entries: 171934
+; Number of entries: 171944
 ;
 kubet.ac CNAME .
 *.kubet.ac CNAME .
@@ -3331,6 +3331,8 @@ s79tlyn.click CNAME .
 *.s79tlyn.click CNAME .
 sucfag.click CNAME .
 *.sucfag.click CNAME .
+sun52.click CNAME .
+*.sun52.click CNAME .
 sxxamnr.click CNAME .
 *.sxxamnr.click CNAME .
 vxwesxt.click CNAME .
@@ -95639,6 +95641,8 @@ fb88zo.com CNAME .
 *.fb88zo.com CNAME .
 fb9.com CNAME .
 *.fb9.com CNAME .
+fb9fun.com CNAME .
+*.fb9fun.com CNAME .
 fbc55.com CNAME .
 *.fbc55.com CNAME .
 fbet39.com CNAME .
@@ -106249,6 +106253,8 @@ i9bet7.com CNAME .
 *.i9bet7.com CNAME .
 i9bet71.com CNAME .
 *.i9bet71.com CNAME .
+i9bet72.com CNAME .
+*.i9bet72.com CNAME .
 i9bet74.com CNAME .
 *.i9bet74.com CNAME .
 i9bet75.com CNAME .
@@ -134581,6 +134587,8 @@ vestabet365.com CNAME .
 *.vestabet365.com CNAME .
 vf068.com CNAME .
 *.vf068.com CNAME .
+vf234.com CNAME .
+*.vf234.com CNAME .
 vfun88.com CNAME .
 *.vfun88.com CNAME .
 vfuun.com CNAME .
@@ -149631,6 +149639,8 @@ pulauqq.ltd CNAME .
 *.pulauqq.ltd CNAME .
 loterie.lu CNAME .
 *.loterie.lu CNAME .
+go88.luxury CNAME .
+*.go88.luxury CNAME .
 bovada.lv CNAME .
 *.bovada.lv CNAME .
 cafecasino.lv CNAME .

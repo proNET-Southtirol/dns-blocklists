@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 18 May 2023 21:34 UTC
-# Version: 2023.0518.2134.24
+# Last modified: 19 May 2023 21:34 UTC
+# Version: 2023.0519.2134.40
 # Syntax: DNSMasq
-# Number of entries: 85967
+# Number of entries: 85972
 #
 address=/000000tyc.com/#
 address=/00001111hlcp1111.com/#
@@ -54723,6 +54723,7 @@ address=/fb88xyz.com/#
 address=/fb88you.com/#
 address=/fb88zo.com/#
 address=/fb9.com/#
+address=/fb9fun.com/#
 address=/fbbqa2c.top/#
 address=/fbbqa4c.top/#
 address=/fbc55.com/#
@@ -57520,6 +57521,7 @@ address=/go88.co/#
 address=/go88.com/#
 address=/go88.im/#
 address=/go88.live/#
+address=/go88.luxury/#
 address=/go88.vip/#
 address=/go88-vn.com/#
 address=/go888.asia/#
@@ -61017,6 +61019,7 @@ address=/i9bet6688.com/#
 address=/i9bet68.com/#
 address=/i9bet7.com/#
 address=/i9bet71.com/#
+address=/i9bet72.com/#
 address=/i9bet74.com/#
 address=/i9bet75.com/#
 address=/i9bet77.com/#
@@ -75763,6 +75766,7 @@ address=/sun0243.com/#
 address=/sun0244.com/#
 address=/sun396.com/#
 address=/sun496.com/#
+address=/sun52.click/#
 address=/sun52.tv/#
 address=/sun6.win/#
 address=/sun7047.com/#
@@ -78411,6 +78415,7 @@ address=/vestabet365.com/#
 address=/vetcoco.xyz/#
 address=/vf003.xyz/#
 address=/vf068.com/#
+address=/vf234.com/#
 address=/vfun88.com/#
 address=/vfun88.page/#
 address=/vfuun.com/#
