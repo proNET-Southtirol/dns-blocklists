@@ -3789,3 +3789,9 @@
 @@|weworkremotely.com^
 @@|www.weworkremotely.com^
 
+! https://github.com/hagezi/dns-blocklists/issues/1060
+@@||sunwaydigitalwave.com.my^
+
+! https://github.com/hagezi/dns-blocklists/issues/1061
+@@|chatserver15.comm100.io^
+
