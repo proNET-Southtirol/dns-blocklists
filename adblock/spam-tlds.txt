@@ -7,8 +7,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 18 May 2023 16:29 UTC
-! Version: 2023.0518.1629.56
+! Last modified: 19 May 2023 21:36 UTC
+! Version: 2023.0519.2136.04
 ! Syntax: AdGuard
 !
 ||agency^$denyallow=battlefield.agency|baam.agency|robotzebra.agency|uphotel.agency|ws.agency
@@ -18,6 +18,7 @@
 ||*.bid^
 ||biz^$denyallow=movabletype.biz|luckysbarbershop.biz
 ||*.boats^
+||*.boston^
 ||*.boutique^
 ||buzz^$denyallow=allthe.buzz|awful.buzz|cliq.buzz|montpellier.buzz|sideb.buzz|williamsonday.buzz
 ||cf^$denyallow=google.cf|rths.cf|acap.cf
@@ -38,6 +39,7 @@
 ||ml^$denyallow=aire.ml|amap.ml|beatbump.ml|birdkey.ml|debula.ml|dmml.ml|esparrec.ml|exp0.ml|fedi.ml|ghostcloud.ml|google.ml|guya.ml|info-matin.ml|kawauso.ml|leam.ml|lemmy.ml|lingva.ml|loma.ml|masto.ml|mastodon.ml|mastodonte.ml|melody.ml|nothingprivate.ml|precure.ml|prompt.ml|stilic.ml|sumanko.ml|we-moon.ml
 ||*.mom^
 ||monster^$denyallow=egybest.monster|yts.monster|cloudcdn.monster|fedi.monster|rollenspiel.monster|tts.monster|vipbj.monster
+||*.name^
 ||okinawa^$denyallow=aclub.okinawa|activity.okinawa|aquadrop.okinawa|asatoyasuba.okinawa|beachboys.okinawa|churaumi.okinawa|dancestudioon.okinawa|diver.okinawa|ecco.okinawa|eight.okinawa|emoh.okinawa|fidelity.okinawa|gukuru.okinawa|holdbyhand.okinawa|jupiter.okinawa|kanoa.okinawa|kerouac.okinawa|kimishimagroup.okinawa|kokorononekko.okinawa|makeman.okinawa|mansaku.okinawa|minsyo.okinawa|morinaga.okinawa|naminouta.okinawa|nanaironote.okinawa|okmarine.okinawa|pacificview.okinawa|rentakun.okinawa|retime.okinawa|ryukyugobyou.okinawa|saya.okinawa|seek.okinawa|seitai.okinawa|selfstorage.okinawa|sgt.okinawa|shigaku.okinawa|simplelife.okinawa|sir.okinawa|sisei.okinawa|soilcure.okinawa|strawberry.okinawa|suba.okinawa|suncoast.okinawa|takakogyo.okinawa|thekucha.okinawa|tsukishiro.okinawa|yamabuki.okinawa|yorozu.okinawa|zwwa.okinawa
 ||online^$denyallow=0xdevelopers.online|2br02b.online|3dexp.online|9-5.online|abolition.online|afternoonauthor.online|akop.online|allhen.online|amedia.online|anti-social.online|aoxiang.online|arinbasu.online|arrrgh.online|atomicedge.online|audiomo.online|awwter.online|b-ark.online|beppo.online|betterconversations.online|biblioverse.online|bigballchunkyverse.online|bostonmusic.online|carpdiem.online|ceilidh.online|chainsaw-man-manga.online|computer-club.online|crabdisk.online|crazylab.online|cville.online|cyberhideaway.online|dadchat.online|dansmith.online|dapchat.online|diskette.online|doesthings.online|dreamin.online|figureskating.online|flatline.online|foodienetwork.online|foxfamily.online|freethought.online|freezepeach.online|frinx.online|fursuits.online|greennuclear.online|grosshans.online|grumpys.online|h6x.online|helvet.online|hhgtm.online|hwfo.online|iamterminally.online|inadvertently.online|indiegamedev.online|indiegames.online|isnot.online|itsmf.online|joinfediverse.online|joinmirage.online|kinkytaboo.online|kinotickets.online|kitchenparty.online|kjv.online|labr.online|laterracita.online|law-and-politics.online|lerchgonzalez.online|lightlyseared.online|linuxrocks.online|litrat.online|litrpg.online|machikadon.online|madetomeasure.online|makary.online|makersocial.online|manga1st.online|mastodon.online|mastodonian.online|mastodonnederland.online|mathtod.online|matthewedavis.online|meowing.online|metapan.online|milkers.online|moltonlava.online|monads.online|monsterfuckers.online|mousehole.online|mstddntfdn.online|mysticaccess.online|natehiggers.online|nederland.online|nerdfight.online|nerdout.online|nic.online|nitech.online|ohnoim.online|patriot.online|performingart.online|photoholics.online|photophrenic.online|pztrn.online|raikow.online|rarified.online|realityridge.online|regretfully.online|retrochat.online|rpvortex.online|saillune.online|schleuss.online|schnauzergang.online|shavingcream.online|shmg.online|silversword.online|slayers.online|spacekaren.online|suricrasia.online|thebox.thelabs.online|thedevil.online|thegreendragon.online|thesnakepostoffice.online|thetaoist.online|thinkinginsystems.online|tired.umbreon.online|torlaz.online|townsends.online|triangleidiot.online|trotlot.online|tukkers.online|unipar.online|voidwood.online|wizzzard.online
 ||*.ooo^
