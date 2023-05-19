@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1684188480 86400 3600 604800 30
+@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1684531920 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 15 May 2023 22:08 UTC
-; Version: 2023.0515.2208.56
+; Last modified: 19 May 2023 21:32 UTC
+; Version: 2023.0519.2132.43
 ; Syntax: RPZ
-; Number of entries: 13532
+; Number of entries: 13534
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -4293,6 +4293,8 @@ sharkdownloads.com CNAME .
 *.sharkdownloads.com CNAME .
 shimory.com CNAME .
 *.shimory.com CNAME .
+shogiroom.com CNAME .
+*.shogiroom.com CNAME .
 shokweb.com CNAME .
 *.shokweb.com CNAME .
 showtimebd.com CNAME .

@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 15 May 2023 22:08 UTC
-# Version: 2023.0515.2208.56
+# Last modified: 19 May 2023 21:32 UTC
+# Version: 2023.0519.2132.43
 # Syntax: Domains (without subdomains)
-# Number of entries: 6766
+# Number of entries: 6767
 #
 zer0day.000webhostapp.com
 0123456789nonexistent.com
@@ -4967,6 +4967,7 @@ tracker.shittyurl.org
 udp-tracker.shittyurl.org
 tracker.shkinev.me
 shnflac.net
+shogiroom.com
 shokweb.com
 shopdoc.ru
 showbox-movies.net
