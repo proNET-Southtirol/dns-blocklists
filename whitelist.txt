@@ -3476,3 +3476,6 @@ weworkremotely.com
 # https://github.com/hagezi/dns-blocklists/issues/1061
 chatserver15.comm100.io
 
+# SlashDot
+slashdot.org
+
