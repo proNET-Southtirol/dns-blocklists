@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 19 May 2023 21:32 UTC
-# Version: 2023.0519.2132.43
+# Last modified: 20 May 2023 21:32 UTC
+# Version: 2023.0520.2132.42
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 6767
+# Number of entries: 6769
 #
 *.zer0day.000webhostapp.com
 *.0123456789nonexistent.com
@@ -587,7 +587,9 @@
 *.arafnetbd.com
 *.bt.arcadefire.net
 *.tracker.arcbox.cc
-*.archive.org
+*.bt1.archive.org
+*.bt2.archive.org
+*.web.archive.org
 *.archivx.to
 *.arconaitv.us
 *.area51.to
@@ -698,6 +700,7 @@
 *.banglaftp.com
 *.banglatorrents.com
 *.bangumi.moe
+*.tracker.bangumi.zip
 *.bantito.com
 *.baravik.org
 *.kristof.bartanet.cz
@@ -2528,7 +2531,6 @@
 *.grantorrent.nl
 *.graphicex.com
 *.grc.com
-*.greasyfork.org
 *.tk.greedland.net
 *.greek-torrent.net
 *.greek-tracker.com
