@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 20 May 2023 21:39 UTC
-# Version: 2023.0520.2139.14
+# Last modified: 21 May 2023 21:49 UTC
+# Version: 2023.0521.2149.21
 # Syntax: DNSMasq
-# Number of entries: 12298
+# Number of entries: 12295
 #
 address=/100-solarni-lampa-cz.com/#
 address=/11trikots.com/#
@@ -1096,7 +1096,6 @@ address=/bestes-brennholz.com/#
 address=/bestfemaless.com/#
 address=/bestholz360.com/#
 address=/bestlive.cz/#
-address=/bestmoonshop.com/#
 address=/bestofferintheworld.com/#
 address=/bestparktool.com/#
 address=/bestpromocenter.com/#
@@ -3298,7 +3297,6 @@ address=/ellameyer.de/#
 address=/ellemodes.com/#
 address=/ellenmanicure.shop/#
 address=/ellerne.com/#
-address=/ellezz.com/#
 address=/ellieshirt.com/#
 address=/elliotpaint.shop/#
 address=/elliottsale.shop/#
@@ -3529,7 +3527,6 @@ address=/everflix.de/#
 address=/everlead.net/#
 address=/evermily.com/#
 address=/everyknives.com/#
-address=/everythingkitchens.com/#
 address=/everythingsaltspring.com/#
 address=/eviralstore.com/#
 address=/evitadeutschland.de/#
@@ -7165,8 +7162,7 @@ address=/marketplace-item-23339780567.mxsite.co/#
 address=/jne-express.my.id/#
 address=/www.pinjamnow.my.id/#
 address=/yoli.my.id/#
-address=/store.uschse04.my03.com/#
-address=/www.uschse04.my03.com/#
+address=/uschse04.my03.com/#
 address=/mybell-refund.me/#
 address=/myberlinshop.com/#
 address=/mybestautologin567.com/#
@@ -7192,7 +7188,8 @@ address=/myhealthyblog.com/#
 address=/myhomica.com/#
 address=/myhousesproduct.com/#
 address=/g1z0.myinstructus.com/#
-address=/kxu.myinstructus.com/#
+address=/store.kxu.myinstructus.com/#
+address=/www.kxu.myinstructus.com/#
 address=/myisraelsource.com/#
 address=/mykedr.buzz/#
 address=/mykitashop.cz/#
@@ -11198,7 +11195,6 @@ address=/uaccuve.com/#
 address=/uange.shop/#
 address=/uangmu.top/#
 address=/uangmudahapp.com/#
-address=/uangqu.online/#
 address=/ubadindies.top/#
 address=/ubdool.com/#
 address=/ubertorch.com/#
@@ -11379,6 +11375,7 @@ address=/usplussports.com/#
 address=/usportabletools.com/#
 address=/uspory.net/#
 address=/uspostalijet.shop/#
+address=/uspsglobalexpress.com/#
 address=/usrccarkits.com/#
 address=/usrebatebaseball.com/#
 address=/ussmokingproduct.com/#

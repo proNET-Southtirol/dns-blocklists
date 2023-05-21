@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 20 May 2023 21:39 UTC
-! Version: 2023.0520.2139.14
+! Last modified: 21 May 2023 21:49 UTC
+! Version: 2023.0521.2149.21
 ! Syntax: AdBlock
-! Number of entries: 12298
+! Number of entries: 12295
 !
 ||100-solarni-lampa-cz.com^
 ||11trikots.com^
@@ -1096,7 +1096,6 @@
 ||bestfemaless.com^
 ||bestholz360.com^
 ||bestlive.cz^
-||bestmoonshop.com^
 ||bestofferintheworld.com^
 ||bestparktool.com^
 ||bestpromocenter.com^
@@ -3298,7 +3297,6 @@
 ||ellemodes.com^
 ||ellenmanicure.shop^
 ||ellerne.com^
-||ellezz.com^
 ||ellieshirt.com^
 ||elliotpaint.shop^
 ||elliottsale.shop^
@@ -3529,7 +3527,6 @@
 ||everlead.net^
 ||evermily.com^
 ||everyknives.com^
-||everythingkitchens.com^
 ||everythingsaltspring.com^
 ||eviralstore.com^
 ||evitadeutschland.de^
@@ -7165,8 +7162,7 @@
 ||jne-express.my.id^
 ||www.pinjamnow.my.id^
 ||yoli.my.id^
-||store.uschse04.my03.com^
-||www.uschse04.my03.com^
+||uschse04.my03.com^
 ||mybell-refund.me^
 ||myberlinshop.com^
 ||mybestautologin567.com^
@@ -7192,7 +7188,8 @@
 ||myhomica.com^
 ||myhousesproduct.com^
 ||g1z0.myinstructus.com^
-||kxu.myinstructus.com^
+||store.kxu.myinstructus.com^
+||www.kxu.myinstructus.com^
 ||myisraelsource.com^
 ||mykedr.buzz^
 ||mykitashop.cz^
@@ -11198,7 +11195,6 @@
 ||uange.shop^
 ||uangmu.top^
 ||uangmudahapp.com^
-||uangqu.online^
 ||ubadindies.top^
 ||ubdool.com^
 ||ubertorch.com^
@@ -11379,6 +11375,7 @@
 ||usportabletools.com^
 ||uspory.net^
 ||uspostalijet.shop^
+||uspsglobalexpress.com^
 ||usrccarkits.com^
 ||usrebatebaseball.com^
 ||ussmokingproduct.com^
