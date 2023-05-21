@@ -3479,3 +3479,6 @@ chatserver15.comm100.io
 # SlashDot
 slashdot.org
 
+# https://github.com/hagezi/dns-blocklists/issues/1064
+api.cookiespool.com
+

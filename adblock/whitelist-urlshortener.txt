@@ -289,6 +289,7 @@
 @@||captl1.co^
 @@||captur.in^
 @@||careem.me^
+@@||caro.sl^
 @@||cart.mn^
 @@||casim.ir^
 @@||casio.link^
@@ -1749,6 +1750,7 @@
 @@||man.ac.uk^
 @@||s.accupass.com^
 @@||y.ahoo.it^
+@@||on.bcg.com^
 @@||cdl.booksy.com^
 @@||on.bp.com^
 @@||genie.co.kr^

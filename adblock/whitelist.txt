@@ -3799,3 +3799,6 @@
 @@|slashdot.org^
 @@|www.slashdot.org^
 
+! https://github.com/hagezi/dns-blocklists/issues/1064
+@@|api.cookiespool.com^
+
