@@ -378,7 +378,7 @@
 ---
 #### ANTI.PIRACY
 ```
-8351 (80%) included | 14 (0%) removed | 2080 (20%) dead
+8348 (80%) included | 17 (0%) removed | 2080 (20%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
   1 |     100% |   0% |      0% |       5 | raw.githubusercontent.com/nextdns/piracy-blocklists/master/dht-bootstrap-nodes
@@ -411,7 +411,7 @@
  28 |      90% |   9% |      1% |      86 | github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Movies_Other.md
  29 |      92% |   7% |      1% |     123 | github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Music.md
  30 |      92% |   4% |      4% |      23 | github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/NavigationSoftware.md
- 31 |      94% |   3% |      3% |      38 | github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Nfo.md
+ 31 |      92% |   3% |      5% |      38 | github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Nfo.md
  32 |      79% |  18% |      3% |      38 | github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/NulledScripts.md
  33 |      50% |   0% |     50% |       2 | github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/SearchEngines.md
  34 |      88% |  11% |      1% |     193 | github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Series.md

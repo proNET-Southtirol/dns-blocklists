@@ -310,7 +310,7 @@
 ### ***Anti Piracy - Protects against piracy!*** <a name="piracy"></a>
 *Blocks websites and services that are mainly used for illegal distribution of copyrighted content.*         
         
-**Entries:** *6769 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#antipiracy)
+**Entries:** *6766 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#antipiracy)
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
