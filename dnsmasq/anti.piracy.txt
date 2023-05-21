@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 20 May 2023 21:32 UTC
-# Version: 2023.0520.2132.42
+# Last modified: 21 May 2023 03:02 UTC
+# Version: 2023.0521.0302.42
 # Syntax: DNSMasq
-# Number of entries: 6769
+# Number of entries: 6766
 #
 address=/zer0day.000webhostapp.com/#
 address=/0123456789nonexistent.com/#
@@ -587,9 +587,6 @@ address=/araditracker.com/#
 address=/arafnetbd.com/#
 address=/bt.arcadefire.net/#
 address=/tracker.arcbox.cc/#
-address=/bt1.archive.org/#
-address=/bt2.archive.org/#
-address=/web.archive.org/#
 address=/archivx.to/#
 address=/arconaitv.us/#
 address=/area51.to/#

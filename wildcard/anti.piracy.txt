@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 20 May 2023 21:32 UTC
-# Version: 2023.0520.2132.42
+# Last modified: 21 May 2023 03:02 UTC
+# Version: 2023.0521.0302.42
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 6769
+# Number of entries: 6766
 #
 *.zer0day.000webhostapp.com
 *.0123456789nonexistent.com
@@ -587,9 +587,6 @@
 *.arafnetbd.com
 *.bt.arcadefire.net
 *.tracker.arcbox.cc
-*.bt1.archive.org
-*.bt2.archive.org
-*.web.archive.org
 *.archivx.to
 *.arconaitv.us
 *.area51.to
