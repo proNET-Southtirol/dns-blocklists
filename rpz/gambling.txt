@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.gambling. hostmaster.hagezi.gambling. 1684532040 86400 3600 604800 30
+@ SOA rpz.hagezi.gambling. hostmaster.hagezi.gambling. 1684705380 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 19 May 2023 21:34 UTC
-; Version: 2023.0519.2134.40
+; Last modified: 21 May 2023 21:43 UTC
+; Version: 2023.0521.2143.06
 ; Syntax: RPZ
-; Number of entries: 171944
+; Number of entries: 171950
 ;
 kubet.ac CNAME .
 *.kubet.ac CNAME .
@@ -2455,6 +2455,8 @@ pulauqq.bid CNAME .
 *.pulauqq.bid CNAME .
 st666.bid CNAME .
 *.st666.bid CNAME .
+sun52.bid CNAME .
+*.sun52.bid CNAME .
 st666.bingo CNAME .
 *.st666.bingo CNAME .
 k8casino.bio CNAME .
@@ -3719,6 +3721,8 @@ sin88.club CNAME .
 *.sin88.club CNAME .
 sinidominoqq.club CNAME .
 *.sinidominoqq.club CNAME .
+sky88vao.club CNAME .
+*.sky88vao.club CNAME .
 slot15.club CNAME .
 *.slot15.club CNAME .
 slotxo246.club CNAME .
@@ -70811,6 +70815,8 @@ freelive.7mvn.com CNAME .
 *.8js86.com CNAME .
 8js89.com CNAME .
 *.8js89.com CNAME .
+8k00000.com CNAME .
+*.8k00000.com CNAME .
 8k102.com CNAME .
 *.8k102.com CNAME .
 8kbet01.com CNAME .
