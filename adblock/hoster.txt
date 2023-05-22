@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 17 May 2023 21:39 UTC
-! Version: 2023.0517.2139.15
+! Last modified: 22 May 2023 21:32 UTC
+! Version: 2023.0522.2132.42
 ! Syntax: AdBlock
-! Number of entries: 1887
+! Number of entries: 1886
 !
 ||000a.de^
 ||000space.com^
@@ -141,7 +141,6 @@
 ||530.at^
 ||59bloggers.com^
 ||5gbfree.com^
-||5gbfreehost.com^
 ||5on.de^
 ||5oo.de^
 ||5v.pl^

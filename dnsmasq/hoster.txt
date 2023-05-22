@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 17 May 2023 21:39 UTC
-# Version: 2023.0517.2139.15
+# Last modified: 22 May 2023 21:32 UTC
+# Version: 2023.0522.2132.42
 # Syntax: DNSMasq
-# Number of entries: 1887
+# Number of entries: 1886
 #
 address=/000a.de/#
 address=/000space.com/#
@@ -141,7 +141,6 @@ address=/blog.51cto.com/#
 address=/530.at/#
 address=/59bloggers.com/#
 address=/5gbfree.com/#
-address=/5gbfreehost.com/#
 address=/5on.de/#
 address=/5oo.de/#
 address=/5v.pl/#
