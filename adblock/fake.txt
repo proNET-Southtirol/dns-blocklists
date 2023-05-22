@@ -4,8 +4,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 21 May 2023 21:49 UTC
-! Version: 2023.0521.2149.21
+! Last modified: 22 May 2023 21:42 UTC
+! Version: 2023.0522.2142.10
 ! Syntax: AdBlock
 ! Number of entries: 12295
 !
@@ -48,7 +48,6 @@
 ||2xtsla.io^
 ||303e.com^
 ||3clin.de^
-||3d-pero-cz.com^
 ||3d-printing.store^
 ||3dsportstore.com^
 ||3fazova-ostricka-cz.com^
@@ -1317,7 +1316,7 @@
 ||blomusoutlet.com^
 ||bloomessentialsbrand.com^
 ||bloomsocks.ca^
-||blrkenarizona.com^
+||m.blrkenarizona.com^
 ||blucontue.com^
 ||blue-immo.com^
 ||bluebellalingerie.com^
@@ -2641,7 +2640,6 @@
 ||deinlieblingstier.com^
 ||deinspurwechsel.de^
 ||deinvest.site^
-||dejonk.de^
 ||dekkerstrans.com^
 ||dekopause.at^
 ||dekuin.com^
@@ -2732,7 +2730,10 @@
 ||deutschermarkts.com^
 ||deutschetroniks.com^
 ||developk.shop^
-||deveri.de^
+||handschellen.deveri.de^
+||plastik-mode.deveri.de^
+||schlafoverall.deveri.de^
+||shop.deveri.de^
 ||devifoodgrains.com^
 ||devinsale.shop^
 ||dewemalls.com^
@@ -3009,7 +3010,8 @@
 ||druckfuerdich.de^
 ||drunstyle.com^
 ||druzycrystal.com^
-||drwyatts.com^
+||m.drwyatts.com^
+||yqayq.drwyatts.com^
 ||drywalltools.shop^
 ||dsi-boden.at^
 ||dsil24.com^
@@ -4108,7 +4110,8 @@
 ||funkeln-technik.de^
 ||funkelnelektronik.de^
 ||funkenlb.com^
-||gtsec.funstuffmail.com^
+||m.gtsec.funstuffmail.com^
+||www.gtsec.funstuffmail.com^
 ||funswan.de^
 ||funtali.com^
 ||funwelt.at^
@@ -4822,7 +4825,6 @@
 ||heikojentsch.de^
 ||heimatrad.de^
 ||heimatverein-museum-boxberg.de^
-||heimeiche.de^
 ||heinrich-essing.de^
 ||heinzvonheiden-bayern.de^
 ||heira-shop.com^
@@ -5076,7 +5078,6 @@
 ||hotels-in-tyrol.com^
 ||hotelsinperm.ru^
 ||hotelsofmenorca.com^
-||hotelsofnewyorkcity.net^
 ||hotinzerce.cz^
 ||hotjewelry.store^
 ||hotkidsplay.com^
@@ -7162,7 +7163,8 @@
 ||jne-express.my.id^
 ||www.pinjamnow.my.id^
 ||yoli.my.id^
-||uschse04.my03.com^
+||store.uschse04.my03.com^
+||www.uschse04.my03.com^
 ||mybell-refund.me^
 ||myberlinshop.com^
 ||mybestautologin567.com^
@@ -8966,7 +8968,6 @@
 ||rhein-entree.de^
 ||rhein-trends24.de^
 ||rheinadler.com^
-||rheineule.de^
 ||rheintulpen.de^
 ||rheinwing.de^
 ||rheokth.top^
@@ -9974,7 +9975,6 @@
 ||sozonest.com^
 ||spacekeeper.com^
 ||spacexmusk.io^
-||spagetlink.com^
 ||spainhealthtravel.net^
 ||spaire.us^
 ||spar-markt.de^

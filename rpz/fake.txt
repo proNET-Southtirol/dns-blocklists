@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1684705740 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1684791720 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 21 May 2023 21:49 UTC
-; Version: 2023.0521.2149.21
+; Last modified: 22 May 2023 21:42 UTC
+; Version: 2023.0522.2142.10
 ; Syntax: RPZ
 ; Number of entries: 24590
 ;
@@ -1973,8 +1973,6 @@ neespresso.coffee CNAME .
 *.2radmarkt.com CNAME .
 303e.com CNAME .
 *.303e.com CNAME .
-3d-pero-cz.com CNAME .
-*.3d-pero-cz.com CNAME .
 3dsportstore.com CNAME .
 *.3dsportstore.com CNAME .
 3fazova-ostricka-cz.com CNAME .
@@ -3275,8 +3273,8 @@ blomusoutlet.com CNAME .
 *.blomusoutlet.com CNAME .
 bloomessentialsbrand.com CNAME .
 *.bloomessentialsbrand.com CNAME .
-blrkenarizona.com CNAME .
-*.blrkenarizona.com CNAME .
+m.blrkenarizona.com CNAME .
+*.m.blrkenarizona.com CNAME .
 blucontue.com CNAME .
 *.blucontue.com CNAME .
 blue-immo.com CNAME .
@@ -4995,8 +4993,10 @@ drunstyle.com CNAME .
 *.drunstyle.com CNAME .
 druzycrystal.com CNAME .
 *.druzycrystal.com CNAME .
-drwyatts.com CNAME .
-*.drwyatts.com CNAME .
+m.drwyatts.com CNAME .
+*.m.drwyatts.com CNAME .
+yqayq.drwyatts.com CNAME .
+*.yqayq.drwyatts.com CNAME .
 dsil24.com CNAME .
 *.dsil24.com CNAME .
 dsingtse.com CNAME .
@@ -6117,8 +6117,10 @@ fungalor.com CNAME .
 *.fungalor.com CNAME .
 funkenlb.com CNAME .
 *.funkenlb.com CNAME .
-gtsec.funstuffmail.com CNAME .
-*.gtsec.funstuffmail.com CNAME .
+m.gtsec.funstuffmail.com CNAME .
+*.m.gtsec.funstuffmail.com CNAME .
+www.gtsec.funstuffmail.com CNAME .
+*.www.gtsec.funstuffmail.com CNAME .
 funtali.com CNAME .
 *.funtali.com CNAME .
 funwol.com CNAME .
@@ -9201,8 +9203,10 @@ mwsgts.com CNAME .
 *.mwsgts.com CNAME .
 mxsania.com CNAME .
 *.mxsania.com CNAME .
-uschse04.my03.com CNAME .
-*.uschse04.my03.com CNAME .
+store.uschse04.my03.com CNAME .
+*.store.uschse04.my03.com CNAME .
+www.uschse04.my03.com CNAME .
+*.www.uschse04.my03.com CNAME .
 myberlinshop.com CNAME .
 *.myberlinshop.com CNAME .
 mybestautologin567.com CNAME .
@@ -12577,8 +12581,6 @@ sozonest.com CNAME .
 *.sozonest.com CNAME .
 spacekeeper.com CNAME .
 *.spacekeeper.com CNAME .
-spagetlink.com CNAME .
-*.spagetlink.com CNAME .
 sparkauf24.com CNAME .
 *.sparkauf24.com CNAME .
 special-giftss.com CNAME .
@@ -16465,8 +16467,6 @@ deinhandwerkershop.de CNAME .
 *.deinhandwerkershop.de CNAME .
 deinspurwechsel.de CNAME .
 *.deinspurwechsel.de CNAME .
-dejonk.de CNAME .
-*.dejonk.de CNAME .
 delikatessen-band.de CNAME .
 *.delikatessen-band.de CNAME .
 deluxemarkt.de CNAME .
@@ -16509,8 +16509,14 @@ deutscher-experte.de CNAME .
 *.deutscher-experte.de CNAME .
 deutscheritter.de CNAME .
 *.deutscheritter.de CNAME .
-deveri.de CNAME .
-*.deveri.de CNAME .
+handschellen.deveri.de CNAME .
+*.handschellen.deveri.de CNAME .
+plastik-mode.deveri.de CNAME .
+*.plastik-mode.deveri.de CNAME .
+schlafoverall.deveri.de CNAME .
+*.schlafoverall.deveri.de CNAME .
+shop.deveri.de CNAME .
+*.shop.deveri.de CNAME .
 dexia-hyp.de CNAME .
 *.dexia-hyp.de CNAME .
 dfr-hessen.de CNAME .
@@ -17335,8 +17341,6 @@ heimatrad.de CNAME .
 *.heimatrad.de CNAME .
 heimatverein-museum-boxberg.de CNAME .
 *.heimatverein-museum-boxberg.de CNAME .
-heimeiche.de CNAME .
-*.heimeiche.de CNAME .
 heinrich-essing.de CNAME .
 *.heinrich-essing.de CNAME .
 heinzvonheiden-bayern.de CNAME .
@@ -18631,8 +18635,6 @@ rhein-entree.de CNAME .
 *.rhein-entree.de CNAME .
 rhein-trends24.de CNAME .
 *.rhein-trends24.de CNAME .
-rheineule.de CNAME .
-*.rheineule.de CNAME .
 rheintulpen.de CNAME .
 *.rheintulpen.de CNAME .
 rheinwing.de CNAME .
@@ -20475,8 +20477,6 @@ hotelinphuket.net CNAME .
 *.hotelinphuket.net CNAME .
 hotels-colorado.net CNAME .
 *.hotels-colorado.net CNAME .
-hotelsofnewyorkcity.net CNAME .
-*.hotelsofnewyorkcity.net CNAME .
 hyperlook.net CNAME .
 *.hyperlook.net CNAME .
 ibismall.net CNAME .
