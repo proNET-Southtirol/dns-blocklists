@@ -3494,3 +3494,9 @@ seo.spot.im
 # https://github.com/hagezi/dns-blocklists/issues/1069
 dooood.com
 
+# Cookie dialogs on various sites
+cookie-cdn.cookiepro.com
+
+# KatWarn
+*.kwrn.eu
+
