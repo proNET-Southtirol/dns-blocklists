@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 21 May 2023 03:02 UTC
-# Version: 2023.0521.0302.42
+# Last modified: 22 May 2023 21:34 UTC
+# Version: 2023.0522.2134.05
 # Syntax: DNSMasq
-# Number of entries: 6766
+# Number of entries: 6762
 #
 address=/zer0day.000webhostapp.com/#
 address=/0123456789nonexistent.com/#
@@ -39,12 +39,10 @@ address=/123movie.blog/#
 address=/123movie.cc/#
 address=/123movie.date/#
 address=/123movie.show/#
-address=/123movie.uno/#
 address=/123movieonline.xyz/#
 address=/123movies.ag/#
 address=/123movies.archi/#
 address=/123movies.army/#
-address=/123movies.bio/#
 address=/123movies.church/#
 address=/123movies.coach/#
 address=/123movies.com/#
@@ -148,13 +146,11 @@ address=/1watch-free.cc/#
 address=/1watch-free.me/#
 address=/1xstream.com/#
 address=/20links.com/#
-address=/23movies.xyz/#
 address=/24-download.com/#
 address=/24-downloads.com/#
 address=/240x320.ru/#
 address=/247pirate.org/#
 address=/247prox.link/#
-address=/247proxydl.org/#
 address=/24warez.ru/#
 address=/2600.com/#
 address=/2bbit.com/#

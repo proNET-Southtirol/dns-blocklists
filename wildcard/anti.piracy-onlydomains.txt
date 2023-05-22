@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 21 May 2023 03:02 UTC
-# Version: 2023.0521.0302.42
+# Last modified: 22 May 2023 21:34 UTC
+# Version: 2023.0522.2134.05
 # Syntax: Domains (without subdomains)
-# Number of entries: 6766
+# Number of entries: 6762
 #
 zer0day.000webhostapp.com
 0123456789nonexistent.com
@@ -39,12 +39,10 @@ chihaya-heroku.120181311.xyz
 123movie.cc
 123movie.date
 123movie.show
-123movie.uno
 123movieonline.xyz
 123movies.ag
 123movies.archi
 123movies.army
-123movies.bio
 123movies.church
 123movies.coach
 123movies.com
@@ -148,13 +146,11 @@ supaflix-series.1mt.top
 1watch-free.me
 1xstream.com
 20links.com
-23movies.xyz
 24-download.com
 24-downloads.com
 240x320.ru
 247pirate.org
 247prox.link
-247proxydl.org
 24warez.ru
 2600.com
 2bbit.com
