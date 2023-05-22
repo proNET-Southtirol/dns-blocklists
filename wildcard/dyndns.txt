@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 13 May 2023 22:07 UTC
-# Version: 2023.0513.2207.56
+# Last modified: 22 May 2023 21:31 UTC
+# Version: 2023.0522.2131.24
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1555
+# Number of entries: 1557
 #
 *.0000000000000000000000.com
 *.0rg.us
@@ -1334,6 +1334,7 @@
 *.shogun.ca
 *.shop.tm
 *.showmyhomes.com
+*.sieraddns.com
 *.silksky.com
 *.simple-url.com
 *.simplecharity.com
@@ -1529,6 +1530,7 @@
 *.wwwhost.us
 *.x24hr.com
 *.x443.pw
+*.xddns.de
 *.xname.org
 *.xpresit.net
 *.xsph.ru

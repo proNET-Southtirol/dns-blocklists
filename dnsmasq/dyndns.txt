@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 13 May 2023 22:07 UTC
-# Version: 2023.0513.2207.56
+# Last modified: 22 May 2023 21:31 UTC
+# Version: 2023.0522.2131.24
 # Syntax: DNSMasq
-# Number of entries: 1555
+# Number of entries: 1557
 #
 address=/0000000000000000000000.com/#
 address=/0rg.us/#
@@ -1334,6 +1334,7 @@ address=/shitcunt.info/#
 address=/shogun.ca/#
 address=/shop.tm/#
 address=/showmyhomes.com/#
+address=/sieraddns.com/#
 address=/silksky.com/#
 address=/simple-url.com/#
 address=/simplecharity.com/#
@@ -1529,6 +1530,7 @@ address=/wwwhost.biz/#
 address=/wwwhost.us/#
 address=/x24hr.com/#
 address=/x443.pw/#
+address=/xddns.de/#
 address=/xname.org/#
 address=/xpresit.net/#
 address=/xsph.ru/#

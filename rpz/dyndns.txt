@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.dyndns. hostmaster.hagezi.dyndns. 1684015620 86400 3600 604800 30
+@ SOA rpz.hagezi.dyndns. hostmaster.hagezi.dyndns. 1684791060 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: Updated regularly
-; Last modified: 13 May 2023 22:07 UTC
-; Version: 2023.0513.2207.56
+; Last modified: 22 May 2023 21:31 UTC
+; Version: 2023.0522.2131.24
 ; Syntax: RPZ
-; Number of entries: 3110
+; Number of entries: 3114
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -1408,6 +1408,8 @@ shekinahphotography.com CNAME .
 *.shekinahphotography.com CNAME .
 showmyhomes.com CNAME .
 *.showmyhomes.com CNAME .
+sieraddns.com CNAME .
+*.sieraddns.com CNAME .
 silksky.com CNAME .
 *.silksky.com CNAME .
 simple-url.com CNAME .
@@ -1680,6 +1682,8 @@ twodns.de CNAME .
 *.twodns.de CNAME .
 vankin.de CNAME .
 *.vankin.de CNAME .
+xddns.de CNAME .
+*.xddns.de CNAME .
 joe.dj CNAME .
 *.joe.dj CNAME .
 dyndns.dk CNAME .
