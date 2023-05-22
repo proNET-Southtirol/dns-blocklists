@@ -3802,3 +3802,7 @@
 ! https://github.com/hagezi/dns-blocklists/issues/1064
 @@|api.cookiespool.com^
 
+! https://github.com/hagezi/dns-blocklists/issues/1066
+@@|opsserver.ch^
+@@|www.opsserver.ch^
+
