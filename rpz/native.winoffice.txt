@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.native.winoffice. hostmaster.hagezi.native.winoffice. 1683207600 86400 3600 604800 30
+@ SOA rpz.hagezi.native.winoffice. hostmaster.hagezi.native.winoffice. 1684791480 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Windows/Office Tracker DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 04 May 2023 13:40 UTC
-; Version: 2023.0504.1340.23
+; Last modified: 22 May 2023 21:38 UTC
+; Version: 2023.0522.2138.25
 ; Syntax: RPZ
-; Number of entries: 144
+; Number of entries: 154
 ;
 events.data.msn.cn CNAME .
 *.events.data.msn.cn CNAME .
@@ -43,24 +43,16 @@ usc-visio-telemetry.officeapps.live.com CNAME .
 *.usc-visio-telemetry.officeapps.live.com CNAME .
 word-telemetry.officeapps.live.com CNAME .
 *.word-telemetry.officeapps.live.com CNAME .
-pipe.aria.microsoft.com CNAME .
-*.pipe.aria.microsoft.com CNAME .
 adhs.events.data.microsoft.com CNAME .
 *.adhs.events.data.microsoft.com CNAME .
 apac.events.data.microsoft.com CNAME .
 *.apac.events.data.microsoft.com CNAME .
-au-mobile.events.data.microsoft.com CNAME .
-*.au-mobile.events.data.microsoft.com CNAME .
 au-v10c.events.data.microsoft.com CNAME .
 *.au-v10c.events.data.microsoft.com CNAME .
-browser.events.data.microsoft.com CNAME .
-*.browser.events.data.microsoft.com CNAME .
 emea.events.data.microsoft.com CNAME .
 *.emea.events.data.microsoft.com CNAME .
 eu-ic3.events.data.microsoft.com CNAME .
 *.eu-ic3.events.data.microsoft.com CNAME .
-eu-mobile.events.data.microsoft.com CNAME .
-*.eu-mobile.events.data.microsoft.com CNAME .
 eu-office.events.data.microsoft.com CNAME .
 *.eu-office.events.data.microsoft.com CNAME .
 eu-teams.events.data.microsoft.com CNAME .
@@ -73,16 +65,12 @@ functional.events.data.microsoft.com CNAME .
 *.functional.events.data.microsoft.com CNAME .
 ic3.events.data.microsoft.com CNAME .
 *.ic3.events.data.microsoft.com CNAME .
-jp-mobile.events.data.microsoft.com CNAME .
-*.jp-mobile.events.data.microsoft.com CNAME .
 jp-v10c.events.data.microsoft.com CNAME .
 *.jp-v10c.events.data.microsoft.com CNAME .
 kmwatson.events.data.microsoft.com CNAME .
 *.kmwatson.events.data.microsoft.com CNAME .
 kmwatsonc.events.data.microsoft.com CNAME .
 *.kmwatsonc.events.data.microsoft.com CNAME .
-mobile.events.data.microsoft.com CNAME .
-*.mobile.events.data.microsoft.com CNAME .
 noam.events.data.microsoft.com CNAME .
 *.noam.events.data.microsoft.com CNAME .
 nw-umwatson.events.data.microsoft.com CNAME .
@@ -105,8 +93,6 @@ umwatson.events.data.microsoft.com CNAME .
 *.umwatson.events.data.microsoft.com CNAME .
 umwatsonc.events.data.microsoft.com CNAME .
 *.umwatsonc.events.data.microsoft.com CNAME .
-us-mobile.events.data.microsoft.com CNAME .
-*.us-mobile.events.data.microsoft.com CNAME .
 us-teams.events.data.microsoft.com CNAME .
 *.us-teams.events.data.microsoft.com CNAME .
 us-v10c.events.data.microsoft.com CNAME .
@@ -135,8 +121,32 @@ measure.office.com CNAME .
 *.measure.office.com CNAME .
 hubblecontent.osi.office.net CNAME .
 *.hubblecontent.osi.office.net CNAME .
-events.data.trafficmanager.net CNAME .
-*.events.data.trafficmanager.net CNAME .
+apac.events.data.trafficmanager.net CNAME .
+*.apac.events.data.trafficmanager.net CNAME .
+aria.events.data.trafficmanager.net CNAME .
+*.aria.events.data.trafficmanager.net CNAME .
+asimov.events.data.trafficmanager.net CNAME .
+*.asimov.events.data.trafficmanager.net CNAME .
+blobcollector.events.data.trafficmanager.net CNAME .
+*.blobcollector.events.data.trafficmanager.net CNAME .
+emea.events.data.trafficmanager.net CNAME .
+*.emea.events.data.trafficmanager.net CNAME .
+eu.events.data.trafficmanager.net CNAME .
+*.eu.events.data.trafficmanager.net CNAME .
+jp.events.data.trafficmanager.net CNAME .
+*.jp.events.data.trafficmanager.net CNAME .
+noam.events.data.trafficmanager.net CNAME .
+*.noam.events.data.trafficmanager.net CNAME .
+pf.events.data.trafficmanager.net CNAME .
+*.pf.events.data.trafficmanager.net CNAME .
+server.events.data.trafficmanager.net CNAME .
+*.server.events.data.trafficmanager.net CNAME .
+tb.events.data.trafficmanager.net CNAME .
+*.tb.events.data.trafficmanager.net CNAME .
+uk.events.data.trafficmanager.net CNAME .
+*.uk.events.data.trafficmanager.net CNAME .
+us.events.data.trafficmanager.net CNAME .
+*.us.events.data.trafficmanager.net CNAME .
 legacywatson.trafficmanager.net CNAME .
 *.legacywatson.trafficmanager.net CNAME .
 o365diagtelemetry.trafficmanager.net CNAME .

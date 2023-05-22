@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 21 May 2023 21:47 UTC
-# Version: 2023.0521.2147.24
+# Last modified: 22 May 2023 21:40 UTC
+# Version: 2023.0522.2140.27
 # Syntax: DNSMasq
-# Number of entries: 249
+# Number of entries: 254
 #
 address=/cdnlog-va-useast2a.byteoversea.com/#
 address=/gplog-sg.byteoversea.com/#
@@ -123,6 +123,7 @@ address=/log53-normal-c-alisg.tiktokv.com/#
 address=/log53-normal-c-useast1a.tiktokv.com/#
 address=/log55-normal-c-alisg.tiktokv.com/#
 address=/log55-normal-c-useast1a.tiktokv.com/#
+address=/log58-normal.tiktokv.com/#
 address=/log58-normal-alisg.tiktokv.com/#
 address=/log58-normal-c-alisg.tiktokv.com/#
 address=/log58-normal-c-useast1a.tiktokv.com/#
@@ -241,11 +242,15 @@ address=/log16-applog-useast5.us.tiktokv.com/#
 address=/log19-applog-useast5.us.tiktokv.com/#
 address=/mcs.us.tiktokv.com/#
 address=/mon.us.tiktokv.com/#
+address=/mon16-normal-useast8.us.tiktokv.com/#
 address=/mon16-platform-useast5.us.tiktokv.com/#
 address=/mssdk.us.tiktokv.com/#
+address=/mssdk16-normal-useast8.us.tiktokv.com/#
 address=/mssdk16-platform-useast5.us.tiktokv.com/#
 address=/rtc-logger.us.tiktokv.com/#
+address=/rtlog.us.tiktokv.com/#
 address=/rtlog16-applog-useast5.us.tiktokv.com/#
+address=/rtlog16-platform-useast5.us.tiktokv.com/#
 address=/rtlog19-applog-useast5.us.tiktokv.com/#
 address=/rtlog19-platform-useast5.us.tiktokv.com/#
 address=/xlog16-normal-useast8.us.tiktokv.com/#

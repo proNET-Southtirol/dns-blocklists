@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 04 May 2023 13:40 UTC
-! Version: 2023.0504.1340.23
+! Last modified: 22 May 2023 21:38 UTC
+! Version: 2023.0522.2138.25
 ! Syntax: AdBlock
-! Number of entries: 72
+! Number of entries: 77
 !
 ||nexusrules.live.com^
 ||euc-excel-telemetry.officeapps.live.com^
@@ -23,26 +23,20 @@
 ||ukc-visio-telemetry.officeapps.live.com^
 ||usc-visio-telemetry.officeapps.live.com^
 ||word-telemetry.officeapps.live.com^
-||pipe.aria.microsoft.com^
 ||adhs.events.data.microsoft.com^
 ||apac.events.data.microsoft.com^
-||au-mobile.events.data.microsoft.com^
 ||au-v10c.events.data.microsoft.com^
-||browser.events.data.microsoft.com^
 ||emea.events.data.microsoft.com^
 ||eu-ic3.events.data.microsoft.com^
-||eu-mobile.events.data.microsoft.com^
 ||eu-office.events.data.microsoft.com^
 ||eu-teams.events.data.microsoft.com^
 ||eu-v10c.events.data.microsoft.com^
 ||eu-watsonc.events.data.microsoft.com^
 ||functional.events.data.microsoft.com^
 ||ic3.events.data.microsoft.com^
-||jp-mobile.events.data.microsoft.com^
 ||jp-v10c.events.data.microsoft.com^
 ||kmwatson.events.data.microsoft.com^
 ||kmwatsonc.events.data.microsoft.com^
-||mobile.events.data.microsoft.com^
 ||noam.events.data.microsoft.com^
 ||nw-umwatson.events.data.microsoft.com^
 ||office.events.data.microsoft.com^
@@ -54,7 +48,6 @@
 ||teams.events.data.microsoft.com^
 ||umwatson.events.data.microsoft.com^
 ||umwatsonc.events.data.microsoft.com^
-||us-mobile.events.data.microsoft.com^
 ||us-teams.events.data.microsoft.com^
 ||us-v10c.events.data.microsoft.com^
 ||v10c.events.data.microsoft.com^
@@ -70,7 +63,19 @@
 ||events-sandbox.data.msn.com^
 ||measure.office.com^
 ||hubblecontent.osi.office.net^
-||events.data.trafficmanager.net^
+||apac.events.data.trafficmanager.net^
+||aria.events.data.trafficmanager.net^
+||asimov.events.data.trafficmanager.net^
+||blobcollector.events.data.trafficmanager.net^
+||emea.events.data.trafficmanager.net^
+||eu.events.data.trafficmanager.net^
+||jp.events.data.trafficmanager.net^
+||noam.events.data.trafficmanager.net^
+||pf.events.data.trafficmanager.net^
+||server.events.data.trafficmanager.net^
+||tb.events.data.trafficmanager.net^
+||uk.events.data.trafficmanager.net^
+||us.events.data.trafficmanager.net^
 ||legacywatson.trafficmanager.net^
 ||o365diagtelemetry.trafficmanager.net^
 ||office-events-data.trafficmanager.net^
