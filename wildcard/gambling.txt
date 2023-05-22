@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 21 May 2023 21:43 UTC
-# Version: 2023.0521.2143.06
+# Last modified: 22 May 2023 21:35 UTC
+# Version: 2023.0522.2135.59
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 85975
+# Number of entries: 85252
 #
 *.000000tyc.com
 *.00001111hlcp1111.com
@@ -1456,7 +1456,6 @@
 *.050788.com
 *.0507t.com
 *.0508x.com
-*.0509.life
 *.0509t.com
 *.050aaalll.com
 *.050ab1.com
@@ -1729,7 +1728,6 @@
 *.061xpj.com
 *.0620088.com
 *.0620x.com
-*.062156.com
 *.06222aabb.com
 *.06222aacc.com
 *.06222aadd.com
@@ -1785,7 +1783,6 @@
 *.0639888.com
 *.063gg.com
 *.0640888.com
-*.064156.com
 *.064227.com
 *.0642888.com
 *.0643565.net
@@ -1987,7 +1984,6 @@
 *.072.app
 *.0720888.com
 *.0720x.com
-*.072156.com
 *.0721x.com
 *.072207.com
 *.0722n.com
@@ -2993,7 +2989,6 @@
 *.1-gyr.com
 *.1-online-casinos-guide.com
 *.1-test-qvies.top
-*.1-test-zgvh.top
 *.1-x-bet.com
 *.1-x-betmirror.com
 *.1-x-mirror.com
@@ -3023,7 +3018,6 @@
 *.1000k.vip
 *.10010077.com
 *.100154321.com
-*.10016.org
 *.1001990.com
 *.1001991.com
 *.1001992.com
@@ -3161,7 +3155,6 @@
 *.1006wct.com
 *.1007wct.com
 *.1007yb.com
-*.1008465.com
 *.100853.com
 *.1008623.com
 *.10090088.com
@@ -3178,7 +3171,6 @@
 *.100yabo.com
 *.100yh1.com
 *.101051.com
-*.10106.org
 *.1010casino.com
 *.101154321.com
 *.1011wns.com
@@ -3266,7 +3258,6 @@
 *.1023wns.com
 *.1023x.com
 *.1024wns.com
-*.1025ky.com
 *.1025wct.com
 *.1025wns.com
 *.1026f.com
@@ -3361,7 +3352,6 @@
 *.1044wct.com
 *.1044wns.com
 *.1044yb.com
-*.10450.biz
 *.1045ky.com
 *.1045wct.com
 *.1045wns.com
@@ -3408,7 +3398,6 @@
 *.1055wns.com
 *.105611.com
 *.1056ky.com
-*.10573.org
 *.1057ky.com
 *.1057t.com
 *.1057wct.com
@@ -3532,7 +3521,6 @@
 *.1081x.com
 *.1081yb.com
 *.1082.app
-*.10822.biz
 *.1082ky.com
 *.1082t.com
 *.108389.com
@@ -3583,7 +3571,6 @@
 *.1093t.com
 *.1093x.com
 *.1093yb.com
-*.10942.win
 *.109479.com
 *.1094ky.com
 *.1095.app
@@ -3596,7 +3583,6 @@
 *.1097t.com
 *.1097yb.com
 *.1098ky.com
-*.109939.vip
 *.1099883.com
 *.1099ky.com
 *.1099yb.com
@@ -3608,7 +3594,6 @@
 *.109yh.com
 *.109yh1.com
 *.109yh2.com
-*.10aa98.com
 *.10bet.com
 *.10bet-it.org
 *.10betbonuscode.com
@@ -3924,7 +3909,6 @@
 *.1132004.com
 *.113240.com
 *.113267.com
-*.113274.com
 *.1132ky.com
 *.11331998.com
 *.1133223.com
@@ -4170,7 +4154,6 @@
 *.1175ky.com
 *.1176ky.com
 *.1177230.com
-*.11775.org
 *.11775414.com
 *.1177696.com
 *.1177744.com
@@ -4178,7 +4161,6 @@
 *.11777888.com
 *.11777n.com
 *.1177ss.com
-*.11785.net
 *.117862.com
 *.1178ky.com
 *.117953.com
@@ -4470,7 +4452,6 @@
 *.119vn.com
 *.119yh1.com
 *.119yh2.com
-*.11aa98.com
 *.11ambjlw.com
 *.11bet.club
 *.11bet.com
@@ -4535,7 +4516,6 @@
 *.12031y.com
 *.120382.com
 *.1203ky.com
-*.12047.biz
 *.1204ky.com
 *.1205ky.com
 *.1205x.com
@@ -4600,7 +4580,6 @@
 *.1218ky.com
 *.1218n.com
 *.1218t.com
-*.12190.net
 *.1219521.com
 *.1219ky.com
 *.1219t.com
@@ -4609,7 +4588,6 @@
 *.121p.me
 *.121p456.com
 *.121tycvip.com
-*.121wns.com
 *.121yh1.com
 *.121yhw.com
 *.1220ky.com
@@ -4741,7 +4719,6 @@
 *.123356z.com
 *.1234384.com
 *.12345.bet
-*.12345.kaufen
 *.123476.com
 *.123476a.com
 *.123476b.com
@@ -4913,7 +4890,6 @@
 *.1247x.com
 *.124848.com
 *.1248ky.com
-*.124919.com
 *.1249ky.com
 *.1249t.com
 *.1249x.com
@@ -5056,7 +5032,6 @@
 *.127696.com
 *.1276ky.com
 *.1277ky.com
-*.12789.city
 *.1278ky.com
 *.1278n.com
 *.1278t.com
@@ -5158,7 +5133,6 @@
 *.1290x.com
 *.1291ky.com
 *.1291v.com
-*.12926.city
 *.1292952ge.com
 *.1292ky.com
 *.1292t.com
@@ -5175,7 +5149,6 @@
 *.1296t.com
 *.129701.com
 *.129731.com
-*.129751.vip
 *.1297ky.com
 *.1297t.com
 *.1297v.com
@@ -5398,7 +5371,6 @@
 *.131611t.com
 *.131611y.com
 *.131611z.com
-*.131643.com
 *.1316j.com
 *.1316ky.com
 *.1316t.com
@@ -5538,7 +5510,6 @@
 *.1345ky.com
 *.1345x.com
 *.1346ky.com
-*.134786.com
 *.1347ky.com
 *.1347t.com
 *.1348cc.com
@@ -5553,7 +5524,6 @@
 *.1351ky.com
 *.1351t.com
 *.1352004.com
-*.135232.com
 *.1352ky.com
 *.1352t.com
 *.13534898383.com
@@ -5610,7 +5580,6 @@
 *.1363x.com
 *.1364.com
 *.1364.net
-*.136480.com
 *.1364ky.com
 *.1365ky.com
 *.1365t.com
@@ -5801,7 +5770,6 @@
 *.14055pj.com
 *.14057.com
 *.1405ky.com
-*.14061.org
 *.1406ky.com
 *.1407ky.com
 *.1408cc.com
@@ -5864,7 +5832,6 @@
 *.141yh2.com
 *.141yhw.com
 *.141yinhe.com
-*.14208.asia
 *.1420ky.com
 *.14215tyc.com
 *.1421ky.com
@@ -5900,14 +5867,11 @@
 *.14289tyc.com
 *.1428ky.com
 *.1428t.com
-*.142980.com
 *.1429ky.com
 *.142yb.com
 *.142yh.com
 *.142yh1.com
 *.142yh2.com
-*.14304.org
-*.143065.com
 *.1430ky.com
 *.1431ky.com
 *.1431t.com
@@ -5925,7 +5889,6 @@
 *.1437ky.com
 *.1437t.com
 *.14388.org
-*.14388.wang
 *.1438ky.com
 *.1438t.com
 *.14393tyc.com
@@ -5941,7 +5904,6 @@
 *.1441p.com
 *.1441t.com
 *.1441v.com
-*.144214.com
 *.144217.com
 *.1442ky.com
 *.1442t.com
@@ -6041,7 +6003,6 @@
 *.1469ky.com
 *.146hjc.vip
 *.146tycvip.com
-*.147098.wang
 *.1470ky.com
 *.1471ky.com
 *.147258.bet
@@ -6077,21 +6038,17 @@
 *.1484ky.com
 *.1485ky.com
 *.1485t.com
-*.14863.pro
 *.1486ky.com
 *.1486t.com
 *.148796.com
 *.1487ky.com
 *.1487x.com
-*.14881.fun
 *.1488577.com
-*.148886.biz
 *.1488ky.com
 *.14896.wang
 *.1489ky.com
 *.148hjc.vip
 *.148vn.com
-*.149004.com
 *.14902.com
 *.14902pj.com
 *.1490ky.com
@@ -6104,11 +6061,6 @@
 *.1493ky.com
 *.1493t.com
 *.1493x.com
-*.149410.net
-*.149422.com
-*.149435.com
-*.149438.com
-*.149458.com
 *.1494ky.com
 *.1494x.com
 *.149526.xyz
@@ -6185,7 +6137,6 @@
 *.15015314914.com
 *.1501ky.com
 *.1502ky.com
-*.15035.wang
 *.150390.com
 *.1503ky.com
 *.1503x.com
@@ -6252,7 +6203,6 @@
 *.151amhg.com
 *.151ks.com
 *.151ky.com
-*.151wns.com
 *.151yhw.com
 *.151yinhe.com
 *.151z6.com
@@ -6271,7 +6221,6 @@
 *.1526ky.com
 *.1526t.com
 *.1526x.com
-*.15271.org
 *.1527ky.com
 *.1527t.com
 *.152846.com
@@ -6310,7 +6259,6 @@
 *.153891.com
 *.1538ky.com
 *.153908.com
-*.153946.com
 *.1539ky.com
 *.1539x.com
 *.153amhg.com
@@ -6329,7 +6277,6 @@
 *.1544p.com
 *.1544v.com
 *.154517.com
-*.15452222.com
 *.154529.com
 *.154582.com
 *.154585.com
@@ -6417,7 +6364,6 @@
 *.1563v.com
 *.156498.com
 *.1564ky.com
-*.156543.cn
 *.1565ky.com
 *.1565p.com
 *.1566j.com
@@ -6428,7 +6374,6 @@
 *.1568h.com
 *.1568ky.com
 *.1568x.com
-*.15691.vip
 *.1569ky.com
 *.1569t.com
 *.1569v.com
@@ -6519,7 +6464,6 @@
 *.15933.vip
 *.15933965063.vip
 *.1593ky.com
-*.15947.biz
 *.1594ky.com
 *.15955.vip
 *.15957242247.com
@@ -6559,10 +6503,8 @@
 *.1602ky.com
 *.1602x.com
 *.16034.com
-*.16038.vip
 *.160383.com
 *.1603ky.com
-*.160412.com
 *.1604ky.com
 *.1604t.com
 *.1605ky.com
@@ -6628,7 +6570,6 @@
 *.1623ky.com
 *.1623v.com
 *.16243.wang
-*.16245.vip
 *.1624ky.com
 *.1625h.com
 *.1625ky.com
@@ -6659,7 +6600,6 @@
 *.1633ky.com
 *.1633p.com
 *.1633t.com
-*.163453.com
 *.163479.com
 *.1634ky.com
 *.1635ky.com
@@ -6689,16 +6629,9 @@
 *.1642t.com
 *.1642x.com
 *.1643ky.com
-*.164412.com
-*.164413.com
-*.164414.com
-*.164415.com
-*.164417.com
-*.164419.com
 *.1644853.com
 *.1644ky.com
 *.1644t.com
-*.164550.org
 *.1645ky.com
 *.1645t.com
 *.1645x.com
@@ -6726,8 +6659,6 @@
 *.1653ky.com
 *.1653t.com
 *.165455.com
-*.1654606.com
-*.165476.com
 *.1654ky.com
 *.1654t.com
 *.1655656.com
@@ -6791,7 +6722,6 @@
 *.16661p.com
 *.16662v.com
 *.16663v.com
-*.1666tyc.com
 *.166707.com
 *.166726.com
 *.166740.com
@@ -7149,7 +7079,6 @@
 *.1705ky.com
 *.1706ky.com
 *.1706x.com
-*.17077.vip
 *.170799.com
 *.1707ky.com
 *.1708ky.com
@@ -7284,7 +7213,6 @@
 *.1717g9.app
 *.1717gh.app
 *.1717gk.net
-*.1717gk.org
 *.1717gp.com
 *.1717gt.com
 *.1717gz.biz
@@ -7730,7 +7658,6 @@
 *.17ty23.com
 *.17ty24.com
 *.17ty25.com
-*.17tycvip.com
 *.17vip02.com
 *.17vip03.com
 *.17vip04.com
@@ -7854,7 +7781,6 @@
 *.1828j.com
 *.1828ky.com
 *.1828t.com
-*.182945.com
 *.1829ky.com
 *.1829x.com
 *.182kaiyun.vip
@@ -7909,7 +7835,6 @@
 *.1847ky.com
 *.1847t.com
 *.1847x.com
-*.18489.net
 *.1848ky.com
 *.1848t.com
 *.1849ky.com
@@ -7928,7 +7853,6 @@
 *.1853ky.com
 *.1853n.com
 *.1853t.com
-*.185415.com
 *.185463.com
 *.1854ky.com
 *.1854t.com
@@ -8042,7 +7966,6 @@
 *.188-bets.com
 *.188-sb.com
 *.188000.vip
-*.18806.org
 *.1880ky.com
 *.1880n.com
 *.1880x.com
@@ -8455,7 +8378,6 @@
 *.1898ky.com
 *.1898t.com
 *.189934.vip
-*.189985.com
 *.18998v.com
 *.189kaiyun.vip
 *.189sport.com
@@ -8494,7 +8416,6 @@
 *.18vns.net
 *.18wct.com
 *.18xl18luck.com
-*.18xpj18.com
 *.1900ky.com
 *.1901ky.com
 *.1902ky.com
@@ -8544,7 +8465,6 @@
 *.191y.net
 *.191yinhe.com
 *.1920ky.com
-*.19218.net
 *.1921h.com
 *.1921j.com
 *.1921ky.com
@@ -8568,7 +8488,6 @@
 *.1928ky.com
 *.1928n.com
 *.1928s.com
-*.19294.vip
 *.1929ky.com
 *.1929t.com
 *.192amhg.com
@@ -8668,7 +8587,6 @@
 *.1956x.com
 *.1957ky.com
 *.1957t.com
-*.195874.com
 *.1958h.com
 *.1958ky.com
 *.1958n.com
@@ -8733,7 +8651,6 @@
 *.1973ky.com
 *.1974ky.com
 *.1974x.com
-*.19756.vip
 *.1975ky.com
 *.1975n.com
 *.1975t.com
@@ -8949,7 +8866,6 @@
 *.19yinhe.com
 *.19yyhh.com
 *.1a8s8i2a0.com
-*.1aa98.com
 *.1aamm.com
 *.1aed915a81.com
 *.1aefu.com
@@ -9058,8 +8974,6 @@
 *.1pian6w.com
 *.1piao6w.com
 *.1ping6w.com
-*.1pj257.com
-*.1pj382.com
 *.1pl2c.com
 *.1popop.com
 *.1pp11.com
@@ -9184,7 +9098,6 @@
 *.1xbet.cm
 *.1xbet.com
 *.1xbet.dj
-*.1xbet.games
 *.1xbet.gf
 *.1xbet.global
 *.1xbet.gp
@@ -9555,14 +9468,6 @@
 *.1xslot.com
 *.1xslot.mobi
 *.1xslot.space
-*.1xslot-113053.top
-*.1xslot-168404.top
-*.1xslot-315098.top
-*.1xslot-434950.top
-*.1xslot-473562.top
-*.1xslot-576555.top
-*.1xslot-849294.top
-*.1xslot-974608.top
 *.1xslot0.com
 *.1xslot2.xyz
 *.1xslot3.com
@@ -9831,7 +9736,6 @@
 *.2043cca.com
 *.2044t.com
 *.20455.com
-*.204784.com
 *.20479.vip
 *.2048302.com
 *.2049472.com
@@ -9843,7 +9747,6 @@
 *.204y.net
 *.2051app.com
 *.2051ky.com
-*.20520.org
 *.2052ky.com
 *.2052x.com
 *.2053ky.com
@@ -9947,7 +9850,6 @@
 *.207kyty.com
 *.207y.net
 *.2080ky.com
-*.208136.org
 *.2081ky.com
 *.2081t.com
 *.20824.com
@@ -10061,7 +9963,6 @@
 *.2102t.com
 *.2103ky.com
 *.2104ky.com
-*.21055.org
 *.2105ky.com
 *.2106ky.com
 *.2106x.com
@@ -10274,7 +10175,6 @@
 *.2154ky.com
 *.2154t.com
 *.21553v.com
-*.215549.vip
 *.2155j.com
 *.2155ky.com
 *.2155t.com
@@ -10327,7 +10227,6 @@
 *.2166ky.com
 *.2166n.com
 *.2166t.com
-*.21673.org
 *.2167ky.com
 *.2167n.com
 *.2167t.com
@@ -10354,7 +10253,6 @@
 *.2172ky.com
 *.2172t.com
 *.2172x.com
-*.21734.biz
 *.2173ky.com
 *.217456.com
 *.2174ky.com
@@ -10427,7 +10325,6 @@
 *.218kyty.bet
 *.218kyty.com
 *.218y.net
-*.21902.net
 *.219045.com
 *.219047.com
 *.219048.com
@@ -10554,7 +10451,6 @@
 *.22188v.com
 *.2218ky.com
 *.2218n.com
-*.221903.net
 *.2219ky.com
 *.2219x.com
 *.221amhg.com
@@ -10587,12 +10483,10 @@
 *.22226tyc.com
 *.22227006.com
 *.22228n.com
-*.22229.org
 *.22229n.com
 *.2222bst.com
 *.2222kefu.com
 *.2222vf.com
-*.2222yb.com
 *.2222yh5.com
 *.22230989.com
 *.22235156.com
@@ -11043,7 +10937,6 @@
 *.229138.com
 *.2291ky.com
 *.2291x.com
-*.229279.org
 *.2292ky.com
 *.229390.com
 *.2293ky.com
@@ -11126,14 +11019,6 @@
 *.22ww0880.com
 *.22yabo.com
 *.22yfqp.com
-*.22yy638.com
-*.22yy657.com
-*.22yy659.com
-*.22yy672.com
-*.22yy673.com
-*.22yy675.com
-*.22yy718.com
-*.22yy767.com
 *.22z6.net
 *.22zalo.com
 *.23000js.com
@@ -11292,7 +11177,6 @@
 *.2303x.com
 *.2304ky.com
 *.2305.app
-*.230522.com
 *.2305ky.com
 *.2306ky.com
 *.23077495.com
@@ -11717,7 +11601,6 @@
 *.2336n.com
 *.2336x.com
 *.233727.com
-*.23379.vip
 *.2337ky.com
 *.233823.com
 *.233828.com
@@ -11778,7 +11661,6 @@
 *.2341366.net
 *.2341ky.com
 *.2341t.com
-*.23426.vip
 *.2342ky.com
 *.2342p.com
 *.2342t.com
@@ -11822,10 +11704,8 @@
 *.23456mb.com
 *.2345811.com
 *.2345bst.com
-*.2345m5.net
 *.2346608.com
 *.23467.com
-*.234671.com
 *.23467dh.com
 *.23467xl.com
 *.2346ky.com
@@ -11834,7 +11714,6 @@
 *.2347ds.net
 *.2347ky.com
 *.2348ky.com
-*.2348sc.net
 *.2348x.com
 *.2349ky.com
 *.2349t.com
@@ -12040,7 +11919,6 @@
 *.23777zz.com
 *.2377ky.com
 *.2377n.com
-*.23783.biz
 *.2378ky.com
 *.2378v.com
 *.2378x.com
@@ -12141,7 +12019,6 @@
 *.23hgv.com
 *.23hhgg.com
 *.23k66.com
-*.23ks56.net
 *.23rs.com
 *.23sharp.com
 *.23tawgiwf3wy45ng6731.com
@@ -12199,7 +12076,6 @@
 *.2413ky.com
 *.2413t.com
 *.2413x.com
-*.241419.com
 *.2414ky.com
 *.2415ky.com
 *.2415x.com
@@ -12299,7 +12175,6 @@
 *.242607.com
 *.2426242.vip
 *.242653.com
-*.24267.org
 *.2426ky.com
 *.2427242.vip
 *.2427ky.com
@@ -12379,8 +12254,6 @@
 *.2433ky.com
 *.2434ky.com
 *.2434t.com
-*.243511.com
-*.243540.com
 *.2435586.net
 *.2435ky.com
 *.2435t.com
@@ -12437,18 +12310,11 @@
 *.2452t.com
 *.2452x.com
 *.245390.com
-*.2453ee.com
-*.2453hh.com
-*.2453ii.com
 *.2453j.com
-*.2453kk.com
 *.2453ky.com
-*.2453ll.com
 *.2453n.com
 *.2453q.com
-*.2453qq.com
 *.2453r.com
-*.2453rr.com
 *.2453t.com
 *.2453v.com
 *.2453w.com
@@ -12558,7 +12424,6 @@
 *.2492ky.com
 *.2492t.com
 *.249368.com
-*.24937.org
 *.249390.com
 *.2493ky.com
 *.2494ky.com
@@ -12569,7 +12434,6 @@
 *.2497ky.com
 *.2497t.com
 *.2497x.com
-*.249824.com
 *.2498457.com
 *.2498ky.com
 *.2499572.com
@@ -12618,7 +12482,6 @@
 *.2506t.com
 *.2507ky.com
 *.2507x.com
-*.25082.org
 *.2508972588.com
 *.2508ky.com
 *.2509ky.com
@@ -12628,7 +12491,6 @@
 *.250kyty.bet
 *.250kyty.com
 *.250y.net
-*.25108.biz
 *.2510ky.com
 *.2510mwx.vip
 *.2511j.com
@@ -12650,11 +12512,9 @@
 *.2514t.com
 *.2514x.com
 *.2514yh.com
-*.25151.biz
 *.2515ky.com
 *.2515t.com
 *.2515x.com
-*.25166.org
 *.2516j.com
 *.2516ky.com
 *.2516x.com
@@ -12684,7 +12544,6 @@
 *.2521ky.com
 *.2521t.com
 *.2521yh.com
-*.2522hg.biz
 *.2522hg.com
 *.2522ky.com
 *.2522x.com
@@ -12873,7 +12732,6 @@
 *.25593.xyz
 *.25595.xyz
 *.255952.com
-*.25596.biz
 *.25596.xyz
 *.25597.xyz
 *.2559ky.com
@@ -13042,7 +12900,6 @@
 *.257y.vip
 *.257yh1.com
 *.258040.com
-*.258064.org
 *.2580ky.com
 *.2580sw.com
 *.2580x.com
@@ -13158,12 +13015,10 @@
 *.25wct.com
 *.25yabo.com
 *.25yinhe.com
-*.25yy623.com
 *.25yyhh.com
 *.2600ky.com
 *.2600t.com
 *.2601ky.com
-*.26028.org
 *.2602ky.com
 *.2602xpj.com
 *.260390.com
@@ -13257,7 +13112,6 @@
 *.2622x.com
 *.2623ky.com
 *.2623v.com
-*.262419.com
 *.2624ky.com
 *.2624x.com
 *.26254.com
@@ -13449,7 +13303,6 @@
 *.2641x.com
 *.2642ky.com
 *.2642x.com
-*.264338.net
 *.264390.com
 *.2643ky.com
 *.2643t.com
@@ -13564,7 +13417,6 @@
 *.265yh1.com
 *.2660ky.com
 *.2660x.com
-*.26613.kaufen
 *.2661h.com
 *.2661ky.com
 *.2661n.com
@@ -13601,7 +13453,6 @@
 *.2665ky.com
 *.2665n.com
 *.2665t.com
-*.266615.org
 *.26661p.com
 *.266628.com
 *.266628a.com
@@ -13855,7 +13706,6 @@
 *.26wct.com
 *.26yabo.com
 *.26yinhe.com
-*.26yy636.com
 *.270034.com
 *.270041.com
 *.270042.com
@@ -13863,7 +13713,6 @@
 *.270083.com
 *.2700ky.com
 *.2700x.com
-*.2701590.com
 *.2701ky.com
 *.2701x.com
 *.2702004.com
@@ -13912,7 +13761,6 @@
 *.2713ky.com
 *.2713n.com
 *.27140.vip
-*.271448.com
 *.2714ky.com
 *.2714x.com
 *.2715ky.com
@@ -14235,7 +14083,6 @@
 *.2772n.com
 *.2772t.com
 *.2772x.com
-*.27731.org
 *.277327.com
 *.277329.com
 *.277353.com
@@ -14245,7 +14092,6 @@
 *.2773x.com
 *.2774ky.com
 *.2774x.com
-*.277504.com
 *.277527.com
 *.2775j.com
 *.2775ky.com
@@ -14312,7 +14158,6 @@
 *.2787v.com
 *.2787x.com
 *.2788ky.com
-*.278949.com
 *.278959049.vip
 *.2789ky.com
 *.2789n.com
@@ -14343,7 +14188,6 @@
 *.2795ky.com
 *.2795n.com
 *.2795t.com
-*.27969.org
 *.2796h.com
 *.2796ky.com
 *.2796s.com
@@ -14388,7 +14232,6 @@
 *.28022.link
 *.280226.cn
 *.28023.link
-*.28025.city
 *.28025.link
 *.28026.link
 *.28027.link
@@ -14425,7 +14268,6 @@
 *.2813j.com
 *.2813ky.com
 *.2813t.com
-*.281427.com
 *.28147.com
 *.2814ky.com
 *.2814x.com
@@ -14525,15 +14367,9 @@
 *.2833ky.com
 *.2833n.com
 *.2833x.com
-*.28345.org
 *.2834ky.com
 *.2834t.com
 *.2834x.com
-*.28355.city
-*.28356.city
-*.28357.city
-*.28358.city
-*.28359.city
 *.2835j.com
 *.2835ky.com
 *.2835t.com
@@ -14595,7 +14431,6 @@
 *.284y.vip
 *.2850ky.com
 *.2850x.com
-*.28516.net
 *.2851dh.com
 *.2851ky.com
 *.2851s.com
@@ -14620,7 +14455,6 @@
 *.2857n.com
 *.2857t.com
 *.2857x.com
-*.285825.com
 *.2858ky.com
 *.2859ky.com
 *.2859t.com
@@ -14941,12 +14775,10 @@
 *.2916t.com
 *.2916x.com
 *.2917ky.com
-*.29189.biz
 *.2918j.com
 *.2918ky.com
 *.2918p.com
 *.2918t.com
-*.291911.org
 *.29194.vip
 *.29196.vip
 *.2919ky.com
@@ -15022,7 +14854,6 @@
 *.2934230.com
 *.29347.vip
 *.2934ky.com
-*.29354.org
 *.2935ky.com
 *.2935t.com
 *.2936ky.com
@@ -15084,7 +14915,6 @@
 *.2946t.com
 *.2946x.com
 *.2947294.com
-*.29473.biz
 *.2947ky.com
 *.2947t.com
 *.2948376.com
@@ -15291,7 +15121,6 @@
 *.2996ky.com
 *.2996n.com
 *.2996x.com
-*.29974.wang
 *.29976.vip
 *.2997ky.com
 *.2997x.com
@@ -15519,7 +15348,6 @@
 *.3006v.com
 *.3007ky.com
 *.3007t.com
-*.300811.org
 *.3008472.com
 *.3008ky.com
 *.3008n.com
@@ -15569,7 +15397,6 @@
 *.3013ky.com
 *.3014ky.com
 *.3015ky.com
-*.301670.com
 *.3016ky.com
 *.301772.com
 *.301776.com
@@ -15622,7 +15449,6 @@
 *.30302277.com
 *.303065625.com
 *.3030ky.com
-*.30313.net
 *.3031ky.com
 *.3031x.com
 *.3032ky.com
@@ -15635,7 +15461,6 @@
 *.3035ky.com
 *.3036ky.com
 *.3036x.com
-*.30370.vip
 *.3037414.com
 *.3037ky.com
 *.3038235.com
@@ -16009,7 +15834,6 @@
 *.311y.vip
 *.312074.com
 *.3120ky.com
-*.31213.org
 *.312199.com
 *.3121ky.com
 *.3121n.com
@@ -16038,7 +15862,6 @@
 *.3127x.com
 *.3128368.com
 *.3128754.com
-*.312880.net
 *.3128h.com
 *.3128ky.com
 *.3128n.com
@@ -16145,7 +15968,6 @@
 *.31477.com
 *.3147ky.com
 *.3147t.com
-*.314896.com
 *.3148ky.com
 *.3148t.com
 *.3148x.com
@@ -16176,30 +15998,11 @@
 *.3155ky.com
 *.3155n.com
 *.3156app.com
-*.3156bbb.com
-*.3156ccc.com
 *.3156com.com
 *.3156ddd.com
-*.3156eee.com
-*.3156fff.com
-*.3156ggg.com
-*.3156hhh.com
-*.3156iii.com
-*.3156jjj.com
 *.3156ky.com
 *.3156n.com
-*.3156ooo.com
 *.3156p.com
-*.3156ppp.com
-*.3156rrr.com
-*.3156ttt.com
-*.3156uuu.com
-*.3156vip.com
-*.3156vvv.com
-*.3156www.com
-*.3156xxx.com
-*.3156yyy.com
-*.3156zzz.com
 *.3157ky.com
 *.3158ky.com
 *.3158n.com
@@ -16308,7 +16111,6 @@
 *.317865040.vip
 *.3178ky.com
 *.317934.org
-*.31796.org
 *.3179j.com
 *.3179ky.com
 *.3179s.com
@@ -16567,8 +16369,6 @@
 *.3231v.com
 *.3232365.com
 *.3232777.com
-*.323288f.com
-*.323288s.com
 *.3232n.com
 *.3232vn.com
 *.3232vns.com
@@ -16590,7 +16390,6 @@
 *.3237ky.com
 *.3237x.com
 *.32383238.com
-*.32385.win
 *.3238ky.com
 *.3238t.com
 *.3238x.com
@@ -16639,10 +16438,8 @@
 *.3242x.com
 *.3243ky.com
 *.32440.com
-*.324466.com
 *.3244ky.com
 *.3244x.com
-*.32451.net
 *.3245777.com
 *.3245ky.com
 *.3246ky.com
@@ -16806,7 +16603,6 @@
 *.326kyty.com
 *.326y.net
 *.326y.vip
-*.326y483.net
 *.3270ky.com
 *.32715.com
 *.3271ky.com
@@ -16817,14 +16613,12 @@
 *.3272ky.com
 *.3272t.com
 *.327357.com
-*.32736.org
 *.32736.vip
 *.327390.com
 *.3273j.com
 *.3273ky.com
 *.3273p.com
 *.3273t.com
-*.32748c3.net
 *.3274ky.com
 *.3275j.com
 *.3275ky.com
@@ -16863,14 +16657,12 @@
 *.3281t.com
 *.328200.com
 *.3282ky.com
-*.328396.com
 *.3283h.com
 *.3283ky.com
 *.3283n.com
 *.3283x.com
 *.3284ky.com
 *.3285ky.com
-*.328605.com
 *.3286ky.com
 *.3287ky.com
 *.3287t.com
@@ -17033,20 +16825,13 @@
 *.3301ky.com
 *.3302ky.com
 *.3303ky.com
-*.3303m.com
 *.3303n.com
 *.3304ky.com
-*.3304x.com
-*.3305a.com
 *.3305ky.com
-*.3305m.com
 *.3305n.com
-*.3305x.com
-*.3306a.com
 *.3306ky.com
 *.3307ky.com
 *.3307n.com
-*.3307x.com
 *.3308ky.com
 *.3309ky.com
 *.3309n.com
@@ -17090,7 +16875,6 @@
 *.33129x.com
 *.33129y.com
 *.33129z.com
-*.3312a.com
 *.3312ky.com
 *.3312x.com
 *.331312.com
@@ -17116,9 +16900,7 @@
 *.33138vip.com
 *.331392.com
 *.3313ky.com
-*.3313m.com
 *.3314ky.com
-*.3314x.com
 *.3315.org
 *.33151.org
 *.33153.org
@@ -17228,15 +17010,10 @@
 *.3321ky.com
 *.3321n.com
 *.3321p.com
-*.33221x.com
-*.33222x.com
 *.33225002.com
 *.3322696.com
-*.33226x.com
 *.33227.org
-*.33227x.com
 *.33228.org
-*.33228v.com
 *.33229.org
 *.3322ky.com
 *.3322n.com
@@ -17260,7 +17037,6 @@
 *.332561.com
 *.33259.org
 *.3325ky.com
-*.3325m.com
 *.3325x.com
 *.33261.org
 *.33263.org
@@ -17276,7 +17052,6 @@
 *.3327v.com
 *.3327x.com
 *.3328ky.com
-*.3328m.com
 *.3328n.com
 *.3328p.com
 *.332934.org
@@ -17329,7 +17104,6 @@
 *.33322p.com
 *.33325156.com
 *.3332w.com
-*.3332x.com
 *.33332p.com
 *.333331666.com
 *.333333.ca
@@ -17349,8 +17123,6 @@
 *.33351.app
 *.333555.site
 *.33355p.com
-*.3335m.com
-*.3335x.com
 *.333654.com
 *.333666a.com
 *.333666b.com
@@ -17360,7 +17132,6 @@
 *.3337740.com
 *.3337740.net
 *.33377p.com
-*.3337m.com
 *.3337x.com
 *.33386.app
 *.33387.app
@@ -17368,7 +17139,6 @@
 *.33388p.com
 *.33389.app
 *.3338ky.com
-*.3338m.com
 *.33391.app
 *.33392.app
 *.33393.app
@@ -17411,7 +17181,6 @@
 *.33481.org
 *.3348ty.com
 *.3348v.com
-*.33490.net
 *.3349n.com
 *.334kyty.bet
 *.334vn.com
@@ -17420,31 +17189,20 @@
 *.335065.com
 *.3350n.com
 *.3350t.com
-*.33512326.com
 *.3351n.com
 *.3351x.com
 *.3352004.com
 *.335238.com
-*.3352a.com
-*.3352m.com
 *.3352x.com
 *.3353n.com
 *.3354n.com
-*.33552x.com
-*.33553v.com
 *.33555002.com
-*.33556x.com
-*.33557v.com
-*.33557x.com
-*.33559x.com
 *.3356850.com
 *.33576.org
-*.3357a.com
 *.3357x.com
 *.33586.vip
 *.3358879.com
 *.3359876.net
-*.335995.org
 *.335kyty.bet
 *.335vn.com
 *.336.gold
@@ -17452,29 +17210,22 @@
 *.3360999.com
 *.3360n.com
 *.33615.org
-*.33616xz.com
-*.3361a.com
 *.3361h.com
 *.3361x.com
 *.33628.bet
 *.3362x.com
-*.3363a.com
 *.3363x.com
 *.336433.com
 *.3364t.com
-*.3364x.com
 *.3365333.com
 *.33658.bet
 *.3365h.com
 *.3365x.com
-*.33662v.com
-*.33663v.com
 *.33665316.com
 *.33666777.com
 *.3366696.com
 *.33668.bet
 *.33670.org
-*.33677.biz
 *.336776.com
 *.336776a.com
 *.336776b.com
@@ -17490,42 +17241,28 @@
 *.336776y.com
 *.336776z.com
 *.33678.bet
-*.3367a.com
 *.3367n.com
 *.3367x.com
 *.3369898.net
-*.3369x.com
 *.336fun.com
 *.336kyty.bet
 *.336vn.com
 *.336yb.com
 *.3370n.com
-*.3370x.com
-*.3371a.com
 *.3371n.com
 *.3372n.com
 *.3372x.com
 *.337337.cm
-*.3373a.com
 *.3373n.com
 *.3373w.com
 *.3373x.com
-*.3374b.com
 *.3374n.com
 *.3374p.com
-*.3374x.com
-*.3375a.com
-*.3375m.com
 *.3375x.com
 *.337617.com
 *.3376qp.com
-*.33772x.com
 *.33776.org
-*.33776x.com
-*.33777v.com
-*.33778.org
 *.3377821.com
-*.33778x.com
 *.3378592.com
 *.337877a.com
 *.337877b.com
@@ -17589,15 +17326,12 @@
 *.337vn.com
 *.338.life
 *.338-bet.com
-*.3380a.com
 *.3380n.com
 *.33812833.com
-*.3381a.com
 *.3381bet.com
 *.3381h.com
 *.3381n.com
 *.3381w.com
-*.3382a.com
 *.3382bet.com
 *.3382n.com
 *.338352.com
@@ -17606,21 +17340,15 @@
 *.3383x.com
 *.3384n.com
 *.338544.com
-*.3385a.com
 *.3385bet.com
-*.3385m.com
 *.3386bet.com
 *.3386h.com
-*.3386m.com
 *.3386n.com
 *.3386w.com
-*.3387b.com
 *.3387bet.com
 *.3387n.com
-*.33882x.com
 *.33885003.com
 *.33885316.com
-*.33886.org
 *.3388696.com
 *.338888-338888.com
 *.338888000.com
@@ -17713,16 +17441,12 @@
 *.338888zz.com
 *.33888vip.com
 *.33888yh.com
-*.33889x.com
 *.3388mq.com
 *.3388n.com
 *.3388ra.com
 *.3388rb.com
 *.3388sky.com
-*.3388u.com
 *.3389877.com
-*.3389a.com
-*.3389b.com
 *.3389bet.com
 *.3389n.com
 *.3389v.com
@@ -17742,31 +17466,23 @@
 *.338vn.com
 *.338yz.com
 *.339.gold
-*.3390a.com
 *.339235.com
 *.339239.com
 *.339251.com
 *.339253.com
 *.339256.com
 *.339259.com
-*.3392a.com
 *.339326.com
 *.339327.com
 *.33933618.com
-*.3393a.com
-*.3393u.com
 *.3394n.com
 *.3394t.com
 *.3394x.com
 *.3395333.com
 *.3395n.com
 *.3396333.com
-*.33964.net
 *.3396592.com
-*.3396a.com
 *.3396n.com
-*.3397b.com
-*.3397m.com
 *.3397n.com
 *.3397x.com
 *.3398n.com
@@ -17925,7 +17641,6 @@
 *.33z6.net
 *.33z6.vip
 *.34006666.com
-*.340112.com
 *.34034a.com
 *.34034b.com
 *.34034c.com
@@ -17945,8 +17660,6 @@
 *.34034v.com
 *.34034x.com
 *.34034z.com
-*.34037.org
-*.34063.org
 *.3408s.com
 *.3408t.com
 *.3408u.com
@@ -17992,7 +17705,6 @@
 *.342094.com
 *.3421.xyz
 *.342108.com
-*.342119.com
 *.34212.com
 *.342120.com
 *.3421796.com
@@ -18006,7 +17718,6 @@
 *.342249.com
 *.34225555.com
 *.342281.com
-*.342325.com
 *.342326.com
 *.342355.com
 *.342360.com
@@ -18076,7 +17787,6 @@
 *.34463e.com
 *.34463f.com
 *.34463g.com
-*.34466.org
 *.3447t.com
 *.3448p.com
 *.3448t.com
@@ -18102,7 +17812,6 @@
 *.34545p.com
 *.3454t.com
 *.3454x.com
-*.34559.win
 *.3456608.com
 *.3456889hlcp.com
 *.3456988hlcp.com
@@ -18111,7 +17820,6 @@
 *.3456pt67.net
 *.3456zf.com
 *.3457t.com
-*.3458n87.net
 *.3458t.com
 *.34599.vip
 *.345ctf8bet.com
@@ -18137,7 +17845,6 @@
 *.3463x.com
 *.3464t.com
 *.3464x.com
-*.34650.org
 *.3465it4.net
 *.3465rp.net
 *.3465x.com
@@ -18148,9 +17855,7 @@
 *.346892.com
 *.3468x.com
 *.3469x.com
-*.346fb98.net
 *.346kyty.bet
-*.346sc5.net
 *.346yb.com
 *.346yh1.com
 *.3470357.com
@@ -18160,7 +17865,6 @@
 *.3472t.com
 *.347390.com
 *.3474x.com
-*.3475fc5.net
 *.3475t.com
 *.3475x.com
 *.347653.com
@@ -18171,7 +17875,6 @@
 *.347baa.com
 *.347kyty.bet
 *.347pc34.net
-*.347rr69.net
 *.347yb.com
 *.347yh1.com
 *.348289.com
@@ -18215,7 +17918,6 @@
 *.3497x.com
 *.3498t.com
 *.3498x.com
-*.349949.com
 *.34996666.com
 *.349975.com
 *.349kyty.bet
@@ -18227,13 +17929,11 @@
 *.34k2sw4.info
 *.34kq45.net
 *.34mtyc.com
-*.34r578.net
 *.34ttpq.com
 *.34yabo.com
 *.34yyhh.com
 *.3500t.com
 *.3501.vip
-*.350296.com
 *.3503x.com
 *.35095.com
 *.350hgv.com
@@ -18241,11 +17941,9 @@
 *.350yh1.com
 *.3510x.com
 *.3511j.com
-*.3511u.com
 *.3511x.com
 *.35120.xyz
 *.3512288.com
-*.351237.com
 *.3512j.com
 *.3512n.com
 *.3512v.com
@@ -18276,7 +17974,6 @@
 *.3524.tech
 *.3524555.com
 *.3525p.com
-*.35261.monster
 *.352621.xn--tckwe
 *.352622.xn--tckwe
 *.3526t.com
@@ -18292,7 +17989,6 @@
 *.3533j.com
 *.3533n.com
 *.3533p.com
-*.3533u.com
 *.3533x.com
 *.353556.com
 *.3535588.com
@@ -18301,7 +17997,6 @@
 *.3535vns.com
 *.353648.com
 *.3536p.com
-*.3536x.com
 *.3537j.com
 *.3537n.com
 *.3537x.com
@@ -18338,26 +18033,21 @@
 *.3549x.com
 *.355124.com
 *.3551n.com
-*.3551u.com
 *.355320.com
 *.355390.com
 *.3553n.com
 *.3553tyc.com
-*.3553u.com
 *.3554j.com
 *.3554n.com
 *.3554x.com
 *.35551p.com
 *.35552p.com
-*.35557.biz
 *.3556n.com
 *.3557n.com
 *.3557x.com
 *.3558n.com
-*.355910.org
 *.355jhp.com
 *.355yb.com
-*.3561188.cc
 *.356129.site
 *.3561h.com
 *.3561j.com
@@ -18373,12 +18063,9 @@
 *.3564x.com
 *.35656b.com
 *.35656c.com
-*.35657.wang
 *.356596.com
 *.3565j.com
 *.35665v.com
-*.3566735.com
-*.3566u.com
 *.356913.vip
 *.356914.vip
 *.356915.vip
@@ -18503,7 +18190,6 @@
 *.3574t.com
 *.3574x.com
 *.3577j.com
-*.3577u.com
 *.3577x.com
 *.3578910.com
 *.3578j.com
@@ -18511,7 +18197,6 @@
 *.3579h.com
 *.3579p.com
 *.3579t.com
-*.35801.biz
 *.3582j.com
 *.3582n.com
 *.3583j.com
@@ -18582,17 +18267,13 @@
 *.35yinhe.com
 *.35yyhh.com
 *.35z6.net
-*.36006.org
-*.3600js.com
 *.3602x.com
 *.3603x.com
 *.36088anquan.com
-*.36097.org
 *.360yabo.com
 *.360yh2.com
 *.36109.org
 *.3611h.com
-*.3611u.com
 *.3611v.com
 *.3612288.com
 *.361249.com
@@ -18976,56 +18657,6 @@
 *.361zp0.vip
 *.361zp1.vip
 *.361zp2.vip
-*.361zp3.vip
-*.361zp4.vip
-*.361zp5.vip
-*.361zp6.vip
-*.361zp7.vip
-*.361zp8.vip
-*.361zp9.vip
-*.361zq0.vip
-*.361zq1.vip
-*.361zq2.vip
-*.361zq3.vip
-*.361zq4.vip
-*.361zq5.vip
-*.361zq6.vip
-*.361zq7.vip
-*.361zq8.vip
-*.361zq9.vip
-*.361zr0.vip
-*.361zr1.vip
-*.361zr2.vip
-*.361zr3.vip
-*.361zr4.vip
-*.361zr5.vip
-*.361zr6.vip
-*.361zr7.vip
-*.361zr8.vip
-*.361zr9.vip
-*.361zs0.vip
-*.361zs1.vip
-*.361zs2.vip
-*.361zs3.vip
-*.361zs4.vip
-*.361zs5.vip
-*.361zs6.vip
-*.361zs7.vip
-*.361zs8.vip
-*.361zs9.vip
-*.361zt0.vip
-*.361zt1.vip
-*.361zt2.vip
-*.361zt3.vip
-*.361zt4.vip
-*.361zt6.vip
-*.361zt7.vip
-*.361zt8.vip
-*.361zt9.vip
-*.361zw0.vip
-*.361zw3.vip
-*.361zw4.vip
-*.361zx1.vip
 *.36202.vip
 *.3622.com
 *.3622j.com
@@ -19049,7 +18680,6 @@
 *.3629n.com
 *.3629t.com
 *.3631t.com
-*.36324.org
 *.3632j.com
 *.3632t.com
 *.3633404.com
@@ -19205,7 +18835,6 @@
 *.365551.org
 *.365552.org
 *.3655h.com
-*.3655u.com
 *.36565899.com
 *.36565900.com
 *.36565901.com
@@ -19275,15 +18904,11 @@
 *.365wm81.com
 *.365wmvip3073.com
 *.365yabo.com
-*.3661m.com
 *.3661n.com
 *.3662n.com
 *.3663123.com
 *.3663n.com
-*.3663u.com
 *.366479.xyz
-*.3665m.com
-*.3665y.com
 *.36661p.com
 *.36661v.com
 *.36662p.com
@@ -19300,11 +18925,9 @@
 *.3667n.com
 *.366880.com
 *.3668s.com
-*.3668u.com
 *.366911.com
 *.366989.com
 *.3669n.com
-*.3669u.com
 *.366hhg.com
 *.367152.com
 *.3671h.com
@@ -19516,7 +19139,6 @@
 *.3745x.com
 *.3746t.com
 *.3747t.com
-*.374800.org
 *.374869.com
 *.3748t.com
 *.3751j.com
@@ -19535,7 +19157,6 @@
 *.37533010.com
 *.37533pay.com
 *.3753t.com
-*.3755u.com
 *.3755x.com
 *.3757n.com
 *.3757p.com
@@ -19649,7 +19270,6 @@
 *.376596.site
 *.376662.com
 *.3766n.com
-*.3766u.com
 *.3766x.com
 *.376711.site
 *.376712.site
@@ -19688,7 +19308,6 @@
 *.37711.vip
 *.377195.com
 *.3771t.com
-*.3771u.com
 *.37722.vip
 *.3772h.com
 *.377336.com
@@ -19706,14 +19325,11 @@
 *.377336y.com
 *.377336z.com
 *.3773p.com
-*.3773u.com
 *.3773v.com
 *.3774n.com
 *.3774p.com
 *.3774v.com
-*.37769.org
 *.3776j.com
-*.3776u.com
 *.3776v.com
 *.37771p.com
 *.37771v.com
@@ -19852,7 +19468,6 @@
 *.37hgg.com
 *.37maoap.com
 *.37p456.com
-*.37tycvip.com
 *.37w66.com
 *.37yabo.com
 *.37yyhh.com
@@ -19863,7 +19478,6 @@
 *.3802961.com
 *.3802x.com
 *.3805x.com
-*.380819.com
 *.380jdt.com
 *.381006.com
 *.3810614.com
@@ -19893,7 +19507,6 @@
 *.3822288.com
 *.38225.com
 *.3822h.com
-*.3822u.com
 *.3822x.com
 *.382390.com
 *.3823j.com
@@ -19983,7 +19596,6 @@
 *.384390.com
 *.3843x.com
 *.384440.com
-*.3844ddd.com
 *.38471.com
 *.38478.com
 *.3847t.com
@@ -20101,7 +19713,6 @@
 *.386631.net
 *.386652.net
 *.38665v.com
-*.38667.net
 *.386687.net
 *.386696.net
 *.386697.net
@@ -20116,7 +19727,6 @@
 *.3869v.com
 *.3869x.com
 *.386p.com
-*.38701.org
 *.38705.wang
 *.3870x.com
 *.3871j.com
@@ -20135,7 +19745,6 @@
 *.38724t.com
 *.38724y.com
 *.38724z.com
-*.38726.org
 *.38726.vip
 *.387281.com
 *.3872920.com
@@ -20158,7 +19767,6 @@
 *.3876t.com
 *.3876x.com
 *.38777.xyz
-*.3877m.com
 *.3877p.com
 *.3877ty17.com
 *.38783979.com
@@ -20173,8 +19781,6 @@
 *.388123r.com
 *.388191.com
 *.38819v.com
-*.3881u.com
-*.3883u.com
 *.3883w.com
 *.3884n.com
 *.388595.com
@@ -20786,7 +20392,6 @@
 *.3915t.com
 *.3916t.com
 *.3917006.com
-*.39171.org
 *.3917441.com
 *.3917442.com
 *.3917443.com
@@ -20910,7 +20515,6 @@
 *.3951s.com
 *.3951t.com
 *.395260.com
-*.395292.com
 *.3952ms.com
 *.3952t.com
 *.3952x.com
@@ -21172,7 +20776,6 @@
 *.39781t.com
 *.39781y.com
 *.39781z.com
-*.39789.org
 *.3978h.com
 *.3978j.com
 *.3978s.com
@@ -21304,15 +20907,12 @@
 *.3jgts.net
 *.3jnobz37mv.com
 *.3js00.com
-*.3js00f.com
 *.3js01.com
-*.3js01f.com
 *.3js01q.com
 *.3js02.com
 *.3js024.com
 *.3js026.com
 *.3js028.com
-*.3js02f.com
 *.3js02h.com
 *.3js02q.com
 *.3js03.com
@@ -21322,7 +20922,6 @@
 *.3js036.com
 *.3js037.com
 *.3js038.com
-*.3js03f.com
 *.3js03h.com
 *.3js03q.com
 *.3js04.com
@@ -21335,30 +20934,22 @@
 *.3js06q.com
 *.3js07.com
 *.3js08.com
-*.3js08f.com
 *.3js09.com
 *.3js09f.com
 *.3js1.com
-*.3js10f.com
 *.3js11f.com
 *.3js12.com
 *.3js12f.com
 *.3js13.com
-*.3js13f.com
 *.3js15.com
-*.3js15f.com
 *.3js16.com
 *.3js16f.com
 *.3js17.com
 *.3js18.com
-*.3js18f.com
 *.3js19f.com
-*.3js20f.com
 *.3js21f.com
 *.3js22.com
-*.3js22f.com
 *.3js23.com
-*.3js23f.com
 *.3js25.com
 *.3js26.com
 *.3js26f.com
@@ -21482,9 +21073,7 @@
 *.40002138.com
 *.40005156.com
 *.4000byb.com
-*.400393.com
 *.4003v.com
-*.40046.net
 *.4004t.com
 *.4006n.com
 *.4007t.com
@@ -21577,7 +21166,6 @@
 *.405567.com
 *.4055t.com
 *.4058991.com
-*.40596.org
 *.405kyty.net
 *.40615229.com
 *.4061t.com
@@ -21604,14 +21192,12 @@
 *.4081t.com
 *.408653.com
 *.408678.com
-*.40887.org
 *.4088n.com
 *.4088t.com
 *.408kbets.com
 *.408kyty.net
 *.408vn.com
 *.408yb.com
-*.4090155.com
 *.4091888.com
 *.4092288.com
 *.4092952po.com
@@ -21716,7 +21302,6 @@
 *.413652.com
 *.4136t.com
 *.41371.com
-*.413774.com
 *.413788.com
 *.4139t.com
 *.41412277.com
@@ -21740,13 +21325,11 @@
 *.4149t.com
 *.4149x.com
 *.414wns.com
-*.41511.biz
 *.4151x.com
 *.4152t.com
 *.4153t.com
 *.4154t.com
 *.4154x.com
-*.41550.net
 *.4155t.com
 *.415621.space
 *.415622.space
@@ -21788,7 +21371,6 @@
 *.41691d.com
 *.41691g.com
 *.416970.com
-*.41698.biz
 *.4169t.com
 *.4170707.com
 *.4171t.com
@@ -21832,7 +21414,6 @@
 *.4192x.com
 *.4193t.com
 *.4194t.com
-*.419629.vip
 *.4197t.com
 *.4197x.com
 *.4198t.com
@@ -21842,7 +21423,6 @@
 *.41cp.bet
 *.41ji8lhm.com
 *.41p456.com
-*.41tycvip.com
 *.41xbet.com
 *.41yabo.com
 *.4200n.com
@@ -21977,12 +21557,10 @@
 *.4239t.com
 *.423yb.com
 *.423yh.com
-*.424121.org
 *.4241t.com
 *.4241x.com
 *.42420a.com
 *.4242304.com
-*.4242mgm.com
 *.4242vn.com
 *.4242vns.com
 *.4243t.com
@@ -22041,7 +21619,6 @@
 *.4262t.com
 *.4263t.com
 *.4263x.com
-*.42643.org
 *.426461.store
 *.426462.store
 *.426464.store
@@ -22145,7 +21722,6 @@
 *.4275982.com
 *.4275t.com
 *.427653.com
-*.427669.com
 *.427677.com
 *.42770b.com
 *.42770g.com
@@ -22164,7 +21740,6 @@
 *.428368.com
 *.4283x.com
 *.4284x.com
-*.42857.biz
 *.42862.com
 *.42862a.com
 *.42862b.com
@@ -22238,17 +21813,14 @@
 *.429yb.com
 *.42p456.com
 *.42qge9.com
-*.42tycvip.com
 *.42yabo.com
 *.42yyhh.com
 *.4300n.com
 *.4300v.com
 *.4302288.com
-*.430319.com
 *.43035.com
 *.430390.com
 *.43048.org
-*.430507.com
 *.430lgr.com
 *.430mm.com
 *.431088.com
@@ -22296,12 +21868,10 @@
 *.4333n.com
 *.4334n.com
 *.4334x.com
-*.433507.net
 *.4335n.com
 *.4335x.com
 *.43365.net
 *.4336n.com
-*.433927.com
 *.4339n.com
 *.433gl67.net
 *.433yb.com
@@ -22332,13 +21902,11 @@
 *.4346cca.com
 *.4347t.com
 *.434yb.com
-*.43502.wang
 *.4351t.com
 *.4352288.com
 *.4352t.com
 *.435390.com
 *.4353x.com
-*.43542.biz
 *.4354t.com
 *.4354x.com
 *.4355v.com
@@ -22346,13 +21914,11 @@
 *.4356x.com
 *.4357976.com
 *.4357x.com
-*.43586.org
 *.4358t.com
 *.4358x.com
 *.4359x.com
 *.435ewq.info
 *.435js2.info
-*.435m47.net
 *.435pfn4.net
 *.4361cc.com
 *.4361t.com
@@ -22373,7 +21939,6 @@
 *.4369t.com
 *.436ogj.com
 *.436yb.com
-*.437002.com
 *.437088.com
 *.437138.com
 *.4371t.com
@@ -22382,18 +21947,14 @@
 *.437288.com
 *.43730.com
 *.4373x.com
-*.43743.org
 *.4374t.com
-*.4374ti9.net
 *.4374x.com
 *.4375t.com
 *.4375x.com
 *.4376262.com
 *.437677.com
-*.4376gk3.net
 *.4377n.com
 *.4377t.com
-*.437d56.net
 *.437yb.com
 *.4381t.com
 *.438258.com
@@ -22504,7 +22065,6 @@
 *.43jsdc.com
 *.43la546.net
 *.43p456.com
-*.43tycvip.com
 *.43yabo.com
 *.43yb.com
 *.43yyhh.com
@@ -22515,11 +22075,9 @@
 *.4400vip.com
 *.4400vn77.com
 *.4401t.com
-*.4401x.com
 *.440252.com
 *.4402n.com
 *.4402t.com
-*.4402x.com
 *.4403t.com
 *.4404n.com
 *.4405t.com
@@ -22532,10 +22090,8 @@
 *.440868.com
 *.4408n.com
 *.4408v.com
-*.4408x.com
 *.4409n.com
 *.4409t.com
-*.4409x.com
 *.440yb.com
 *.4411696.com
 *.4411vip.com
@@ -22559,7 +22115,6 @@
 *.4419n.com
 *.4419t.com
 *.442.ee
-*.44205.vip
 *.4420n.com
 *.4420t.com
 *.4421t.com
@@ -22755,7 +22310,6 @@
 *.4471n.com
 *.4472n.com
 *.4472t.com
-*.447350.vip
 *.4473n.com
 *.4473v.com
 *.4475n.com
@@ -22767,7 +22321,6 @@
 *.4477696.com
 *.4477789.com
 *.4477wb.com
-*.44787.biz
 *.4478n.com
 *.4478p.com
 *.4478t.com
@@ -22811,7 +22364,6 @@
 *.4494t.com
 *.4495hb.app
 *.449653.com
-*.449667.org
 *.4496n.com
 *.4496t.com
 *.4497s.com
@@ -22851,7 +22403,6 @@
 *.4503666.com
 *.4503777.com
 *.4503999.com
-*.45041.org
 *.4504666.com
 *.45046666.com
 *.4504777.com
@@ -22967,7 +22518,6 @@
 *.453478.com
 *.45349999.com
 *.4534t.com
-*.4535483.com
 *.45356666.com
 *.45359.org
 *.45359999.com
@@ -22989,7 +22539,6 @@
 *.4539777.com
 *.4539t.com
 *.4539x.com
-*.45401.org
 *.454089.com
 *.4540999.com
 *.45409999.com
@@ -23122,7 +22671,6 @@
 *.456win.club
 *.456xbet.com
 *.45702.wang
-*.45709.org
 *.4570999.com
 *.4570t.com
 *.45716666.com
@@ -23137,19 +22685,16 @@
 *.4573x.com
 *.45746666.com
 *.4574x.com
-*.45752.asia
 *.4576999.com
 *.45769999.com
 *.4576x.com
 *.45775.wang
 *.457767.com
 *.4578x.com
-*.45795.org
 *.45796666.com
 *.4579777.com
 *.4579t.com
 *.4579x.com
-*.457ka4.net
 *.458.vip
 *.45806666.com
 *.4580777.com
@@ -23217,7 +22762,6 @@
 *.4595777.com
 *.4595t.com
 *.4595x.com
-*.459694.com
 *.45969999.com
 *.4596t.com
 *.4596x.com
@@ -23233,7 +22777,6 @@
 *.45hhgg.com
 *.45p456.com
 *.45s7e6mu.vip
-*.45tycvip.com
 *.45yabo.com
 *.45yyhh.com
 *.4600t.com
@@ -23253,7 +22796,6 @@
 *.4614t.com
 *.4614x.com
 *.4615x.com
-*.46162.org
 *.4618x.com
 *.4619x.com
 *.461vd.com
@@ -23283,25 +22825,20 @@
 *.4627x.com
 *.4628t.com
 *.4628x.com
-*.46297.org
 *.4629t.com
 *.4629x.com
 *.462h.com
 *.462yb.com
 *.4630t.com
-*.46313.kaufen
 *.4631t.com
 *.4632t.com
 *.4632x.com
 *.463390.com
 *.4634t.com
 *.4634x.com
-*.463504.com
 *.4635t.com
 *.4635x.com
-*.46363.biz
 *.4638t.com
-*.463906.com
 *.4639t.com
 *.4639x.com
 *.463h.com
@@ -23345,7 +22882,6 @@
 *.4647009.com
 *.46470099.com
 *.46474647.com
-*.464761.com
 *.4647aa00.com
 *.4647aa11.com
 *.4647aa22.com
@@ -23431,7 +22967,6 @@
 *.46542.vip
 *.46544.vip
 *.465457.com
-*.465498.com
 *.4654x.com
 *.46551.vip
 *.46552.vip
@@ -23490,7 +23025,6 @@
 *.4661t.com
 *.4661x.com
 *.466233.com
-*.46629.vip
 *.4662x.com
 *.466390.com
 *.4663n.com
@@ -23511,11 +23045,9 @@
 *.466ky.com
 *.466vn.com
 *.467.global
-*.46705.org
 *.4671t.com
 *.4672t.com
 *.4672x.com
-*.46737.kaufen
 *.467390.com
 *.4673t.com
 *.4674t.com
@@ -23544,12 +23076,10 @@
 *.467h.com
 *.4681t.com
 *.4681x.com
-*.46822.biz
 *.4682t.com
 *.4682x.com
 *.4685t.com
 *.4685x.com
-*.468766.org
 *.4687t.com
 *.46893.com
 *.46893a.com
@@ -23592,7 +23122,6 @@
 *.470749.com
 *.470mm.com
 *.470tyc.com
-*.47102.wang
 *.4711x.com
 *.471258.com
 *.4712t.com
@@ -23764,7 +23293,6 @@
 *.4763cca.com
 *.4763ccb.com
 *.4765.site
-*.4765517.com
 *.4765t.com
 *.476601.com
 *.4766xx.com
@@ -23819,7 +23347,6 @@
 *.477yl.com
 *.4781t.com
 *.4782288.com
-*.47827.org
 *.4782t.com
 *.4783t.com
 *.4784t.com
@@ -23830,7 +23357,6 @@
 *.478df43.net
 *.478vn.com
 *.47912.vip
-*.479150.org
 *.4791t.com
 *.4792t.com
 *.4793t.com
@@ -23851,7 +23377,6 @@
 *.47bet.com
 *.47hk375.info
 *.47p456.com
-*.47tycvip.com
 *.47yabo.com
 *.47yb.com
 *.47yyhh.com
@@ -23864,15 +23389,7 @@
 *.481368.com
 *.4813t.com
 *.4813x.com
-*.481415.com
 *.4814t.com
-*.481510.com
-*.481511.com
-*.481542.com
-*.481545.com
-*.481546.com
-*.481591.com
-*.481593.com
 *.4815cca.com
 *.4815t.com
 *.481656.com
@@ -23881,7 +23398,6 @@
 *.4818222.com
 *.4818t.com
 *.4818x.com
-*.481973.com
 *.4819t.com
 *.4819x.com
 *.481yb.com
@@ -23931,7 +23447,6 @@
 *.4848t.com
 *.4848vn.com
 *.4848vns.com
-*.484wns.com
 *.484yb.com
 *.4851x.com
 *.4852t.com
@@ -23941,26 +23456,12 @@
 *.4854t.com
 *.4855p.com
 *.4855s.com
-*.4858a.com
-*.4858ee.com
-*.4858f.com
 *.4858g.com
-*.4858hh.com
 *.4858j.com
 *.4858jj.com
-*.4858jjj.com
-*.4858lll.com
 *.4858m.com
-*.4858mmm.com
-*.4858o.com
-*.4858rrr.com
-*.4858u.com
 *.4858v.com
-*.4858w.com
-*.4858y.com
 *.4858z.com
-*.485mn4.net
-*.48613.org
 *.486138.com
 *.4862x.com
 *.4864t.com
@@ -24053,8 +23554,6 @@
 *.4891t.com
 *.4891x.com
 *.4893t.com
-*.489415.com
-*.489416.com
 *.4894t.com
 *.4896t.com
 *.4896x.com
@@ -24079,7 +23578,6 @@
 *.49045f.com
 *.49045g.com
 *.49045k.com
-*.490594.com
 *.490653.com
 *.490677.com
 *.490860305.com
@@ -24089,7 +23587,6 @@
 *.49129.org
 *.4914t.com
 *.4917x.com
-*.491911.com
 *.4919x.com
 *.491kyty.net
 *.491yb.com
@@ -24101,7 +23598,6 @@
 *.49265.vip
 *.4926x.com
 *.4927492.com
-*.49278.org
 *.4928t.com
 *.4928x.com
 *.4929382.com
@@ -24147,7 +23643,6 @@
 *.4956t.com
 *.4957t.com
 *.4958t.com
-*.495952.com
 *.495966.com
 *.4959t.com
 *.495kyty.net
@@ -24163,7 +23658,6 @@
 *.4965t.com
 *.4965x.com
 *.496601.com
-*.496612.com
 *.496653.com
 *.496703.com
 *.496704.com
@@ -24172,7 +23666,6 @@
 *.496802.com
 *.496805.com
 *.4968t.com
-*.496993.org
 *.4969t.com
 *.496kyty.net
 *.496oie.com
@@ -24190,7 +23683,6 @@
 *.4976x.com
 *.497877.com
 *.4978x.com
-*.49794.org
 *.497kyty.net
 *.498156.com
 *.4981t.com
@@ -24215,8 +23707,6 @@
 *.4991t.com
 *.4992.org
 *.4992x.com
-*.499341.org
-*.49943.biz
 *.4994p.com
 *.4994t.com
 *.4994x.com
@@ -24481,7 +23971,6 @@
 *.5051x.com
 *.5052262.com
 *.5052x.com
-*.50555.xyz
 *.5055n.com
 *.5056t.com
 *.5057x.com
@@ -24543,10 +24032,6 @@
 *.5079324.com
 *.507kyty.bet
 *.507mgi.com
-*.50809a.com
-*.50809b.com
-*.50809c.com
-*.50809e.com
 *.5080t.com
 *.5080x.com
 *.5082x.com
@@ -24564,7 +24049,6 @@
 *.5093x.com
 *.5097x.com
 *.5098x.com
-*.50999.xyz
 *.5099n.com
 *.509wa.wang
 *.509yb.com
@@ -24577,7 +24061,6 @@
 *.50jiliph.com
 *.50mtyc.com
 *.50starscasino.com
-*.50tycvip.com
 *.50wct.com
 *.50yabo.com
 *.510007.com
@@ -24612,7 +24095,6 @@
 *.5115j.com
 *.5115n.com
 *.5115x.com
-*.5116v.com
 *.511795.com
 *.5117n.com
 *.5117x.com
@@ -24625,8 +24107,6 @@
 *.511kyty.bet
 *.51204758.com
 *.51210.vip
-*.51216.biz
-*.5121v.com
 *.5121x.com
 *.51222.biz
 *.5122207.com
@@ -24737,7 +24217,6 @@
 *.5126j.com
 *.5127j.com
 *.5127t.com
-*.5127v.com
 *.5127x.com
 *.512855.com
 *.51286.vip
@@ -24795,7 +24274,6 @@
 *.5133x.com
 *.5134x.com
 *.5135t.com
-*.5135v.com
 *.513655.com
 *.5136n.com
 *.5136t.com
@@ -24816,25 +24294,20 @@
 *.5142288.com
 *.51430.com
 *.5143t.com
-*.51454.net
 *.5146.org
 *.5147.org
 *.5149t.com
 *.514kyty.bet
 *.514yb.com
 *.514yh.com
-*.51511.biz
-*.51511.kaufen
 *.5151608.com
 *.51516163.com
 *.5151777.com
 *.5151vn.com
 *.5151vns.com
-*.515279.com
 *.51529.com
 *.5152s.com
 *.5152w.com
-*.51530.org
 *.5153388.com
 *.5153x.com
 *.5154t.com
@@ -24905,7 +24378,6 @@
 *.51637575.com
 *.5163n.com
 *.5163t.com
-*.5163v.com
 *.5163x.com
 *.5165j.com
 *.5165n.com
@@ -24921,7 +24393,6 @@
 *.5170t.com
 *.517155.com
 *.5171t.com
-*.5171v.com
 *.517255.com
 *.5172j.com
 *.5172n.com
@@ -24940,22 +24411,17 @@
 *.5178p.com
 *.5179j.com
 *.5179t.com
-*.5179x.com
 *.517jgmr.com
 *.517kyty.bet
 *.5181j.com
 *.5181t.com
 *.5182004.com
 *.5182p.com
-*.51837.org
-*.518372.com
 *.5183t.com
-*.51844.vip
 *.5185166.com
 *.5185j.com
 *.5185p.com
 *.5185x.com
-*.51863.org
 *.5186p.com
 *.5186w.com
 *.5187t.com
@@ -24968,10 +24434,8 @@
 *.5188n.bet
 *.5188t.bet
 *.5188u.bet
-*.5189v.com
 *.5189x.com
 *.518vnsr.com
-*.51913.org
 *.5191h.com
 *.5191j.com
 *.5191p.com
@@ -24984,7 +24448,6 @@
 *.5194t.com
 *.5194x.com
 *.5195n.com
-*.5195v.com
 *.519655.com
 *.5196n.com
 *.5196p.com
@@ -24993,9 +24456,7 @@
 *.5198n.com
 *.5198t.com
 *.5199.vip
-*.51999.xyz
 *.5199a.bet
-*.5199m.com
 *.5199s.bet
 *.5199s.com
 *.5199t.bet
@@ -25017,7 +24478,6 @@
 *.51ouguan.com
 *.51p456.com
 *.51sodao.com
-*.51tycvip.com
 *.51vnr.com
 *.51wanqiu.com
 *.51wanqiu.net
@@ -25046,13 +24506,11 @@
 *.5215n.com
 *.5215p.com
 *.5215t.com
-*.5215v.com
 *.52168168.com
 *.52168188.com
 *.521686.com
 *.5216fa.com
 *.5216t.com
-*.5216v.com
 *.5216x.com
 *.5217j.com
 *.5217p.com
@@ -25107,7 +24565,6 @@
 *.5233s.com
 *.5233t.com
 *.5235588.com
-*.523564.com
 *.5235n.com
 *.5235v.com
 *.5235x.com
@@ -25119,7 +24576,6 @@
 *.5238t.com
 *.523976.com
 *.5239j.com
-*.5239v.com
 *.5239x.com
 *.5240.xyz
 *.5240t.com
@@ -25127,14 +24583,12 @@
 *.52416935.xyz
 *.5241t.com
 *.5242004.com
-*.524274.com
 *.524379.com
 *.5243x.com
 *.52444.biz
 *.5245.org
 *.5245t.com
 *.52471859.com
-*.52478.biz
 *.5247t.com
 *.5248x.com
 *.524yb.com
@@ -25144,7 +24598,6 @@
 *.5251x.com
 *.5252004.com
 *.52526163.com
-*.5252mgm.com
 *.5252vn.com
 *.5252vns.com
 *.5253n.com
@@ -25244,7 +24697,6 @@
 *.5267v.com
 *.5268t.com
 *.5268x.com
-*.52696.net
 *.5269j.com
 *.5269n.com
 *.5269t.com
@@ -25317,7 +24769,6 @@
 *.5295vip6.app
 *.5295wm6.app
 *.5295wx.app
-*.52986.net
 *.5298j.com
 *.5298t.com
 *.5298v.com
@@ -25433,7 +24884,6 @@
 *.5319n.com
 *.531tyc.vip
 *.531yb.com
-*.532017.com
 *.53214572.com
 *.5321j.com
 *.5321n.com
@@ -25533,7 +24983,6 @@
 *.5352v.com
 *.5352x.com
 *.53536163.com
-*.5353mgm.com
 *.5353vn.com
 *.5353vns.com
 *.5354570.com
@@ -25666,7 +25115,6 @@
 *.5392t.com
 *.5393n.com
 *.5393t.com
-*.53949.biz
 *.5395588.com
 *.5395v.com
 *.5395x.com
@@ -25680,8 +25128,6 @@
 *.5398n.com
 *.5398p.com
 *.5398v.com
-*.539949.com
-*.53999.xyz
 *.5399994.com
 *.5399t.com
 *.53qp8.com
@@ -25717,7 +25163,6 @@
 *.5414www.com
 *.5415t.com
 *.5415x.com
-*.54161.vip
 *.54175892.com
 *.5417t.com
 *.5417x.com
@@ -25726,11 +25171,9 @@
 *.541yb.com
 *.542004.com
 *.5420t.com
-*.542161.com
 *.5421x.com
 *.5422n.com
 *.5422s.com
-*.54233.org
 *.5424app.com
 *.5424hb.com
 *.5424hd.com
@@ -25786,7 +25229,6 @@
 *.5454010.com
 *.54540123.com
 *.5454019.com
-*.54541.biz
 *.54546163.com
 *.5454999.com
 *.5454hb.com
@@ -25815,7 +25257,6 @@
 *.546372839.fun
 *.546398.com
 *.5463t.com
-*.54648.org
 *.5464t.com
 *.5464x.com
 *.5465t.com
@@ -25838,13 +25279,11 @@
 *.5467qp.com
 *.5467u.vip
 *.5468t.com
-*.546kc545.net
 *.546yb.com
 *.5470t.com
 *.5471t.com
 *.5472.org
 *.5472512.com
-*.54747.kaufen
 *.5474t.com
 *.5474x.com
 *.5476x.com
@@ -25870,7 +25309,6 @@
 *.548968.vip
 *.548969.vip
 *.5489x.com
-*.5489yt5.net
 *.5491t.com
 *.5492t.com
 *.5493t.com
@@ -25881,7 +25319,6 @@
 *.5498t.com
 *.5499x.com
 *.54ka45.net
-*.54ng75.net
 *.54ntz.com
 *.54ol4cdsvs.com
 *.54p456.com
@@ -25908,7 +25345,6 @@
 *.550478.com
 *.5505359.com
 *.55058.vip
-*.5505a.com
 *.550608.com
 *.5506606.com
 *.550748.com
@@ -25921,8 +25357,6 @@
 *.55115316.com
 *.5511tyc.com
 *.551208.com
-*.5512m.com
-*.5513a.com
 *.551408.com
 *.5514j.com
 *.5515666.com
@@ -25934,7 +25368,6 @@
 *.55169.vip
 *.55175517.com
 *.5517b.com
-*.5517m.com
 *.551837.com
 *.551848.com
 *.5518555.com
@@ -25955,13 +25388,11 @@
 *.552068.com
 *.5520n.com
 *.552148.com
-*.5521a.com
 *.5522.pro
 *.5522696.com
 *.55229x.com
 *.5523196.com
 *.552361.com
-*.5523a.com
 *.5523m.com
 *.5524x.com
 *.5525359.com
@@ -25969,7 +25400,6 @@
 *.5526v.com
 *.552fun.com
 *.5530989.com
-*.5530a.com
 *.5532004.com
 *.55324.biz
 *.5532555.com
@@ -25990,14 +25420,12 @@
 *.553508.com
 *.5535359.com
 *.55356.com
-*.5535m.com
 *.5535t.com
 *.5535w.com
 *.5537333.com
 *.5537w.com
 *.5538ky.com
 *.553977.com
-*.5539a.com
 *.5539ky.com
 *.554089.com
 *.5540n.com
@@ -26093,7 +25521,6 @@
 *.555457.com
 *.5554608.com
 *.555471.com
-*.55549.biz
 *.555495.com
 *.55552p.com
 *.55552v.com
@@ -26122,7 +25549,6 @@
 *.555club.vip
 *.555dimes.com
 *.555hgg.com
-*.555t665.com
 *.555vn77.com
 *.555wb9.com
 *.555wb999.com
@@ -26173,7 +25599,6 @@
 *.5574x.com
 *.5575359.com
 *.5575ky.com
-*.5575m.com
 *.5575qq.com
 *.5575t.com
 *.5576ky.com
@@ -26238,7 +25663,6 @@
 *.5591ky.com
 *.5592004.com
 *.5592555.com
-*.5592a.com
 *.5592ky.com
 *.5593555.com
 *.5593ky.com
@@ -26341,7 +25765,6 @@
 *.5600n.com
 *.5602x.com
 *.5603.net
-*.560321.cn
 *.5603f.net
 *.5603k.net
 *.5603l.net
@@ -26501,7 +25924,6 @@
 *.5633n.com
 *.5634754.com
 *.56352147.com
-*.56354.vip
 *.5635j.com
 *.5635t.com
 *.5635x.com
@@ -26524,7 +25946,6 @@
 *.5642x.com
 *.5643.org
 *.5643x.com
-*.56449.biz
 *.5644p.com
 *.5644t.com
 *.5645t.com
@@ -26641,13 +26062,11 @@
 *.5679h.com
 *.5679s.com
 *.567amblr.com
-*.567apps.live
 *.567ga43.net
 *.567win456.com
 *.567wnsr.com
 *.5681h.com
 *.5681n.com
-*.56824.org
 *.568336.com
 *.568337.com
 *.568338.com
@@ -26662,9 +26081,7 @@
 *.5686t.com
 *.5686x.com
 *.56872b.vip
-*.568772.com
 *.5687x.com
-*.56884.vip
 *.5688v.com
 *.5688x.com
 *.5689698.com
@@ -26695,7 +26112,6 @@
 *.5695t.com
 *.5695w.com
 *.5695x.com
-*.569692.org
 *.5696j.com
 *.5696n.com
 *.5696x.com
@@ -26740,7 +26156,6 @@
 *.570manx.com
 *.570yb.com
 *.57103.vip
-*.571121.vip
 *.57118.org
 *.5711j.com
 *.5711w.com
@@ -26778,7 +26193,6 @@
 *.5724x.com
 *.5725n.com
 *.5725t.com
-*.57260.biz
 *.5726688.com
 *.5726j.com
 *.5726n.com
@@ -26795,21 +26209,16 @@
 *.5732j.com
 *.5732n.com
 *.5732t.com
-*.57337.org
 *.5733n.com
 *.5733p.com
 *.5733t.com
 *.5734.tech
-*.573405.com
 *.5734t.com
 *.5734x.com
 *.5735588.com
 *.5735x.com
 *.573688.xyz
 *.5737.org
-*.57370.org
-*.573727.com
-*.573732.com
 *.5737t.com
 *.5738t.com
 *.5739j.com
@@ -26843,7 +26252,6 @@
 *.575752.com
 *.57576163.com
 *.shanhe.57577.live
-*.5757mgm.com
 *.5757t.com
 *.5757vn.com
 *.5757vns.com
@@ -26853,7 +26261,6 @@
 *.5758n.com
 *.5758t.com
 *.5758v.com
-*.575er45.net
 *.575wns.com
 *.576.hu
 *.5760498.com
@@ -26861,7 +26268,6 @@
 *.5761j.com
 *.5761n.com
 *.5761x.com
-*.57622.asia
 *.576270.com
 *.5762x.com
 *.5763hh.com
@@ -26953,7 +26359,6 @@
 *.5797x.com
 *.57988.com
 *.5798t.com
-*.57999.xyz
 *.5799tyc.com
 *.57hgv.com
 *.57p456.com
@@ -26984,7 +26389,6 @@
 *.5813388.com
 *.5813j.com
 *.5813p.com
-*.58141.org
 *.5814t.com
 *.5815t.com
 *.5815x.com
@@ -27064,7 +26468,6 @@
 *.5844p.com
 *.5844w.com
 *.5844x.com
-*.58451.biz
 *.584519.cc
 *.584573.cc
 *.5847t.com
@@ -27505,7 +26908,6 @@
 *.588.vg
 *.588124.com
 *.5881t.com
-*.588285.com
 *.5882h.com
 *.5882p.com
 *.5882t.com
@@ -27561,7 +26963,6 @@
 *.589yb.com
 *.58a.bet
 *.58b8.com
-*.58betvip.com
 *.58btt.com
 *.58btt.net
 *.58cro.com
@@ -27611,7 +27012,6 @@
 *.5925x.com
 *.59273.com
 *.5927n.com
-*.592801.com
 *.5929j.com
 *.5929n.com
 *.5929t.com
@@ -27629,11 +27029,7 @@
 *.5938t.com
 *.5939t.com
 *.5939x.com
-*.594140.com
-*.594155.com
-*.594159.com
 *.5941x.com
-*.594243.com
 *.594262.com
 *.5943t.com
 *.5943x.com
@@ -27691,11 +27087,9 @@
 *.59635441.com
 *.5963n.com
 *.5963p.com
-*.59646.wang
 *.5964x.com
 *.5965p.com
 *.5966lts.com
-*.59674.biz
 *.5967x.com
 *.596878.com
 *.59688v.com
@@ -27858,14 +27252,12 @@
 *.5zosntzs5x8cebkcvaiexgbqcfdum7yxfggq8bhocsjh04oszzhynkpqqm7w.info
 *.60000tyc.com
 *.6002x.com
-*.60034.org
 *.6004t.com
 *.6005x.com
 *.6006777.com
 *.6008024.com
 *.6008158.com
 *.6008789.com
-*.600890.bet
 *.6009t.com
 *.6009x.com
 *.600byb.com
@@ -27950,7 +27342,6 @@
 *.6021x.com
 *.6022443.com
 *.6022v.com
-*.602347.org
 *.60238.vip
 *.602477.com
 *.6025588.com
@@ -27972,7 +27363,6 @@
 *.603477.com
 *.60352.vip
 *.6035588.com
-*.60393.org
 *.60405.net
 *.604077.com
 *.604177.com
@@ -28073,11 +27463,9 @@
 *.6089898.com
 *.6089990.com
 *.608ppp.com
-*.609182.com
 *.6091x.com
 *.6092952ya.com
 *.6092x.com
-*.60935.org
 *.6093x.com
 *.6095x.com
 *.6096.vip
@@ -28086,7 +27474,6 @@
 *.609866.com
 *.6098t.com
 *.60995.com
-*.60999.xyz
 *.6099n.com
 *.60cp6.com
 *.60p456.com
@@ -28118,7 +27505,6 @@
 *.6112n.com
 *.6113n.com
 *.6113x.com
-*.611434.org
 *.6114p.com
 *.611510.com
 *.611558123.com
@@ -28210,15 +27596,12 @@
 *.6136p.com
 *.6136w.com
 *.61378.vip
-*.613855.biz
-*.61398.net
 *.614086.com
 *.6141x.com
 *.6145t.com
 *.6145x.com
 *.6146t.com
 *.6148t.com
-*.614953.com
 *.6149t.com
 *.615007.com
 *.6150x.com
@@ -28232,7 +27615,6 @@
 *.615501.com
 *.615507.com
 *.615509.com
-*.615542.com
 *.6156v.com
 *.6157t.com
 *.6157x.com
@@ -28295,7 +27677,6 @@
 *.616456.com
 *.6164t.com
 *.6164x.com
-*.61650.net
 *.616558.com
 *.6165599.com
 *.6166s.com
@@ -28415,7 +27796,6 @@
 *.6205x.com
 *.6206x.com
 *.6207x.com
-*.62092.org
 *.62111.biz
 *.62111n.com
 *.6211n.com
@@ -28528,7 +27908,6 @@
 *.6258n.com
 *.6258t.com
 *.6259363.com
-*.625946.vip
 *.6259666.com
 *.6259j.com
 *.6259t.com
@@ -28784,7 +28163,6 @@
 *.6269t.com
 *.626wns.com
 *.626yb.com
-*.62713.kaufen
 *.627245.xyz
 *.627246.xyz
 *.627247.xyz
@@ -28851,7 +28229,6 @@
 *.6291hg.com
 *.6291t.com
 *.6291x.com
-*.62929.net
 *.6292p.com
 *.6292t.com
 *.6293388.com
@@ -28962,7 +28339,6 @@
 *.630087.com
 *.6300js.com
 *.6300t.com
-*.63039.org
 *.63042.org
 *.630599.com
 *.63063.biz
@@ -28973,7 +28349,6 @@
 *.6309x.com
 *.63111.biz
 *.6311x.com
-*.631254.org
 *.6312j.com
 *.6312n.com
 *.6312p.com
@@ -28982,7 +28357,6 @@
 *.6312x.com
 *.6313j.com
 *.6313t.com
-*.63147.vip
 *.6314t.com
 *.6315588.com
 *.6315j.com
@@ -29094,7 +28468,6 @@
 *.6335w.com
 *.6336bet.net
 *.6336n.com
-*.63375.biz
 *.63377.xyz
 *.63377e.xyz
 *.63377n.xyz
@@ -29109,9 +28482,6 @@
 *.6339t.com
 *.633kb.com
 *.633zd.com
-*.634178.com
-*.634185.com
-*.634274.com
 *.6343t.com
 *.6343x.com
 *.6344n.com
@@ -29135,7 +28505,6 @@
 *.635269871.com
 *.6352t.com
 *.6353t.com
-*.63549.wang
 *.6354t.com
 *.6354x.com
 *.6355n.com
@@ -29354,7 +28723,6 @@
 *.6419t.com
 *.641yb.com
 *.641zr.net
-*.64206.asia
 *.6420t.com
 *.64212.com
 *.642260.com
@@ -29363,7 +28731,6 @@
 *.642368.com
 *.6424ccb.com
 *.6424x.com
-*.642578.com
 *.6426t.com
 *.6426x.com
 *.6427t.com
@@ -29374,7 +28741,6 @@
 *.642yb.com
 *.6431x.com
 *.643286.com
-*.643292.com
 *.6433x.com
 *.6434t.com
 *.6434x.com
@@ -29497,7 +28863,6 @@
 *.6487t.com
 *.6488.org
 *.6488w.com
-*.6489441.com
 *.6489t.com
 *.6489x.com
 *.6491hg.com
@@ -29615,7 +28980,6 @@
 *.6539v.com
 *.653qp5.com
 *.6540t.com
-*.65411.wang
 *.654147.com
 *.654149.com
 *.654244.com
@@ -29658,7 +29022,6 @@
 *.656256.com
 *.6562v.com
 *.6562x.com
-*.65640.biz
 *.6564t.com
 *.6564x.com
 *.6565608.com
@@ -29667,10 +29030,8 @@
 *.6565t.com
 *.6565vn.com
 *.656615.com
-*.65666.xyz
 *.6566v.com
 *.6567t.com
-*.65682.org
 *.65683.wang
 *.6568555.com
 *.6569n.com
@@ -29846,7 +29207,6 @@
 *.6612ky.com
 *.661316.com
 *.6613ky.com
-*.661407.net
 *.661517.com
 *.6615359.com
 *.661573.com
@@ -29862,7 +29222,6 @@
 *.66188199.com
 *.6618ky.com
 *.661908.com
-*.661940.net
 *.661968.com
 *.6619ky.com
 *.661yb.com
@@ -29870,7 +29229,6 @@
 *.662038.com
 *.662068.com
 *.662098.com
-*.6620a.com
 *.6621ky.com
 *.66222v.com
 *.66222x.com
@@ -29915,7 +29273,6 @@
 *.6624696.com
 *.6624j.com
 *.6625359.com
-*.6625a.com
 *.6625v.com
 *.6625x.com
 *.6626w.com
@@ -30006,7 +29363,6 @@
 *.664751.com
 *.664yh.com
 *.665003.vip
-*.6650k.com
 *.66518v.com
 *.6651f.com
 *.6651ky.com
@@ -30016,7 +29372,6 @@
 *.6652s.com
 *.6653388.com
 *.66534.com
-*.6653a.com
 *.6653ky.com
 *.6654x.com
 *.66553412.com
@@ -30106,7 +29461,6 @@
 *.6661tyc.com
 *.66622p.com
 *.666242.com
-*.6662a.com
 *.6662tyc.com
 *.66630989.com
 *.66633n.com
@@ -30237,7 +29591,6 @@
 *.6681f.com
 *.6681ty.com
 *.66823.com
-*.66824.net
 *.6682ty.com
 *.6683f.com
 *.6684b.com
@@ -30279,7 +29632,6 @@
 *.668shbet.com
 *.668tt.app
 *.668yhyh.com
-*.6690a.com
 *.66911.biz
 *.6691ky.com
 *.6692ky.com
@@ -30288,7 +29640,6 @@
 *.6693ky.com
 *.6693n.com
 *.6693w.com
-*.66945.win
 *.6694x.com
 *.6695333.com
 *.6695359.com
@@ -30399,10 +29750,8 @@
 *.66zz0880.com
 *.66zz5357.com
 *.67004.biz
-*.670080.org
 *.6700t.com
 *.6702288.com
-*.670581.com
 *.6706x.com
 *.67095.org
 *.6709926.com
@@ -30415,11 +29764,9 @@
 *.6712hh.com
 *.6712x.com
 *.6713388.com
-*.671379.com
 *.6713t.com
 *.6714t.com
 *.6714x.com
-*.671583.com
 *.6715v.com
 *.6715x.com
 *.6716v.com
@@ -30806,7 +30153,6 @@
 *.6731y.com
 *.6731yy.com
 *.6732.com
-*.673207.org
 *.6732a.com
 *.6732aaa.com
 *.6732bb.com
@@ -30875,7 +30221,6 @@
 *.6737n.com
 *.6737v.com
 *.6737x.com
-*.67388.biz
 *.6738x.com
 *.6740797.com
 *.6741t.com
@@ -30931,16 +30276,6 @@
 *.6765n.com
 *.6765t.com
 *.6765v.com
-*.676608.com
-*.676617.com
-*.676620.com
-*.676621.com
-*.676632.com
-*.676640.com
-*.676646.com
-*.676648.com
-*.676681.com
-*.676684.com
 *.6766ah.com
 *.6766bj.com
 *.6766cq.com
@@ -30990,7 +30325,6 @@
 *.6769v.com
 *.6769x.com
 *.6772x.com
-*.677332.vip
 *.6773666.com
 *.6773j.com
 *.6775t.com
@@ -31107,7 +30441,6 @@
 *.6801x.com
 *.680248.com
 *.6804854.com
-*.680645.com
 *.6806t.com
 *.6809x.com
 *.680yh.com
@@ -31153,7 +30486,6 @@
 *.6827t.com
 *.682848.com
 *.682881.com
-*.68290.biz
 *.68296c.com
 *.6829950.com
 *.6829n.com
@@ -31183,7 +30515,6 @@
 *.684140.com
 *.684142.com
 *.684143.com
-*.684167.vip
 *.6842t.com
 *.68431.com
 *.684386.com
@@ -31196,12 +30527,10 @@
 *.6847t.com
 *.6847x.com
 *.684818.com
-*.684876.com
 *.684986.com
 *.6849t.com
 *.6849x.com
 *.684bn.net
-*.684ka3.net
 *.6851t.com
 *.6851w.com
 *.6851x.com
@@ -31215,7 +30544,6 @@
 *.685486.com
 *.6854t.com
 *.6855588.com
-*.68569.monster
 *.6857t.com
 *.6857v.com
 *.6857w.com
@@ -31235,20 +30563,6 @@
 *.6863n.com
 *.6863t.com
 *.6863x.com
-*.686542.com
-*.686543.com
-*.686545.com
-*.686548.com
-*.686550.com
-*.686554.com
-*.686620.com
-*.686624.com
-*.686625.com
-*.68663.biz
-*.686635.com
-*.686639.com
-*.686642.com
-*.686643.com
 *.6867j.com
 *.6867t.com
 *.6867v.com
@@ -31398,7 +30712,6 @@
 *.6900t.com
 *.6903x.com
 *.6904t.com
-*.6905048.com
 *.6907t.com
 *.690bet.com
 *.690h.com
@@ -31443,7 +30756,6 @@
 *.69166n.com
 *.6916n.com
 *.6916t.com
-*.69179.org
 *.6918j.com
 *.6918n.com
 *.6919p.com
@@ -31514,7 +30826,6 @@
 *.6935x.com
 *.6936t.com
 *.6936v.com
-*.693741.org
 *.6937t.com
 *.693847.net
 *.69387.vip
@@ -31596,7 +30907,6 @@
 *.6971x.com
 *.6972h.com
 *.6972x.com
-*.69737.org
 *.6973n.com
 *.6973t.com
 *.6973v.com
@@ -31613,7 +30923,6 @@
 *.6979t.com
 *.6979x.com
 *.697ms.com
-*.698034.com
 *.6980t.com
 *.6981t.com
 *.6981x.com
@@ -32074,13 +31383,8 @@
 *.6p6p5.com
 *.6p6p8.com
 *.6p6p9.com
-*.6p915.com
 *.6p955.com
-*.6p977.com
 *.6peu5cad.com
-*.6pj256.com
-*.6pj325.com
-*.6pj378.com
 *.6pp66.com
 *.6sbm5q.com
 *.6shbet.com
@@ -32161,8 +31465,6 @@
 *.7006012.com
 *.7006678.com
 *.7006890.com
-*.700723.biz
-*.70073.wang
 *.7007t.com
 *.7008234.com
 *.700byb.com
@@ -32201,7 +31503,6 @@
 *.704yh.com
 *.705166.com
 *.7052x.com
-*.70557.net
 *.7055n.com
 *.7056x.com
 *.7057x.com
@@ -32266,7 +31567,6 @@
 *.708943.com
 *.7090x.com
 *.7091x.com
-*.709298.com
 *.7092x.com
 *.7093x.com
 *.709466.com
@@ -32276,7 +31576,6 @@
 *.709766.com
 *.709866.com
 *.70996.org
-*.70999.xyz
 *.709yh.com
 *.70j01.com
 *.70j02.com
@@ -32312,7 +31611,6 @@
 *.7119n.com
 *.7119x.com
 *.711yh.com
-*.712032.com
 *.7120x.com
 *.7122x.com
 *.7123388.com
@@ -32376,7 +31674,6 @@
 *.7149t.com
 *.7149x.com
 *.714yb.com
-*.715088.com
 *.7150t.com
 *.7151j.com
 *.7151n.com
@@ -32391,14 +31688,12 @@
 *.7153t.com
 *.715466.com
 *.7154t.com
-*.7155678.com
 *.7156p.com
 *.7156t.com
 *.7156v.com
 *.7156x.com
 *.7157j.com
 *.7157n.com
-*.71587.wang
 *.71599.vip
 *.71599v.com
 *.7159t.com
@@ -32481,7 +31776,6 @@
 *.7182p.com
 *.7182t.com
 *.7183388.com
-*.71837.org
 *.7183h.com
 *.7183t.com
 *.7184.org
@@ -32499,7 +31793,6 @@
 *.71886dns.com
 *.71886hb.com
 *.7190320.com
-*.71909.net
 *.7190t.com
 *.7191t.com
 *.7191x.com
@@ -32516,7 +31809,6 @@
 *.7197t.com
 *.7198t.com
 *.7198x.com
-*.71999.xyz
 *.7199m.com
 *.71p456.com
 *.71s3vpbtds.com
@@ -32552,7 +31844,6 @@
 *.7216j.com
 *.7216t.com
 *.7216x.com
-*.72177.vip
 *.7217j.com
 *.7217x.com
 *.7218h.com
@@ -32721,7 +32012,6 @@
 *.7236t.com
 *.7236w.com
 *.7236x.com
-*.7238506.com
 *.7238h.com
 *.7238j.com
 *.7238n.com
@@ -32737,7 +32027,6 @@
 *.72449pj.com
 *.72449vip.com
 *.72463.biz
-*.724630.com
 *.72478.com
 *.7247t.com
 *.7248x.com
@@ -32868,7 +32157,6 @@
 *.7268555.com
 *.7268p.com
 *.726yb.com
-*.72712.biz
 *.727138.com
 *.7271t.com
 *.7271x.com
@@ -32934,7 +32222,6 @@
 *.7290x.com
 *.7291j.com
 *.7291n.com
-*.7292423.com
 *.7292857.xyz
 *.7292858.xyz
 *.7292859.xyz
@@ -32982,7 +32269,6 @@
 *.7298j.com
 *.729976.com
 *.72999.biz
-*.72999.xyz
 *.7299m.com
 *.7299s.com
 *.7299t.com
@@ -32993,7 +32279,6 @@
 *.72z6.net
 *.730011.com
 *.7300t.com
-*.73012.biz
 *.7302x.com
 *.7303279.com
 *.7305x.com
@@ -33090,7 +32375,6 @@
 *.7344p.com
 *.7344x.com
 *.7345p.com
-*.734697.com
 *.7346t.com
 *.7346x.com
 *.7347x.com
@@ -33271,7 +32555,6 @@
 *.7389t.com
 *.7389v.com
 *.7389x.com
-*.739153.org
 *.7391j.com
 *.7391t.com
 *.7392j.com
@@ -33297,7 +32580,6 @@
 *.739875.xyz
 *.7398x.com
 *.73996bet.com
-*.73999.xyz
 *.7399p.com
 *.7399t.com
 *.7399v.com
@@ -33500,7 +32782,6 @@
 *.7447x.com
 *.7447yb.com
 *.7448n.com
-*.744928.net
 *.7449yb.com
 *.744tt.com
 *.744yh.com
@@ -33526,7 +32807,6 @@
 *.7461t.com
 *.7461x.com
 *.7462004.com
-*.74624.net
 *.7462cc.com
 *.7462t.com
 *.7463t.com
@@ -33576,7 +32856,6 @@
 *.7484t.com
 *.7485t.com
 *.7488yb.com
-*.74897.net
 *.7489t.com
 *.7489x.com
 *.748zf.biz
@@ -33606,13 +32885,11 @@
 *.7494568.com
 *.7494t.com
 *.7494x.com
-*.74955.org
 *.7495512.com
 *.7495513.com
 *.7495514.com
 *.7495517.com
 *.7495518.com
-*.749553.net
 *.7495t.com
 *.7495x.com
 *.7495yb.com
