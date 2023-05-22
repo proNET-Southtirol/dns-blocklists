@@ -3806,3 +3806,13 @@
 @@|opsserver.ch^
 @@|www.opsserver.ch^
 
+! https://github.com/hagezi/dns-blocklists/issues/1067
+@@|cmp.dmgmediaprivacy.co.uk^
+
+! https://github.com/hagezi/dns-blocklists/issues/1068
+@@|seo.spot.im^
+
+! https://github.com/hagezi/dns-blocklists/issues/1069
+@@|dooood.com^
+@@|www.dooood.com^
+

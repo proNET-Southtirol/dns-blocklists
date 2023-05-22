@@ -77153,8 +77153,6 @@ dianomioffers.co.uk CNAME .
 *.dianomioffers.co.uk CNAME .
 sw88.disney.co.uk CNAME .
 *.sw88.disney.co.uk CNAME .
-dmgmediaprivacy.co.uk CNAME .
-*.dmgmediaprivacy.co.uk CNAME .
 saa.dyson.co.uk CNAME .
 *.saa.dyson.co.uk CNAME .
 dzinestudio87.co.uk CNAME .

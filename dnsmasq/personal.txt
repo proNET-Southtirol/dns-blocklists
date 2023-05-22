@@ -9279,7 +9279,6 @@ address=/tracker.digitalcamp.co.kr/#
 address=/dilo.co.kr/#
 address=/sw88.disney.co.uk/#
 address=/dmdsolutions.co.in/#
-address=/dmgmediaprivacy.co.uk/#
 address=/imp.dmm.co.jp/#
 address=/widget-view.dmm.co.jp/#
 address=/saa.dyson.co.uk/#
