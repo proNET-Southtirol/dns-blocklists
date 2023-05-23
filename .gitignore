@@ -15,3 +15,8 @@ rules.*
 md5.*
 black.*
 *.bak
+.tmpfile1
+.tmpfile2
+.tmpfile3
+.tmpfile4
+.tmpfile5
